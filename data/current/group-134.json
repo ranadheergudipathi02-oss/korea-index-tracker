@@ -1,0 +1,52 @@
+{
+ "category": "group",
+ "index": "group-134",
+ "members": [
+  {
+   "isin": null,
+   "name": "한솔홀딩스",
+   "symbol": "004150"
+  },
+  {
+   "isin": null,
+   "name": "한솔테크닉스",
+   "symbol": "004710"
+  },
+  {
+   "isin": null,
+   "name": "한솔로지스틱스",
+   "symbol": "009180"
+  },
+  {
+   "isin": null,
+   "name": "한솔케미칼",
+   "symbol": "014680"
+  },
+  {
+   "isin": null,
+   "name": "한솔홈데코",
+   "symbol": "025750"
+  },
+  {
+   "isin": null,
+   "name": "테이팩스",
+   "symbol": "055490"
+  },
+  {
+   "isin": null,
+   "name": "인티큐브",
+   "symbol": "070590"
+  },
+  {
+   "isin": null,
+   "name": "한솔아이원스",
+   "symbol": "114810"
+  },
+  {
+   "isin": null,
+   "name": "한솔제지",
+   "symbol": "213500"
+  }
+ ],
+ "name": "한솔"
+}

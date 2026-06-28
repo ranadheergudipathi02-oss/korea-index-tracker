@@ -1,0 +1,67 @@
+{
+ "category": "group",
+ "index": "group-100",
+ "members": [
+  {
+   "isin": null,
+   "name": "한화손해보험",
+   "symbol": "000370"
+  },
+  {
+   "isin": null,
+   "name": "한화",
+   "symbol": "000880"
+  },
+  {
+   "isin": null,
+   "name": "한화투자증권",
+   "symbol": "003530"
+  },
+  {
+   "isin": null,
+   "name": "한화솔루션",
+   "symbol": "009830"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "한화오션",
+   "symbol": "042660"
+  },
+  {
+   "isin": null,
+   "name": "한화엔진",
+   "symbol": "082740"
+  },
+  {
+   "isin": null,
+   "name": "한화생명",
+   "symbol": "088350"
+  },
+  {
+   "isin": null,
+   "name": "한화시스템",
+   "symbol": "272210"
+  },
+  {
+   "isin": null,
+   "name": "한화리츠",
+   "symbol": "451800"
+  },
+  {
+   "isin": null,
+   "name": "한화갤러리아",
+   "symbol": "452260"
+  },
+  {
+   "isin": null,
+   "name": "한화비전",
+   "symbol": "489790"
+  }
+ ],
+ "name": "한화"
+}

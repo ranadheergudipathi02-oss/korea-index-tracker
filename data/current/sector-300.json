@@ -1,0 +1,87 @@
+{
+ "category": "sector",
+ "index": "sector-300",
+ "members": [
+  {
+   "isin": null,
+   "name": "키다리스튜디오",
+   "symbol": "020120"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "SOOP",
+   "symbol": "067160"
+  },
+  {
+   "isin": null,
+   "name": "THE E&M",
+   "symbol": "089230"
+  },
+  {
+   "isin": null,
+   "name": "탑코미디어",
+   "symbol": "134580"
+  },
+  {
+   "isin": null,
+   "name": "판도라티비",
+   "symbol": "202960"
+  },
+  {
+   "isin": null,
+   "name": "미스터블루",
+   "symbol": "207760"
+  },
+  {
+   "isin": null,
+   "name": "FSN",
+   "symbol": "214270"
+  },
+  {
+   "isin": null,
+   "name": "자이언트스텝",
+   "symbol": "289220"
+  },
+  {
+   "isin": null,
+   "name": "플리토",
+   "symbol": "300080"
+  },
+  {
+   "isin": null,
+   "name": "에피소드컴퍼니",
+   "symbol": "317530"
+  },
+  {
+   "isin": null,
+   "name": "디어유",
+   "symbol": "376300"
+  },
+  {
+   "isin": null,
+   "name": "메쎄이상",
+   "symbol": "408920"
+  },
+  {
+   "isin": null,
+   "name": "핑거스토리",
+   "symbol": "417180"
+  },
+  {
+   "isin": null,
+   "name": "레뷰코퍼레이션",
+   "symbol": "443250"
+  }
+ ],
+ "name": "양방향미디어와서비스"
+}

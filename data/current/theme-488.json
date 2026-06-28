@@ -1,0 +1,82 @@
+{
+ "category": "theme",
+ "index": "theme-488",
+ "members": [
+  {
+   "isin": null,
+   "name": "키다리스튜디오",
+   "symbol": "020120"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "대원미디어",
+   "symbol": "048910"
+  },
+  {
+   "isin": null,
+   "name": "조이시티",
+   "symbol": "067000"
+  },
+  {
+   "isin": null,
+   "name": "수성웹툰",
+   "symbol": "084180"
+  },
+  {
+   "isin": null,
+   "name": "탑코미디어",
+   "symbol": "134580"
+  },
+  {
+   "isin": null,
+   "name": "NHN",
+   "symbol": "181710"
+  },
+  {
+   "isin": null,
+   "name": "미투온",
+   "symbol": "201490"
+  },
+  {
+   "isin": null,
+   "name": "미스터블루",
+   "symbol": "207760"
+  },
+  {
+   "isin": null,
+   "name": "엔비티",
+   "symbol": "236810"
+  },
+  {
+   "isin": null,
+   "name": "이스트에이드",
+   "symbol": "239340"
+  },
+  {
+   "isin": null,
+   "name": "디앤씨미디어",
+   "symbol": "263720"
+  },
+  {
+   "isin": null,
+   "name": "핑거스토리",
+   "symbol": "417180"
+  },
+  {
+   "isin": null,
+   "name": "와이랩",
+   "symbol": "432430"
+  }
+ ],
+ "name": "웹툰"
+}

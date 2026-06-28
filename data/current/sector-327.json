@@ -1,0 +1,37 @@
+{
+ "category": "sector",
+ "index": "sector-327",
+ "members": [
+  {
+   "isin": null,
+   "name": "일진디스플",
+   "symbol": "020760"
+  },
+  {
+   "isin": null,
+   "name": "LG디스플레이",
+   "symbol": "034220"
+  },
+  {
+   "isin": null,
+   "name": "코텍",
+   "symbol": "052330"
+  },
+  {
+   "isin": null,
+   "name": "비덴트",
+   "symbol": "121800"
+  },
+  {
+   "isin": null,
+   "name": "육일씨엔에쓰",
+   "symbol": "191410"
+  },
+  {
+   "isin": null,
+   "name": "오픈놀",
+   "symbol": "440320"
+  }
+ ],
+ "name": "디스플레이패널"
+}

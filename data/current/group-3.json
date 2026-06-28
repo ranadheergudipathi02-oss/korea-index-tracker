@@ -1,0 +1,67 @@
+{
+ "category": "group",
+ "index": "group-3",
+ "members": [
+  {
+   "isin": null,
+   "name": "LG",
+   "symbol": "003550"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "LG유플러스",
+   "symbol": "032640"
+  },
+  {
+   "isin": null,
+   "name": "LG디스플레이",
+   "symbol": "034220"
+  },
+  {
+   "isin": null,
+   "name": "HS애드",
+   "symbol": "035000"
+  },
+  {
+   "isin": null,
+   "name": "LG헬로비전",
+   "symbol": "037560"
+  },
+  {
+   "isin": null,
+   "name": "LG생활건강",
+   "symbol": "051900"
+  },
+  {
+   "isin": null,
+   "name": "LG화학",
+   "symbol": "051910"
+  },
+  {
+   "isin": null,
+   "name": "LG씨엔에스",
+   "symbol": "064400"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "로보스타",
+   "symbol": "090360"
+  },
+  {
+   "isin": null,
+   "name": "LG에너지솔루션",
+   "symbol": "373220"
+  }
+ ],
+ "name": "LG"
+}

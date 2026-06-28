@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-86",
+ "members": [
+  {
+   "isin": null,
+   "name": "하이트진로",
+   "symbol": "000080"
+  },
+  {
+   "isin": null,
+   "name": "하이트진로홀딩스",
+   "symbol": "000140"
+  },
+  {
+   "isin": null,
+   "name": "보해양조",
+   "symbol": "000890"
+  },
+  {
+   "isin": null,
+   "name": "창해에탄올",
+   "symbol": "004650"
+  },
+  {
+   "isin": null,
+   "name": "롯데칠성",
+   "symbol": "005300"
+  },
+  {
+   "isin": null,
+   "name": "한국알콜",
+   "symbol": "017890"
+  },
+  {
+   "isin": null,
+   "name": "진로발효",
+   "symbol": "018120"
+  },
+  {
+   "isin": null,
+   "name": "MH에탄올",
+   "symbol": "023150"
+  },
+  {
+   "isin": null,
+   "name": "풍국주정",
+   "symbol": "023900"
+  },
+  {
+   "isin": null,
+   "name": "무학",
+   "symbol": "033920"
+  },
+  {
+   "isin": null,
+   "name": "국순당",
+   "symbol": "043650"
+  },
+  {
+   "isin": null,
+   "name": "한울앤제주",
+   "symbol": "276730"
+  },
+  {
+   "isin": null,
+   "name": "나라셀라",
+   "symbol": "405920"
+  }
+ ],
+ "name": "주류업(주정, 에탄올 등)"
+}

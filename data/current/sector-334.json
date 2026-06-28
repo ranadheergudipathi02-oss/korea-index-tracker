@@ -1,0 +1,42 @@
+{
+ "category": "sector",
+ "index": "sector-334",
+ "members": [
+  {
+   "isin": null,
+   "name": "LX인터내셔널",
+   "symbol": "001120"
+  },
+  {
+   "isin": null,
+   "name": "GS글로벌",
+   "symbol": "001250"
+  },
+  {
+   "isin": null,
+   "name": "현대코퍼레이션",
+   "symbol": "011760"
+  },
+  {
+   "isin": null,
+   "name": "STX",
+   "symbol": "011810"
+  },
+  {
+   "isin": null,
+   "name": "포스코인터내셔널",
+   "symbol": "047050"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  },
+  {
+   "isin": null,
+   "name": "LX홀딩스",
+   "symbol": "383800"
+  }
+ ],
+ "name": "무역회사와판매업체"
+}

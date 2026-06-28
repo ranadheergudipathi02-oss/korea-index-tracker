@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-566",
+ "members": [
+  {
+   "isin": null,
+   "name": "라온시큐어",
+   "symbol": "042510"
+  },
+  {
+   "isin": null,
+   "name": "한빛소프트",
+   "symbol": "047080"
+  },
+  {
+   "isin": null,
+   "name": "이스트소프트",
+   "symbol": "047560"
+  },
+  {
+   "isin": null,
+   "name": "플랜티넷",
+   "symbol": "075130"
+  },
+  {
+   "isin": null,
+   "name": "파수AI",
+   "symbol": "150900"
+  },
+  {
+   "isin": null,
+   "name": "디지캡",
+   "symbol": "197140"
+  },
+  {
+   "isin": null,
+   "name": "스톤브릿지벤처스",
+   "symbol": "330730"
+  },
+  {
+   "isin": null,
+   "name": "시선AI",
+   "symbol": "340810"
+  },
+  {
+   "isin": null,
+   "name": "알체라",
+   "symbol": "347860"
+  },
+  {
+   "isin": null,
+   "name": "크라우드웍스",
+   "symbol": "355390"
+  },
+  {
+   "isin": null,
+   "name": "샌즈랩",
+   "symbol": "411080"
+  },
+  {
+   "isin": null,
+   "name": "에스피소프트",
+   "symbol": "443670"
+  },
+  {
+   "isin": null,
+   "name": "아이씨티케이",
+   "symbol": "456010"
+  },
+  {
+   "isin": null,
+   "name": "M83",
+   "symbol": "476080"
+  }
+ ],
+ "name": "딥페이크(deepfake)"
+}

@@ -1,0 +1,157 @@
+{
+ "category": "theme",
+ "index": "theme-42",
+ "members": [
+  {
+   "isin": null,
+   "name": "플레이위드",
+   "symbol": "023770"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "NC",
+   "symbol": "036570"
+  },
+  {
+   "isin": null,
+   "name": "네오위즈홀딩스",
+   "symbol": "042420"
+  },
+  {
+   "isin": null,
+   "name": "한빛소프트",
+   "symbol": "047080"
+  },
+  {
+   "isin": null,
+   "name": "이스트소프트",
+   "symbol": "047560"
+  },
+  {
+   "isin": null,
+   "name": "대원미디어",
+   "symbol": "048910"
+  },
+  {
+   "isin": null,
+   "name": "액토즈소프트",
+   "symbol": "052790"
+  },
+  {
+   "isin": null,
+   "name": "엠게임",
+   "symbol": "058630"
+  },
+  {
+   "isin": null,
+   "name": "손오공",
+   "symbol": "066910"
+  },
+  {
+   "isin": null,
+   "name": "조이시티",
+   "symbol": "067000"
+  },
+  {
+   "isin": null,
+   "name": "웹젠",
+   "symbol": "069080"
+  },
+  {
+   "isin": null,
+   "name": "컴투스",
+   "symbol": "078340"
+  },
+  {
+   "isin": null,
+   "name": "네오리진",
+   "symbol": "094860"
+  },
+  {
+   "isin": null,
+   "name": "네오위즈",
+   "symbol": "095660"
+  },
+  {
+   "isin": null,
+   "name": "위메이드맥스",
+   "symbol": "101730"
+  },
+  {
+   "isin": null,
+   "name": "위메이드",
+   "symbol": "112040"
+  },
+  {
+   "isin": null,
+   "name": "NHN",
+   "symbol": "181710"
+  },
+  {
+   "isin": null,
+   "name": "더블유게임즈",
+   "symbol": "192080"
+  },
+  {
+   "isin": null,
+   "name": "미투온",
+   "symbol": "201490"
+  },
+  {
+   "isin": null,
+   "name": "티쓰리",
+   "symbol": "204610"
+  },
+  {
+   "isin": null,
+   "name": "넥써쓰",
+   "symbol": "205500"
+  },
+  {
+   "isin": null,
+   "name": "넵튠",
+   "symbol": "217270"
+  },
+  {
+   "isin": null,
+   "name": "넥슨게임즈",
+   "symbol": "225570"
+  },
+  {
+   "isin": null,
+   "name": "넷마블",
+   "symbol": "251270"
+  },
+  {
+   "isin": null,
+   "name": "크래프톤",
+   "symbol": "259960"
+  },
+  {
+   "isin": null,
+   "name": "펄어비스",
+   "symbol": "263750"
+  },
+  {
+   "isin": null,
+   "name": "카카오게임즈",
+   "symbol": "293490"
+  },
+  {
+   "isin": null,
+   "name": "밸로프",
+   "symbol": "331520"
+  },
+  {
+   "isin": null,
+   "name": "시프트업",
+   "symbol": "462870"
+  }
+ ],
+ "name": "게임"
+}

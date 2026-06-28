@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-534",
+ "members": [
+  {
+   "isin": null,
+   "name": "한솔테크닉스",
+   "symbol": "004710"
+  },
+  {
+   "isin": null,
+   "name": "한일화학",
+   "symbol": "007770"
+  },
+  {
+   "isin": null,
+   "name": "삼화전기",
+   "symbol": "009470"
+  },
+  {
+   "isin": null,
+   "name": "삼화전자",
+   "symbol": "011230"
+  },
+  {
+   "isin": null,
+   "name": "태경산업",
+   "symbol": "015890"
+  },
+  {
+   "isin": null,
+   "name": "EG",
+   "symbol": "037370"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "케스피온",
+   "symbol": "079190"
+  },
+  {
+   "isin": null,
+   "name": "미래나노텍",
+   "symbol": "095500"
+  },
+  {
+   "isin": null,
+   "name": "씨큐브",
+   "symbol": "101240"
+  },
+  {
+   "isin": null,
+   "name": "아모그린텍",
+   "symbol": "125210"
+  },
+  {
+   "isin": null,
+   "name": "알엔투테크놀로지",
+   "symbol": "148250"
+  },
+  {
+   "isin": null,
+   "name": "상신전자",
+   "symbol": "263810"
+  },
+  {
+   "isin": null,
+   "name": "아모센스",
+   "symbol": "357580"
+  }
+ ],
+ "name": "페라이트"
+}

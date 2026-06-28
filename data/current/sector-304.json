@@ -1,0 +1,282 @@
+{
+ "category": "sector",
+ "index": "sector-304",
+ "members": [
+  {
+   "isin": null,
+   "name": "CS홀딩스",
+   "symbol": "000590"
+  },
+  {
+   "isin": null,
+   "name": "한국주철관",
+   "symbol": "000970"
+  },
+  {
+   "isin": null,
+   "name": "만호제강",
+   "symbol": "001080"
+  },
+  {
+   "isin": null,
+   "name": "동국홀딩스",
+   "symbol": "001230"
+  },
+  {
+   "isin": null,
+   "name": "세아베스틸지주",
+   "symbol": "001430"
+  },
+  {
+   "isin": null,
+   "name": "SHD",
+   "symbol": "001770"
+  },
+  {
+   "isin": null,
+   "name": "KISCO홀딩스",
+   "symbol": "001940"
+  },
+  {
+   "isin": null,
+   "name": "한일철강",
+   "symbol": "002220"
+  },
+  {
+   "isin": null,
+   "name": "고려제강",
+   "symbol": "002240"
+  },
+  {
+   "isin": null,
+   "name": "동일제강",
+   "symbol": "002690"
+  },
+  {
+   "isin": null,
+   "name": "TCC스틸",
+   "symbol": "002710"
+  },
+  {
+   "isin": null,
+   "name": "세아제강지주",
+   "symbol": "003030"
+  },
+  {
+   "isin": null,
+   "name": "현대제철",
+   "symbol": "004020"
+  },
+  {
+   "isin": null,
+   "name": "동일산업",
+   "symbol": "004890"
+  },
+  {
+   "isin": null,
+   "name": "휴스틸",
+   "symbol": "005010"
+  },
+  {
+   "isin": null,
+   "name": "동국산업",
+   "symbol": "005160"
+  },
+  {
+   "isin": null,
+   "name": "POSCO홀딩스",
+   "symbol": "005490"
+  },
+  {
+   "isin": null,
+   "name": "한국특강",
+   "symbol": "007280"
+  },
+  {
+   "isin": null,
+   "name": "문배철강",
+   "symbol": "008420"
+  },
+  {
+   "isin": null,
+   "name": "KBI동양철관",
+   "symbol": "008970"
+  },
+  {
+   "isin": null,
+   "name": "대양금속",
+   "symbol": "009190"
+  },
+  {
+   "isin": null,
+   "name": "포스코엠텍",
+   "symbol": "009520"
+  },
+  {
+   "isin": null,
+   "name": "영흥",
+   "symbol": "012160"
+  },
+  {
+   "isin": null,
+   "name": "원일특강",
+   "symbol": "012620"
+  },
+  {
+   "isin": null,
+   "name": "KG스틸",
+   "symbol": "016380"
+  },
+  {
+   "isin": null,
+   "name": "삼현철강",
+   "symbol": "017480"
+  },
+  {
+   "isin": null,
+   "name": "대호특수강",
+   "symbol": "021040"
+  },
+  {
+   "isin": null,
+   "name": "대호특수강우",
+   "symbol": "021045"
+  },
+  {
+   "isin": null,
+   "name": "제이스코홀딩스",
+   "symbol": "023440"
+  },
+  {
+   "isin": null,
+   "name": "동일스틸럭스",
+   "symbol": "023790"
+  },
+  {
+   "isin": null,
+   "name": "한국선재",
+   "symbol": "025550"
+  },
+  {
+   "isin": null,
+   "name": "한국주강",
+   "symbol": "025890"
+  },
+  {
+   "isin": null,
+   "name": "광진실업",
+   "symbol": "026910"
+  },
+  {
+   "isin": null,
+   "name": "부국철강",
+   "symbol": "026940"
+  },
+  {
+   "isin": null,
+   "name": "쎄니트",
+   "symbol": "037760"
+  },
+  {
+   "isin": null,
+   "name": "경남스틸",
+   "symbol": "039240"
+  },
+  {
+   "isin": null,
+   "name": "대동스틸",
+   "symbol": "048470"
+  },
+  {
+   "isin": null,
+   "name": "금강철강",
+   "symbol": "053260"
+  },
+  {
+   "isin": null,
+   "name": "세아홀딩스",
+   "symbol": "058650"
+  },
+  {
+   "isin": null,
+   "name": "동양에스텍",
+   "symbol": "060380"
+  },
+  {
+   "isin": null,
+   "name": "DSR제강",
+   "symbol": "069730"
+  },
+  {
+   "isin": null,
+   "name": "하이스틸",
+   "symbol": "071090"
+  },
+  {
+   "isin": null,
+   "name": "대한제강",
+   "symbol": "084010"
+  },
+  {
+   "isin": null,
+   "name": "넥스틸",
+   "symbol": "092790"
+  },
+  {
+   "isin": null,
+   "name": "한국철강",
+   "symbol": "104700"
+  },
+  {
+   "isin": null,
+   "name": "조선선재",
+   "symbol": "120030"
+  },
+  {
+   "isin": null,
+   "name": "화인베스틸",
+   "symbol": "133820"
+  },
+  {
+   "isin": null,
+   "name": "아주스틸",
+   "symbol": "139990"
+  },
+  {
+   "isin": null,
+   "name": "대창스틸",
+   "symbol": "140520"
+  },
+  {
+   "isin": null,
+   "name": "신스틸",
+   "symbol": "162300"
+  },
+  {
+   "isin": null,
+   "name": "코나솔",
+   "symbol": "176590"
+  },
+  {
+   "isin": null,
+   "name": "유에스티",
+   "symbol": "263770"
+  },
+  {
+   "isin": null,
+   "name": "세아제강",
+   "symbol": "306200"
+  },
+  {
+   "isin": null,
+   "name": "동국씨엠",
+   "symbol": "460850"
+  },
+  {
+   "isin": null,
+   "name": "동국제강",
+   "symbol": "460860"
+  }
+ ],
+ "name": "철강"
+}

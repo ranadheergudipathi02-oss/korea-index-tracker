@@ -1,0 +1,42 @@
+{
+ "category": "theme",
+ "index": "theme-159",
+ "members": [
+  {
+   "isin": null,
+   "name": "기아",
+   "symbol": "000270"
+  },
+  {
+   "isin": null,
+   "name": "KG모빌리티",
+   "symbol": "003620"
+  },
+  {
+   "isin": null,
+   "name": "현대차",
+   "symbol": "005380"
+  },
+  {
+   "isin": null,
+   "name": "현대위아",
+   "symbol": "011210"
+  },
+  {
+   "isin": null,
+   "name": "현대모비스",
+   "symbol": "012330"
+  },
+  {
+   "isin": null,
+   "name": "한온시스템",
+   "symbol": "018880"
+  },
+  {
+   "isin": null,
+   "name": "HL만도",
+   "symbol": "204320"
+  }
+ ],
+ "name": "자동차 대표주"
+}

@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-302",
+ "members": [
+  {
+   "isin": null,
+   "name": "현대모비스",
+   "symbol": "012330"
+  },
+  {
+   "isin": null,
+   "name": "코콤",
+   "symbol": "015710"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "파인디지털",
+   "symbol": "038950"
+  },
+  {
+   "isin": null,
+   "name": "현대에이치티",
+   "symbol": "039010"
+  },
+  {
+   "isin": null,
+   "name": "브리지텍",
+   "symbol": "064480"
+  },
+  {
+   "isin": null,
+   "name": "가온그룹",
+   "symbol": "078890"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "셀바스AI",
+   "symbol": "108860"
+  },
+  {
+   "isin": null,
+   "name": "미디어젠",
+   "symbol": "279600"
+  }
+ ],
+ "name": "음성인식"
+}

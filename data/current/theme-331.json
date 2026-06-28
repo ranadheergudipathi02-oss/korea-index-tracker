@@ -1,0 +1,132 @@
+{
+ "category": "theme",
+ "index": "theme-331",
+ "members": [
+  {
+   "isin": null,
+   "name": "한화투자증권",
+   "symbol": "003530"
+  },
+  {
+   "isin": null,
+   "name": "SBI인베스트먼트",
+   "symbol": "019550"
+  },
+  {
+   "isin": null,
+   "name": "에이티넘인베스트",
+   "symbol": "021080"
+  },
+  {
+   "isin": null,
+   "name": "제이씨현시스템",
+   "symbol": "033320"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "위지트",
+   "symbol": "036090"
+  },
+  {
+   "isin": null,
+   "name": "감성코퍼레이션",
+   "symbol": "036620"
+  },
+  {
+   "isin": null,
+   "name": "우리기술투자",
+   "symbol": "041190"
+  },
+  {
+   "isin": null,
+   "name": "네오위즈홀딩스",
+   "symbol": "042420"
+  },
+  {
+   "isin": null,
+   "name": "KG파이낸셜",
+   "symbol": "046440"
+  },
+  {
+   "isin": null,
+   "name": "비트플래닛",
+   "symbol": "049470"
+  },
+  {
+   "isin": null,
+   "name": "티사이언티픽",
+   "symbol": "057680"
+  },
+  {
+   "isin": null,
+   "name": "엠게임",
+   "symbol": "058630"
+  },
+  {
+   "isin": null,
+   "name": "컴투스홀딩스",
+   "symbol": "063080"
+  },
+  {
+   "isin": null,
+   "name": "다날",
+   "symbol": "064260"
+  },
+  {
+   "isin": null,
+   "name": "매커스",
+   "symbol": "093520"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "네오위즈",
+   "symbol": "095660"
+  },
+  {
+   "isin": null,
+   "name": "인바이오젠",
+   "symbol": "101140"
+  },
+  {
+   "isin": null,
+   "name": "위메이드",
+   "symbol": "112040"
+  },
+  {
+   "isin": null,
+   "name": "SGA솔루션즈",
+   "symbol": "184230"
+  },
+  {
+   "isin": null,
+   "name": "FSN",
+   "symbol": "214270"
+  },
+  {
+   "isin": null,
+   "name": "TS인베스트먼트",
+   "symbol": "246690"
+  },
+  {
+   "isin": null,
+   "name": "파라택시스이더리움",
+   "symbol": "290560"
+  },
+  {
+   "isin": null,
+   "name": "비트맥스",
+   "symbol": "377030"
+  }
+ ],
+ "name": "가상화폐(비트코인 등)"
+}

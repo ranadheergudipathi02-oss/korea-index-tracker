@@ -1,0 +1,102 @@
+{
+ "category": "sector",
+ "index": "sector-317",
+ "members": [
+  {
+   "isin": null,
+   "name": "서부T&D",
+   "symbol": "006730"
+  },
+  {
+   "isin": null,
+   "name": "베뉴지",
+   "symbol": "019010"
+  },
+  {
+   "isin": null,
+   "name": "시공테크",
+   "symbol": "020710"
+  },
+  {
+   "isin": null,
+   "name": "아난티",
+   "symbol": "025980"
+  },
+  {
+   "isin": null,
+   "name": "신세계푸드",
+   "symbol": "031440"
+  },
+  {
+   "isin": null,
+   "name": "롯데관광개발",
+   "symbol": "032350"
+  },
+  {
+   "isin": null,
+   "name": "파라다이스",
+   "symbol": "034230"
+  },
+  {
+   "isin": null,
+   "name": "강원랜드",
+   "symbol": "035250"
+  },
+  {
+   "isin": null,
+   "name": "하나투어",
+   "symbol": "039130"
+  },
+  {
+   "isin": null,
+   "name": "모나용평",
+   "symbol": "070960"
+  },
+  {
+   "isin": null,
+   "name": "모두투어",
+   "symbol": "080160"
+  },
+  {
+   "isin": null,
+   "name": "참좋은여행",
+   "symbol": "094850"
+  },
+  {
+   "isin": null,
+   "name": "노랑풍선",
+   "symbol": "104620"
+  },
+  {
+   "isin": null,
+   "name": "남화산업",
+   "symbol": "111710"
+  },
+  {
+   "isin": null,
+   "name": "GKL",
+   "symbol": "114090"
+  },
+  {
+   "isin": null,
+   "name": "골프존",
+   "symbol": "215000"
+  },
+  {
+   "isin": null,
+   "name": "티와이홀딩스",
+   "symbol": "363280"
+  },
+  {
+   "isin": null,
+   "name": "더본코리아",
+   "symbol": "475560"
+  },
+  {
+   "isin": null,
+   "name": "GS피앤엘",
+   "symbol": "499790"
+  }
+ ],
+ "name": "호텔,레스토랑,레저"
+}

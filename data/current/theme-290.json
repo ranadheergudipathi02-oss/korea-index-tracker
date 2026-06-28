@@ -1,0 +1,52 @@
+{
+ "category": "theme",
+ "index": "theme-290",
+ "members": [
+  {
+   "isin": null,
+   "name": "하이트진로",
+   "symbol": "000080"
+  },
+  {
+   "isin": null,
+   "name": "하이트진로홀딩스",
+   "symbol": "000140"
+  },
+  {
+   "isin": null,
+   "name": "팜스토리",
+   "symbol": "027710"
+  },
+  {
+   "isin": null,
+   "name": "마니커",
+   "symbol": "027740"
+  },
+  {
+   "isin": null,
+   "name": "SBS",
+   "symbol": "034120"
+  },
+  {
+   "isin": null,
+   "name": "이지홀딩스",
+   "symbol": "035810"
+  },
+  {
+   "isin": null,
+   "name": "SOOP",
+   "symbol": "067160"
+  },
+  {
+   "isin": null,
+   "name": "동우팜투테이블",
+   "symbol": "088910"
+  },
+  {
+   "isin": null,
+   "name": "하림",
+   "symbol": "136480"
+  }
+ ],
+ "name": "스포츠행사 수혜(올림픽, 월드컵 등)"
+}

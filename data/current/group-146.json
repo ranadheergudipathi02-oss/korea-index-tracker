@@ -1,0 +1,37 @@
+{
+ "category": "group",
+ "index": "group-146",
+ "members": [
+  {
+   "isin": null,
+   "name": "사조대림",
+   "symbol": "003960"
+  },
+  {
+   "isin": null,
+   "name": "사조오양",
+   "symbol": "006090"
+  },
+  {
+   "isin": null,
+   "name": "사조산업",
+   "symbol": "007160"
+  },
+  {
+   "isin": null,
+   "name": "푸른저축은행",
+   "symbol": "007330"
+  },
+  {
+   "isin": null,
+   "name": "사조동아원",
+   "symbol": "008040"
+  },
+  {
+   "isin": null,
+   "name": "사조씨푸드",
+   "symbol": "014710"
+  }
+ ],
+ "name": "사조"
+}

@@ -1,0 +1,262 @@
+{
+ "category": "sector",
+ "index": "sector-289",
+ "members": [
+  {
+   "isin": null,
+   "name": "노루홀딩스",
+   "symbol": "000320"
+  },
+  {
+   "isin": null,
+   "name": "노루홀딩스우",
+   "symbol": "000325"
+  },
+  {
+   "isin": null,
+   "name": "SP삼화",
+   "symbol": "000390"
+  },
+  {
+   "isin": null,
+   "name": "강남제비스코",
+   "symbol": "000860"
+  },
+  {
+   "isin": null,
+   "name": "유니온",
+   "symbol": "000910"
+  },
+  {
+   "isin": null,
+   "name": "동양",
+   "symbol": "001520"
+  },
+  {
+   "isin": null,
+   "name": "동양우",
+   "symbol": "001525"
+  },
+  {
+   "isin": null,
+   "name": "동양2우B",
+   "symbol": "001527"
+  },
+  {
+   "isin": null,
+   "name": "아세아",
+   "symbol": "002030"
+  },
+  {
+   "isin": null,
+   "name": "KCC",
+   "symbol": "002380"
+  },
+  {
+   "isin": null,
+   "name": "한일홀딩스",
+   "symbol": "003300"
+  },
+  {
+   "isin": null,
+   "name": "삼일씨엔에스",
+   "symbol": "004440"
+  },
+  {
+   "isin": null,
+   "name": "티웨이홀딩스",
+   "symbol": "004870"
+  },
+  {
+   "isin": null,
+   "name": "조광페인트",
+   "symbol": "004910"
+  },
+  {
+   "isin": null,
+   "name": "성신양회",
+   "symbol": "004980"
+  },
+  {
+   "isin": null,
+   "name": "성신양회우",
+   "symbol": "004985"
+  },
+  {
+   "isin": null,
+   "name": "모헨즈",
+   "symbol": "006920"
+  },
+  {
+   "isin": null,
+   "name": "일신석재",
+   "symbol": "007110"
+  },
+  {
+   "isin": null,
+   "name": "벽산",
+   "symbol": "007210"
+  },
+  {
+   "isin": null,
+   "name": "이건산업",
+   "symbol": "008250"
+  },
+  {
+   "isin": null,
+   "name": "NI스틸",
+   "symbol": "008260"
+  },
+  {
+   "isin": null,
+   "name": "부산산업",
+   "symbol": "011390"
+  },
+  {
+   "isin": null,
+   "name": "유진기업",
+   "symbol": "023410"
+  },
+  {
+   "isin": null,
+   "name": "한솔홈데코",
+   "symbol": "025750"
+  },
+  {
+   "isin": null,
+   "name": "동화기업",
+   "symbol": "025900"
+  },
+  {
+   "isin": null,
+   "name": "삼표시멘트",
+   "symbol": "038500"
+  },
+  {
+   "isin": null,
+   "name": "이건홀딩스",
+   "symbol": "039020"
+  },
+  {
+   "isin": null,
+   "name": "다스코",
+   "symbol": "058730"
+  },
+  {
+   "isin": null,
+   "name": "HC홈센타",
+   "symbol": "060560"
+  },
+  {
+   "isin": null,
+   "name": "서산",
+   "symbol": "079650"
+  },
+  {
+   "isin": null,
+   "name": "노루페인트",
+   "symbol": "090350"
+  },
+  {
+   "isin": null,
+   "name": "노루페인트우",
+   "symbol": "090355"
+  },
+  {
+   "isin": null,
+   "name": "덕신이피씨",
+   "symbol": "090410"
+  },
+  {
+   "isin": null,
+   "name": "LX하우시스",
+   "symbol": "108670"
+  },
+  {
+   "isin": null,
+   "name": "LX하우시스우",
+   "symbol": "108675"
+  },
+  {
+   "isin": null,
+   "name": "에스와이",
+   "symbol": "109610"
+  },
+  {
+   "isin": null,
+   "name": "KC산업",
+   "symbol": "112190"
+  },
+  {
+   "isin": null,
+   "name": "라이온켐텍",
+   "symbol": "171120"
+  },
+  {
+   "isin": null,
+   "name": "아세아시멘트",
+   "symbol": "183190"
+  },
+  {
+   "isin": null,
+   "name": "그린플러스",
+   "symbol": "186230"
+  },
+  {
+   "isin": null,
+   "name": "윈하이텍",
+   "symbol": "192390"
+  },
+  {
+   "isin": null,
+   "name": "강동씨앤엘",
+   "symbol": "198440"
+  },
+  {
+   "isin": null,
+   "name": "HC보광산업",
+   "symbol": "225530"
+  },
+  {
+   "isin": null,
+   "name": "동양파일",
+   "symbol": "228340"
+  },
+  {
+   "isin": null,
+   "name": "에이원큐브텍",
+   "symbol": "234070"
+  },
+  {
+   "isin": null,
+   "name": "제이엠멀티",
+   "symbol": "254160"
+  },
+  {
+   "isin": null,
+   "name": "SG",
+   "symbol": "255220"
+  },
+  {
+   "isin": null,
+   "name": "한일시멘트",
+   "symbol": "300720"
+  },
+  {
+   "isin": null,
+   "name": "KCC글라스",
+   "symbol": "344820"
+  },
+  {
+   "isin": null,
+   "name": "에스와이스틸텍",
+   "symbol": "365330"
+  },
+  {
+   "isin": null,
+   "name": "유니드비티플러스",
+   "symbol": "446070"
+  }
+ ],
+ "name": "건축자재"
+}

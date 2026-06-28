@@ -1,0 +1,67 @@
+{
+ "category": "theme",
+ "index": "theme-546",
+ "members": [
+  {
+   "isin": null,
+   "name": "국제약품",
+   "symbol": "002720"
+  },
+  {
+   "isin": null,
+   "name": "팜젠사이언스",
+   "symbol": "004720"
+  },
+  {
+   "isin": null,
+   "name": "광동제약",
+   "symbol": "009290"
+  },
+  {
+   "isin": null,
+   "name": "경동제약",
+   "symbol": "011040"
+  },
+  {
+   "isin": null,
+   "name": "인트론바이오",
+   "symbol": "048530"
+  },
+  {
+   "isin": null,
+   "name": "멕아이씨에스",
+   "symbol": "058110"
+  },
+  {
+   "isin": null,
+   "name": "DXVX",
+   "symbol": "180400"
+  },
+  {
+   "isin": null,
+   "name": "젠큐릭스",
+   "symbol": "229000"
+  },
+  {
+   "isin": null,
+   "name": "수젠텍",
+   "symbol": "253840"
+  },
+  {
+   "isin": null,
+   "name": "국전",
+   "symbol": "307750"
+  },
+  {
+   "isin": null,
+   "name": "위더스제약",
+   "symbol": "330350"
+  },
+  {
+   "isin": null,
+   "name": "엑세스바이오",
+   "symbol": "950130"
+  }
+ ],
+ "name": "마이코플라스마 폐렴"
+}

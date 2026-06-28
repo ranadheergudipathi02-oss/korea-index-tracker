@@ -1,0 +1,317 @@
+{
+ "category": "theme",
+ "index": "theme-279",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "삼성SDI",
+   "symbol": "006400"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "시노펙스",
+   "symbol": "025320"
+  },
+  {
+   "isin": null,
+   "name": "피델릭스",
+   "symbol": "032580"
+  },
+  {
+   "isin": null,
+   "name": "자화전자",
+   "symbol": "033240"
+  },
+  {
+   "isin": null,
+   "name": "LG디스플레이",
+   "symbol": "034220"
+  },
+  {
+   "isin": null,
+   "name": "아비코전자",
+   "symbol": "036010"
+  },
+  {
+   "isin": null,
+   "name": "웰킵스하이텍",
+   "symbol": "043590"
+  },
+  {
+   "isin": null,
+   "name": "파워로직스",
+   "symbol": "047310"
+  },
+  {
+   "isin": null,
+   "name": "인탑스",
+   "symbol": "049070"
+  },
+  {
+   "isin": null,
+   "name": "기가레인",
+   "symbol": "049080"
+  },
+  {
+   "isin": null,
+   "name": "유아이엘",
+   "symbol": "049520"
+  },
+  {
+   "isin": null,
+   "name": "캠시스",
+   "symbol": "050110"
+  },
+  {
+   "isin": null,
+   "name": "토비스",
+   "symbol": "051360"
+  },
+  {
+   "isin": null,
+   "name": "인터플렉스",
+   "symbol": "051370"
+  },
+  {
+   "isin": null,
+   "name": "아모텍",
+   "symbol": "052710"
+  },
+  {
+   "isin": null,
+   "name": "아이앤씨",
+   "symbol": "052860"
+  },
+  {
+   "isin": null,
+   "name": "한국컴퓨터",
+   "symbol": "054040"
+  },
+  {
+   "isin": null,
+   "name": "테이팩스",
+   "symbol": "055490"
+  },
+  {
+   "isin": null,
+   "name": "신화인터텍",
+   "symbol": "056700"
+  },
+  {
+   "isin": null,
+   "name": "아진엑스텍",
+   "symbol": "059120"
+  },
+  {
+   "isin": null,
+   "name": "KH바텍",
+   "symbol": "060720"
+  },
+  {
+   "isin": null,
+   "name": "알에프텍",
+   "symbol": "061040"
+  },
+  {
+   "isin": null,
+   "name": "테크엘",
+   "symbol": "064520"
+  },
+  {
+   "isin": null,
+   "name": "디티씨",
+   "symbol": "066670"
+  },
+  {
+   "isin": null,
+   "name": "유아이디",
+   "symbol": "069330"
+  },
+  {
+   "isin": null,
+   "name": "엘엠에스",
+   "symbol": "073110"
+  },
+  {
+   "isin": null,
+   "name": "해성옵틱스",
+   "symbol": "076610"
+  },
+  {
+   "isin": null,
+   "name": "케스피온",
+   "symbol": "079190"
+  },
+  {
+   "isin": null,
+   "name": "모다이노칩",
+   "symbol": "080420"
+  },
+  {
+   "isin": null,
+   "name": "성우전자",
+   "symbol": "081580"
+  },
+  {
+   "isin": null,
+   "name": "켐트로닉스",
+   "symbol": "089010"
+  },
+  {
+   "isin": null,
+   "name": "이엠텍",
+   "symbol": "091120"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "동운아나텍",
+   "symbol": "094170"
+  },
+  {
+   "isin": null,
+   "name": "엘디티",
+   "symbol": "096870"
+  },
+  {
+   "isin": null,
+   "name": "모베이스",
+   "symbol": "101330"
+  },
+  {
+   "isin": null,
+   "name": "이미지스",
+   "symbol": "115610"
+  },
+  {
+   "isin": null,
+   "name": "아모그린텍",
+   "symbol": "125210"
+  },
+  {
+   "isin": null,
+   "name": "하이비젼시스템",
+   "symbol": "126700"
+  },
+  {
+   "isin": null,
+   "name": "세경하이테크",
+   "symbol": "148150"
+  },
+  {
+   "isin": null,
+   "name": "다산솔루에타",
+   "symbol": "154040"
+  },
+  {
+   "isin": null,
+   "name": "서진시스템",
+   "symbol": "178320"
+  },
+  {
+   "isin": null,
+   "name": "유티아이",
+   "symbol": "179900"
+  },
+  {
+   "isin": null,
+   "name": "나무가",
+   "symbol": "190510"
+  },
+  {
+   "isin": null,
+   "name": "육일씨엔에쓰",
+   "symbol": "191410"
+  },
+  {
+   "isin": null,
+   "name": "슈피겐코리아",
+   "symbol": "192440"
+  },
+  {
+   "isin": null,
+   "name": "드림텍",
+   "symbol": "192650"
+  },
+  {
+   "isin": null,
+   "name": "링크드",
+   "symbol": "193250"
+  },
+  {
+   "isin": null,
+   "name": "캐프",
+   "symbol": "198080"
+  },
+  {
+   "isin": null,
+   "name": "제이앤티씨",
+   "symbol": "204270"
+  },
+  {
+   "isin": null,
+   "name": "덕산네오룩스",
+   "symbol": "213420"
+  },
+  {
+   "isin": null,
+   "name": "노바텍",
+   "symbol": "285490"
+  },
+  {
+   "isin": null,
+   "name": "디케이티",
+   "symbol": "290550"
+  },
+  {
+   "isin": null,
+   "name": "액트로",
+   "symbol": "290740"
+  },
+  {
+   "isin": null,
+   "name": "레몬",
+   "symbol": "294140"
+  },
+  {
+   "isin": null,
+   "name": "PS일렉트로닉스",
+   "symbol": "332570"
+  },
+  {
+   "isin": null,
+   "name": "대덕전자",
+   "symbol": "353200"
+  },
+  {
+   "isin": null,
+   "name": "엑스플러스",
+   "symbol": "373200"
+  },
+  {
+   "isin": null,
+   "name": "씨유테크",
+   "symbol": "376290"
+  },
+  {
+   "isin": null,
+   "name": "알트",
+   "symbol": "459550"
+  }
+ ],
+ "name": "스마트폰"
+}

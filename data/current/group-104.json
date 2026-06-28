@@ -1,0 +1,62 @@
+{
+ "category": "group",
+ "index": "group-104",
+ "members": [
+  {
+   "isin": null,
+   "name": "진흥기업",
+   "symbol": "002780"
+  },
+  {
+   "isin": null,
+   "name": "효성",
+   "symbol": "004800"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아에스엠",
+   "symbol": "011420"
+  },
+  {
+   "isin": null,
+   "name": "신화인터텍",
+   "symbol": "056700"
+  },
+  {
+   "isin": null,
+   "name": "효성ITX",
+   "symbol": "094280"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "효성화학",
+   "symbol": "298000"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  },
+  {
+   "isin": null,
+   "name": "효성중공업",
+   "symbol": "298040"
+  },
+  {
+   "isin": null,
+   "name": "HS효성첨단소재",
+   "symbol": "298050"
+  },
+  {
+   "isin": null,
+   "name": "HS효성",
+   "symbol": "487570"
+  }
+ ],
+ "name": "효성"
+}

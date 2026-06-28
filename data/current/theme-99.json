@@ -1,0 +1,337 @@
+{
+ "category": "theme",
+ "index": "theme-99",
+ "members": [
+  {
+   "isin": null,
+   "name": "퍼스텍",
+   "symbol": "010820"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "삼성에스디에스",
+   "symbol": "018260"
+  },
+  {
+   "isin": null,
+   "name": "네패스",
+   "symbol": "033640"
+  },
+  {
+   "isin": null,
+   "name": "한국전자인증",
+   "symbol": "041460"
+  },
+  {
+   "isin": null,
+   "name": "오픈베이스",
+   "symbol": "049480"
+  },
+  {
+   "isin": null,
+   "name": "미래컴퍼니",
+   "symbol": "049950"
+  },
+  {
+   "isin": null,
+   "name": "유진로봇",
+   "symbol": "056080"
+  },
+  {
+   "isin": null,
+   "name": "엠로",
+   "symbol": "058970"
+  },
+  {
+   "isin": null,
+   "name": "큐렉소",
+   "symbol": "060280"
+  },
+  {
+   "isin": null,
+   "name": "위세아이텍",
+   "symbol": "065370"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "가온그룹",
+   "symbol": "078890"
+  },
+  {
+   "isin": null,
+   "name": "로보스타",
+   "symbol": "090360"
+  },
+  {
+   "isin": null,
+   "name": "휴림로봇",
+   "symbol": "090710"
+  },
+  {
+   "isin": null,
+   "name": "와이즈넛",
+   "symbol": "096250"
+  },
+  {
+   "isin": null,
+   "name": "고영",
+   "symbol": "098460"
+  },
+  {
+   "isin": null,
+   "name": "브레인즈컴퍼니",
+   "symbol": "099390"
+  },
+  {
+   "isin": null,
+   "name": "스맥",
+   "symbol": "099440"
+  },
+  {
+   "isin": null,
+   "name": "로보티즈",
+   "symbol": "108490"
+  },
+  {
+   "isin": null,
+   "name": "셀바스AI",
+   "symbol": "108860"
+  },
+  {
+   "isin": null,
+   "name": "티로보틱스",
+   "symbol": "117730"
+  },
+  {
+   "isin": null,
+   "name": "한라캐스트",
+   "symbol": "125490"
+  },
+  {
+   "isin": null,
+   "name": "영우디에스피",
+   "symbol": "143540"
+  },
+  {
+   "isin": null,
+   "name": "비큐AI",
+   "symbol": "148780"
+  },
+  {
+   "isin": null,
+   "name": "휴먼테크놀로지",
+   "symbol": "175140"
+  },
+  {
+   "isin": null,
+   "name": "씨이랩",
+   "symbol": "189330"
+  },
+  {
+   "isin": null,
+   "name": "엑셈",
+   "symbol": "205100"
+  },
+  {
+   "isin": null,
+   "name": "로보로보",
+   "symbol": "215100"
+  },
+  {
+   "isin": null,
+   "name": "러셀",
+   "symbol": "217500"
+  },
+  {
+   "isin": null,
+   "name": "링크제니시스",
+   "symbol": "219420"
+  },
+  {
+   "isin": null,
+   "name": "이스트에이드",
+   "symbol": "239340"
+  },
+  {
+   "isin": null,
+   "name": "모비스",
+   "symbol": "250060"
+  },
+  {
+   "isin": null,
+   "name": "데이타솔루션",
+   "symbol": "263800"
+  },
+  {
+   "isin": null,
+   "name": "에브리봇",
+   "symbol": "270660"
+  },
+  {
+   "isin": null,
+   "name": "롯데이노베이트",
+   "symbol": "286940"
+  },
+  {
+   "isin": null,
+   "name": "모아데이타",
+   "symbol": "288980"
+  },
+  {
+   "isin": null,
+   "name": "트윔",
+   "symbol": "290090"
+  },
+  {
+   "isin": null,
+   "name": "다이나믹솔루션",
+   "symbol": "290660"
+  },
+  {
+   "isin": null,
+   "name": "핀텔",
+   "symbol": "291810"
+  },
+  {
+   "isin": null,
+   "name": "더블유에스아이",
+   "symbol": "299170"
+  },
+  {
+   "isin": null,
+   "name": "라온피플",
+   "symbol": "300120"
+  },
+  {
+   "isin": null,
+   "name": "바이브컴퍼니",
+   "symbol": "301300"
+  },
+  {
+   "isin": null,
+   "name": "이노뎁",
+   "symbol": "303530"
+  },
+  {
+   "isin": null,
+   "name": "솔트룩스",
+   "symbol": "304100"
+  },
+  {
+   "isin": null,
+   "name": "아티스트컴퍼니",
+   "symbol": "321820"
+  },
+  {
+   "isin": null,
+   "name": "시선AI",
+   "symbol": "340810"
+  },
+  {
+   "isin": null,
+   "name": "알체라",
+   "symbol": "347860"
+  },
+  {
+   "isin": null,
+   "name": "크라우드웍스",
+   "symbol": "355390"
+  },
+  {
+   "isin": null,
+   "name": "마음AI",
+   "symbol": "377480"
+  },
+  {
+   "isin": null,
+   "name": "유일로보틱스",
+   "symbol": "388720"
+  },
+  {
+   "isin": null,
+   "name": "유디엠텍",
+   "symbol": "389680"
+  },
+  {
+   "isin": null,
+   "name": "코난테크놀로지",
+   "symbol": "402030"
+  },
+  {
+   "isin": null,
+   "name": "비아이매트릭스",
+   "symbol": "413640"
+  },
+  {
+   "isin": null,
+   "name": "오브젠",
+   "symbol": "417860"
+  },
+  {
+   "isin": null,
+   "name": "산돌",
+   "symbol": "419120"
+  },
+  {
+   "isin": null,
+   "name": "심플랫폼",
+   "symbol": "444530"
+  },
+  {
+   "isin": null,
+   "name": "피아이이",
+   "symbol": "452450"
+  },
+  {
+   "isin": null,
+   "name": "엔젤로보틱스",
+   "symbol": "455900"
+  },
+  {
+   "isin": null,
+   "name": "피앤에스로보틱스",
+   "symbol": "460940"
+  },
+  {
+   "isin": null,
+   "name": "뉴엔AI",
+   "symbol": "463020"
+  },
+  {
+   "isin": null,
+   "name": "클로봇",
+   "symbol": "466100"
+  },
+  {
+   "isin": null,
+   "name": "씨메스로보틱스",
+   "symbol": "475400"
+  },
+  {
+   "isin": null,
+   "name": "마키나락스",
+   "symbol": "477850"
+  },
+  {
+   "isin": null,
+   "name": "노타",
+   "symbol": "486990"
+  },
+  {
+   "isin": null,
+   "name": "에스투더블유",
+   "symbol": "488280"
+  }
+ ],
+ "name": "지능형로봇/인공지능(AI)"
+}

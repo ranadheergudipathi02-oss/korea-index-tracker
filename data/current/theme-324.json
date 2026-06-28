@@ -1,0 +1,52 @@
+{
+ "category": "theme",
+ "index": "theme-324",
+ "members": [
+  {
+   "isin": null,
+   "name": "대성창투",
+   "symbol": "027830"
+  },
+  {
+   "isin": null,
+   "name": "메가엠디",
+   "symbol": "133750"
+  },
+  {
+   "isin": null,
+   "name": "사람인",
+   "symbol": "143240"
+  },
+  {
+   "isin": null,
+   "name": "DSC인베스트먼트",
+   "symbol": "241520"
+  },
+  {
+   "isin": null,
+   "name": "TS인베스트먼트",
+   "symbol": "246690"
+  },
+  {
+   "isin": null,
+   "name": "아이비김영",
+   "symbol": "339950"
+  },
+  {
+   "isin": null,
+   "name": "데이원컴퍼니",
+   "symbol": "373160"
+  },
+  {
+   "isin": null,
+   "name": "원티드랩",
+   "symbol": "376980"
+  },
+  {
+   "isin": null,
+   "name": "오픈놀",
+   "symbol": "440320"
+  }
+ ],
+ "name": "일자리(취업)"
+}

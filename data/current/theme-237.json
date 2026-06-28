@@ -1,0 +1,127 @@
+{
+ "category": "theme",
+ "index": "theme-237",
+ "members": [
+  {
+   "isin": null,
+   "name": "현대건설",
+   "symbol": "000720"
+  },
+  {
+   "isin": null,
+   "name": "남광토건",
+   "symbol": "001260"
+  },
+  {
+   "isin": null,
+   "name": "도화엔지니어링",
+   "symbol": "002150"
+  },
+  {
+   "isin": null,
+   "name": "금호건설",
+   "symbol": "002990"
+  },
+  {
+   "isin": null,
+   "name": "동부건설",
+   "symbol": "005960"
+  },
+  {
+   "isin": null,
+   "name": "GS건설",
+   "symbol": "006360"
+  },
+  {
+   "isin": null,
+   "name": "태영건설",
+   "symbol": "009410"
+  },
+  {
+   "isin": null,
+   "name": "서한",
+   "symbol": "011370"
+  },
+  {
+   "isin": null,
+   "name": "HL D&I",
+   "symbol": "014790"
+  },
+  {
+   "isin": null,
+   "name": "삼현철강",
+   "symbol": "017480"
+  },
+  {
+   "isin": null,
+   "name": "세명전기",
+   "symbol": "017510"
+  },
+  {
+   "isin": null,
+   "name": "유진기업",
+   "symbol": "023410"
+  },
+  {
+   "isin": null,
+   "name": "특수건설",
+   "symbol": "026150"
+  },
+  {
+   "isin": null,
+   "name": "동아지질",
+   "symbol": "028100"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스AI",
+   "symbol": "039980"
+  },
+  {
+   "isin": null,
+   "name": "대아티아이",
+   "symbol": "045390"
+  },
+  {
+   "isin": null,
+   "name": "우원개발",
+   "symbol": "046940"
+  },
+  {
+   "isin": null,
+   "name": "대우건설",
+   "symbol": "047040"
+  },
+  {
+   "isin": null,
+   "name": "비츠로시스",
+   "symbol": "054220"
+  },
+  {
+   "isin": null,
+   "name": "유신",
+   "symbol": "054930"
+  },
+  {
+   "isin": null,
+   "name": "현대로템",
+   "symbol": "064350"
+  },
+  {
+   "isin": null,
+   "name": "HJ중공업",
+   "symbol": "097230"
+  },
+  {
+   "isin": null,
+   "name": "IPARK현대산업개발",
+   "symbol": "294870"
+  },
+  {
+   "isin": null,
+   "name": "DL이앤씨",
+   "symbol": "375500"
+  }
+ ],
+ "name": "GTX(수도권 광역급행철도)"
+}

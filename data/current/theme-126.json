@@ -1,0 +1,22 @@
+{
+ "category": "theme",
+ "index": "theme-126",
+ "members": [
+  {
+   "isin": null,
+   "name": "SK텔레콤",
+   "symbol": "017670"
+  },
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "LG유플러스",
+   "symbol": "032640"
+  }
+ ],
+ "name": "통신"
+}

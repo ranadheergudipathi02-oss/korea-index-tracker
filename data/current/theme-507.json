@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-507",
+ "members": [
+  {
+   "isin": null,
+   "name": "NICE평가정보",
+   "symbol": "030190"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "세종텔레콤",
+   "symbol": "036630"
+  },
+  {
+   "isin": null,
+   "name": "유비벨록스",
+   "symbol": "089850"
+  },
+  {
+   "isin": null,
+   "name": "파수AI",
+   "symbol": "150900"
+  },
+  {
+   "isin": null,
+   "name": "아톤",
+   "symbol": "158430"
+  },
+  {
+   "isin": null,
+   "name": "핑거",
+   "symbol": "163730"
+  },
+  {
+   "isin": null,
+   "name": "파이오링크",
+   "symbol": "170790"
+  },
+  {
+   "isin": null,
+   "name": "헥토이노베이션",
+   "symbol": "214180"
+  },
+  {
+   "isin": null,
+   "name": "쿠콘",
+   "symbol": "294570"
+  },
+  {
+   "isin": null,
+   "name": "아이티아이즈",
+   "symbol": "372800"
+  }
+ ],
+ "name": "마이데이터"
+}

@@ -1,0 +1,107 @@
+{
+ "category": "theme",
+ "index": "theme-136",
+ "members": [
+  {
+   "isin": null,
+   "name": "신세계",
+   "symbol": "004170"
+  },
+  {
+   "isin": null,
+   "name": "대구백화점",
+   "symbol": "006370"
+  },
+  {
+   "isin": null,
+   "name": "GS리테일",
+   "symbol": "007070"
+  },
+  {
+   "isin": null,
+   "name": "호텔신라",
+   "symbol": "008770"
+  },
+  {
+   "isin": null,
+   "name": "롯데쇼핑",
+   "symbol": "023530"
+  },
+  {
+   "isin": null,
+   "name": "그래디언트",
+   "symbol": "035080"
+  },
+  {
+   "isin": null,
+   "name": "CJ ENM",
+   "symbol": "035760"
+  },
+  {
+   "isin": null,
+   "name": "광주신세계",
+   "symbol": "037710"
+  },
+  {
+   "isin": null,
+   "name": "지어소프트",
+   "symbol": "051160"
+  },
+  {
+   "isin": null,
+   "name": "현대홈쇼핑",
+   "symbol": "057050"
+  },
+  {
+   "isin": null,
+   "name": "세이브존I&C",
+   "symbol": "067830"
+  },
+  {
+   "isin": null,
+   "name": "엑시온그룹",
+   "symbol": "069920"
+  },
+  {
+   "isin": null,
+   "name": "현대백화점",
+   "symbol": "069960"
+  },
+  {
+   "isin": null,
+   "name": "롯데하이마트",
+   "symbol": "071840"
+  },
+  {
+   "isin": null,
+   "name": "이마트",
+   "symbol": "139480"
+  },
+  {
+   "isin": null,
+   "name": "BGF리테일",
+   "symbol": "282330"
+  },
+  {
+   "isin": null,
+   "name": "오아",
+   "symbol": "342870"
+  },
+  {
+   "isin": null,
+   "name": "청담글로벌",
+   "symbol": "362320"
+  },
+  {
+   "isin": null,
+   "name": "스튜디오삼익",
+   "symbol": "415380"
+  },
+  {
+   "isin": null,
+   "name": "한화갤러리아",
+   "symbol": "452260"
+  }
+ ],
+ "name": "소매유통"
+}

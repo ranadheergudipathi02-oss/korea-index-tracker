@@ -1,0 +1,92 @@
+{
+ "category": "theme",
+ "index": "theme-152",
+ "members": [
+  {
+   "isin": null,
+   "name": "동방",
+   "symbol": "004140"
+  },
+  {
+   "isin": null,
+   "name": "SGC에너지",
+   "symbol": "005090"
+  },
+  {
+   "isin": null,
+   "name": "이건산업",
+   "symbol": "008250"
+  },
+  {
+   "isin": null,
+   "name": "유니드",
+   "symbol": "014830"
+  },
+  {
+   "isin": null,
+   "name": "한솔홈데코",
+   "symbol": "025750"
+  },
+  {
+   "isin": null,
+   "name": "SJG세종",
+   "symbol": "033530"
+  },
+  {
+   "isin": null,
+   "name": "에이치엠넥스",
+   "symbol": "036170"
+  },
+  {
+   "isin": null,
+   "name": "에코심플렉스",
+   "symbol": "038870"
+  },
+  {
+   "isin": null,
+   "name": "미코",
+   "symbol": "059090"
+  },
+  {
+   "isin": null,
+   "name": "TKG휴켐스",
+   "symbol": "069260"
+  },
+  {
+   "isin": null,
+   "name": "그린케미칼",
+   "symbol": "083420"
+  },
+  {
+   "isin": null,
+   "name": "에코프로",
+   "symbol": "086520"
+  },
+  {
+   "isin": null,
+   "name": "후성",
+   "symbol": "093370"
+  },
+  {
+   "isin": null,
+   "name": "에어레인",
+   "symbol": "163280"
+  },
+  {
+   "isin": null,
+   "name": "켐트로스",
+   "symbol": "220260"
+  },
+  {
+   "isin": null,
+   "name": "에코프로에이치엔",
+   "symbol": "383310"
+  },
+  {
+   "isin": null,
+   "name": "에코아이",
+   "symbol": "448280"
+  }
+ ],
+ "name": "온실가스(탄소배출권)/탄소 포집·활용·저장(CCUS)"
+}

@@ -1,0 +1,102 @@
+{
+ "category": "theme",
+ "index": "theme-533",
+ "members": [
+  {
+   "isin": null,
+   "name": "SK하이닉스",
+   "symbol": "000660"
+  },
+  {
+   "isin": null,
+   "name": "DB하이텍",
+   "symbol": "000990"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "파워넷",
+   "symbol": "037030"
+  },
+  {
+   "isin": null,
+   "name": "아이에이",
+   "symbol": "038880"
+  },
+  {
+   "isin": null,
+   "name": "에스티아이",
+   "symbol": "039440"
+  },
+  {
+   "isin": null,
+   "name": "LB세미콘",
+   "symbol": "061970"
+  },
+  {
+   "isin": null,
+   "name": "KEC",
+   "symbol": "092220"
+  },
+  {
+   "isin": null,
+   "name": "테스",
+   "symbol": "095610"
+  },
+  {
+   "isin": null,
+   "name": "에이루트",
+   "symbol": "096690"
+  },
+  {
+   "isin": null,
+   "name": "어보브반도체",
+   "symbol": "102120"
+  },
+  {
+   "isin": null,
+   "name": "디아이티",
+   "symbol": "110990"
+  },
+  {
+   "isin": null,
+   "name": "에이엘티",
+   "symbol": "172670"
+  },
+  {
+   "isin": null,
+   "name": "나노씨엠에스",
+   "symbol": "247660"
+  },
+  {
+   "isin": null,
+   "name": "코스텍시스",
+   "symbol": "355150"
+  },
+  {
+   "isin": null,
+   "name": "큐알티",
+   "symbol": "405100"
+  },
+  {
+   "isin": null,
+   "name": "시지트로닉스",
+   "symbol": "429270"
+  },
+  {
+   "isin": null,
+   "name": "케이엔에스",
+   "symbol": "432470"
+  },
+  {
+   "isin": null,
+   "name": "아이언디바이스",
+   "symbol": "464500"
+  }
+ ],
+ "name": "전력반도체"
+}

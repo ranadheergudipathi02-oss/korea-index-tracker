@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-272",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국정보통신",
+   "symbol": "025770"
+  },
+  {
+   "isin": null,
+   "name": "KG이니시스",
+   "symbol": "035600"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "카페24",
+   "symbol": "042000"
+  },
+  {
+   "isin": null,
+   "name": "KG파이낸셜",
+   "symbol": "046440"
+  },
+  {
+   "isin": null,
+   "name": "NHN KCP",
+   "symbol": "060250"
+  },
+  {
+   "isin": null,
+   "name": "다날",
+   "symbol": "064260"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "인포바인",
+   "symbol": "115310"
+  },
+  {
+   "isin": null,
+   "name": "NHN",
+   "symbol": "181710"
+  },
+  {
+   "isin": null,
+   "name": "헥토파이낸셜",
+   "symbol": "234340"
+  },
+  {
+   "isin": null,
+   "name": "쿠콘",
+   "symbol": "294570"
+  },
+  {
+   "isin": null,
+   "name": "카카오페이",
+   "symbol": "377300"
+  }
+ ],
+ "name": "전자결제(전자화폐)"
+}

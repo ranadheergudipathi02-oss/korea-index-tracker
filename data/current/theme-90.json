@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-90",
+ "members": [
+  {
+   "isin": null,
+   "name": "한성기업",
+   "symbol": "003680"
+  },
+  {
+   "isin": null,
+   "name": "사조대림",
+   "symbol": "003960"
+  },
+  {
+   "isin": null,
+   "name": "신라교역",
+   "symbol": "004970"
+  },
+  {
+   "isin": null,
+   "name": "동원산업",
+   "symbol": "006040"
+  },
+  {
+   "isin": null,
+   "name": "사조오양",
+   "symbol": "006090"
+  },
+  {
+   "isin": null,
+   "name": "사조산업",
+   "symbol": "007160"
+  },
+  {
+   "isin": null,
+   "name": "CJ씨푸드",
+   "symbol": "011150"
+  },
+  {
+   "isin": null,
+   "name": "사조씨푸드",
+   "symbol": "014710"
+  },
+  {
+   "isin": null,
+   "name": "신라에스지",
+   "symbol": "025870"
+  },
+  {
+   "isin": null,
+   "name": "동원수산",
+   "symbol": "030720"
+  }
+ ],
+ "name": "수산"
+}

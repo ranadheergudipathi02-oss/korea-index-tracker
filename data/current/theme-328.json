@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-328",
+ "members": [
+  {
+   "isin": null,
+   "name": "신일전자",
+   "symbol": "002700"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "코웨이",
+   "symbol": "021240"
+  },
+  {
+   "isin": null,
+   "name": "파세코",
+   "symbol": "037070"
+  },
+  {
+   "isin": null,
+   "name": "위닉스",
+   "symbol": "044340"
+  },
+  {
+   "isin": null,
+   "name": "에스피지",
+   "symbol": "058610"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "쿠쿠홈시스",
+   "symbol": "284740"
+  }
+ ],
+ "name": "제습기"
+}

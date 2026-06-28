@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-79",
+ "members": [
+  {
+   "isin": null,
+   "name": "LX인터내셔널",
+   "symbol": "001120"
+  },
+  {
+   "isin": null,
+   "name": "GS글로벌",
+   "symbol": "001250"
+  },
+  {
+   "isin": null,
+   "name": "현대코퍼레이션",
+   "symbol": "011760"
+  },
+  {
+   "isin": null,
+   "name": "서울가스",
+   "symbol": "017390"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산",
+   "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "한국가스공사",
+   "symbol": "036460"
+  },
+  {
+   "isin": null,
+   "name": "엘컴텍",
+   "symbol": "037950"
+  },
+  {
+   "isin": null,
+   "name": "포스코인터내셔널",
+   "symbol": "047050"
+  },
+  {
+   "isin": null,
+   "name": "큐로홀딩스",
+   "symbol": "051780"
+  },
+  {
+   "isin": null,
+   "name": "비엘팜텍",
+   "symbol": "065170"
+  },
+  {
+   "isin": null,
+   "name": "에스아이리소스",
+   "symbol": "065420"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "대성산업",
+   "symbol": "128820"
+  }
+ ],
+ "name": "자원개발"
+}

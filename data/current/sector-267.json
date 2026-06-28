@@ -1,0 +1,587 @@
+{
+ "category": "sector",
+ "index": "sector-267",
+ "members": [
+  {
+   "isin": null,
+   "name": "미래아이앤지",
+   "symbol": "007120"
+  },
+  {
+   "isin": null,
+   "name": "아이티센엔텍",
+   "symbol": "010280"
+  },
+  {
+   "isin": null,
+   "name": "DB",
+   "symbol": "012030"
+  },
+  {
+   "isin": null,
+   "name": "삼성에스디에스",
+   "symbol": "018260"
+  },
+  {
+   "isin": null,
+   "name": "대신정보통신",
+   "symbol": "020180"
+  },
+  {
+   "isin": null,
+   "name": "포스코DX",
+   "symbol": "022100"
+  },
+  {
+   "isin": null,
+   "name": "한국정보통신",
+   "symbol": "025770"
+  },
+  {
+   "isin": null,
+   "name": "광무",
+   "symbol": "029480"
+  },
+  {
+   "isin": null,
+   "name": "아이티센씨티에스",
+   "symbol": "031820"
+  },
+  {
+   "isin": null,
+   "name": "소프트센",
+   "symbol": "032680"
+  },
+  {
+   "isin": null,
+   "name": "소프트센우",
+   "symbol": "032685"
+  },
+  {
+   "isin": null,
+   "name": "엠젠솔루션",
+   "symbol": "032790"
+  },
+  {
+   "isin": null,
+   "name": "디지틀조선",
+   "symbol": "033130"
+  },
+  {
+   "isin": null,
+   "name": "인성정보",
+   "symbol": "033230"
+  },
+  {
+   "isin": null,
+   "name": "NICE",
+   "symbol": "034310"
+  },
+  {
+   "isin": null,
+   "name": "신세계 I&C",
+   "symbol": "035510"
+  },
+  {
+   "isin": null,
+   "name": "KG이니시스",
+   "symbol": "035600"
+  },
+  {
+   "isin": null,
+   "name": "케이바이오랩스",
+   "symbol": "038530"
+  },
+  {
+   "isin": null,
+   "name": "에스넷",
+   "symbol": "038680"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "케이엘넷",
+   "symbol": "039420"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스AI",
+   "symbol": "039980"
+  },
+  {
+   "isin": null,
+   "name": "누리플렉스",
+   "symbol": "040160"
+  },
+  {
+   "isin": null,
+   "name": "크레오에스지",
+   "symbol": "040350"
+  },
+  {
+   "isin": null,
+   "name": "한국전자인증",
+   "symbol": "041460"
+  },
+  {
+   "isin": null,
+   "name": "카페24",
+   "symbol": "042000"
+  },
+  {
+   "isin": null,
+   "name": "링네트",
+   "symbol": "042500"
+  },
+  {
+   "isin": null,
+   "name": "정원엔시스",
+   "symbol": "045510"
+  },
+  {
+   "isin": null,
+   "name": "KG파이낸셜",
+   "symbol": "046440"
+  },
+  {
+   "isin": null,
+   "name": "코나아이",
+   "symbol": "052400"
+  },
+  {
+   "isin": null,
+   "name": "아이크래프트",
+   "symbol": "052460"
+  },
+  {
+   "isin": null,
+   "name": "한네트",
+   "symbol": "052600"
+  },
+  {
+   "isin": null,
+   "name": "한국정보인증",
+   "symbol": "053300"
+  },
+  {
+   "isin": null,
+   "name": "비츠로시스",
+   "symbol": "054220"
+  },
+  {
+   "isin": null,
+   "name": "티사이언티픽",
+   "symbol": "057680"
+  },
+  {
+   "isin": null,
+   "name": "NHN KCP",
+   "symbol": "060250"
+  },
+  {
+   "isin": null,
+   "name": "다날",
+   "symbol": "064260"
+  },
+  {
+   "isin": null,
+   "name": "LG씨엔에스",
+   "symbol": "064400"
+  },
+  {
+   "isin": null,
+   "name": "브리지텍",
+   "symbol": "064480"
+  },
+  {
+   "isin": null,
+   "name": "에프앤가이드",
+   "symbol": "064850"
+  },
+  {
+   "isin": null,
+   "name": "이루온",
+   "symbol": "065440"
+  },
+  {
+   "isin": null,
+   "name": "버킷스튜디오",
+   "symbol": "066410"
+  },
+  {
+   "isin": null,
+   "name": "이씨에스",
+   "symbol": "067010"
+  },
+  {
+   "isin": null,
+   "name": "로지시스",
+   "symbol": "067730"
+  },
+  {
+   "isin": null,
+   "name": "이글루",
+   "symbol": "067920"
+  },
+  {
+   "isin": null,
+   "name": "케이웨더",
+   "symbol": "068100"
+  },
+  {
+   "isin": null,
+   "name": "엔텔스",
+   "symbol": "069410"
+  },
+  {
+   "isin": null,
+   "name": "인티큐브",
+   "symbol": "070590"
+  },
+  {
+   "isin": null,
+   "name": "유엔젤",
+   "symbol": "072130"
+  },
+  {
+   "isin": null,
+   "name": "멤레이비티",
+   "symbol": "072770"
+  },
+  {
+   "isin": null,
+   "name": "가비아",
+   "symbol": "079940"
+  },
+  {
+   "isin": null,
+   "name": "케이아이엔엑스",
+   "symbol": "093320"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "인포바인",
+   "symbol": "115310"
+  },
+  {
+   "isin": null,
+   "name": "케이씨에스",
+   "symbol": "115500"
+  },
+  {
+   "isin": null,
+   "name": "유니포인트",
+   "symbol": "121060"
+  },
+  {
+   "isin": null,
+   "name": "아이티센글로벌",
+   "symbol": "124500"
+  },
+  {
+   "isin": null,
+   "name": "핑거",
+   "symbol": "163730"
+  },
+  {
+   "isin": null,
+   "name": "엠브레인",
+   "symbol": "169330"
+  },
+  {
+   "isin": null,
+   "name": "오파스넷",
+   "symbol": "173130"
+  },
+  {
+   "isin": null,
+   "name": "NHN",
+   "symbol": "181710"
+  },
+  {
+   "isin": null,
+   "name": "씨이랩",
+   "symbol": "189330"
+  },
+  {
+   "isin": null,
+   "name": "데이터스트림즈",
+   "symbol": "199150"
+  },
+  {
+   "isin": null,
+   "name": "뱅크웨어글로벌",
+   "symbol": "199480"
+  },
+  {
+   "isin": null,
+   "name": "헥토이노베이션",
+   "symbol": "214180"
+  },
+  {
+   "isin": null,
+   "name": "틸론",
+   "symbol": "217880"
+  },
+  {
+   "isin": null,
+   "name": "아이티센피엔에스",
+   "symbol": "232830"
+  },
+  {
+   "isin": null,
+   "name": "에스트래픽",
+   "symbol": "234300"
+  },
+  {
+   "isin": null,
+   "name": "헥토파이낸셜",
+   "symbol": "234340"
+  },
+  {
+   "isin": null,
+   "name": "나무기술",
+   "symbol": "242040"
+  },
+  {
+   "isin": null,
+   "name": "아이티센코어",
+   "symbol": "243870"
+  },
+  {
+   "isin": null,
+   "name": "이지스",
+   "symbol": "261520"
+  },
+  {
+   "isin": null,
+   "name": "아이퀘스트",
+   "symbol": "262840"
+  },
+  {
+   "isin": null,
+   "name": "데이타솔루션",
+   "symbol": "263800"
+  },
+  {
+   "isin": null,
+   "name": "아시아나IDT",
+   "symbol": "267850"
+  },
+  {
+   "isin": null,
+   "name": "미디어젠",
+   "symbol": "279600"
+  },
+  {
+   "isin": null,
+   "name": "롯데이노베이트",
+   "symbol": "286940"
+  },
+  {
+   "isin": null,
+   "name": "쿠콘",
+   "symbol": "294570"
+  },
+  {
+   "isin": null,
+   "name": "이노뎁",
+   "symbol": "303530"
+  },
+  {
+   "isin": null,
+   "name": "솔트룩스",
+   "symbol": "304100"
+  },
+  {
+   "isin": null,
+   "name": "비투엔",
+   "symbol": "307870"
+  },
+  {
+   "isin": null,
+   "name": "현대오토에버",
+   "symbol": "307950"
+  },
+  {
+   "isin": null,
+   "name": "인터로이드",
+   "symbol": "311960"
+  },
+  {
+   "isin": null,
+   "name": "딥노이드",
+   "symbol": "315640"
+  },
+  {
+   "isin": null,
+   "name": "LS티라유텍",
+   "symbol": "322180"
+  },
+  {
+   "isin": null,
+   "name": "솔트웨어",
+   "symbol": "328380"
+  },
+  {
+   "isin": null,
+   "name": "이노테나",
+   "symbol": "333050"
+  },
+  {
+   "isin": null,
+   "name": "웨이버스",
+   "symbol": "336060"
+  },
+  {
+   "isin": null,
+   "name": "이삭엔지니어링",
+   "symbol": "351330"
+  },
+  {
+   "isin": null,
+   "name": "크라우드웍스",
+   "symbol": "355390"
+  },
+  {
+   "isin": null,
+   "name": "싸이버원",
+   "symbol": "356890"
+  },
+  {
+   "isin": null,
+   "name": "SKAI",
+   "symbol": "357880"
+  },
+  {
+   "isin": null,
+   "name": "플래티어",
+   "symbol": "367000"
+  },
+  {
+   "isin": null,
+   "name": "아이티아이즈",
+   "symbol": "372800"
+  },
+  {
+   "isin": null,
+   "name": "엠아이큐브솔루션",
+   "symbol": "373170"
+  },
+  {
+   "isin": null,
+   "name": "비트맥스",
+   "symbol": "377030"
+  },
+  {
+   "isin": null,
+   "name": "카카오페이",
+   "symbol": "377300"
+  },
+  {
+   "isin": null,
+   "name": "마음AI",
+   "symbol": "377480"
+  },
+  {
+   "isin": null,
+   "name": "유디엠텍",
+   "symbol": "389680"
+  },
+  {
+   "isin": null,
+   "name": "코닉오토메이션",
+   "symbol": "391710"
+  },
+  {
+   "isin": null,
+   "name": "토마토시스템",
+   "symbol": "393210"
+  },
+  {
+   "isin": null,
+   "name": "라피치",
+   "symbol": "403360"
+  },
+  {
+   "isin": null,
+   "name": "아이엘로보틱스",
+   "symbol": "403810"
+  },
+  {
+   "isin": null,
+   "name": "한패스",
+   "symbol": "408470"
+  },
+  {
+   "isin": null,
+   "name": "비아이매트릭스",
+   "symbol": "413640"
+  },
+  {
+   "isin": null,
+   "name": "벨로크",
+   "symbol": "424760"
+  },
+  {
+   "isin": null,
+   "name": "케이쓰리아이",
+   "symbol": "431190"
+  },
+  {
+   "isin": null,
+   "name": "에스피소프트",
+   "symbol": "443670"
+  },
+  {
+   "isin": null,
+   "name": "심플랫폼",
+   "symbol": "444530"
+  },
+  {
+   "isin": null,
+   "name": "피아이이",
+   "symbol": "452450"
+  },
+  {
+   "isin": null,
+   "name": "더즌",
+   "symbol": "462860"
+  },
+  {
+   "isin": null,
+   "name": "아이지넷",
+   "symbol": "462980"
+  },
+  {
+   "isin": null,
+   "name": "뉴엔AI",
+   "symbol": "463020"
+  },
+  {
+   "isin": null,
+   "name": "인스피언",
+   "symbol": "465480"
+  },
+  {
+   "isin": null,
+   "name": "노타",
+   "symbol": "486990"
+  },
+  {
+   "isin": null,
+   "name": "에스투더블유",
+   "symbol": "488280"
+  }
+ ],
+ "name": "IT서비스"
+}

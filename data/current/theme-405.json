@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-405",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼화콘덴서",
+   "symbol": "001820"
+  },
+  {
+   "isin": null,
+   "name": "코스모신소재",
+   "symbol": "005070"
+  },
+  {
+   "isin": null,
+   "name": "삼성전기",
+   "symbol": "009150"
+  },
+  {
+   "isin": null,
+   "name": "아모텍",
+   "symbol": "052710"
+  },
+  {
+   "isin": null,
+   "name": "대주전자재료",
+   "symbol": "078600"
+  },
+  {
+   "isin": null,
+   "name": "코칩",
+   "symbol": "126730"
+  },
+  {
+   "isin": null,
+   "name": "아바텍",
+   "symbol": "149950"
+  },
+  {
+   "isin": null,
+   "name": "지아이에스",
+   "symbol": "306620"
+  },
+  {
+   "isin": null,
+   "name": "한울반도체",
+   "symbol": "320000"
+  },
+  {
+   "isin": null,
+   "name": "원준",
+   "symbol": "382840"
+  },
+  {
+   "isin": null,
+   "name": "한켐",
+   "symbol": "457370"
+  }
+ ],
+ "name": "MLCC(적층세라믹콘덴서)"
+}

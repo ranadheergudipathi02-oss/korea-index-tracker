@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-575",
+ "members": [
+  {
+   "isin": null,
+   "name": "코나아이",
+   "symbol": "052400"
+  },
+  {
+   "isin": null,
+   "name": "웹케시",
+   "symbol": "053580"
+  },
+  {
+   "isin": null,
+   "name": "유라클",
+   "symbol": "088340"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "쿠콘",
+   "symbol": "294570"
+  }
+ ],
+ "name": "지역화폐"
+}

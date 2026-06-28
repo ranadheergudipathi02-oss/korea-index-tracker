@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-504",
+ "members": [
+  {
+   "isin": null,
+   "name": "유니온",
+   "symbol": "000910"
+  },
+  {
+   "isin": null,
+   "name": "KG케미칼",
+   "symbol": "001390"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "TKG휴켐스",
+   "symbol": "069260"
+  }
+ ],
+ "name": "요소수"
+}

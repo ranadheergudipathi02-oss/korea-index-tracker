@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-597",
+ "members": [
+  {
+   "isin": null,
+   "name": "JW중외제약",
+   "symbol": "001060"
+  },
+  {
+   "isin": null,
+   "name": "일신바이오",
+   "symbol": "068330"
+  },
+  {
+   "isin": null,
+   "name": "삼성바이오로직스",
+   "symbol": "207940"
+  },
+  {
+   "isin": null,
+   "name": "강스템바이오텍",
+   "symbol": "217730"
+  },
+  {
+   "isin": null,
+   "name": "드림씨아이에스",
+   "symbol": "223250"
+  },
+  {
+   "isin": null,
+   "name": "티앤알바이오팹",
+   "symbol": "246710"
+  },
+  {
+   "isin": null,
+   "name": "토모큐브",
+   "symbol": "475960"
+  },
+  {
+   "isin": null,
+   "name": "오가노이드사이언스",
+   "symbol": "476040"
+  }
+ ],
+ "name": "오가노이드"
+}

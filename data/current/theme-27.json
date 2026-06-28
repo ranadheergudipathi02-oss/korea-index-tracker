@@ -1,0 +1,732 @@
+{
+ "category": "theme",
+ "index": "theme-27",
+ "members": [
+  {
+   "isin": null,
+   "name": "대원강업",
+   "symbol": "000430"
+  },
+  {
+   "isin": null,
+   "name": "SG글로벌",
+   "symbol": "001380"
+  },
+  {
+   "isin": null,
+   "name": "태원물산",
+   "symbol": "001420"
+  },
+  {
+   "isin": null,
+   "name": "케이비아이동국실업",
+   "symbol": "001620"
+  },
+  {
+   "isin": null,
+   "name": "디와이에이",
+   "symbol": "002880"
+  },
+  {
+   "isin": null,
+   "name": "유성기업",
+   "symbol": "002920"
+  },
+  {
+   "isin": null,
+   "name": "SNT다이내믹스",
+   "symbol": "003570"
+  },
+  {
+   "isin": null,
+   "name": "태양금속",
+   "symbol": "004100"
+  },
+  {
+   "isin": null,
+   "name": "대원산업",
+   "symbol": "005710"
+  },
+  {
+   "isin": null,
+   "name": "에스엘",
+   "symbol": "005850"
+  },
+  {
+   "isin": null,
+   "name": "삼성공조",
+   "symbol": "006660"
+  },
+  {
+   "isin": null,
+   "name": "DN오토모티브",
+   "symbol": "007340"
+  },
+  {
+   "isin": null,
+   "name": "와이엠",
+   "symbol": "007530"
+  },
+  {
+   "isin": null,
+   "name": "남선알미늄",
+   "symbol": "008350"
+  },
+  {
+   "isin": null,
+   "name": "일정실업",
+   "symbol": "008500"
+  },
+  {
+   "isin": null,
+   "name": "대동기어",
+   "symbol": "008830"
+  },
+  {
+   "isin": null,
+   "name": "아진전자부품",
+   "symbol": "009320"
+  },
+  {
+   "isin": null,
+   "name": "모토닉",
+   "symbol": "009680"
+  },
+  {
+   "isin": null,
+   "name": "명신산업",
+   "symbol": "009900"
+  },
+  {
+   "isin": null,
+   "name": "한국무브넥스",
+   "symbol": "010100"
+  },
+  {
+   "isin": null,
+   "name": "에스엠벡셀",
+   "symbol": "010580"
+  },
+  {
+   "isin": null,
+   "name": "화천기계",
+   "symbol": "010660"
+  },
+  {
+   "isin": null,
+   "name": "화신",
+   "symbol": "010690"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "현대위아",
+   "symbol": "011210"
+  },
+  {
+   "isin": null,
+   "name": "유니크",
+   "symbol": "011320"
+  },
+  {
+   "isin": null,
+   "name": "영흥",
+   "symbol": "012160"
+  },
+  {
+   "isin": null,
+   "name": "계양전기",
+   "symbol": "012200"
+  },
+  {
+   "isin": null,
+   "name": "삼미금속",
+   "symbol": "012210"
+  },
+  {
+   "isin": null,
+   "name": "영화금속",
+   "symbol": "012280"
+  },
+  {
+   "isin": null,
+   "name": "현대모비스",
+   "symbol": "012330"
+  },
+  {
+   "isin": null,
+   "name": "모베이스전자",
+   "symbol": "012860"
+  },
+  {
+   "isin": null,
+   "name": "아진산업",
+   "symbol": "013310"
+  },
+  {
+   "isin": null,
+   "name": "디와이",
+   "symbol": "013570"
+  },
+  {
+   "isin": null,
+   "name": "THE CUBE&",
+   "symbol": "013720"
+  },
+  {
+   "isin": null,
+   "name": "지엠비코리아",
+   "symbol": "013870"
+  },
+  {
+   "isin": null,
+   "name": "영보화학",
+   "symbol": "014440"
+  },
+  {
+   "isin": null,
+   "name": "에이엔피",
+   "symbol": "015260"
+  },
+  {
+   "isin": null,
+   "name": "성우하이텍",
+   "symbol": "015750"
+  },
+  {
+   "isin": null,
+   "name": "두올",
+   "symbol": "016740"
+  },
+  {
+   "isin": null,
+   "name": "우신시스템",
+   "symbol": "017370"
+  },
+  {
+   "isin": null,
+   "name": "동원금속",
+   "symbol": "018500"
+  },
+  {
+   "isin": null,
+   "name": "한온시스템",
+   "symbol": "018880"
+  },
+  {
+   "isin": null,
+   "name": "티에이치엔",
+   "symbol": "019180"
+  },
+  {
+   "isin": null,
+   "name": "일지테크",
+   "symbol": "019540"
+  },
+  {
+   "isin": null,
+   "name": "서연탑메탈",
+   "symbol": "019770"
+  },
+  {
+   "isin": null,
+   "name": "대동금속",
+   "symbol": "020400"
+  },
+  {
+   "isin": null,
+   "name": "세원정공",
+   "symbol": "021820"
+  },
+  {
+   "isin": null,
+   "name": "삼원강재",
+   "symbol": "023000"
+  },
+  {
+   "isin": null,
+   "name": "인지컨트롤스",
+   "symbol": "023800"
+  },
+  {
+   "isin": null,
+   "name": "인팩",
+   "symbol": "023810"
+  },
+  {
+   "isin": null,
+   "name": "KB오토시스",
+   "symbol": "024120"
+  },
+  {
+   "isin": null,
+   "name": "한일단조",
+   "symbol": "024740"
+  },
+  {
+   "isin": null,
+   "name": "세원물산",
+   "symbol": "024830"
+  },
+  {
+   "isin": null,
+   "name": "KBI메탈",
+   "symbol": "024840"
+  },
+  {
+   "isin": null,
+   "name": "케이피에프",
+   "symbol": "024880"
+  },
+  {
+   "isin": null,
+   "name": "디와이덕양",
+   "symbol": "024900"
+  },
+  {
+   "isin": null,
+   "name": "경창산업",
+   "symbol": "024910"
+  },
+  {
+   "isin": null,
+   "name": "시노펙스",
+   "symbol": "025320"
+  },
+  {
+   "isin": null,
+   "name": "DH오토웨어",
+   "symbol": "025440"
+  },
+  {
+   "isin": null,
+   "name": "한국단자",
+   "symbol": "025540"
+  },
+  {
+   "isin": null,
+   "name": "오스템",
+   "symbol": "031510"
+  },
+  {
+   "isin": null,
+   "name": "체시스",
+   "symbol": "033250"
+  },
+  {
+   "isin": null,
+   "name": "SJG세종",
+   "symbol": "033530"
+  },
+  {
+   "isin": null,
+   "name": "에이치엠넥스",
+   "symbol": "036170"
+  },
+  {
+   "isin": null,
+   "name": "에코플라스틱",
+   "symbol": "038110"
+  },
+  {
+   "isin": null,
+   "name": "SG&G",
+   "symbol": "040610"
+  },
+  {
+   "isin": null,
+   "name": "상신브레이크",
+   "symbol": "041650"
+  },
+  {
+   "isin": null,
+   "name": "SY동아",
+   "symbol": "041930"
+  },
+  {
+   "isin": null,
+   "name": "피에이치에이",
+   "symbol": "043370"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "유라테크",
+   "symbol": "048430"
+  },
+  {
+   "isin": null,
+   "name": "인탑스",
+   "symbol": "049070"
+  },
+  {
+   "isin": null,
+   "name": "나라엠앤디",
+   "symbol": "051490"
+  },
+  {
+   "isin": null,
+   "name": "세동",
+   "symbol": "053060"
+  },
+  {
+   "isin": null,
+   "name": "구영테크",
+   "symbol": "053270"
+  },
+  {
+   "isin": null,
+   "name": "삼보모터스",
+   "symbol": "053700"
+  },
+  {
+   "isin": null,
+   "name": "HL홀딩스",
+   "symbol": "060980"
+  },
+  {
+   "isin": null,
+   "name": "SNT모티브",
+   "symbol": "064960"
+  },
+  {
+   "isin": null,
+   "name": "오리엔트정공",
+   "symbol": "065500"
+  },
+  {
+   "isin": null,
+   "name": "스모트로닉",
+   "symbol": "066590"
+  },
+  {
+   "isin": null,
+   "name": "엔브이에이치코리아",
+   "symbol": "067570"
+  },
+  {
+   "isin": null,
+   "name": "에스텍",
+   "symbol": "069510"
+  },
+  {
+   "isin": null,
+   "name": "캐스텍코리아",
+   "symbol": "071850"
+  },
+  {
+   "isin": null,
+   "name": "새론오토모티브",
+   "symbol": "075180"
+  },
+  {
+   "isin": null,
+   "name": "휴림에이텍",
+   "symbol": "078590"
+  },
+  {
+   "isin": null,
+   "name": "성창오토텍",
+   "symbol": "080470"
+  },
+  {
+   "isin": null,
+   "name": "네오티스",
+   "symbol": "085910"
+  },
+  {
+   "isin": null,
+   "name": "이원컴포텍",
+   "symbol": "088290"
+  },
+  {
+   "isin": null,
+   "name": "HDC현대EP",
+   "symbol": "089470"
+  },
+  {
+   "isin": null,
+   "name": "평화산업",
+   "symbol": "090080"
+  },
+  {
+   "isin": null,
+   "name": "아이윈",
+   "symbol": "090150"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "디아이씨",
+   "symbol": "092200"
+  },
+  {
+   "isin": null,
+   "name": "DYP",
+   "symbol": "092780"
+  },
+  {
+   "isin": null,
+   "name": "풍강",
+   "symbol": "093380"
+  },
+  {
+   "isin": null,
+   "name": "에코볼트",
+   "symbol": "097780"
+  },
+  {
+   "isin": null,
+   "name": "모베이스",
+   "symbol": "101330"
+  },
+  {
+   "isin": null,
+   "name": "인화정공",
+   "symbol": "101930"
+  },
+  {
+   "isin": null,
+   "name": "디에스엠",
+   "symbol": "104040"
+  },
+  {
+   "isin": null,
+   "name": "케이엔더블유",
+   "symbol": "105330"
+  },
+  {
+   "isin": null,
+   "name": "엣지파운드리",
+   "symbol": "105550"
+  },
+  {
+   "isin": null,
+   "name": "한중엔시에스",
+   "symbol": "107640"
+  },
+  {
+   "isin": null,
+   "name": "LX하우시스",
+   "symbol": "108670"
+  },
+  {
+   "isin": null,
+   "name": "디젠스",
+   "symbol": "113810"
+  },
+  {
+   "isin": null,
+   "name": "모트렉스",
+   "symbol": "118990"
+  },
+  {
+   "isin": null,
+   "name": "포메탈",
+   "symbol": "119500"
+  },
+  {
+   "isin": null,
+   "name": "삼기",
+   "symbol": "122350"
+  },
+  {
+   "isin": null,
+   "name": "서진오토모티브",
+   "symbol": "122690"
+  },
+  {
+   "isin": null,
+   "name": "엠에스오토텍",
+   "symbol": "123040"
+  },
+  {
+   "isin": null,
+   "name": "코리아에프티",
+   "symbol": "123410"
+  },
+  {
+   "isin": null,
+   "name": "SJM",
+   "symbol": "123700"
+  },
+  {
+   "isin": null,
+   "name": "한라캐스트",
+   "symbol": "125490"
+  },
+  {
+   "isin": null,
+   "name": "BGF에코머티리얼즈",
+   "symbol": "126600"
+  },
+  {
+   "isin": null,
+   "name": "화신정공",
+   "symbol": "126640"
+  },
+  {
+   "isin": null,
+   "name": "에코캡",
+   "symbol": "128540"
+  },
+  {
+   "isin": null,
+   "name": "GH신소재",
+   "symbol": "130500"
+  },
+  {
+   "isin": null,
+   "name": "티피씨글로벌",
+   "symbol": "130740"
+  },
+  {
+   "isin": null,
+   "name": "현대공업",
+   "symbol": "170030"
+  },
+  {
+   "isin": null,
+   "name": "육일씨엔에쓰",
+   "symbol": "191410"
+  },
+  {
+   "isin": null,
+   "name": "웹스",
+   "symbol": "196700"
+  },
+  {
+   "isin": null,
+   "name": "한주라이트메탈",
+   "symbol": "198940"
+  },
+  {
+   "isin": null,
+   "name": "서연이화",
+   "symbol": "200880"
+  },
+  {
+   "isin": null,
+   "name": "HL만도",
+   "symbol": "204320"
+  },
+  {
+   "isin": null,
+   "name": "다산디엠씨",
+   "symbol": "208860"
+  },
+  {
+   "isin": null,
+   "name": "네오오토",
+   "symbol": "212560"
+  },
+  {
+   "isin": null,
+   "name": "금호에이치티",
+   "symbol": "214330"
+  },
+  {
+   "isin": null,
+   "name": "우리산업",
+   "symbol": "215360"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스세원",
+   "symbol": "234100"
+  },
+  {
+   "isin": null,
+   "name": "유니테크노",
+   "symbol": "241690"
+  },
+  {
+   "isin": null,
+   "name": "덕우전자",
+   "symbol": "263600"
+  },
+  {
+   "isin": null,
+   "name": "영화테크",
+   "symbol": "265560"
+  },
+  {
+   "isin": null,
+   "name": "일진하이솔루스",
+   "symbol": "271940"
+  },
+  {
+   "isin": null,
+   "name": "DH오토리드",
+   "symbol": "290120"
+  },
+  {
+   "isin": null,
+   "name": "HS효성첨단소재",
+   "symbol": "298050"
+  },
+  {
+   "isin": null,
+   "name": "씨티알모빌리티",
+   "symbol": "308170"
+  },
+  {
+   "isin": null,
+   "name": "디와이씨",
+   "symbol": "310870"
+  },
+  {
+   "isin": null,
+   "name": "탑런토탈솔루션",
+   "symbol": "336680"
+  },
+  {
+   "isin": null,
+   "name": "알멕",
+   "symbol": "354320"
+  },
+  {
+   "isin": null,
+   "name": "화승알앤에이",
+   "symbol": "378850"
+  },
+  {
+   "isin": null,
+   "name": "세아메카닉스",
+   "symbol": "396300"
+  },
+  {
+   "isin": null,
+   "name": "삼현",
+   "symbol": "437730"
+  },
+  {
+   "isin": null,
+   "name": "한국피아이엠",
+   "symbol": "448900"
+  },
+  {
+   "isin": null,
+   "name": "성우",
+   "symbol": "458650"
+  },
+  {
+   "isin": null,
+   "name": "모티브링크",
+   "symbol": "463480"
+  }
+ ],
+ "name": "자동차부품"
+}

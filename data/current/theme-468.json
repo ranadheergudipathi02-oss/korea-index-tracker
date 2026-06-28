@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-468",
+ "members": [
+  {
+   "isin": null,
+   "name": "유한양행",
+   "symbol": "000100"
+  },
+  {
+   "isin": null,
+   "name": "파미셀",
+   "symbol": "005690"
+  },
+  {
+   "isin": null,
+   "name": "서울제약",
+   "symbol": "018680"
+  },
+  {
+   "isin": null,
+   "name": "대한약품",
+   "symbol": "023910"
+  },
+  {
+   "isin": null,
+   "name": "제일약품",
+   "symbol": "271980"
+  }
+ ],
+ "name": "화이자(PFIZER)"
+}

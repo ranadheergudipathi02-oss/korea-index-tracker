@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-170",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국수출포장",
+   "symbol": "002200"
+  },
+  {
+   "isin": null,
+   "name": "아세아제지",
+   "symbol": "002310"
+  },
+  {
+   "isin": null,
+   "name": "한솔홀딩스",
+   "symbol": "004150"
+  },
+  {
+   "isin": null,
+   "name": "블루산업개발",
+   "symbol": "006740"
+  },
+  {
+   "isin": null,
+   "name": "태림포장",
+   "symbol": "011280"
+  },
+  {
+   "isin": null,
+   "name": "대영포장",
+   "symbol": "014160"
+  },
+  {
+   "isin": null,
+   "name": "리더스코스메틱",
+   "symbol": "016100"
+  },
+  {
+   "isin": null,
+   "name": "신대양제지",
+   "symbol": "016590"
+  },
+  {
+   "isin": null,
+   "name": "대림제지",
+   "symbol": "017650"
+  },
+  {
+   "isin": null,
+   "name": "삼보판지",
+   "symbol": "023600"
+  }
+ ],
+ "name": "골판지 제조"
+}

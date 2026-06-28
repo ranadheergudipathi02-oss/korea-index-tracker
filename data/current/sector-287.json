@@ -1,0 +1,367 @@
+{
+ "category": "sector",
+ "index": "sector-287",
+ "members": [
+  {
+   "isin": null,
+   "name": "더존비즈온",
+   "symbol": "012510"
+  },
+  {
+   "isin": null,
+   "name": "디모아",
+   "symbol": "016670"
+  },
+  {
+   "isin": null,
+   "name": "한글과컴퓨터",
+   "symbol": "030520"
+  },
+  {
+   "isin": null,
+   "name": "세중",
+   "symbol": "039310"
+  },
+  {
+   "isin": null,
+   "name": "라온시큐어",
+   "symbol": "042510"
+  },
+  {
+   "isin": null,
+   "name": "이스트소프트",
+   "symbol": "047560"
+  },
+  {
+   "isin": null,
+   "name": "비트플래닛",
+   "symbol": "049470"
+  },
+  {
+   "isin": null,
+   "name": "수산아이앤티",
+   "symbol": "050960"
+  },
+  {
+   "isin": null,
+   "name": "이니텍",
+   "symbol": "053350"
+  },
+  {
+   "isin": null,
+   "name": "웹케시",
+   "symbol": "053580"
+  },
+  {
+   "isin": null,
+   "name": "안랩",
+   "symbol": "053800"
+  },
+  {
+   "isin": null,
+   "name": "오상자이엘",
+   "symbol": "053980"
+  },
+  {
+   "isin": null,
+   "name": "엠로",
+   "symbol": "058970"
+  },
+  {
+   "isin": null,
+   "name": "영림원소프트랩",
+   "symbol": "060850"
+  },
+  {
+   "isin": null,
+   "name": "위세아이텍",
+   "symbol": "065370"
+  },
+  {
+   "isin": null,
+   "name": "플랜티넷",
+   "symbol": "075130"
+  },
+  {
+   "isin": null,
+   "name": "텔코웨어",
+   "symbol": "078000"
+  },
+  {
+   "isin": null,
+   "name": "투비소프트",
+   "symbol": "079970"
+  },
+  {
+   "isin": null,
+   "name": "MDS테크",
+   "symbol": "086960"
+  },
+  {
+   "isin": null,
+   "name": "유라클",
+   "symbol": "088340"
+  },
+  {
+   "isin": null,
+   "name": "와이즈넛",
+   "symbol": "096250"
+  },
+  {
+   "isin": null,
+   "name": "브레인즈컴퍼니",
+   "symbol": "099390"
+  },
+  {
+   "isin": null,
+   "name": "인지소프트",
+   "symbol": "100030"
+  },
+  {
+   "isin": null,
+   "name": "시큐브",
+   "symbol": "131090"
+  },
+  {
+   "isin": null,
+   "name": "알서포트",
+   "symbol": "131370"
+  },
+  {
+   "isin": null,
+   "name": "윈스테크넷",
+   "symbol": "136540"
+  },
+  {
+   "isin": null,
+   "name": "키네마스터",
+   "symbol": "139670"
+  },
+  {
+   "isin": null,
+   "name": "비큐AI",
+   "symbol": "148780"
+  },
+  {
+   "isin": null,
+   "name": "파수AI",
+   "symbol": "150900"
+  },
+  {
+   "isin": null,
+   "name": "네이블",
+   "symbol": "153460"
+  },
+  {
+   "isin": null,
+   "name": "아톤",
+   "symbol": "158430"
+  },
+  {
+   "isin": null,
+   "name": "SGA솔루션즈",
+   "symbol": "184230"
+  },
+  {
+   "isin": null,
+   "name": "포시에스",
+   "symbol": "189690"
+  },
+  {
+   "isin": null,
+   "name": "케이사인",
+   "symbol": "192250"
+  },
+  {
+   "isin": null,
+   "name": "디지캡",
+   "symbol": "197140"
+  },
+  {
+   "isin": null,
+   "name": "엑셈",
+   "symbol": "205100"
+  },
+  {
+   "isin": null,
+   "name": "지란지교시큐리티",
+   "symbol": "208350"
+  },
+  {
+   "isin": null,
+   "name": "링크제니시스",
+   "symbol": "219420"
+  },
+  {
+   "isin": null,
+   "name": "핸디소프트",
+   "symbol": "220180"
+  },
+  {
+   "isin": null,
+   "name": "모비스",
+   "symbol": "250060"
+  },
+  {
+   "isin": null,
+   "name": "소프트캠프",
+   "symbol": "258790"
+  },
+  {
+   "isin": null,
+   "name": "지니언스",
+   "symbol": "263860"
+  },
+  {
+   "isin": null,
+   "name": "이노시뮬레이션",
+   "symbol": "274400"
+  },
+  {
+   "isin": null,
+   "name": "에스에스알",
+   "symbol": "275630"
+  },
+  {
+   "isin": null,
+   "name": "스코넥",
+   "symbol": "276040"
+  },
+  {
+   "isin": null,
+   "name": "모아데이타",
+   "symbol": "288980"
+  },
+  {
+   "isin": null,
+   "name": "트윔",
+   "symbol": "290090"
+  },
+  {
+   "isin": null,
+   "name": "휴네시온",
+   "symbol": "290270"
+  },
+  {
+   "isin": null,
+   "name": "파라택시스이더리움",
+   "symbol": "290560"
+  },
+  {
+   "isin": null,
+   "name": "핀텔",
+   "symbol": "291810"
+  },
+  {
+   "isin": null,
+   "name": "이노에이엑스",
+   "symbol": "296640"
+  },
+  {
+   "isin": null,
+   "name": "슈어소프트테크",
+   "symbol": "298830"
+  },
+  {
+   "isin": null,
+   "name": "라온피플",
+   "symbol": "300120"
+  },
+  {
+   "isin": null,
+   "name": "바이브컴퍼니",
+   "symbol": "301300"
+  },
+  {
+   "isin": null,
+   "name": "시선AI",
+   "symbol": "340810"
+  },
+  {
+   "isin": null,
+   "name": "알체라",
+   "symbol": "347860"
+  },
+  {
+   "isin": null,
+   "name": "오비고",
+   "symbol": "352910"
+  },
+  {
+   "isin": null,
+   "name": "엑스게이트",
+   "symbol": "356680"
+  },
+  {
+   "isin": null,
+   "name": "코난테크놀로지",
+   "symbol": "402030"
+  },
+  {
+   "isin": null,
+   "name": "샌즈랩",
+   "symbol": "411080"
+  },
+  {
+   "isin": null,
+   "name": "오브젠",
+   "symbol": "417860"
+  },
+  {
+   "isin": null,
+   "name": "시큐레터",
+   "symbol": "418250"
+  },
+  {
+   "isin": null,
+   "name": "E8",
+   "symbol": "418620"
+  },
+  {
+   "isin": null,
+   "name": "산돌",
+   "symbol": "419120"
+  },
+  {
+   "isin": null,
+   "name": "한싹",
+   "symbol": "430690"
+  },
+  {
+   "isin": null,
+   "name": "모니터랩",
+   "symbol": "434480"
+  },
+  {
+   "isin": null,
+   "name": "버넥트",
+   "symbol": "438700"
+  },
+  {
+   "isin": null,
+   "name": "지슨",
+   "symbol": "446840"
+  },
+  {
+   "isin": null,
+   "name": "인스웨이브",
+   "symbol": "450520"
+  },
+  {
+   "isin": null,
+   "name": "사이냅소프트",
+   "symbol": "466410"
+  },
+  {
+   "isin": null,
+   "name": "마키나락스",
+   "symbol": "477850"
+  },
+  {
+   "isin": null,
+   "name": "유비씨",
+   "symbol": "495810"
+  }
+ ],
+ "name": "소프트웨어"
+}

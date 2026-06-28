@@ -1,0 +1,42 @@
+{
+ "category": "theme",
+ "index": "theme-527",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국쉘석유",
+   "symbol": "002960"
+  },
+  {
+   "isin": null,
+   "name": "미창석유",
+   "symbol": "003650"
+  },
+  {
+   "isin": null,
+   "name": "S-Oil",
+   "symbol": "010950"
+  },
+  {
+   "isin": null,
+   "name": "극동유화",
+   "symbol": "014530"
+  },
+  {
+   "isin": null,
+   "name": "흥구석유",
+   "symbol": "024060"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  }
+ ],
+ "name": "윤활유"
+}

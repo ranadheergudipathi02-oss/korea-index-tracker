@@ -1,0 +1,37 @@
+{
+ "category": "theme",
+ "index": "theme-154",
+ "members": [
+  {
+   "isin": null,
+   "name": "현대건설",
+   "symbol": "000720"
+  },
+  {
+   "isin": null,
+   "name": "GS건설",
+   "symbol": "006360"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산",
+   "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "대우건설",
+   "symbol": "047040"
+  },
+  {
+   "isin": null,
+   "name": "IPARK현대산업개발",
+   "symbol": "294870"
+  },
+  {
+   "isin": null,
+   "name": "DL이앤씨",
+   "symbol": "375500"
+  }
+ ],
+ "name": "건설 대표주"
+}

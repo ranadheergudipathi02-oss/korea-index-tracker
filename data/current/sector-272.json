@@ -1,0 +1,607 @@
+{
+ "category": "sector",
+ "index": "sector-272",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼양홀딩스",
+   "symbol": "000070"
+  },
+  {
+   "isin": null,
+   "name": "DL",
+   "symbol": "000210"
+  },
+  {
+   "isin": null,
+   "name": "DL우",
+   "symbol": "000215"
+  },
+  {
+   "isin": null,
+   "name": "이화산업",
+   "symbol": "000760"
+  },
+  {
+   "isin": null,
+   "name": "PKC",
+   "symbol": "001340"
+  },
+  {
+   "isin": null,
+   "name": "조비",
+   "symbol": "001550"
+  },
+  {
+   "isin": null,
+   "name": "금양",
+   "symbol": "001570"
+  },
+  {
+   "isin": null,
+   "name": "경농",
+   "symbol": "002100"
+  },
+  {
+   "isin": null,
+   "name": "SH에너지화학",
+   "symbol": "002360"
+  },
+  {
+   "isin": null,
+   "name": "삼영무역",
+   "symbol": "002810"
+  },
+  {
+   "isin": null,
+   "name": "미원상사",
+   "symbol": "002840"
+  },
+  {
+   "isin": null,
+   "name": "한국쉘석유",
+   "symbol": "002960"
+  },
+  {
+   "isin": null,
+   "name": "SB성보",
+   "symbol": "003080"
+  },
+  {
+   "isin": null,
+   "name": "태광산업",
+   "symbol": "003240"
+  },
+  {
+   "isin": null,
+   "name": "미창석유",
+   "symbol": "003650"
+  },
+  {
+   "isin": null,
+   "name": "포스코퓨처엠",
+   "symbol": "003670"
+  },
+  {
+   "isin": null,
+   "name": "삼영",
+   "symbol": "003720"
+  },
+  {
+   "isin": null,
+   "name": "진양산업",
+   "symbol": "003780"
+  },
+  {
+   "isin": null,
+   "name": "대한화섬",
+   "symbol": "003830"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "한국석유",
+   "symbol": "004090"
+  },
+  {
+   "isin": null,
+   "name": "송원산업",
+   "symbol": "004430"
+  },
+  {
+   "isin": null,
+   "name": "DRB동일",
+   "symbol": "004840"
+  },
+  {
+   "isin": null,
+   "name": "코스모신소재",
+   "symbol": "005070"
+  },
+  {
+   "isin": null,
+   "name": "코스모화학",
+   "symbol": "005420"
+  },
+  {
+   "isin": null,
+   "name": "파미셀",
+   "symbol": "005690"
+  },
+  {
+   "isin": null,
+   "name": "이수화학",
+   "symbol": "005950"
+  },
+  {
+   "isin": null,
+   "name": "카프로",
+   "symbol": "006380"
+  },
+  {
+   "isin": null,
+   "name": "대한유화",
+   "symbol": "006650"
+  },
+  {
+   "isin": null,
+   "name": "AK홀딩스",
+   "symbol": "006840"
+  },
+  {
+   "isin": null,
+   "name": "태경케미컬",
+   "symbol": "006890"
+  },
+  {
+   "isin": null,
+   "name": "동방아그로",
+   "symbol": "007590"
+  },
+  {
+   "isin": null,
+   "name": "국도화학",
+   "symbol": "007690"
+  },
+  {
+   "isin": null,
+   "name": "한일화학",
+   "symbol": "007770"
+  },
+  {
+   "isin": null,
+   "name": "원풍",
+   "symbol": "008370"
+  },
+  {
+   "isin": null,
+   "name": "OCI홀딩스",
+   "symbol": "010060"
+  },
+  {
+   "isin": null,
+   "name": "진양폴리",
+   "symbol": "010640"
+  },
+  {
+   "isin": null,
+   "name": "롯데케미칼",
+   "symbol": "011170"
+  },
+  {
+   "isin": null,
+   "name": "한농화성",
+   "symbol": "011500"
+  },
+  {
+   "isin": null,
+   "name": "금호석유화학",
+   "symbol": "011780"
+  },
+  {
+   "isin": null,
+   "name": "금호석유화학우",
+   "symbol": "011785"
+  },
+  {
+   "isin": null,
+   "name": "SKC",
+   "symbol": "011790"
+  },
+  {
+   "isin": null,
+   "name": "경인양행",
+   "symbol": "012610"
+  },
+  {
+   "isin": null,
+   "name": "세우글로벌",
+   "symbol": "013000"
+  },
+  {
+   "isin": null,
+   "name": "원익큐브",
+   "symbol": "014190"
+  },
+  {
+   "isin": null,
+   "name": "영보화학",
+   "symbol": "014440"
+  },
+  {
+   "isin": null,
+   "name": "한솔케미칼",
+   "symbol": "014680"
+  },
+  {
+   "isin": null,
+   "name": "유니드",
+   "symbol": "014830"
+  },
+  {
+   "isin": null,
+   "name": "DS단석",
+   "symbol": "017860"
+  },
+  {
+   "isin": null,
+   "name": "한국알콜",
+   "symbol": "017890"
+  },
+  {
+   "isin": null,
+   "name": "동남합성",
+   "symbol": "023450"
+  },
+  {
+   "isin": null,
+   "name": "풍국주정",
+   "symbol": "023900"
+  },
+  {
+   "isin": null,
+   "name": "WISCOM",
+   "symbol": "024070"
+  },
+  {
+   "isin": null,
+   "name": "KPX케미칼",
+   "symbol": "025000"
+  },
+  {
+   "isin": null,
+   "name": "남해화학",
+   "symbol": "025860"
+  },
+  {
+   "isin": null,
+   "name": "BGF",
+   "symbol": "027410"
+  },
+  {
+   "isin": null,
+   "name": "상보",
+   "symbol": "027580"
+  },
+  {
+   "isin": null,
+   "name": "동성화인텍",
+   "symbol": "033500"
+  },
+  {
+   "isin": null,
+   "name": "HRS",
+   "symbol": "036640"
+  },
+  {
+   "isin": null,
+   "name": "삼양케이씨아이",
+   "symbol": "036670"
+  },
+  {
+   "isin": null,
+   "name": "케이피엠테크",
+   "symbol": "042040"
+  },
+  {
+   "isin": null,
+   "name": "오공",
+   "symbol": "045060"
+  },
+  {
+   "isin": null,
+   "name": "크린앤사이언스",
+   "symbol": "045520"
+  },
+  {
+   "isin": null,
+   "name": "엔피케이",
+   "symbol": "048830"
+  },
+  {
+   "isin": null,
+   "name": "에스폴리텍",
+   "symbol": "050760"
+  },
+  {
+   "isin": null,
+   "name": "진양화학",
+   "symbol": "051630"
+  },
+  {
+   "isin": null,
+   "name": "LG화학",
+   "symbol": "051910"
+  },
+  {
+   "isin": null,
+   "name": "LG화학우",
+   "symbol": "051915"
+  },
+  {
+   "isin": null,
+   "name": "아이로보틱스",
+   "symbol": "066430"
+  },
+  {
+   "isin": null,
+   "name": "TKG휴켐스",
+   "symbol": "069260"
+  },
+  {
+   "isin": null,
+   "name": "그린케미칼",
+   "symbol": "083420"
+  },
+  {
+   "isin": null,
+   "name": "에코프로",
+   "symbol": "086520"
+  },
+  {
+   "isin": null,
+   "name": "LSK아이로봇",
+   "symbol": "091970"
+  },
+  {
+   "isin": null,
+   "name": "KPX홀딩스",
+   "symbol": "092230"
+  },
+  {
+   "isin": null,
+   "name": "후성",
+   "symbol": "093370"
+  },
+  {
+   "isin": null,
+   "name": "효성오앤비",
+   "symbol": "097870"
+  },
+  {
+   "isin": null,
+   "name": "씨큐브",
+   "symbol": "101240"
+  },
+  {
+   "isin": null,
+   "name": "에코앤드림",
+   "symbol": "101360"
+  },
+  {
+   "isin": null,
+   "name": "동성케미컬",
+   "symbol": "102260"
+  },
+  {
+   "isin": null,
+   "name": "씨앗",
+   "symbol": "103660"
+  },
+  {
+   "isin": null,
+   "name": "티케이케미칼",
+   "symbol": "104480"
+  },
+  {
+   "isin": null,
+   "name": "원익머트리얼즈",
+   "symbol": "104830"
+  },
+  {
+   "isin": null,
+   "name": "미원홀딩스",
+   "symbol": "107590"
+  },
+  {
+   "isin": null,
+   "name": "스타플렉스",
+   "symbol": "115570"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더우",
+   "symbol": "120115"
+  },
+  {
+   "isin": null,
+   "name": "대정화금",
+   "symbol": "120240"
+  },
+  {
+   "isin": null,
+   "name": "나노신소재",
+   "symbol": "121600"
+  },
+  {
+   "isin": null,
+   "name": "아모그린텍",
+   "symbol": "125210"
+  },
+  {
+   "isin": null,
+   "name": "BGF에코머티리얼즈",
+   "symbol": "126600"
+  },
+  {
+   "isin": null,
+   "name": "미원화학",
+   "symbol": "134380"
+  },
+  {
+   "isin": null,
+   "name": "아셈스",
+   "symbol": "136410"
+  },
+  {
+   "isin": null,
+   "name": "애경케미칼",
+   "symbol": "161000"
+  },
+  {
+   "isin": null,
+   "name": "에어레인",
+   "symbol": "163280"
+  },
+  {
+   "isin": null,
+   "name": "동일고무벨트",
+   "symbol": "163560"
+  },
+  {
+   "isin": null,
+   "name": "베셀",
+   "symbol": "177350"
+  },
+  {
+   "isin": null,
+   "name": "PI첨단소재",
+   "symbol": "178920"
+  },
+  {
+   "isin": null,
+   "name": "나노",
+   "symbol": "187790"
+  },
+  {
+   "isin": null,
+   "name": "웹스",
+   "symbol": "196700"
+  },
+  {
+   "isin": null,
+   "name": "에스제이켐",
+   "symbol": "217910"
+  },
+  {
+   "isin": null,
+   "name": "켐트로스",
+   "symbol": "220260"
+  },
+  {
+   "isin": null,
+   "name": "케이디켐",
+   "symbol": "221980"
+  },
+  {
+   "isin": null,
+   "name": "쎄노텍",
+   "symbol": "222420"
+  },
+  {
+   "isin": null,
+   "name": "나노씨엠에스",
+   "symbol": "247660"
+  },
+  {
+   "isin": null,
+   "name": "와이엠티",
+   "symbol": "251370"
+  },
+  {
+   "isin": null,
+   "name": "미원에스씨",
+   "symbol": "268280"
+  },
+  {
+   "isin": null,
+   "name": "레이크머티리얼즈",
+   "symbol": "281740"
+  },
+  {
+   "isin": null,
+   "name": "SK케미칼",
+   "symbol": "285130"
+  },
+  {
+   "isin": null,
+   "name": "진영",
+   "symbol": "285800"
+  },
+  {
+   "isin": null,
+   "name": "나노실리칸첨단소재",
+   "symbol": "286750"
+  },
+  {
+   "isin": null,
+   "name": "레몬",
+   "symbol": "294140"
+  },
+  {
+   "isin": null,
+   "name": "효성화학",
+   "symbol": "298000"
+  },
+  {
+   "isin": null,
+   "name": "HS효성첨단소재",
+   "symbol": "298050"
+  },
+  {
+   "isin": null,
+   "name": "KBG",
+   "symbol": "318000"
+  },
+  {
+   "isin": null,
+   "name": "누보",
+   "symbol": "332290"
+  },
+  {
+   "isin": null,
+   "name": "인바이오",
+   "symbol": "352940"
+  },
+  {
+   "isin": null,
+   "name": "석경에이티",
+   "symbol": "357550"
+  },
+  {
+   "isin": null,
+   "name": "OCI",
+   "symbol": "456040"
+  },
+  {
+   "isin": null,
+   "name": "이수스페셜티케미컬",
+   "symbol": "457190"
+  },
+  {
+   "isin": null,
+   "name": "GRT",
+   "symbol": "900290"
+  }
+ ],
+ "name": "화학"
+}

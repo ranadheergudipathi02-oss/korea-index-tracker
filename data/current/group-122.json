@@ -1,0 +1,32 @@
+{
+ "category": "group",
+ "index": "group-122",
+ "members": [
+  {
+   "isin": null,
+   "name": "하림지주",
+   "symbol": "003380"
+  },
+  {
+   "isin": null,
+   "name": "팬오션",
+   "symbol": "028670"
+  },
+  {
+   "isin": null,
+   "name": "팜스코",
+   "symbol": "036580"
+  },
+  {
+   "isin": null,
+   "name": "하림",
+   "symbol": "136480"
+  },
+  {
+   "isin": null,
+   "name": "선진",
+   "symbol": "136490"
+  }
+ ],
+ "name": "하림"
+}

@@ -1,0 +1,32 @@
+{
+ "category": "group",
+ "index": "group-67",
+ "members": [
+  {
+   "isin": null,
+   "name": "대한해운",
+   "symbol": "005880"
+  },
+  {
+   "isin": null,
+   "name": "남선알미늄",
+   "symbol": "008350"
+  },
+  {
+   "isin": null,
+   "name": "에스엠벡셀",
+   "symbol": "010580"
+  },
+  {
+   "isin": null,
+   "name": "국일제지",
+   "symbol": "078130"
+  },
+  {
+   "isin": null,
+   "name": "티케이케미칼",
+   "symbol": "104480"
+  }
+ ],
+ "name": "SM"
+}

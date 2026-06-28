@@ -1,0 +1,52 @@
+{
+ "category": "group",
+ "index": "group-20",
+ "members": [
+  {
+   "isin": null,
+   "name": "CJ대한통운",
+   "symbol": "000120"
+  },
+  {
+   "isin": null,
+   "name": "CJ",
+   "symbol": "001040"
+  },
+  {
+   "isin": null,
+   "name": "CJ씨푸드",
+   "symbol": "011150"
+  },
+  {
+   "isin": null,
+   "name": "CJ ENM",
+   "symbol": "035760"
+  },
+  {
+   "isin": null,
+   "name": "CJ프레시웨이",
+   "symbol": "051500"
+  },
+  {
+   "isin": null,
+   "name": "CJ CGV",
+   "symbol": "079160"
+  },
+  {
+   "isin": null,
+   "name": "CJ제일제당",
+   "symbol": "097950"
+  },
+  {
+   "isin": null,
+   "name": "스튜디오드래곤",
+   "symbol": "253450"
+  },
+  {
+   "isin": null,
+   "name": "CJ 바이오사이언스",
+   "symbol": "311690"
+  }
+ ],
+ "name": "CJ"
+}

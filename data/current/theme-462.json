@@ -1,0 +1,132 @@
+{
+ "category": "theme",
+ "index": "theme-462",
+ "members": [
+  {
+   "isin": null,
+   "name": "현대건설",
+   "symbol": "000720"
+  },
+  {
+   "isin": null,
+   "name": "넥센타이어",
+   "symbol": "002350"
+  },
+  {
+   "isin": null,
+   "name": "대한항공",
+   "symbol": "003490"
+  },
+  {
+   "isin": null,
+   "name": "남성",
+   "symbol": "004270"
+  },
+  {
+   "isin": null,
+   "name": "현대차",
+   "symbol": "005380"
+  },
+  {
+   "isin": null,
+   "name": "퍼스텍",
+   "symbol": "010820"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "SK텔레콤",
+   "symbol": "017670"
+  },
+  {
+   "isin": null,
+   "name": "한국카본",
+   "symbol": "017960"
+  },
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "LG유플러스",
+   "symbol": "032640"
+  },
+  {
+   "isin": null,
+   "name": "기산텔레콤",
+   "symbol": "035460"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "한국항공우주",
+   "symbol": "047810"
+  },
+  {
+   "isin": null,
+   "name": "스모트로닉",
+   "symbol": "066590"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "LIG디펜스앤에어로스페이스",
+   "symbol": "079550"
+  },
+  {
+   "isin": null,
+   "name": "제주항공",
+   "symbol": "089590"
+  },
+  {
+   "isin": null,
+   "name": "베셀",
+   "symbol": "177350"
+  },
+  {
+   "isin": null,
+   "name": "서연이화",
+   "symbol": "200880"
+  },
+  {
+   "isin": null,
+   "name": "하이즈항공",
+   "symbol": "221840"
+  },
+  {
+   "isin": null,
+   "name": "한화시스템",
+   "symbol": "272210"
+  },
+  {
+   "isin": null,
+   "name": "켄코아에어로스페이스",
+   "symbol": "274090"
+  },
+  {
+   "isin": null,
+   "name": "지아이에스",
+   "symbol": "306620"
+  },
+  {
+   "isin": null,
+   "name": "파이버프로",
+   "symbol": "368770"
+  }
+ ],
+ "name": "UAM(도심항공모빌리티)"
+}

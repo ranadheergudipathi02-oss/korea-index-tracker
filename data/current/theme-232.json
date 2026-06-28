@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-232",
+ "members": [
+  {
+   "isin": null,
+   "name": "디지틀조선",
+   "symbol": "033130"
+  },
+  {
+   "isin": null,
+   "name": "티비씨",
+   "symbol": "033830"
+  },
+  {
+   "isin": null,
+   "name": "SBS",
+   "symbol": "034120"
+  },
+  {
+   "isin": null,
+   "name": "CJ ENM",
+   "symbol": "035760"
+  },
+  {
+   "isin": null,
+   "name": "한국경제TV",
+   "symbol": "039340"
+  },
+  {
+   "isin": null,
+   "name": "YTN",
+   "symbol": "040300"
+  },
+  {
+   "isin": null,
+   "name": "iMBC",
+   "symbol": "052220"
+  },
+  {
+   "isin": null,
+   "name": "스카이라이프",
+   "symbol": "053210"
+  },
+  {
+   "isin": null,
+   "name": "KNN",
+   "symbol": "058400"
+  },
+  {
+   "isin": null,
+   "name": "아시아경제",
+   "symbol": "127710"
+  },
+  {
+   "isin": null,
+   "name": "애니플러스",
+   "symbol": "310200"
+  }
+ ],
+ "name": "미디어(방송/신문)"
+}

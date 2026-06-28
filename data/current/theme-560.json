@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-560",
+ "members": [
+  {
+   "isin": null,
+   "name": "S-Oil",
+   "symbol": "010950"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "SK",
+   "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "유니셈",
+   "symbol": "036200"
+  },
+  {
+   "isin": null,
+   "name": "케이엔솔",
+   "symbol": "053080"
+  },
+  {
+   "isin": null,
+   "name": "3S",
+   "symbol": "060310"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "오텍",
+   "symbol": "067170"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "GST",
+   "symbol": "083450"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "한중엔시에스",
+   "symbol": "107640"
+  },
+  {
+   "isin": null,
+   "name": "워트",
+   "symbol": "396470"
+  }
+ ],
+ "name": "냉각시스템(액침냉각 등)"
+}

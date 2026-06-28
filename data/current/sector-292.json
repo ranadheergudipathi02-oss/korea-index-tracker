@@ -1,0 +1,297 @@
+{
+ "category": "sector",
+ "index": "sector-292",
+ "members": [
+  {
+   "isin": null,
+   "name": "영풍",
+   "symbol": "000670"
+  },
+  {
+   "isin": null,
+   "name": "시노펙스",
+   "symbol": "025320"
+  },
+  {
+   "isin": null,
+   "name": "코아시아",
+   "symbol": "045970"
+  },
+  {
+   "isin": null,
+   "name": "파워로직스",
+   "symbol": "047310"
+  },
+  {
+   "isin": null,
+   "name": "인탑스",
+   "symbol": "049070"
+  },
+  {
+   "isin": null,
+   "name": "유아이엘",
+   "symbol": "049520"
+  },
+  {
+   "isin": null,
+   "name": "재영솔루텍",
+   "symbol": "049630"
+  },
+  {
+   "isin": null,
+   "name": "캠시스",
+   "symbol": "050110"
+  },
+  {
+   "isin": null,
+   "name": "아모텍",
+   "symbol": "052710"
+  },
+  {
+   "isin": null,
+   "name": "이랜텍",
+   "symbol": "054210"
+  },
+  {
+   "isin": null,
+   "name": "에스에이티",
+   "symbol": "060540"
+  },
+  {
+   "isin": null,
+   "name": "KH바텍",
+   "symbol": "060720"
+  },
+  {
+   "isin": null,
+   "name": "알에프텍",
+   "symbol": "061040"
+  },
+  {
+   "isin": null,
+   "name": "탑엔지니어링",
+   "symbol": "065130"
+  },
+  {
+   "isin": null,
+   "name": "우주일렉트로",
+   "symbol": "065680"
+  },
+  {
+   "isin": null,
+   "name": "디티씨",
+   "symbol": "066670"
+  },
+  {
+   "isin": null,
+   "name": "엑스큐어",
+   "symbol": "070300"
+  },
+  {
+   "isin": null,
+   "name": "리튬포어스",
+   "symbol": "073570"
+  },
+  {
+   "isin": null,
+   "name": "해성옵틱스",
+   "symbol": "076610"
+  },
+  {
+   "isin": null,
+   "name": "케스피온",
+   "symbol": "079190"
+  },
+  {
+   "isin": null,
+   "name": "성우전자",
+   "symbol": "081580"
+  },
+  {
+   "isin": null,
+   "name": "쏘닉스",
+   "symbol": "088280"
+  },
+  {
+   "isin": null,
+   "name": "이엠텍",
+   "symbol": "091120"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "서원인텍",
+   "symbol": "093920"
+  },
+  {
+   "isin": null,
+   "name": "에스코넥",
+   "symbol": "096630"
+  },
+  {
+   "isin": null,
+   "name": "엠씨넥스",
+   "symbol": "097520"
+  },
+  {
+   "isin": null,
+   "name": "아이엠",
+   "symbol": "101390"
+  },
+  {
+   "isin": null,
+   "name": "케이이엠텍",
+   "symbol": "106080"
+  },
+  {
+   "isin": null,
+   "name": "이미지스",
+   "symbol": "115610"
+  },
+  {
+   "isin": null,
+   "name": "와이솔",
+   "symbol": "122990"
+  },
+  {
+   "isin": null,
+   "name": "알엔티엑스",
+   "symbol": "123010"
+  },
+  {
+   "isin": null,
+   "name": "하이비젼시스템",
+   "symbol": "126700"
+  },
+  {
+   "isin": null,
+   "name": "세경하이테크",
+   "symbol": "148150"
+  },
+  {
+   "isin": null,
+   "name": "유티아이",
+   "symbol": "179900"
+  },
+  {
+   "isin": null,
+   "name": "신화콘텍",
+   "symbol": "187270"
+  },
+  {
+   "isin": null,
+   "name": "나무가",
+   "symbol": "190510"
+  },
+  {
+   "isin": null,
+   "name": "슈피겐코리아",
+   "symbol": "192440"
+  },
+  {
+   "isin": null,
+   "name": "드림텍",
+   "symbol": "192650"
+  },
+  {
+   "isin": null,
+   "name": "링크드",
+   "symbol": "193250"
+  },
+  {
+   "isin": null,
+   "name": "코아시아씨엠",
+   "symbol": "196450"
+  },
+  {
+   "isin": null,
+   "name": "캐프",
+   "symbol": "198080"
+  },
+  {
+   "isin": null,
+   "name": "제이앤티씨",
+   "symbol": "204270"
+  },
+  {
+   "isin": null,
+   "name": "포톤",
+   "symbol": "208710"
+  },
+  {
+   "isin": null,
+   "name": "앤디포스",
+   "symbol": "238090"
+  },
+  {
+   "isin": null,
+   "name": "케일럼",
+   "symbol": "258610"
+  },
+  {
+   "isin": null,
+   "name": "덕우전자",
+   "symbol": "263600"
+  },
+  {
+   "isin": null,
+   "name": "팸텍",
+   "symbol": "271830"
+  },
+  {
+   "isin": null,
+   "name": "노바텍",
+   "symbol": "285490"
+  },
+  {
+   "isin": null,
+   "name": "디케이티",
+   "symbol": "290550"
+  },
+  {
+   "isin": null,
+   "name": "액트로",
+   "symbol": "290740"
+  },
+  {
+   "isin": null,
+   "name": "PS일렉트로닉스",
+   "symbol": "332570"
+  },
+  {
+   "isin": null,
+   "name": "아모센스",
+   "symbol": "357580"
+  },
+  {
+   "isin": null,
+   "name": "엑스플러스",
+   "symbol": "373200"
+  },
+  {
+   "isin": null,
+   "name": "씨유테크",
+   "symbol": "376290"
+  },
+  {
+   "isin": null,
+   "name": "파인엠텍",
+   "symbol": "441270"
+  },
+  {
+   "isin": null,
+   "name": "위츠",
+   "symbol": "459100"
+  },
+  {
+   "isin": null,
+   "name": "알트",
+   "symbol": "459550"
+  }
+ ],
+ "name": "핸드셋"
+}

@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-69",
+ "members": [
+  {
+   "isin": null,
+   "name": "DB하이텍",
+   "symbol": "000990"
+  },
+  {
+   "isin": null,
+   "name": "DB손해보험",
+   "symbol": "005830"
+  },
+  {
+   "isin": null,
+   "name": "DB",
+   "symbol": "012030"
+  },
+  {
+   "isin": null,
+   "name": "DB증권",
+   "symbol": "016610"
+  }
+ ],
+ "name": "DB"
+}

@@ -1,0 +1,82 @@
+{
+ "category": "theme",
+ "index": "theme-600",
+ "members": [
+  {
+   "isin": null,
+   "name": "중앙에너비스",
+   "symbol": "000440"
+  },
+  {
+   "isin": null,
+   "name": "세기상사",
+   "symbol": "002420"
+  },
+  {
+   "isin": null,
+   "name": "S-Oil",
+   "symbol": "010950"
+  },
+  {
+   "isin": null,
+   "name": "리드코프",
+   "symbol": "012700"
+  },
+  {
+   "isin": null,
+   "name": "극동유화",
+   "symbol": "014530"
+  },
+  {
+   "isin": null,
+   "name": "태경산업",
+   "symbol": "015890"
+  },
+  {
+   "isin": null,
+   "name": "흥구석유",
+   "symbol": "024060"
+  },
+  {
+   "isin": null,
+   "name": "남해화학",
+   "symbol": "025860"
+  },
+  {
+   "isin": null,
+   "name": "위즈코프",
+   "symbol": "038620"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "대성산업",
+   "symbol": "128820"
+  },
+  {
+   "isin": null,
+   "name": "HD현대",
+   "symbol": "267250"
+  },
+  {
+   "isin": null,
+   "name": "코람코라이프인프라리츠",
+   "symbol": "357120"
+  },
+  {
+   "isin": null,
+   "name": "SK리츠",
+   "symbol": "395400"
+  }
+ ],
+ "name": "주유소"
+}

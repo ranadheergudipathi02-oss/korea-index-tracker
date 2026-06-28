@@ -1,0 +1,92 @@
+{
+ "category": "theme",
+ "index": "theme-298",
+ "members": [
+  {
+   "isin": null,
+   "name": "유니온",
+   "symbol": "000910"
+  },
+  {
+   "isin": null,
+   "name": "현대비앤지스틸",
+   "symbol": "004560"
+  },
+  {
+   "isin": null,
+   "name": "POSCO홀딩스",
+   "symbol": "005490"
+  },
+  {
+   "isin": null,
+   "name": "고려아연",
+   "symbol": "010130"
+  },
+  {
+   "isin": null,
+   "name": "삼화전자",
+   "symbol": "011230"
+  },
+  {
+   "isin": null,
+   "name": "우성머티리얼스",
+   "symbol": "011300"
+  },
+  {
+   "isin": null,
+   "name": "대원화성",
+   "symbol": "024890"
+  },
+  {
+   "isin": null,
+   "name": "EG",
+   "symbol": "037370"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "동국알앤에스",
+   "symbol": "075970"
+  },
+  {
+   "isin": null,
+   "name": "티플랙스",
+   "symbol": "081150"
+  },
+  {
+   "isin": null,
+   "name": "제이에스링크",
+   "symbol": "127120"
+  },
+  {
+   "isin": null,
+   "name": "쎄노텍",
+   "symbol": "222420"
+  },
+  {
+   "isin": null,
+   "name": "LS에코에너지",
+   "symbol": "229640"
+  },
+  {
+   "isin": null,
+   "name": "노바텍",
+   "symbol": "285490"
+  },
+  {
+   "isin": null,
+   "name": "그린리소스",
+   "symbol": "402490"
+  },
+  {
+   "isin": null,
+   "name": "엔젯",
+   "symbol": "419080"
+  }
+ ],
+ "name": "희귀금속(희토류 등)"
+}

@@ -1,0 +1,347 @@
+{
+ "category": "sector",
+ "index": "sector-283",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼화콘덴서",
+   "symbol": "001820"
+  },
+  {
+   "isin": null,
+   "name": "피에스텍",
+   "symbol": "002230"
+  },
+  {
+   "isin": null,
+   "name": "삼영전자",
+   "symbol": "005680"
+  },
+  {
+   "isin": null,
+   "name": "삼성SDI",
+   "symbol": "006400"
+  },
+  {
+   "isin": null,
+   "name": "삼성SDI우",
+   "symbol": "006405"
+  },
+  {
+   "isin": null,
+   "name": "삼화전기",
+   "symbol": "009470"
+  },
+  {
+   "isin": null,
+   "name": "뉴인텍",
+   "symbol": "012340"
+  },
+  {
+   "isin": null,
+   "name": "성문전자",
+   "symbol": "014910"
+  },
+  {
+   "isin": null,
+   "name": "성문전자우",
+   "symbol": "014915"
+  },
+  {
+   "isin": null,
+   "name": "피노",
+   "symbol": "033790"
+  },
+  {
+   "isin": null,
+   "name": "아비코전자",
+   "symbol": "036010"
+  },
+  {
+   "isin": null,
+   "name": "솔브레인홀딩스",
+   "symbol": "036830"
+  },
+  {
+   "isin": null,
+   "name": "파워넷",
+   "symbol": "037030"
+  },
+  {
+   "isin": null,
+   "name": "에스씨디",
+   "symbol": "042110"
+  },
+  {
+   "isin": null,
+   "name": "비츠로테크",
+   "symbol": "042370"
+  },
+  {
+   "isin": null,
+   "name": "성호전자",
+   "symbol": "043260"
+  },
+  {
+   "isin": null,
+   "name": "웰킵스하이텍",
+   "symbol": "043590"
+  },
+  {
+   "isin": null,
+   "name": "에스피지",
+   "symbol": "058610"
+  },
+  {
+   "isin": null,
+   "name": "엘앤에프",
+   "symbol": "066970"
+  },
+  {
+   "isin": null,
+   "name": "APS이노베이션",
+   "symbol": "079810"
+  },
+  {
+   "isin": null,
+   "name": "동양이엔피",
+   "symbol": "079960"
+  },
+  {
+   "isin": null,
+   "name": "비츠로셀",
+   "symbol": "082920"
+  },
+  {
+   "isin": null,
+   "name": "아바코",
+   "symbol": "083930"
+  },
+  {
+   "isin": null,
+   "name": "상신이디피",
+   "symbol": "091580"
+  },
+  {
+   "isin": null,
+   "name": "하이드로리튬",
+   "symbol": "101670"
+  },
+  {
+   "isin": null,
+   "name": "새빗켐",
+   "symbol": "107600"
+  },
+  {
+   "isin": null,
+   "name": "코칩",
+   "symbol": "126730"
+  },
+  {
+   "isin": null,
+   "name": "피엔티",
+   "symbol": "137400"
+  },
+  {
+   "isin": null,
+   "name": "에이치와이티씨",
+   "symbol": "148930"
+  },
+  {
+   "isin": null,
+   "name": "디에이테크놀로지",
+   "symbol": "196490"
+  },
+  {
+   "isin": null,
+   "name": "원익피앤이",
+   "symbol": "217820"
+  },
+  {
+   "isin": null,
+   "name": "SFA넥셀",
+   "symbol": "222080"
+  },
+  {
+   "isin": null,
+   "name": "더코디",
+   "symbol": "224060"
+  },
+  {
+   "isin": null,
+   "name": "이엠티",
+   "symbol": "232530"
+  },
+  {
+   "isin": null,
+   "name": "유진테크놀로지",
+   "symbol": "240600"
+  },
+  {
+   "isin": null,
+   "name": "신흥에스이씨",
+   "symbol": "243840"
+  },
+  {
+   "isin": null,
+   "name": "에코프로비엠",
+   "symbol": "247540"
+  },
+  {
+   "isin": null,
+   "name": "피엔티엠에스",
+   "symbol": "257370"
+  },
+  {
+   "isin": null,
+   "name": "엠플러스",
+   "symbol": "259630"
+  },
+  {
+   "isin": null,
+   "name": "나인테크",
+   "symbol": "267320"
+  },
+  {
+   "isin": null,
+   "name": "와이엠텍",
+   "symbol": "273640"
+  },
+  {
+   "isin": null,
+   "name": "천보",
+   "symbol": "278280"
+  },
+  {
+   "isin": null,
+   "name": "이노벡스",
+   "symbol": "279060"
+  },
+  {
+   "isin": null,
+   "name": "에스프리즘",
+   "symbol": "288620"
+  },
+  {
+   "isin": null,
+   "name": "이노메트리",
+   "symbol": "302430"
+  },
+  {
+   "isin": null,
+   "name": "캐리",
+   "symbol": "313760"
+  },
+  {
+   "isin": null,
+   "name": "엔켐",
+   "symbol": "348370"
+  },
+  {
+   "isin": null,
+   "name": "SK아이이테크놀로지",
+   "symbol": "361610"
+  },
+  {
+   "isin": null,
+   "name": "성일하이텍",
+   "symbol": "365340"
+  },
+  {
+   "isin": null,
+   "name": "LG에너지솔루션",
+   "symbol": "373220"
+  },
+  {
+   "isin": null,
+   "name": "이지트로닉스",
+   "symbol": "377330"
+  },
+  {
+   "isin": null,
+   "name": "필에너지",
+   "symbol": "378340"
+  },
+  {
+   "isin": null,
+   "name": "지아이텍",
+   "symbol": "382480"
+  },
+  {
+   "isin": null,
+   "name": "원준",
+   "symbol": "382840"
+  },
+  {
+   "isin": null,
+   "name": "범한퓨얼셀",
+   "symbol": "382900"
+  },
+  {
+   "isin": null,
+   "name": "더블유씨피",
+   "symbol": "393890"
+  },
+  {
+   "isin": null,
+   "name": "대진첨단소재",
+   "symbol": "393970"
+  },
+  {
+   "isin": null,
+   "name": "제일엠앤에스",
+   "symbol": "412540"
+  },
+  {
+   "isin": null,
+   "name": "엠오티",
+   "symbol": "413390"
+  },
+  {
+   "isin": null,
+   "name": "신성에스티",
+   "symbol": "416180"
+  },
+  {
+   "isin": null,
+   "name": "LS머트리얼즈",
+   "symbol": "417200"
+  },
+  {
+   "isin": null,
+   "name": "케이엔에스",
+   "symbol": "432470"
+  },
+  {
+   "isin": null,
+   "name": "에코프로머티",
+   "symbol": "450080"
+  },
+  {
+   "isin": null,
+   "name": "한빛레이저",
+   "symbol": "452190"
+  },
+  {
+   "isin": null,
+   "name": "민테크",
+   "symbol": "452200"
+  },
+  {
+   "isin": null,
+   "name": "이닉스",
+   "symbol": "452400"
+  },
+  {
+   "isin": null,
+   "name": "성우",
+   "symbol": "458650"
+  },
+  {
+   "isin": null,
+   "name": "아이비젼웍스",
+   "symbol": "469750"
+  }
+ ],
+ "name": "전기제품"
+}

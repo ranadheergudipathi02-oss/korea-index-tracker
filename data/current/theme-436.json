@@ -1,0 +1,372 @@
+{
+ "category": "theme",
+ "index": "theme-436",
+ "members": [
+  {
+   "isin": null,
+   "name": "JW중외제약",
+   "symbol": "001060"
+  },
+  {
+   "isin": null,
+   "name": "대웅",
+   "symbol": "003090"
+  },
+  {
+   "isin": null,
+   "name": "팜젠사이언스",
+   "symbol": "004720"
+  },
+  {
+   "isin": null,
+   "name": "파미셀",
+   "symbol": "005690"
+  },
+  {
+   "isin": null,
+   "name": "네이처셀",
+   "symbol": "007390"
+  },
+  {
+   "isin": null,
+   "name": "진원생명과학",
+   "symbol": "011000"
+  },
+  {
+   "isin": null,
+   "name": "신풍제약",
+   "symbol": "019170"
+  },
+  {
+   "isin": null,
+   "name": "한국파마",
+   "symbol": "032300"
+  },
+  {
+   "isin": null,
+   "name": "오상헬스케어",
+   "symbol": "036220"
+  },
+  {
+   "isin": null,
+   "name": "마크로젠",
+   "symbol": "038290"
+  },
+  {
+   "isin": null,
+   "name": "바이오스마트",
+   "symbol": "038460"
+  },
+  {
+   "isin": null,
+   "name": "케이바이오랩스",
+   "symbol": "038530"
+  },
+  {
+   "isin": null,
+   "name": "나노엔텍",
+   "symbol": "039860"
+  },
+  {
+   "isin": null,
+   "name": "코미팜",
+   "symbol": "041960"
+  },
+  {
+   "isin": null,
+   "name": "현대바이오",
+   "symbol": "048410"
+  },
+  {
+   "isin": null,
+   "name": "인트론바이오",
+   "symbol": "048530"
+  },
+  {
+   "isin": null,
+   "name": "시너지이노베이션",
+   "symbol": "048870"
+  },
+  {
+   "isin": null,
+   "name": "오상자이엘",
+   "symbol": "053980"
+  },
+  {
+   "isin": null,
+   "name": "씨티씨바이오",
+   "symbol": "060590"
+  },
+  {
+   "isin": null,
+   "name": "바이오니아",
+   "symbol": "064550"
+  },
+  {
+   "isin": null,
+   "name": "대웅제약",
+   "symbol": "069620"
+  },
+  {
+   "isin": null,
+   "name": "랩지노믹스",
+   "symbol": "084650"
+  },
+  {
+   "isin": null,
+   "name": "펩트론",
+   "symbol": "087010"
+  },
+  {
+   "isin": null,
+   "name": "씨젠",
+   "symbol": "096530"
+  },
+  {
+   "isin": null,
+   "name": "인바이오젠",
+   "symbol": "101140"
+  },
+  {
+   "isin": null,
+   "name": "진매트릭스",
+   "symbol": "109820"
+  },
+  {
+   "isin": null,
+   "name": "메타케어",
+   "symbol": "118000"
+  },
+  {
+   "isin": null,
+   "name": "제이에스링크",
+   "symbol": "127120"
+  },
+  {
+   "isin": null,
+   "name": "에스디바이오센서",
+   "symbol": "137310"
+  },
+  {
+   "isin": null,
+   "name": "리가켐바이오",
+   "symbol": "141080"
+  },
+  {
+   "isin": null,
+   "name": "녹십자엠에스",
+   "symbol": "142280"
+  },
+  {
+   "isin": null,
+   "name": "옵티팜",
+   "symbol": "153710"
+  },
+  {
+   "isin": null,
+   "name": "앱클론",
+   "symbol": "174900"
+  },
+  {
+   "isin": null,
+   "name": "아이진",
+   "symbol": "185490"
+  },
+  {
+   "isin": null,
+   "name": "종근당",
+   "symbol": "185750"
+  },
+  {
+   "isin": null,
+   "name": "HLB제넥스",
+   "symbol": "187420"
+  },
+  {
+   "isin": null,
+   "name": "드림텍",
+   "symbol": "192650"
+  },
+  {
+   "isin": null,
+   "name": "비씨월드제약",
+   "symbol": "200780"
+  },
+  {
+   "isin": null,
+   "name": "에이비온",
+   "symbol": "203400"
+  },
+  {
+   "isin": null,
+   "name": "휴마시스",
+   "symbol": "205470"
+  },
+  {
+   "isin": null,
+   "name": "바디텍메드",
+   "symbol": "206640"
+  },
+  {
+   "isin": null,
+   "name": "유바이오로직스",
+   "symbol": "206650"
+  },
+  {
+   "isin": null,
+   "name": "케어젠",
+   "symbol": "214370"
+  },
+  {
+   "isin": null,
+   "name": "강스템바이오텍",
+   "symbol": "217730"
+  },
+  {
+   "isin": null,
+   "name": "지구홀딩스",
+   "symbol": "221800"
+  },
+  {
+   "isin": null,
+   "name": "제놀루션",
+   "symbol": "225220"
+  },
+  {
+   "isin": null,
+   "name": "지노믹트리",
+   "symbol": "228760"
+  },
+  {
+   "isin": null,
+   "name": "얼라인드",
+   "symbol": "238120"
+  },
+  {
+   "isin": null,
+   "name": "휴온스",
+   "symbol": "243070"
+  },
+  {
+   "isin": null,
+   "name": "일동제약",
+   "symbol": "249420"
+  },
+  {
+   "isin": null,
+   "name": "수젠텍",
+   "symbol": "253840"
+  },
+  {
+   "isin": null,
+   "name": "한국비엔씨",
+   "symbol": "256840"
+  },
+  {
+   "isin": null,
+   "name": "아리바이오랩",
+   "symbol": "261780"
+  },
+  {
+   "isin": null,
+   "name": "제일약품",
+   "symbol": "271980"
+  },
+  {
+   "isin": null,
+   "name": "나노실리칸첨단소재",
+   "symbol": "286750"
+  },
+  {
+   "isin": null,
+   "name": "SV인베스트먼트",
+   "symbol": "289080"
+  },
+  {
+   "isin": null,
+   "name": "압타바이오",
+   "symbol": "293780"
+  },
+  {
+   "isin": null,
+   "name": "셀리드",
+   "symbol": "299660"
+  },
+  {
+   "isin": null,
+   "name": "SK바이오사이언스",
+   "symbol": "302440"
+  },
+  {
+   "isin": null,
+   "name": "마이크로디지탈",
+   "symbol": "305090"
+  },
+  {
+   "isin": null,
+   "name": "국전",
+   "symbol": "307750"
+  },
+  {
+   "isin": null,
+   "name": "CJ 바이오사이언스",
+   "symbol": "311690"
+  },
+  {
+   "isin": null,
+   "name": "퀀타매트릭스",
+   "symbol": "317690"
+  },
+  {
+   "isin": null,
+   "name": "셀레믹스",
+   "symbol": "331920"
+  },
+  {
+   "isin": null,
+   "name": "프리시젼바이오",
+   "symbol": "335810"
+  },
+  {
+   "isin": null,
+   "name": "큐라티스",
+   "symbol": "348080"
+  },
+  {
+   "isin": null,
+   "name": "엔젠바이오",
+   "symbol": "354200"
+  },
+  {
+   "isin": null,
+   "name": "진시스템",
+   "symbol": "363250"
+  },
+  {
+   "isin": null,
+   "name": "바이오노트",
+   "symbol": "377740"
+  },
+  {
+   "isin": null,
+   "name": "샤페론",
+   "symbol": "378800"
+  },
+  {
+   "isin": null,
+   "name": "인벤티지랩",
+   "symbol": "389470"
+  },
+  {
+   "isin": null,
+   "name": "엑세스바이오",
+   "symbol": "950130"
+  },
+  {
+   "isin": null,
+   "name": "소마젠",
+   "symbol": "950200"
+  }
+ ],
+ "name": "코로나19(진단/치료제/백신 개발 등)"
+}

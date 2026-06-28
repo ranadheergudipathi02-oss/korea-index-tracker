@@ -1,0 +1,42 @@
+{
+ "category": "theme",
+ "index": "theme-556",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "네패스",
+   "symbol": "033640"
+  },
+  {
+   "isin": null,
+   "name": "앤씨앤",
+   "symbol": "092600"
+  },
+  {
+   "isin": null,
+   "name": "네패스아크",
+   "symbol": "330860"
+  },
+  {
+   "isin": null,
+   "name": "자람테크놀로지",
+   "symbol": "389020"
+  },
+  {
+   "isin": null,
+   "name": "오픈엣지테크놀로지",
+   "symbol": "394280"
+  },
+  {
+   "isin": null,
+   "name": "에이직랜드",
+   "symbol": "445090"
+  }
+ ],
+ "name": "뉴로모픽 반도체"
+}

@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-178",
+ "members": [
+  {
+   "isin": null,
+   "name": "가온전선",
+   "symbol": "000500"
+  },
+  {
+   "isin": null,
+   "name": "대한전선",
+   "symbol": "001440"
+  },
+  {
+   "isin": null,
+   "name": "LS",
+   "symbol": "006260"
+  },
+  {
+   "isin": null,
+   "name": "대원전선",
+   "symbol": "006340"
+  },
+  {
+   "isin": null,
+   "name": "KBI메탈",
+   "symbol": "024840"
+  },
+  {
+   "isin": null,
+   "name": "LS마린솔루션",
+   "symbol": "060370"
+  },
+  {
+   "isin": null,
+   "name": "일진전기",
+   "symbol": "103590"
+  },
+  {
+   "isin": null,
+   "name": "LS에코에너지",
+   "symbol": "229640"
+  }
+ ],
+ "name": "전선"
+}

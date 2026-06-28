@@ -1,0 +1,32 @@
+{
+ "category": "group",
+ "index": "group-114",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼양홀딩스",
+   "symbol": "000070"
+  },
+  {
+   "isin": null,
+   "name": "삼양케이씨아이",
+   "symbol": "036670"
+  },
+  {
+   "isin": null,
+   "name": "삼양사",
+   "symbol": "145990"
+  },
+  {
+   "isin": null,
+   "name": "삼양패키징",
+   "symbol": "272550"
+  },
+  {
+   "isin": null,
+   "name": "삼양엔씨켐",
+   "symbol": "482630"
+  }
+ ],
+ "name": "삼양"
+}

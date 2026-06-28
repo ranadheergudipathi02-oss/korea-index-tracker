@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-521",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국정보통신",
+   "symbol": "025770"
+  },
+  {
+   "isin": null,
+   "name": "NICE",
+   "symbol": "034310"
+  },
+  {
+   "isin": null,
+   "name": "KG이니시스",
+   "symbol": "035600"
+  },
+  {
+   "isin": null,
+   "name": "나이스정보통신",
+   "symbol": "036800"
+  },
+  {
+   "isin": null,
+   "name": "KG파이낸셜",
+   "symbol": "046440"
+  },
+  {
+   "isin": null,
+   "name": "NHN KCP",
+   "symbol": "060250"
+  },
+  {
+   "isin": null,
+   "name": "이루온",
+   "symbol": "065440"
+  },
+  {
+   "isin": null,
+   "name": "엑스플러스",
+   "symbol": "373200"
+  }
+ ],
+ "name": "애플페이"
+}

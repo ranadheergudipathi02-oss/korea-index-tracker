@@ -1,0 +1,142 @@
+{
+ "category": "sector",
+ "index": "sector-311",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국수출포장",
+   "symbol": "002200"
+  },
+  {
+   "isin": null,
+   "name": "아세아제지",
+   "symbol": "002310"
+  },
+  {
+   "isin": null,
+   "name": "신풍",
+   "symbol": "002870"
+  },
+  {
+   "isin": null,
+   "name": "NPC",
+   "symbol": "004250"
+  },
+  {
+   "isin": null,
+   "name": "NPC우",
+   "symbol": "004255"
+  },
+  {
+   "isin": null,
+   "name": "삼화왕관",
+   "symbol": "004450"
+  },
+  {
+   "isin": null,
+   "name": "대륙제관",
+   "symbol": "004780"
+  },
+  {
+   "isin": null,
+   "name": "원림",
+   "symbol": "005820"
+  },
+  {
+   "isin": null,
+   "name": "율촌화학",
+   "symbol": "008730"
+  },
+  {
+   "isin": null,
+   "name": "금비",
+   "symbol": "008870"
+  },
+  {
+   "isin": null,
+   "name": "한창제지",
+   "symbol": "009460"
+  },
+  {
+   "isin": null,
+   "name": "태림포장",
+   "symbol": "011280"
+  },
+  {
+   "isin": null,
+   "name": "대영포장",
+   "symbol": "014160"
+  },
+  {
+   "isin": null,
+   "name": "동원시스템즈",
+   "symbol": "014820"
+  },
+  {
+   "isin": null,
+   "name": "동원시스템즈우",
+   "symbol": "014825"
+  },
+  {
+   "isin": null,
+   "name": "삼륭물산",
+   "symbol": "014970"
+  },
+  {
+   "isin": null,
+   "name": "리더스코스메틱",
+   "symbol": "016100"
+  },
+  {
+   "isin": null,
+   "name": "신대양제지",
+   "symbol": "016590"
+  },
+  {
+   "isin": null,
+   "name": "대림제지",
+   "symbol": "017650"
+  },
+  {
+   "isin": null,
+   "name": "삼보판지",
+   "symbol": "023600"
+  },
+  {
+   "isin": null,
+   "name": "한국팩키지",
+   "symbol": "037230"
+  },
+  {
+   "isin": null,
+   "name": "승일",
+   "symbol": "049830"
+  },
+  {
+   "isin": null,
+   "name": "펌텍코리아",
+   "symbol": "251970"
+  },
+  {
+   "isin": null,
+   "name": "휴엠앤씨",
+   "symbol": "263920"
+  },
+  {
+   "isin": null,
+   "name": "삼양패키징",
+   "symbol": "272550"
+  },
+  {
+   "isin": null,
+   "name": "세림B&G",
+   "symbol": "340440"
+  },
+  {
+   "isin": null,
+   "name": "에스엠씨지",
+   "symbol": "460870"
+  }
+ ],
+ "name": "포장재"
+}

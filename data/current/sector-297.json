@@ -1,0 +1,67 @@
+{
+ "category": "sector",
+ "index": "sector-297",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼정펄프",
+   "symbol": "009770"
+  },
+  {
+   "isin": null,
+   "name": "모나리자",
+   "symbol": "012690"
+  },
+  {
+   "isin": null,
+   "name": "제이엠아이",
+   "symbol": "033050"
+  },
+  {
+   "isin": null,
+   "name": "태양",
+   "symbol": "053620"
+  },
+  {
+   "isin": null,
+   "name": "전진바이오팜",
+   "symbol": "110020"
+  },
+  {
+   "isin": null,
+   "name": "아크솔루션스",
+   "symbol": "203690"
+  },
+  {
+   "isin": null,
+   "name": "케이엠제약",
+   "symbol": "225430"
+  },
+  {
+   "isin": null,
+   "name": "질경이",
+   "symbol": "233990"
+  },
+  {
+   "isin": null,
+   "name": "지앤이헬스케어",
+   "symbol": "299480"
+  },
+  {
+   "isin": null,
+   "name": "TS트릴리온",
+   "symbol": "317240"
+  },
+  {
+   "isin": null,
+   "name": "비비씨",
+   "symbol": "318410"
+  },
+  {
+   "isin": null,
+   "name": "한국미라클피플사",
+   "symbol": "331660"
+  }
+ ],
+ "name": "가정용품"
+}

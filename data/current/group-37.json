@@ -1,0 +1,52 @@
+{
+ "category": "group",
+ "index": "group-37",
+ "members": [
+  {
+   "isin": null,
+   "name": "유니온",
+   "symbol": "000910"
+  },
+  {
+   "isin": null,
+   "name": "부광약품",
+   "symbol": "003000"
+  },
+  {
+   "isin": null,
+   "name": "SGC에너지",
+   "symbol": "005090"
+  },
+  {
+   "isin": null,
+   "name": "OCI홀딩스",
+   "symbol": "010060"
+  },
+  {
+   "isin": null,
+   "name": "유니드",
+   "symbol": "014830"
+  },
+  {
+   "isin": null,
+   "name": "SGC E&C",
+   "symbol": "016250"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "유니드비티플러스",
+   "symbol": "446070"
+  },
+  {
+   "isin": null,
+   "name": "OCI",
+   "symbol": "456040"
+  }
+ ],
+ "name": "OCI"
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korea Index Tracker — KOSPI / KOSDAQ constituents & change history</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1><a href="#/">🇰🇷 Korea Index Tracker</a></h1>
+    <p class="tagline">KOSPI &amp; KOSDAQ index constituents with auto-tracked add/remove history.
+       Source: Naver Finance. Updates when the fetcher PC runs.</p>
+    <input id="search" type="search" placeholder="Search index or stock (name / 6-digit code)…" autocomplete="off">
+  </div>
+</header>
+
+<div id="health" class="wrap"></div>
+<main id="view" class="wrap"><p class="muted">Loading…</p></main>
+
+<footer>
+  <div class="wrap">
+    <span id="foot-stats" class="muted"></span>
+    <span class="muted"> · Change date = detection date, not effective date.</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

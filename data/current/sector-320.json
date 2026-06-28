@@ -1,0 +1,62 @@
+{
+ "category": "sector",
+ "index": "sector-320",
+ "members": [
+  {
+   "isin": null,
+   "name": "대림바스",
+   "symbol": "005750"
+  },
+  {
+   "isin": null,
+   "name": "국영지앤엠",
+   "symbol": "006050"
+  },
+  {
+   "isin": null,
+   "name": "대림통상",
+   "symbol": "006570"
+  },
+  {
+   "isin": null,
+   "name": "금강공업",
+   "symbol": "014280"
+  },
+  {
+   "isin": null,
+   "name": "금강공업우",
+   "symbol": "014285"
+  },
+  {
+   "isin": null,
+   "name": "삼목에스폼",
+   "symbol": "018310"
+  },
+  {
+   "isin": null,
+   "name": "티케이지애강",
+   "symbol": "022220"
+  },
+  {
+   "isin": null,
+   "name": "프럼파스트",
+   "symbol": "035200"
+  },
+  {
+   "isin": null,
+   "name": "오션인더블유",
+   "symbol": "052300"
+  },
+  {
+   "isin": null,
+   "name": "뉴보텍",
+   "symbol": "060260"
+  },
+  {
+   "isin": null,
+   "name": "와토스코리아",
+   "symbol": "079000"
+  }
+ ],
+ "name": "건축제품"
+}

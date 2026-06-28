@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-297",
+ "members": [
+  {
+   "isin": null,
+   "name": "화천기공",
+   "symbol": "000850"
+  },
+  {
+   "isin": null,
+   "name": "SNT다이내믹스",
+   "symbol": "003570"
+  },
+  {
+   "isin": null,
+   "name": "삼익THK",
+   "symbol": "004380"
+  },
+  {
+   "isin": null,
+   "name": "SIMPAC",
+   "symbol": "009160"
+  },
+  {
+   "isin": null,
+   "name": "화천기계",
+   "symbol": "010660"
+  },
+  {
+   "isin": null,
+   "name": "와이지-원",
+   "symbol": "019210"
+  },
+  {
+   "isin": null,
+   "name": "한국주강",
+   "symbol": "025890"
+  },
+  {
+   "isin": null,
+   "name": "유니온머티리얼",
+   "symbol": "047400"
+  },
+  {
+   "isin": null,
+   "name": "넥스턴앤롤코리아",
+   "symbol": "089140"
+  },
+  {
+   "isin": null,
+   "name": "스맥",
+   "symbol": "099440"
+  },
+  {
+   "isin": null,
+   "name": "서암기계공업",
+   "symbol": "100660"
+  },
+  {
+   "isin": null,
+   "name": "한국정밀기계",
+   "symbol": "101680"
+  },
+  {
+   "isin": null,
+   "name": "대성하이텍",
+   "symbol": "129920"
+  },
+  {
+   "isin": null,
+   "name": "에이비프로바이오",
+   "symbol": "195990"
+  }
+ ],
+ "name": "공작기계"
+}

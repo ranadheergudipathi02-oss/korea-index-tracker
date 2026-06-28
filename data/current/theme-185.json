@@ -1,0 +1,22 @@
+{
+ "category": "theme",
+ "index": "theme-185",
+ "members": [
+  {
+   "isin": null,
+   "name": "S-Oil",
+   "symbol": "010950"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  }
+ ],
+ "name": "정유"
+}

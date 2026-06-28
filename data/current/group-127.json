@@ -1,0 +1,42 @@
+{
+ "category": "group",
+ "index": "group-127",
+ "members": [
+  {
+   "isin": null,
+   "name": "키다리스튜디오",
+   "symbol": "020120"
+  },
+  {
+   "isin": null,
+   "name": "다우기술",
+   "symbol": "023590"
+  },
+  {
+   "isin": null,
+   "name": "다우데이타",
+   "symbol": "032190"
+  },
+  {
+   "isin": null,
+   "name": "키움증권",
+   "symbol": "039490"
+  },
+  {
+   "isin": null,
+   "name": "한국정보인증",
+   "symbol": "053300"
+  },
+  {
+   "isin": null,
+   "name": "사람인",
+   "symbol": "143240"
+  },
+  {
+   "isin": null,
+   "name": "와이즈버즈",
+   "symbol": "273060"
+  }
+ ],
+ "name": "다우키움"
+}

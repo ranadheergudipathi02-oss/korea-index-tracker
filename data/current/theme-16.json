@@ -1,0 +1,107 @@
+{
+ "category": "theme",
+ "index": "theme-16",
+ "members": [
+  {
+   "isin": null,
+   "name": "한성기업",
+   "symbol": "003680"
+  },
+  {
+   "isin": null,
+   "name": "사조대림",
+   "symbol": "003960"
+  },
+  {
+   "isin": null,
+   "name": "신라교역",
+   "symbol": "004970"
+  },
+  {
+   "isin": null,
+   "name": "한일사료",
+   "symbol": "005860"
+  },
+  {
+   "isin": null,
+   "name": "동원산업",
+   "symbol": "006040"
+  },
+  {
+   "isin": null,
+   "name": "사조오양",
+   "symbol": "006090"
+  },
+  {
+   "isin": null,
+   "name": "우성",
+   "symbol": "006980"
+  },
+  {
+   "isin": null,
+   "name": "사조산업",
+   "symbol": "007160"
+  },
+  {
+   "isin": null,
+   "name": "CJ씨푸드",
+   "symbol": "011150"
+  },
+  {
+   "isin": null,
+   "name": "태경비케이",
+   "symbol": "014580"
+  },
+  {
+   "isin": null,
+   "name": "우진비앤지",
+   "symbol": "018620"
+  },
+  {
+   "isin": null,
+   "name": "신라에스지",
+   "symbol": "025870"
+  },
+  {
+   "isin": null,
+   "name": "팜스토리",
+   "symbol": "027710"
+  },
+  {
+   "isin": null,
+   "name": "마니커",
+   "symbol": "027740"
+  },
+  {
+   "isin": null,
+   "name": "동원수산",
+   "symbol": "030720"
+  },
+  {
+   "isin": null,
+   "name": "이지홀딩스",
+   "symbol": "035810"
+  },
+  {
+   "isin": null,
+   "name": "대성미생물",
+   "symbol": "036480"
+  },
+  {
+   "isin": null,
+   "name": "동우팜투테이블",
+   "symbol": "088910"
+  },
+  {
+   "isin": null,
+   "name": "하림",
+   "symbol": "136480"
+  },
+  {
+   "isin": null,
+   "name": "정다운",
+   "symbol": "208140"
+  }
+ ],
+ "name": "구제역/광우병 수혜"
+}

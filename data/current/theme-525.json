@@ -1,0 +1,27 @@
+{
+ "category": "theme",
+ "index": "theme-525",
+ "members": [
+  {
+   "isin": null,
+   "name": "레드캡투어",
+   "symbol": "038390"
+  },
+  {
+   "isin": null,
+   "name": "롯데렌탈",
+   "symbol": "089860"
+  },
+  {
+   "isin": null,
+   "name": "케이카",
+   "symbol": "381970"
+  },
+  {
+   "isin": null,
+   "name": "쏘카",
+   "symbol": "403550"
+  }
+ ],
+ "name": "렌터카"
+}

@@ -1,0 +1,112 @@
+{
+ "category": "theme",
+ "index": "theme-149",
+ "members": [
+  {
+   "isin": null,
+   "name": "녹십자홀딩스",
+   "symbol": "005250"
+  },
+  {
+   "isin": null,
+   "name": "GC메디아이",
+   "symbol": "032620"
+  },
+  {
+   "isin": null,
+   "name": "소프트센",
+   "symbol": "032680"
+  },
+  {
+   "isin": null,
+   "name": "비트컴퓨터",
+   "symbol": "032850"
+  },
+  {
+   "isin": null,
+   "name": "인성정보",
+   "symbol": "033230"
+  },
+  {
+   "isin": null,
+   "name": "마크로젠",
+   "symbol": "038290"
+  },
+  {
+   "isin": null,
+   "name": "나노엔텍",
+   "symbol": "039860"
+  },
+  {
+   "isin": null,
+   "name": "인바디",
+   "symbol": "041830"
+  },
+  {
+   "isin": null,
+   "name": "인피니트헬스케어",
+   "symbol": "071200"
+  },
+  {
+   "isin": null,
+   "name": "메디포스트",
+   "symbol": "078160"
+  },
+  {
+   "isin": null,
+   "name": "차바이오텍",
+   "symbol": "085660"
+  },
+  {
+   "isin": null,
+   "name": "이지케어텍",
+   "symbol": "099750"
+  },
+  {
+   "isin": null,
+   "name": "뷰웍스",
+   "symbol": "100120"
+  },
+  {
+   "isin": null,
+   "name": "알서포트",
+   "symbol": "131370"
+  },
+  {
+   "isin": null,
+   "name": "케어랩스",
+   "symbol": "263700"
+  },
+  {
+   "isin": null,
+   "name": "다이나믹솔루션",
+   "symbol": "290660"
+  },
+  {
+   "isin": null,
+   "name": "제이엘케이",
+   "symbol": "322510"
+  },
+  {
+   "isin": null,
+   "name": "스피어",
+   "symbol": "347700"
+  },
+  {
+   "isin": null,
+   "name": "토마토시스템",
+   "symbol": "393210"
+  },
+  {
+   "isin": null,
+   "name": "블루엠텍",
+   "symbol": "439580"
+  },
+  {
+   "isin": null,
+   "name": "씨어스",
+   "symbol": "458870"
+  }
+ ],
+ "name": "원격진료/비대면진료(U-Healthcare)"
+}

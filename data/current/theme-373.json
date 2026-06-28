@@ -1,0 +1,277 @@
+{
+ "category": "theme",
+ "index": "theme-373",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "이수페타시스",
+   "symbol": "007660"
+  },
+  {
+   "isin": null,
+   "name": "대한광통신",
+   "symbol": "010170"
+  },
+  {
+   "isin": null,
+   "name": "SK텔레콤",
+   "symbol": "017670"
+  },
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "케이엠더블유",
+   "symbol": "032500"
+  },
+  {
+   "isin": null,
+   "name": "LG유플러스",
+   "symbol": "032640"
+  },
+  {
+   "isin": null,
+   "name": "기산텔레콤",
+   "symbol": "035460"
+  },
+  {
+   "isin": null,
+   "name": "삼지전자",
+   "symbol": "037460"
+  },
+  {
+   "isin": null,
+   "name": "우리로",
+   "symbol": "046970"
+  },
+  {
+   "isin": null,
+   "name": "기가레인",
+   "symbol": "049080"
+  },
+  {
+   "isin": null,
+   "name": "쏠리드",
+   "symbol": "050890"
+  },
+  {
+   "isin": null,
+   "name": "아이크래프트",
+   "symbol": "052460"
+  },
+  {
+   "isin": null,
+   "name": "코위버",
+   "symbol": "056360"
+  },
+  {
+   "isin": null,
+   "name": "LS마린솔루션",
+   "symbol": "060370"
+  },
+  {
+   "isin": null,
+   "name": "알에프텍",
+   "symbol": "061040"
+  },
+  {
+   "isin": null,
+   "name": "한국첨단소재",
+   "symbol": "062970"
+  },
+  {
+   "isin": null,
+   "name": "이루온",
+   "symbol": "065440"
+  },
+  {
+   "isin": null,
+   "name": "와이어블",
+   "symbol": "065530"
+  },
+  {
+   "isin": null,
+   "name": "CS",
+   "symbol": "065770"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "엔텔스",
+   "symbol": "069410"
+  },
+  {
+   "isin": null,
+   "name": "빛과전자",
+   "symbol": "069540"
+  },
+  {
+   "isin": null,
+   "name": "LIG아큐버",
+   "symbol": "073490"
+  },
+  {
+   "isin": null,
+   "name": "에프알텍",
+   "symbol": "073540"
+  },
+  {
+   "isin": null,
+   "name": "텔코웨어",
+   "symbol": "078000"
+  },
+  {
+   "isin": null,
+   "name": "쏘닉스",
+   "symbol": "088280"
+  },
+  {
+   "isin": null,
+   "name": "에이스테크",
+   "symbol": "088800"
+  },
+  {
+   "isin": null,
+   "name": "한울소재과학",
+   "symbol": "091440"
+  },
+  {
+   "isin": null,
+   "name": "웨이브일렉트로",
+   "symbol": "095270"
+  },
+  {
+   "isin": null,
+   "name": "우리넷",
+   "symbol": "115440"
+  },
+  {
+   "isin": null,
+   "name": "와이솔",
+   "symbol": "122990"
+  },
+  {
+   "isin": null,
+   "name": "오이솔루션",
+   "symbol": "138080"
+  },
+  {
+   "isin": null,
+   "name": "네이블",
+   "symbol": "153460"
+  },
+  {
+   "isin": null,
+   "name": "오파스넷",
+   "symbol": "173130"
+  },
+  {
+   "isin": null,
+   "name": "휴먼테크놀로지",
+   "symbol": "175140"
+  },
+  {
+   "isin": null,
+   "name": "서진시스템",
+   "symbol": "178320"
+  },
+  {
+   "isin": null,
+   "name": "PI첨단소재",
+   "symbol": "178920"
+  },
+  {
+   "isin": null,
+   "name": "오늘이엔엠",
+   "symbol": "192410"
+  },
+  {
+   "isin": null,
+   "name": "이노인스트루먼트",
+   "symbol": "215790"
+  },
+  {
+   "isin": null,
+   "name": "RFHIC",
+   "symbol": "218410"
+  },
+  {
+   "isin": null,
+   "name": "LS에코에너지",
+   "symbol": "229640"
+  },
+  {
+   "isin": null,
+   "name": "에치에프알",
+   "symbol": "230240"
+  },
+  {
+   "isin": null,
+   "name": "나무기술",
+   "symbol": "242040"
+  },
+  {
+   "isin": null,
+   "name": "유비쿼스",
+   "symbol": "264450"
+  },
+  {
+   "isin": null,
+   "name": "웨이비스",
+   "symbol": "289930"
+  },
+  {
+   "isin": null,
+   "name": "센서뷰",
+   "symbol": "321370"
+  },
+  {
+   "isin": null,
+   "name": "PS일렉트로닉스",
+   "symbol": "332570"
+  },
+  {
+   "isin": null,
+   "name": "다보링크",
+   "symbol": "340360"
+  },
+  {
+   "isin": null,
+   "name": "대덕전자",
+   "symbol": "353200"
+  },
+  {
+   "isin": null,
+   "name": "코스텍시스",
+   "symbol": "355150"
+  },
+  {
+   "isin": null,
+   "name": "이지트로닉스",
+   "symbol": "377330"
+  },
+  {
+   "isin": null,
+   "name": "라이콤",
+   "symbol": "388790"
+  },
+  {
+   "isin": null,
+   "name": "자람테크놀로지",
+   "symbol": "389020"
+  }
+ ],
+ "name": "5G(5세대 이동통신)"
+}

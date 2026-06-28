@@ -1,0 +1,212 @@
+{
+ "category": "sector",
+ "index": "sector-262",
+ "members": [
+  {
+   "isin": null,
+   "name": "오상헬스케어",
+   "symbol": "036220"
+  },
+  {
+   "isin": null,
+   "name": "마크로젠",
+   "symbol": "038290"
+  },
+  {
+   "isin": null,
+   "name": "나노엔텍",
+   "symbol": "039860"
+  },
+  {
+   "isin": null,
+   "name": "HLB파나진",
+   "symbol": "046210"
+  },
+  {
+   "isin": null,
+   "name": "인트론바이오",
+   "symbol": "048530"
+  },
+  {
+   "isin": null,
+   "name": "일신바이오",
+   "symbol": "068330"
+  },
+  {
+   "isin": null,
+   "name": "CG인바이츠",
+   "symbol": "083790"
+  },
+  {
+   "isin": null,
+   "name": "랩지노믹스",
+   "symbol": "084650"
+  },
+  {
+   "isin": null,
+   "name": "바이오톡스텍",
+   "symbol": "086040"
+  },
+  {
+   "isin": null,
+   "name": "씨젠",
+   "symbol": "096530"
+  },
+  {
+   "isin": null,
+   "name": "제이에스링크",
+   "symbol": "127120"
+  },
+  {
+   "isin": null,
+   "name": "대한과학",
+   "symbol": "131220"
+  },
+  {
+   "isin": null,
+   "name": "엔케이젠바이오텍코리아",
+   "symbol": "182400"
+  },
+  {
+   "isin": null,
+   "name": "바이오인프라",
+   "symbol": "199730"
+  },
+  {
+   "isin": null,
+   "name": "휴마시스",
+   "symbol": "205470"
+  },
+  {
+   "isin": null,
+   "name": "바디텍메드",
+   "symbol": "206640"
+  },
+  {
+   "isin": null,
+   "name": "우정바이오",
+   "symbol": "215380"
+  },
+  {
+   "isin": null,
+   "name": "올릭스",
+   "symbol": "226950"
+  },
+  {
+   "isin": null,
+   "name": "메디젠휴먼케어",
+   "symbol": "236340"
+  },
+  {
+   "isin": null,
+   "name": "얼라인드",
+   "symbol": "238120"
+  },
+  {
+   "isin": null,
+   "name": "피씨엘",
+   "symbol": "241820"
+  },
+  {
+   "isin": null,
+   "name": "EDGC",
+   "symbol": "245620"
+  },
+  {
+   "isin": null,
+   "name": "바이오인프라생명과학",
+   "symbol": "266470"
+  },
+  {
+   "isin": null,
+   "name": "HLB바이오스텝",
+   "symbol": "278650"
+  },
+  {
+   "isin": null,
+   "name": "압타머사이언스",
+   "symbol": "291650"
+  },
+  {
+   "isin": null,
+   "name": "CJ 바이오사이언스",
+   "symbol": "311690"
+  },
+  {
+   "isin": null,
+   "name": "퀀타매트릭스",
+   "symbol": "317690"
+  },
+  {
+   "isin": null,
+   "name": "프리시젼바이오",
+   "symbol": "335810"
+  },
+  {
+   "isin": null,
+   "name": "지씨지놈",
+   "symbol": "340450"
+  },
+  {
+   "isin": null,
+   "name": "피엔케이피부임상연구센타",
+   "symbol": "347740"
+  },
+  {
+   "isin": null,
+   "name": "엔젠바이오",
+   "symbol": "354200"
+  },
+  {
+   "isin": null,
+   "name": "온코크로스",
+   "symbol": "382150"
+  },
+  {
+   "isin": null,
+   "name": "디티앤씨알오",
+   "symbol": "383930"
+  },
+  {
+   "isin": null,
+   "name": "큐리옥스바이오시스템즈",
+   "symbol": "445680"
+  },
+  {
+   "isin": null,
+   "name": "큐라켐",
+   "symbol": "456190"
+  },
+  {
+   "isin": null,
+   "name": "아이빔테크놀로지",
+   "symbol": "460470"
+  },
+  {
+   "isin": null,
+   "name": "아이엠비디엑스",
+   "symbol": "461030"
+  },
+  {
+   "isin": null,
+   "name": "토모큐브",
+   "symbol": "475960"
+  },
+  {
+   "isin": null,
+   "name": "큐리오시스",
+   "symbol": "494120"
+  },
+  {
+   "isin": null,
+   "name": "엑세스바이오",
+   "symbol": "950130"
+  },
+  {
+   "isin": null,
+   "name": "소마젠",
+   "symbol": "950200"
+  }
+ ],
+ "name": "생명과학도구및서비스"
+}

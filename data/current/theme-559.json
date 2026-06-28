@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-559",
+ "members": [
+  {
+   "isin": null,
+   "name": "SFA",
+   "symbol": "056190"
+  },
+  {
+   "isin": null,
+   "name": "미코",
+   "symbol": "059090"
+  },
+  {
+   "isin": null,
+   "name": "비에이치아이",
+   "symbol": "083650"
+  },
+  {
+   "isin": null,
+   "name": "코세스",
+   "symbol": "089890"
+  },
+  {
+   "isin": null,
+   "name": "비나텍",
+   "symbol": "126340"
+  },
+  {
+   "isin": null,
+   "name": "엘티씨",
+   "symbol": "170920"
+  },
+  {
+   "isin": null,
+   "name": "금양그린파워",
+   "symbol": "282720"
+  },
+  {
+   "isin": null,
+   "name": "두산퓨얼셀",
+   "symbol": "336260"
+  },
+  {
+   "isin": null,
+   "name": "아모센스",
+   "symbol": "357580"
+  },
+  {
+   "isin": null,
+   "name": "범한퓨얼셀",
+   "symbol": "382900"
+  },
+  {
+   "isin": null,
+   "name": "LS머트리얼즈",
+   "symbol": "417200"
+  },
+  {
+   "isin": null,
+   "name": "한선엔지니어링",
+   "symbol": "452280"
+  },
+  {
+   "isin": null,
+   "name": "SK이터닉스",
+   "symbol": "475150"
+  }
+ ],
+ "name": "고체산화물 연료전지(SOFC)"
+}

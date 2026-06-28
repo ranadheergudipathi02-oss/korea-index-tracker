@@ -1,0 +1,32 @@
+{
+ "category": "sector",
+ "index": "sector-325",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국전력",
+   "symbol": "015760"
+  },
+  {
+   "isin": null,
+   "name": "한전KPS",
+   "symbol": "051600"
+  },
+  {
+   "isin": null,
+   "name": "한전기술",
+   "symbol": "052690"
+  },
+  {
+   "isin": null,
+   "name": "한전산업",
+   "symbol": "130660"
+  },
+  {
+   "isin": null,
+   "name": "그리드위즈",
+   "symbol": "453450"
+  }
+ ],
+ "name": "전기유틸리티"
+}

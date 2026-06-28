@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-8",
+ "members": [
+  {
+   "isin": null,
+   "name": "누리플렉스",
+   "symbol": "040160"
+  },
+  {
+   "isin": null,
+   "name": "한네트",
+   "symbol": "052600"
+  },
+  {
+   "isin": null,
+   "name": "프리엠스",
+   "symbol": "053160"
+  },
+  {
+   "isin": null,
+   "name": "NICE인프라",
+   "symbol": "063570"
+  },
+  {
+   "isin": null,
+   "name": "로지시스",
+   "symbol": "067730"
+  },
+  {
+   "isin": null,
+   "name": "케이씨티",
+   "symbol": "089150"
+  },
+  {
+   "isin": null,
+   "name": "푸른로보틱스",
+   "symbol": "094940"
+  },
+  {
+   "isin": null,
+   "name": "풍산",
+   "symbol": "103140"
+  },
+  {
+   "isin": null,
+   "name": "케이씨에스",
+   "symbol": "115500"
+  },
+  {
+   "isin": null,
+   "name": "카카오페이",
+   "symbol": "377300"
+  }
+ ],
+ "name": "화폐/금융자동화기기(디지털화폐 등)"
+}

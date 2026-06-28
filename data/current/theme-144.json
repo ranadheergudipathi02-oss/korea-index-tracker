@@ -1,0 +1,337 @@
+{
+ "category": "theme",
+ "index": "theme-144",
+ "members": [
+  {
+   "isin": null,
+   "name": "기아",
+   "symbol": "000270"
+  },
+  {
+   "isin": null,
+   "name": "한화",
+   "symbol": "000880"
+  },
+  {
+   "isin": null,
+   "name": "혜인",
+   "symbol": "003010"
+  },
+  {
+   "isin": null,
+   "name": "대한항공",
+   "symbol": "003490"
+  },
+  {
+   "isin": null,
+   "name": "SNT다이내믹스",
+   "symbol": "003570"
+  },
+  {
+   "isin": null,
+   "name": "풍산홀딩스",
+   "symbol": "005810"
+  },
+  {
+   "isin": null,
+   "name": "휴니드",
+   "symbol": "005870"
+  },
+  {
+   "isin": null,
+   "name": "국영지앤엠",
+   "symbol": "006050"
+  },
+  {
+   "isin": null,
+   "name": "HD한국조선해양",
+   "symbol": "009540"
+  },
+  {
+   "isin": null,
+   "name": "대한광통신",
+   "symbol": "010170"
+  },
+  {
+   "isin": null,
+   "name": "아이티센엔텍",
+   "symbol": "010280"
+  },
+  {
+   "isin": null,
+   "name": "퍼스텍",
+   "symbol": "010820"
+  },
+  {
+   "isin": null,
+   "name": "현대위아",
+   "symbol": "011210"
+  },
+  {
+   "isin": null,
+   "name": "삼미금속",
+   "symbol": "012210"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "스페코",
+   "symbol": "013810"
+  },
+  {
+   "isin": null,
+   "name": "코콤",
+   "symbol": "015710"
+  },
+  {
+   "isin": null,
+   "name": "한일단조",
+   "symbol": "024740"
+  },
+  {
+   "isin": null,
+   "name": "우리기술",
+   "symbol": "032820"
+  },
+  {
+   "isin": null,
+   "name": "기산텔레콤",
+   "symbol": "035460"
+  },
+  {
+   "isin": null,
+   "name": "YTN",
+   "symbol": "040300"
+  },
+  {
+   "isin": null,
+   "name": "비츠로테크",
+   "symbol": "042370"
+  },
+  {
+   "isin": null,
+   "name": "한화오션",
+   "symbol": "042660"
+  },
+  {
+   "isin": null,
+   "name": "한국항공우주",
+   "symbol": "047810"
+  },
+  {
+   "isin": null,
+   "name": "현대로템",
+   "symbol": "064350"
+  },
+  {
+   "isin": null,
+   "name": "SNT모티브",
+   "symbol": "064960"
+  },
+  {
+   "isin": null,
+   "name": "빅텍",
+   "symbol": "065450"
+  },
+  {
+   "isin": null,
+   "name": "웰크론",
+   "symbol": "065950"
+  },
+  {
+   "isin": null,
+   "name": "덕산하이메탈",
+   "symbol": "077360"
+  },
+  {
+   "isin": null,
+   "name": "STX엔진",
+   "symbol": "077970"
+  },
+  {
+   "isin": null,
+   "name": "LIG디펜스앤에어로스페이스",
+   "symbol": "079550"
+  },
+  {
+   "isin": null,
+   "name": "쎄크",
+   "symbol": "081180"
+  },
+  {
+   "isin": null,
+   "name": "비츠로셀",
+   "symbol": "082920"
+  },
+  {
+   "isin": null,
+   "name": "아이티엠반도체",
+   "symbol": "084850"
+  },
+  {
+   "isin": null,
+   "name": "에이스테크",
+   "symbol": "088800"
+  },
+  {
+   "isin": null,
+   "name": "평화산업",
+   "symbol": "090080"
+  },
+  {
+   "isin": null,
+   "name": "신화프리텍",
+   "symbol": "095190"
+  },
+  {
+   "isin": null,
+   "name": "웨이브일렉트로",
+   "symbol": "095270"
+  },
+  {
+   "isin": null,
+   "name": "에스코넥",
+   "symbol": "096630"
+  },
+  {
+   "isin": null,
+   "name": "HJ중공업",
+   "symbol": "097230"
+  },
+  {
+   "isin": null,
+   "name": "쎄트렉아이",
+   "symbol": "099320"
+  },
+  {
+   "isin": null,
+   "name": "풍산",
+   "symbol": "103140"
+  },
+  {
+   "isin": null,
+   "name": "대양전기공업",
+   "symbol": "108380"
+  },
+  {
+   "isin": null,
+   "name": "포메탈",
+   "symbol": "119500"
+  },
+  {
+   "isin": null,
+   "name": "대성하이텍",
+   "symbol": "129920"
+  },
+  {
+   "isin": null,
+   "name": "카티스",
+   "symbol": "140430"
+  },
+  {
+   "isin": null,
+   "name": "아이쓰리시스템",
+   "symbol": "214430"
+  },
+  {
+   "isin": null,
+   "name": "솔디펜스",
+   "symbol": "215090"
+  },
+  {
+   "isin": null,
+   "name": "RFHIC",
+   "symbol": "218410"
+  },
+  {
+   "isin": null,
+   "name": "한화시스템",
+   "symbol": "272210"
+  },
+  {
+   "isin": null,
+   "name": "켄코아에어로스페이스",
+   "symbol": "274090"
+  },
+  {
+   "isin": null,
+   "name": "이노시뮬레이션",
+   "symbol": "274400"
+  },
+  {
+   "isin": null,
+   "name": "케이피항공산업",
+   "symbol": "288180"
+  },
+  {
+   "isin": null,
+   "name": "웨이비스",
+   "symbol": "289930"
+  },
+  {
+   "isin": null,
+   "name": "디와이씨",
+   "symbol": "310870"
+  },
+  {
+   "isin": null,
+   "name": "센서뷰",
+   "symbol": "321370"
+  },
+  {
+   "isin": null,
+   "name": "RF머트리얼즈",
+   "symbol": "327260"
+  },
+  {
+   "isin": null,
+   "name": "제노코",
+   "symbol": "361390"
+  },
+  {
+   "isin": null,
+   "name": "파이버프로",
+   "symbol": "368770"
+  },
+  {
+   "isin": null,
+   "name": "한컴라이프케어",
+   "symbol": "372910"
+  },
+  {
+   "isin": null,
+   "name": "이지트로닉스",
+   "symbol": "377330"
+  },
+  {
+   "isin": null,
+   "name": "삼현",
+   "symbol": "437730"
+  },
+  {
+   "isin": null,
+   "name": "코츠테크놀로지",
+   "symbol": "448710"
+  },
+  {
+   "isin": null,
+   "name": "RF시스템즈",
+   "symbol": "474610"
+  },
+  {
+   "isin": null,
+   "name": "삼양컴텍",
+   "symbol": "484590"
+  },
+  {
+   "isin": null,
+   "name": "엠앤씨솔루션",
+   "symbol": "484870"
+  }
+ ],
+ "name": "방위산업/전쟁 및 테러"
+}

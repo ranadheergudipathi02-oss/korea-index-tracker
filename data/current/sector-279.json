@@ -1,0 +1,392 @@
+{
+ "category": "sector",
+ "index": "sector-279",
+ "members": [
+  {
+   "isin": null,
+   "name": "현대건설",
+   "symbol": "000720"
+  },
+  {
+   "isin": null,
+   "name": "현대건설우",
+   "symbol": "000725"
+  },
+  {
+   "isin": null,
+   "name": "남광토건",
+   "symbol": "001260"
+  },
+  {
+   "isin": null,
+   "name": "삼부토건",
+   "symbol": "001470"
+  },
+  {
+   "isin": null,
+   "name": "이화공영",
+   "symbol": "001840"
+  },
+  {
+   "isin": null,
+   "name": "도화엔지니어링",
+   "symbol": "002150"
+  },
+  {
+   "isin": null,
+   "name": "삼일기업공사",
+   "symbol": "002290"
+  },
+  {
+   "isin": null,
+   "name": "범양건영",
+   "symbol": "002410"
+  },
+  {
+   "isin": null,
+   "name": "HS화성",
+   "symbol": "002460"
+  },
+  {
+   "isin": null,
+   "name": "진흥기업",
+   "symbol": "002780"
+  },
+  {
+   "isin": null,
+   "name": "진흥기업우B",
+   "symbol": "002785"
+  },
+  {
+   "isin": null,
+   "name": "진흥기업2우B",
+   "symbol": "002787"
+  },
+  {
+   "isin": null,
+   "name": "금호건설",
+   "symbol": "002990"
+  },
+  {
+   "isin": null,
+   "name": "금호건설우",
+   "symbol": "002995"
+  },
+  {
+   "isin": null,
+   "name": "코오롱글로벌",
+   "symbol": "003070"
+  },
+  {
+   "isin": null,
+   "name": "코오롱글로벌우",
+   "symbol": "003075"
+  },
+  {
+   "isin": null,
+   "name": "한신공영",
+   "symbol": "004960"
+  },
+  {
+   "isin": null,
+   "name": "동부건설",
+   "symbol": "005960"
+  },
+  {
+   "isin": null,
+   "name": "동부건설우",
+   "symbol": "005965"
+  },
+  {
+   "isin": null,
+   "name": "GS건설",
+   "symbol": "006360"
+  },
+  {
+   "isin": null,
+   "name": "대원",
+   "symbol": "007680"
+  },
+  {
+   "isin": null,
+   "name": "태영건설",
+   "symbol": "009410"
+  },
+  {
+   "isin": null,
+   "name": "태영건설우",
+   "symbol": "009415"
+  },
+  {
+   "isin": null,
+   "name": "우진아이엔에스",
+   "symbol": "010400"
+  },
+  {
+   "isin": null,
+   "name": "아이에스동서",
+   "symbol": "010780"
+  },
+  {
+   "isin": null,
+   "name": "삼호개발",
+   "symbol": "010960"
+  },
+  {
+   "isin": null,
+   "name": "서한",
+   "symbol": "011370"
+  },
+  {
+   "isin": null,
+   "name": "세보엠이씨",
+   "symbol": "011560"
+  },
+  {
+   "isin": null,
+   "name": "HDC",
+   "symbol": "012630"
+  },
+  {
+   "isin": null,
+   "name": "동원개발",
+   "symbol": "013120"
+  },
+  {
+   "isin": null,
+   "name": "일성건설",
+   "symbol": "013360"
+  },
+  {
+   "isin": null,
+   "name": "계룡건설",
+   "symbol": "013580"
+  },
+  {
+   "isin": null,
+   "name": "까뮤이앤씨",
+   "symbol": "013700"
+  },
+  {
+   "isin": null,
+   "name": "HL D&I",
+   "symbol": "014790"
+  },
+  {
+   "isin": null,
+   "name": "SGC E&C",
+   "symbol": "016250"
+  },
+  {
+   "isin": null,
+   "name": "신원종합개발",
+   "symbol": "017000"
+  },
+  {
+   "isin": null,
+   "name": "KCC건설",
+   "symbol": "021320"
+  },
+  {
+   "isin": null,
+   "name": "한국종합기술",
+   "symbol": "023350"
+  },
+  {
+   "isin": null,
+   "name": "에쓰씨엔지니어링",
+   "symbol": "023960"
+  },
+  {
+   "isin": null,
+   "name": "동신건설",
+   "symbol": "025950"
+  },
+  {
+   "isin": null,
+   "name": "특수건설",
+   "symbol": "026150"
+  },
+  {
+   "isin": null,
+   "name": "삼성E&A",
+   "symbol": "028050"
+  },
+  {
+   "isin": null,
+   "name": "동아지질",
+   "symbol": "028100"
+  },
+  {
+   "isin": null,
+   "name": "서희건설",
+   "symbol": "035890"
+  },
+  {
+   "isin": null,
+   "name": "금화피에스시",
+   "symbol": "036190"
+  },
+  {
+   "isin": null,
+   "name": "성도이엔지",
+   "symbol": "037350"
+  },
+  {
+   "isin": null,
+   "name": "희림",
+   "symbol": "037440"
+  },
+  {
+   "isin": null,
+   "name": "HDC랩스",
+   "symbol": "039570"
+  },
+  {
+   "isin": null,
+   "name": "플래스크",
+   "symbol": "041590"
+  },
+  {
+   "isin": null,
+   "name": "상지건설",
+   "symbol": "042940"
+  },
+  {
+   "isin": null,
+   "name": "KD",
+   "symbol": "044180"
+  },
+  {
+   "isin": null,
+   "name": "우원개발",
+   "symbol": "046940"
+  },
+  {
+   "isin": null,
+   "name": "대우건설",
+   "symbol": "047040"
+  },
+  {
+   "isin": null,
+   "name": "셀루메드",
+   "symbol": "049180"
+  },
+  {
+   "isin": null,
+   "name": "한미글로벌",
+   "symbol": "053690"
+  },
+  {
+   "isin": null,
+   "name": "유신",
+   "symbol": "054930"
+  },
+  {
+   "isin": null,
+   "name": "CNT85",
+   "symbol": "056730"
+  },
+  {
+   "isin": null,
+   "name": "LS마린솔루션",
+   "symbol": "060370"
+  },
+  {
+   "isin": null,
+   "name": "웰크론",
+   "symbol": "065950"
+  },
+  {
+   "isin": null,
+   "name": "국보디자인",
+   "symbol": "066620"
+  },
+  {
+   "isin": null,
+   "name": "한성크린텍",
+   "symbol": "066980"
+  },
+  {
+   "isin": null,
+   "name": "누리플랜",
+   "symbol": "069140"
+  },
+  {
+   "isin": null,
+   "name": "엑시온그룹",
+   "symbol": "069920"
+  },
+  {
+   "isin": null,
+   "name": "웰크론한텍",
+   "symbol": "076080"
+  },
+  {
+   "isin": null,
+   "name": "지에이이노더스",
+   "symbol": "076340"
+  },
+  {
+   "isin": null,
+   "name": "알티캐스트",
+   "symbol": "085810"
+  },
+  {
+   "isin": null,
+   "name": "남화토건",
+   "symbol": "091590"
+  },
+  {
+   "isin": null,
+   "name": "일진파워",
+   "symbol": "094820"
+  },
+  {
+   "isin": null,
+   "name": "HJ중공업",
+   "symbol": "097230"
+  },
+  {
+   "isin": null,
+   "name": "베노티앤알",
+   "symbol": "206400"
+  },
+  {
+   "isin": null,
+   "name": "엄지하우스",
+   "symbol": "224810"
+  },
+  {
+   "isin": null,
+   "name": "프로브잇",
+   "symbol": "227100"
+  },
+  {
+   "isin": null,
+   "name": "IPARK현대산업개발",
+   "symbol": "294870"
+  },
+  {
+   "isin": null,
+   "name": "자이에스앤디",
+   "symbol": "317400"
+  },
+  {
+   "isin": null,
+   "name": "DL이앤씨",
+   "symbol": "375500"
+  },
+  {
+   "isin": null,
+   "name": "제이오",
+   "symbol": "418550"
+  },
+  {
+   "isin": null,
+   "name": "엔알비",
+   "symbol": "475230"
+  }
+ ],
+ "name": "건설"
+}

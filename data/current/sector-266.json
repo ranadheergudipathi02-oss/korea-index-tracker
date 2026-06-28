@@ -1,0 +1,322 @@
+{
+ "category": "sector",
+ "index": "sector-266",
+ "members": [
+  {
+   "isin": null,
+   "name": "아모레퍼시픽홀딩스",
+   "symbol": "002790"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽홀딩스우",
+   "symbol": "002795"
+  },
+  {
+   "isin": null,
+   "name": "한국화장품제조",
+   "symbol": "003350"
+  },
+  {
+   "isin": null,
+   "name": "메디앙스",
+   "symbol": "014100"
+  },
+  {
+   "isin": null,
+   "name": "애경산업",
+   "symbol": "018250"
+  },
+  {
+   "isin": null,
+   "name": "브이티",
+   "symbol": "018290"
+  },
+  {
+   "isin": null,
+   "name": "졸스",
+   "symbol": "018700"
+  },
+  {
+   "isin": null,
+   "name": "콜마홀딩스",
+   "symbol": "024720"
+  },
+  {
+   "isin": null,
+   "name": "차AI헬스케어",
+   "symbol": "025620"
+  },
+  {
+   "isin": null,
+   "name": "코리아나",
+   "symbol": "027050"
+  },
+  {
+   "isin": null,
+   "name": "원익",
+   "symbol": "032940"
+  },
+  {
+   "isin": null,
+   "name": "현대바이오",
+   "symbol": "048410"
+  },
+  {
+   "isin": null,
+   "name": "LG생활건강",
+   "symbol": "051900"
+  },
+  {
+   "isin": null,
+   "name": "LG생활건강우",
+   "symbol": "051905"
+  },
+  {
+   "isin": null,
+   "name": "현대바이오랜드",
+   "symbol": "052260"
+  },
+  {
+   "isin": null,
+   "name": "에이블씨엔씨",
+   "symbol": "078520"
+  },
+  {
+   "isin": null,
+   "name": "코디",
+   "symbol": "080530"
+  },
+  {
+   "isin": null,
+   "name": "코스나인",
+   "symbol": "082660"
+  },
+  {
+   "isin": null,
+   "name": "CSA 코스믹",
+   "symbol": "083660"
+  },
+  {
+   "isin": null,
+   "name": "선진뷰티사이언스",
+   "symbol": "086710"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽",
+   "symbol": "090430"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽우",
+   "symbol": "090435"
+  },
+  {
+   "isin": null,
+   "name": "네오팜",
+   "symbol": "092730"
+  },
+  {
+   "isin": null,
+   "name": "아이패밀리에스씨",
+   "symbol": "114840"
+  },
+  {
+   "isin": null,
+   "name": "제닉",
+   "symbol": "123330"
+  },
+  {
+   "isin": null,
+   "name": "한국화장품",
+   "symbol": "123690"
+  },
+  {
+   "isin": null,
+   "name": "현대퓨처넷",
+   "symbol": "126560"
+  },
+  {
+   "isin": null,
+   "name": "넥스트아이",
+   "symbol": "137940"
+  },
+  {
+   "isin": null,
+   "name": "제로투세븐",
+   "symbol": "159580"
+  },
+  {
+   "isin": null,
+   "name": "에코글로우",
+   "symbol": "159910"
+  },
+  {
+   "isin": null,
+   "name": "한국콜마",
+   "symbol": "161890"
+  },
+  {
+   "isin": null,
+   "name": "내츄럴엔도텍",
+   "symbol": "168330"
+  },
+  {
+   "isin": null,
+   "name": "아이큐어",
+   "symbol": "175250"
+  },
+  {
+   "isin": null,
+   "name": "코스맥스",
+   "symbol": "192820"
+  },
+  {
+   "isin": null,
+   "name": "라파스",
+   "symbol": "214260"
+  },
+  {
+   "isin": null,
+   "name": "토니모리",
+   "symbol": "214420"
+  },
+  {
+   "isin": null,
+   "name": "에스디생명공학",
+   "symbol": "217480"
+  },
+  {
+   "isin": null,
+   "name": "디와이디",
+   "symbol": "219550"
+  },
+  {
+   "isin": null,
+   "name": "잇츠한불",
+   "symbol": "226320"
+  },
+  {
+   "isin": null,
+   "name": "본느",
+   "symbol": "226340"
+  },
+  {
+   "isin": null,
+   "name": "아우딘퓨쳐스",
+   "symbol": "227610"
+  },
+  {
+   "isin": null,
+   "name": "클리오",
+   "symbol": "237880"
+  },
+  {
+   "isin": null,
+   "name": "코스메카코리아",
+   "symbol": "241710"
+  },
+  {
+   "isin": null,
+   "name": "진코스텍",
+   "symbol": "250030"
+  },
+  {
+   "isin": null,
+   "name": "세화피앤씨",
+   "symbol": "252500"
+  },
+  {
+   "isin": null,
+   "name": "씨티케이",
+   "symbol": "260930"
+  },
+  {
+   "isin": null,
+   "name": "엔에프씨",
+   "symbol": "265740"
+  },
+  {
+   "isin": null,
+   "name": "에스알바이오텍",
+   "symbol": "270210"
+  },
+  {
+   "isin": null,
+   "name": "에이피알",
+   "symbol": "278470"
+  },
+  {
+   "isin": null,
+   "name": "노드메이슨",
+   "symbol": "317860"
+  },
+  {
+   "isin": null,
+   "name": "셀바이오휴먼텍",
+   "symbol": "318160"
+  },
+  {
+   "isin": null,
+   "name": "이노진",
+   "symbol": "344860"
+  },
+  {
+   "isin": null,
+   "name": "씨앤씨인터내셔널",
+   "symbol": "352480"
+  },
+  {
+   "isin": null,
+   "name": "뷰티스킨",
+   "symbol": "406820"
+  },
+  {
+   "isin": null,
+   "name": "제이투케이바이오",
+   "symbol": "420570"
+  },
+  {
+   "isin": null,
+   "name": "마녀공장",
+   "symbol": "439090"
+  },
+  {
+   "isin": null,
+   "name": "삐아",
+   "symbol": "451250"
+  },
+  {
+   "isin": null,
+   "name": "에이에스텍",
+   "symbol": "453860"
+  },
+  {
+   "isin": null,
+   "name": "달바글로벌",
+   "symbol": "483650"
+  },
+  {
+   "isin": null,
+   "name": "바이오비쥬",
+   "symbol": "489460"
+  },
+  {
+   "isin": null,
+   "name": "오가닉티코스메틱",
+   "symbol": "900300"
+  },
+  {
+   "isin": null,
+   "name": "컬러레이",
+   "symbol": "900310"
+  },
+  {
+   "isin": null,
+   "name": "잉글우드랩",
+   "symbol": "950140"
+  }
+ ],
+ "name": "화장품"
+}

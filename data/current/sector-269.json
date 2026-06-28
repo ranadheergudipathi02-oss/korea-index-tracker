@@ -1,0 +1,362 @@
+{
+ "category": "sector",
+ "index": "sector-269",
+ "members": [
+  {
+   "isin": null,
+   "name": "금호전기",
+   "symbol": "001210"
+  },
+  {
+   "isin": null,
+   "name": "참엔지니어링",
+   "symbol": "009310"
+  },
+  {
+   "isin": null,
+   "name": "위지트",
+   "symbol": "036090"
+  },
+  {
+   "isin": null,
+   "name": "에이치엠넥스",
+   "symbol": "036170"
+  },
+  {
+   "isin": null,
+   "name": "인지디스플레",
+   "symbol": "037330"
+  },
+  {
+   "isin": null,
+   "name": "우리엔터프라이즈",
+   "symbol": "037400"
+  },
+  {
+   "isin": null,
+   "name": "루멘스",
+   "symbol": "038060"
+  },
+  {
+   "isin": null,
+   "name": "아이씨디",
+   "symbol": "040910"
+  },
+  {
+   "isin": null,
+   "name": "서울반도체",
+   "symbol": "046890"
+  },
+  {
+   "isin": null,
+   "name": "파인디앤씨",
+   "symbol": "049120"
+  },
+  {
+   "isin": null,
+   "name": "미래컴퍼니",
+   "symbol": "049950"
+  },
+  {
+   "isin": null,
+   "name": "토비스",
+   "symbol": "051360"
+  },
+  {
+   "isin": null,
+   "name": "오성첨단소재",
+   "symbol": "052420"
+  },
+  {
+   "isin": null,
+   "name": "한국컴퓨터",
+   "symbol": "054040"
+  },
+  {
+   "isin": null,
+   "name": "신화인터텍",
+   "symbol": "056700"
+  },
+  {
+   "isin": null,
+   "name": "아이컴포넌트",
+   "symbol": "059100"
+  },
+  {
+   "isin": null,
+   "name": "이엘피",
+   "symbol": "063760"
+  },
+  {
+   "isin": null,
+   "name": "세진티에스",
+   "symbol": "067770"
+  },
+  {
+   "isin": null,
+   "name": "DMS",
+   "symbol": "068790"
+  },
+  {
+   "isin": null,
+   "name": "유아이디",
+   "symbol": "069330"
+  },
+  {
+   "isin": null,
+   "name": "엘엠에스",
+   "symbol": "073110"
+  },
+  {
+   "isin": null,
+   "name": "HB테크놀러지",
+   "symbol": "078150"
+  },
+  {
+   "isin": null,
+   "name": "인베니아",
+   "symbol": "079950"
+  },
+  {
+   "isin": null,
+   "name": "우리바이오",
+   "symbol": "082850"
+  },
+  {
+   "isin": null,
+   "name": "이엠앤아이",
+   "symbol": "083470"
+  },
+  {
+   "isin": null,
+   "name": "에프엔에스테크",
+   "symbol": "083500"
+  },
+  {
+   "isin": null,
+   "name": "동아엘텍",
+   "symbol": "088130"
+  },
+  {
+   "isin": null,
+   "name": "서울바이오시스",
+   "symbol": "092190"
+  },
+  {
+   "isin": null,
+   "name": "럭스피아",
+   "symbol": "092590"
+  },
+  {
+   "isin": null,
+   "name": "제이엠티",
+   "symbol": "094970"
+  },
+  {
+   "isin": null,
+   "name": "미래나노텍",
+   "symbol": "095500"
+  },
+  {
+   "isin": null,
+   "name": "엘디티",
+   "symbol": "096870"
+  },
+  {
+   "isin": null,
+   "name": "아하",
+   "symbol": "102950"
+  },
+  {
+   "isin": null,
+   "name": "파인테크닉스",
+   "symbol": "106240"
+  },
+  {
+   "isin": null,
+   "name": "LX세미콘",
+   "symbol": "108320"
+  },
+  {
+   "isin": null,
+   "name": "코이즈",
+   "symbol": "121850"
+  },
+  {
+   "isin": null,
+   "name": "아나패스",
+   "symbol": "123860"
+  },
+  {
+   "isin": null,
+   "name": "파인텍",
+   "symbol": "131760"
+  },
+  {
+   "isin": null,
+   "name": "나래나노텍",
+   "symbol": "137080"
+  },
+  {
+   "isin": null,
+   "name": "비아트론",
+   "symbol": "141000"
+  },
+  {
+   "isin": null,
+   "name": "영우디에스피",
+   "symbol": "143540"
+  },
+  {
+   "isin": null,
+   "name": "아바텍",
+   "symbol": "149950"
+  },
+  {
+   "isin": null,
+   "name": "우리이앤엘하루틴",
+   "symbol": "153490"
+  },
+  {
+   "isin": null,
+   "name": "와이엠씨",
+   "symbol": "155650"
+  },
+  {
+   "isin": null,
+   "name": "루켄테크놀러지스",
+   "symbol": "162120"
+  },
+  {
+   "isin": null,
+   "name": "선익시스템",
+   "symbol": "171090"
+  },
+  {
+   "isin": null,
+   "name": "파버나인",
+   "symbol": "177830"
+  },
+  {
+   "isin": null,
+   "name": "디바이스",
+   "symbol": "187870"
+  },
+  {
+   "isin": null,
+   "name": "에이펙스인텍",
+   "symbol": "207490"
+  },
+  {
+   "isin": null,
+   "name": "덕산네오룩스",
+   "symbol": "213420"
+  },
+  {
+   "isin": null,
+   "name": "힘스",
+   "symbol": "238490"
+  },
+  {
+   "isin": null,
+   "name": "피엔에이치테크",
+   "symbol": "239890"
+  },
+  {
+   "isin": null,
+   "name": "예선테크",
+   "symbol": "250930"
+  },
+  {
+   "isin": null,
+   "name": "야스",
+   "symbol": "255440"
+  },
+  {
+   "isin": null,
+   "name": "포인트엔지니어링",
+   "symbol": "256630"
+  },
+  {
+   "isin": null,
+   "name": "AP시스템",
+   "symbol": "265520"
+  },
+  {
+   "isin": null,
+   "name": "이녹스첨단소재",
+   "symbol": "272290"
+  },
+  {
+   "isin": null,
+   "name": "신도기연",
+   "symbol": "290520"
+  },
+  {
+   "isin": null,
+   "name": "소룩스",
+   "symbol": "290690"
+  },
+  {
+   "isin": null,
+   "name": "HB솔루션",
+   "symbol": "297890"
+  },
+  {
+   "isin": null,
+   "name": "아이엘",
+   "symbol": "307180"
+  },
+  {
+   "isin": null,
+   "name": "엘에이티",
+   "symbol": "311060"
+  },
+  {
+   "isin": null,
+   "name": "프로이천",
+   "symbol": "321260"
+  },
+  {
+   "isin": null,
+   "name": "핌스",
+   "symbol": "347770"
+  },
+  {
+   "isin": null,
+   "name": "넥사다이내믹스",
+   "symbol": "351320"
+  },
+  {
+   "isin": null,
+   "name": "풍원정밀",
+   "symbol": "371950"
+  },
+  {
+   "isin": null,
+   "name": "엔젯",
+   "symbol": "419080"
+  },
+  {
+   "isin": null,
+   "name": "한켐",
+   "symbol": "457370"
+  },
+  {
+   "isin": null,
+   "name": "이노테크",
+   "symbol": "469610"
+  },
+  {
+   "isin": null,
+   "name": "에스켐",
+   "symbol": "475660"
+  },
+  {
+   "isin": null,
+   "name": "도우인시스",
+   "symbol": "484120"
+  }
+ ],
+ "name": "디스플레이장비및부품"
+}

@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-48",
+ "members": [
+  {
+   "isin": null,
+   "name": "아센디오",
+   "symbol": "012170"
+  },
+  {
+   "isin": null,
+   "name": "졸스",
+   "symbol": "018700"
+  },
+  {
+   "isin": null,
+   "name": "롯데쇼핑",
+   "symbol": "023530"
+  },
+  {
+   "isin": null,
+   "name": "바른손이앤에이",
+   "symbol": "035620"
+  },
+  {
+   "isin": null,
+   "name": "CJ ENM",
+   "symbol": "035760"
+  },
+  {
+   "isin": null,
+   "name": "쎄니트",
+   "symbol": "037760"
+  },
+  {
+   "isin": null,
+   "name": "CJ CGV",
+   "symbol": "079160"
+  },
+  {
+   "isin": null,
+   "name": "쇼박스",
+   "symbol": "086980"
+  },
+  {
+   "isin": null,
+   "name": "NEW",
+   "symbol": "160550"
+  },
+  {
+   "isin": null,
+   "name": "덱스터",
+   "symbol": "206560"
+  },
+  {
+   "isin": null,
+   "name": "포바이포",
+   "symbol": "389140"
+  }
+ ],
+ "name": "영화"
+}

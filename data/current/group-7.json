@@ -1,0 +1,52 @@
+{
+ "category": "group",
+ "index": "group-7",
+ "members": [
+  {
+   "isin": null,
+   "name": "유수홀딩스",
+   "symbol": "000700"
+  },
+  {
+   "isin": null,
+   "name": "한진",
+   "symbol": "002320"
+  },
+  {
+   "isin": null,
+   "name": "대한항공",
+   "symbol": "003490"
+  },
+  {
+   "isin": null,
+   "name": "한국공항",
+   "symbol": "005430"
+  },
+  {
+   "isin": null,
+   "name": "아시아나항공",
+   "symbol": "020560"
+  },
+  {
+   "isin": null,
+   "name": "한진칼",
+   "symbol": "180640"
+  },
+  {
+   "isin": null,
+   "name": "아시아나IDT",
+   "symbol": "267850"
+  },
+  {
+   "isin": null,
+   "name": "진에어",
+   "symbol": "272450"
+  },
+  {
+   "isin": null,
+   "name": "에어부산",
+   "symbol": "298690"
+  }
+ ],
+ "name": "한진"
+}

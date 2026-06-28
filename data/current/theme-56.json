@@ -1,0 +1,42 @@
+{
+ "category": "theme",
+ "index": "theme-56",
+ "members": [
+  {
+   "isin": null,
+   "name": "광무",
+   "symbol": "029480"
+  },
+  {
+   "isin": null,
+   "name": "아이티센씨티에스",
+   "symbol": "031820"
+  },
+  {
+   "isin": null,
+   "name": "인성정보",
+   "symbol": "033230"
+  },
+  {
+   "isin": null,
+   "name": "에스넷",
+   "symbol": "038680"
+  },
+  {
+   "isin": null,
+   "name": "링네트",
+   "symbol": "042500"
+  },
+  {
+   "isin": null,
+   "name": "오픈베이스",
+   "symbol": "049480"
+  },
+  {
+   "isin": null,
+   "name": "오파스넷",
+   "symbol": "173130"
+  }
+ ],
+ "name": "NI(네트워크통합)"
+}

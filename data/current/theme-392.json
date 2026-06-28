@@ -1,0 +1,202 @@
+{
+ "category": "theme",
+ "index": "theme-392",
+ "members": [
+  {
+   "isin": null,
+   "name": "LG",
+   "symbol": "003550"
+  },
+  {
+   "isin": null,
+   "name": "삼익THK",
+   "symbol": "004380"
+  },
+  {
+   "isin": null,
+   "name": "엠엑스로보틱스",
+   "symbol": "007820"
+  },
+  {
+   "isin": null,
+   "name": "LS ELECTRIC",
+   "symbol": "010120"
+  },
+  {
+   "isin": null,
+   "name": "한신기계",
+   "symbol": "011700"
+  },
+  {
+   "isin": null,
+   "name": "더존비즈온",
+   "symbol": "012510"
+  },
+  {
+   "isin": null,
+   "name": "삼성에스디에스",
+   "symbol": "018260"
+  },
+  {
+   "isin": null,
+   "name": "포스코DX",
+   "symbol": "022100"
+  },
+  {
+   "isin": null,
+   "name": "SK",
+   "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "TPC로보틱스",
+   "symbol": "048770"
+  },
+  {
+   "isin": null,
+   "name": "오픈베이스",
+   "symbol": "049480"
+  },
+  {
+   "isin": null,
+   "name": "SFA",
+   "symbol": "056190"
+  },
+  {
+   "isin": null,
+   "name": "아진엑스텍",
+   "symbol": "059120"
+  },
+  {
+   "isin": null,
+   "name": "LG씨엔에스",
+   "symbol": "064400"
+  },
+  {
+   "isin": null,
+   "name": "동국알앤에스",
+   "symbol": "075970"
+  },
+  {
+   "isin": null,
+   "name": "비엠티",
+   "symbol": "086670"
+  },
+  {
+   "isin": null,
+   "name": "MDS테크",
+   "symbol": "086960"
+  },
+  {
+   "isin": null,
+   "name": "휴림로봇",
+   "symbol": "090710"
+  },
+  {
+   "isin": null,
+   "name": "효성ITX",
+   "symbol": "094280"
+  },
+  {
+   "isin": null,
+   "name": "고영",
+   "symbol": "098460"
+  },
+  {
+   "isin": null,
+   "name": "스맥",
+   "symbol": "099440"
+  },
+  {
+   "isin": null,
+   "name": "톱텍",
+   "symbol": "108230"
+  },
+  {
+   "isin": null,
+   "name": "알에스오토메이션",
+   "symbol": "140670"
+  },
+  {
+   "isin": null,
+   "name": "링크제니시스",
+   "symbol": "219420"
+  },
+  {
+   "isin": null,
+   "name": "라온로보틱스",
+   "symbol": "232680"
+  },
+  {
+   "isin": null,
+   "name": "팸텍",
+   "symbol": "271830"
+  },
+  {
+   "isin": null,
+   "name": "코윈테크",
+   "symbol": "282880"
+  },
+  {
+   "isin": null,
+   "name": "트윔",
+   "symbol": "290090"
+  },
+  {
+   "isin": null,
+   "name": "에스피시스템스",
+   "symbol": "317830"
+  },
+  {
+   "isin": null,
+   "name": "현대무벡스",
+   "symbol": "319400"
+  },
+  {
+   "isin": null,
+   "name": "LS티라유텍",
+   "symbol": "322180"
+  },
+  {
+   "isin": null,
+   "name": "엠엑스온",
+   "symbol": "347890"
+  },
+  {
+   "isin": null,
+   "name": "이삭엔지니어링",
+   "symbol": "351330"
+  },
+  {
+   "isin": null,
+   "name": "엠아이큐브솔루션",
+   "symbol": "373170"
+  },
+  {
+   "isin": null,
+   "name": "제닉스로보틱스",
+   "symbol": "381620"
+  },
+  {
+   "isin": null,
+   "name": "유일로보틱스",
+   "symbol": "388720"
+  },
+  {
+   "isin": null,
+   "name": "코닉오토메이션",
+   "symbol": "391710"
+  },
+  {
+   "isin": null,
+   "name": "피아이이",
+   "symbol": "452450"
+  },
+  {
+   "isin": null,
+   "name": "티엑스알로보틱스",
+   "symbol": "484810"
+  }
+ ],
+ "name": "스마트팩토리(스마트공장)"
+}

@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-135",
+ "members": [
+  {
+   "isin": null,
+   "name": "LX인터내셔널",
+   "symbol": "001120"
+  },
+  {
+   "isin": null,
+   "name": "LX세미콘",
+   "symbol": "108320"
+  },
+  {
+   "isin": null,
+   "name": "LX하우시스",
+   "symbol": "108670"
+  },
+  {
+   "isin": null,
+   "name": "LX홀딩스",
+   "symbol": "383800"
+  }
+ ],
+ "name": "엘엑스"
+}

@@ -1,0 +1,357 @@
+{
+ "category": "theme",
+ "index": "theme-505",
+ "members": [
+  {
+   "isin": null,
+   "name": "두산",
+   "symbol": "000150"
+  },
+  {
+   "isin": null,
+   "name": "대동",
+   "symbol": "000490"
+  },
+  {
+   "isin": null,
+   "name": "삼익THK",
+   "symbol": "004380"
+  },
+  {
+   "isin": null,
+   "name": "에스엘",
+   "symbol": "005850"
+  },
+  {
+   "isin": null,
+   "name": "피제이전자",
+   "symbol": "006140"
+  },
+  {
+   "isin": null,
+   "name": "대동기어",
+   "symbol": "008830"
+  },
+  {
+   "isin": null,
+   "name": "퍼스텍",
+   "symbol": "010820"
+  },
+  {
+   "isin": null,
+   "name": "와이투솔루션",
+   "symbol": "011690"
+  },
+  {
+   "isin": null,
+   "name": "계양전기",
+   "symbol": "012200"
+  },
+  {
+   "isin": null,
+   "name": "케이피에프",
+   "symbol": "024880"
+  },
+  {
+   "isin": null,
+   "name": "원익홀딩스",
+   "symbol": "030530"
+  },
+  {
+   "isin": null,
+   "name": "SJG세종",
+   "symbol": "033530"
+  },
+  {
+   "isin": null,
+   "name": "TPC로보틱스",
+   "symbol": "048770"
+  },
+  {
+   "isin": null,
+   "name": "인탑스",
+   "symbol": "049070"
+  },
+  {
+   "isin": null,
+   "name": "유진로봇",
+   "symbol": "056080"
+  },
+  {
+   "isin": null,
+   "name": "에스피지",
+   "symbol": "058610"
+  },
+  {
+   "isin": null,
+   "name": "아진엑스텍",
+   "symbol": "059120"
+  },
+  {
+   "isin": null,
+   "name": "해성에어로보틱스",
+   "symbol": "059270"
+  },
+  {
+   "isin": null,
+   "name": "KH바텍",
+   "symbol": "060720"
+  },
+  {
+   "isin": null,
+   "name": "신성델타테크",
+   "symbol": "065350"
+  },
+  {
+   "isin": null,
+   "name": "아이로보틱스",
+   "symbol": "066430"
+  },
+  {
+   "isin": null,
+   "name": "제우스",
+   "symbol": "079370"
+  },
+  {
+   "isin": null,
+   "name": "LIG디펜스앤에어로스페이스",
+   "symbol": "079550"
+  },
+  {
+   "isin": null,
+   "name": "아이티엠반도체",
+   "symbol": "084850"
+  },
+  {
+   "isin": null,
+   "name": "로보스타",
+   "symbol": "090360"
+  },
+  {
+   "isin": null,
+   "name": "휴림로봇",
+   "symbol": "090710"
+  },
+  {
+   "isin": null,
+   "name": "디아이씨",
+   "symbol": "092200"
+  },
+  {
+   "isin": null,
+   "name": "케이알엠",
+   "symbol": "093640"
+  },
+  {
+   "isin": null,
+   "name": "푸른로보틱스",
+   "symbol": "094940"
+  },
+  {
+   "isin": null,
+   "name": "스맥",
+   "symbol": "099440"
+  },
+  {
+   "isin": null,
+   "name": "서암기계공업",
+   "symbol": "100660"
+  },
+  {
+   "isin": null,
+   "name": "우림피티에스",
+   "symbol": "101170"
+  },
+  {
+   "isin": null,
+   "name": "로보티즈",
+   "symbol": "108490"
+  },
+  {
+   "isin": null,
+   "name": "티로보틱스",
+   "symbol": "117730"
+  },
+  {
+   "isin": null,
+   "name": "포메탈",
+   "symbol": "119500"
+  },
+  {
+   "isin": null,
+   "name": "한라캐스트",
+   "symbol": "125490"
+  },
+  {
+   "isin": null,
+   "name": "티피씨글로벌",
+   "symbol": "130740"
+  },
+  {
+   "isin": null,
+   "name": "앤로보틱스",
+   "symbol": "138360"
+  },
+  {
+   "isin": null,
+   "name": "알에스오토메이션",
+   "symbol": "140670"
+  },
+  {
+   "isin": null,
+   "name": "하이젠알앤엠",
+   "symbol": "160190"
+  },
+  {
+   "isin": null,
+   "name": "싸이맥스",
+   "symbol": "160980"
+  },
+  {
+   "isin": null,
+   "name": "나무가",
+   "symbol": "190510"
+  },
+  {
+   "isin": null,
+   "name": "오늘이엔엠",
+   "symbol": "192410"
+  },
+  {
+   "isin": null,
+   "name": "케이엔알시스템",
+   "symbol": "199430"
+  },
+  {
+   "isin": null,
+   "name": "HL만도",
+   "symbol": "204320"
+  },
+  {
+   "isin": null,
+   "name": "베노티앤알",
+   "symbol": "206400"
+  },
+  {
+   "isin": null,
+   "name": "러셀",
+   "symbol": "217500"
+  },
+  {
+   "isin": null,
+   "name": "라온로보틱스",
+   "symbol": "232680"
+  },
+  {
+   "isin": null,
+   "name": "브이원텍",
+   "symbol": "251630"
+  },
+  {
+   "isin": null,
+   "name": "이랜시스",
+   "symbol": "264850"
+  },
+  {
+   "isin": null,
+   "name": "에브리봇",
+   "symbol": "270660"
+  },
+  {
+   "isin": null,
+   "name": "레인보우로보틱스",
+   "symbol": "277810"
+  },
+  {
+   "isin": null,
+   "name": "아이엘",
+   "symbol": "307180"
+  },
+  {
+   "isin": null,
+   "name": "에스피시스템스",
+   "symbol": "317830"
+  },
+  {
+   "isin": null,
+   "name": "현대무벡스",
+   "symbol": "319400"
+  },
+  {
+   "isin": null,
+   "name": "LS티라유텍",
+   "symbol": "322180"
+  },
+  {
+   "isin": null,
+   "name": "뉴로메카",
+   "symbol": "348340"
+  },
+  {
+   "isin": null,
+   "name": "유일로보틱스",
+   "symbol": "388720"
+  },
+  {
+   "isin": null,
+   "name": "에스비비테크",
+   "symbol": "389500"
+  },
+  {
+   "isin": null,
+   "name": "코닉오토메이션",
+   "symbol": "391710"
+  },
+  {
+   "isin": null,
+   "name": "씨피시스템",
+   "symbol": "413630"
+  },
+  {
+   "isin": null,
+   "name": "삼현",
+   "symbol": "437730"
+  },
+  {
+   "isin": null,
+   "name": "코스모로보틱스",
+   "symbol": "439960"
+  },
+  {
+   "isin": null,
+   "name": "한국피아이엠",
+   "symbol": "448900"
+  },
+  {
+   "isin": null,
+   "name": "두산로보틱스",
+   "symbol": "454910"
+  },
+  {
+   "isin": null,
+   "name": "엔젤로보틱스",
+   "symbol": "455900"
+  },
+  {
+   "isin": null,
+   "name": "나우로보틱스",
+   "symbol": "459510"
+  },
+  {
+   "isin": null,
+   "name": "클로봇",
+   "symbol": "466100"
+  },
+  {
+   "isin": null,
+   "name": "링크솔루션",
+   "symbol": "474650"
+  },
+  {
+   "isin": null,
+   "name": "티엑스알로보틱스",
+   "symbol": "484810"
+  }
+ ],
+ "name": "로봇(산업용/협동로봇 등)"
+}

@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-595",
+ "members": [
+  {
+   "isin": null,
+   "name": "한화솔루션",
+   "symbol": "009830"
+  },
+  {
+   "isin": null,
+   "name": "한국전력",
+   "symbol": "015760"
+  },
+  {
+   "isin": null,
+   "name": "대주전자재료",
+   "symbol": "078600"
+  },
+  {
+   "isin": null,
+   "name": "유니테스트",
+   "symbol": "086390"
+  },
+  {
+   "isin": null,
+   "name": "선익시스템",
+   "symbol": "171090"
+  },
+  {
+   "isin": null,
+   "name": "메카로",
+   "symbol": "241770"
+  },
+  {
+   "isin": null,
+   "name": "야스",
+   "symbol": "255440"
+  },
+  {
+   "isin": null,
+   "name": "HD현대에너지솔루션",
+   "symbol": "322000"
+  },
+  {
+   "isin": null,
+   "name": "석경에이티",
+   "symbol": "357550"
+  },
+  {
+   "isin": null,
+   "name": "엘케이켐",
+   "symbol": "489500"
+  }
+ ],
+ "name": "우주태양광(페로브스카이트 등)"
+}

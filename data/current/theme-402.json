@@ -1,0 +1,52 @@
+{
+ "category": "theme",
+ "index": "theme-402",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국석유",
+   "symbol": "004090"
+  },
+  {
+   "isin": null,
+   "name": "스페코",
+   "symbol": "013810"
+  },
+  {
+   "isin": null,
+   "name": "극동유화",
+   "symbol": "014530"
+  },
+  {
+   "isin": null,
+   "name": "유진기업",
+   "symbol": "023410"
+  },
+  {
+   "isin": null,
+   "name": "아이티센씨티에스",
+   "symbol": "031820"
+  },
+  {
+   "isin": null,
+   "name": "엔피케이",
+   "symbol": "048830"
+  },
+  {
+   "isin": null,
+   "name": "HC홈센타",
+   "symbol": "060560"
+  },
+  {
+   "isin": null,
+   "name": "HC보광산업",
+   "symbol": "225530"
+  },
+  {
+   "isin": null,
+   "name": "SG",
+   "symbol": "255220"
+  }
+ ],
+ "name": "아스콘(아스팔트 콘크리트)"
+}

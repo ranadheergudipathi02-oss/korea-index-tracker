@@ -1,0 +1,437 @@
+{
+ "category": "theme",
+ "index": "theme-172",
+ "members": [
+  {
+   "isin": null,
+   "name": "동화약품",
+   "symbol": "000020"
+  },
+  {
+   "isin": null,
+   "name": "유한양행",
+   "symbol": "000100"
+  },
+  {
+   "isin": null,
+   "name": "유유제약",
+   "symbol": "000220"
+  },
+  {
+   "isin": null,
+   "name": "삼천당제약",
+   "symbol": "000250"
+  },
+  {
+   "isin": null,
+   "name": "삼일제약",
+   "symbol": "000520"
+  },
+  {
+   "isin": null,
+   "name": "동아쏘시오홀딩스",
+   "symbol": "000640"
+  },
+  {
+   "isin": null,
+   "name": "JW중외제약",
+   "symbol": "001060"
+  },
+  {
+   "isin": null,
+   "name": "삼성제약",
+   "symbol": "001360"
+  },
+  {
+   "isin": null,
+   "name": "안국약품",
+   "symbol": "001540"
+  },
+  {
+   "isin": null,
+   "name": "한독",
+   "symbol": "002390"
+  },
+  {
+   "isin": null,
+   "name": "국제약품",
+   "symbol": "002720"
+  },
+  {
+   "isin": null,
+   "name": "신신제약",
+   "symbol": "002800"
+  },
+  {
+   "isin": null,
+   "name": "부광약품",
+   "symbol": "003000"
+  },
+  {
+   "isin": null,
+   "name": "에이프로젠바이오로직스",
+   "symbol": "003060"
+  },
+  {
+   "isin": null,
+   "name": "일성아이에스",
+   "symbol": "003120"
+  },
+  {
+   "isin": null,
+   "name": "대원제약",
+   "symbol": "003220"
+  },
+  {
+   "isin": null,
+   "name": "영진약품",
+   "symbol": "003520"
+  },
+  {
+   "isin": null,
+   "name": "보령",
+   "symbol": "003850"
+  },
+  {
+   "isin": null,
+   "name": "현대약품",
+   "symbol": "004310"
+  },
+  {
+   "isin": null,
+   "name": "팜젠사이언스",
+   "symbol": "004720"
+  },
+  {
+   "isin": null,
+   "name": "삼진제약",
+   "symbol": "005500"
+  },
+  {
+   "isin": null,
+   "name": "녹십자",
+   "symbol": "006280"
+  },
+  {
+   "isin": null,
+   "name": "동구바이오제약",
+   "symbol": "006620"
+  },
+  {
+   "isin": null,
+   "name": "진양제약",
+   "symbol": "007370"
+  },
+  {
+   "isin": null,
+   "name": "일양약품",
+   "symbol": "007570"
+  },
+  {
+   "isin": null,
+   "name": "광동제약",
+   "symbol": "009290"
+  },
+  {
+   "isin": null,
+   "name": "삼아제약",
+   "symbol": "009300"
+  },
+  {
+   "isin": null,
+   "name": "한올바이오파마",
+   "symbol": "009420"
+  },
+  {
+   "isin": null,
+   "name": "경동제약",
+   "symbol": "011040"
+  },
+  {
+   "isin": null,
+   "name": "신일제약",
+   "symbol": "012790"
+  },
+  {
+   "isin": null,
+   "name": "고려제약",
+   "symbol": "014570"
+  },
+  {
+   "isin": null,
+   "name": "삼익제약",
+   "symbol": "014950"
+  },
+  {
+   "isin": null,
+   "name": "환인제약",
+   "symbol": "016580"
+  },
+  {
+   "isin": null,
+   "name": "명문제약",
+   "symbol": "017180"
+  },
+  {
+   "isin": null,
+   "name": "서울제약",
+   "symbol": "018680"
+  },
+  {
+   "isin": null,
+   "name": "신풍제약",
+   "symbol": "019170"
+  },
+  {
+   "isin": null,
+   "name": "대한약품",
+   "symbol": "023910"
+  },
+  {
+   "isin": null,
+   "name": "한국파마",
+   "symbol": "032300"
+  },
+  {
+   "isin": null,
+   "name": "유나이티드제약",
+   "symbol": "033270"
+  },
+  {
+   "isin": null,
+   "name": "조아제약",
+   "symbol": "034940"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스AI파마",
+   "symbol": "041910"
+  },
+  {
+   "isin": null,
+   "name": "HLB제약",
+   "symbol": "047920"
+  },
+  {
+   "isin": null,
+   "name": "경남제약",
+   "symbol": "053950"
+  },
+  {
+   "isin": null,
+   "name": "대한뉴팜",
+   "symbol": "054670"
+  },
+  {
+   "isin": null,
+   "name": "CMG제약",
+   "symbol": "058820"
+  },
+  {
+   "isin": null,
+   "name": "화일약품",
+   "symbol": "061250"
+  },
+  {
+   "isin": null,
+   "name": "테라젠이텍스",
+   "symbol": "066700"
+  },
+  {
+   "isin": null,
+   "name": "대화제약",
+   "symbol": "067080"
+  },
+  {
+   "isin": null,
+   "name": "JW신약",
+   "symbol": "067290"
+  },
+  {
+   "isin": null,
+   "name": "셀트리온제약",
+   "symbol": "068760"
+  },
+  {
+   "isin": null,
+   "name": "대웅제약",
+   "symbol": "069620"
+  },
+  {
+   "isin": null,
+   "name": "비보존 제약",
+   "symbol": "082800"
+  },
+  {
+   "isin": null,
+   "name": "동국제약",
+   "symbol": "086450"
+  },
+  {
+   "isin": null,
+   "name": "이연제약",
+   "symbol": "102460"
+  },
+  {
+   "isin": null,
+   "name": "코오롱생명과학",
+   "symbol": "102940"
+  },
+  {
+   "isin": null,
+   "name": "하이텍팜",
+   "symbol": "106190"
+  },
+  {
+   "isin": null,
+   "name": "그린생명과학",
+   "symbol": "114450"
+  },
+  {
+   "isin": null,
+   "name": "한미약품",
+   "symbol": "128940"
+  },
+  {
+   "isin": null,
+   "name": "동아에스티",
+   "symbol": "170900"
+  },
+  {
+   "isin": null,
+   "name": "종근당",
+   "symbol": "185750"
+  },
+  {
+   "isin": null,
+   "name": "HK이노엔",
+   "symbol": "195940"
+  },
+  {
+   "isin": null,
+   "name": "텔콘RF제약",
+   "symbol": "200230"
+  },
+  {
+   "isin": null,
+   "name": "비씨월드제약",
+   "symbol": "200780"
+  },
+  {
+   "isin": null,
+   "name": "지엘팜텍",
+   "symbol": "204840"
+  },
+  {
+   "isin": null,
+   "name": "삼성바이오로직스",
+   "symbol": "207940"
+  },
+  {
+   "isin": null,
+   "name": "경보제약",
+   "symbol": "214390"
+  },
+  {
+   "isin": null,
+   "name": "JW생명과학",
+   "symbol": "234080"
+  },
+  {
+   "isin": null,
+   "name": "녹십자웰빙",
+   "symbol": "234690"
+  },
+  {
+   "isin": null,
+   "name": "에스티팜",
+   "symbol": "237690"
+  },
+  {
+   "isin": null,
+   "name": "휴온스",
+   "symbol": "243070"
+  },
+  {
+   "isin": null,
+   "name": "일동제약",
+   "symbol": "249420"
+  },
+  {
+   "isin": null,
+   "name": "킵스파마",
+   "symbol": "256940"
+  },
+  {
+   "isin": null,
+   "name": "알리코제약",
+   "symbol": "260660"
+  },
+  {
+   "isin": null,
+   "name": "제일약품",
+   "symbol": "271980"
+  },
+  {
+   "isin": null,
+   "name": "압타머사이언스",
+   "symbol": "291650"
+  },
+  {
+   "isin": null,
+   "name": "하나제약",
+   "symbol": "293480"
+  },
+  {
+   "isin": null,
+   "name": "더블유에스아이",
+   "symbol": "299170"
+  },
+  {
+   "isin": null,
+   "name": "SK바이오사이언스",
+   "symbol": "302440"
+  },
+  {
+   "isin": null,
+   "name": "국전",
+   "symbol": "307750"
+  },
+  {
+   "isin": null,
+   "name": "셀비온",
+   "symbol": "308430"
+  },
+  {
+   "isin": null,
+   "name": "알피바이오",
+   "symbol": "314140"
+  },
+  {
+   "isin": null,
+   "name": "명인제약",
+   "symbol": "317450"
+  },
+  {
+   "isin": null,
+   "name": "SK바이오팜",
+   "symbol": "326030"
+  },
+  {
+   "isin": null,
+   "name": "위더스제약",
+   "symbol": "330350"
+  },
+  {
+   "isin": null,
+   "name": "프레스티지바이오로직스",
+   "symbol": "334970"
+  },
+  {
+   "isin": null,
+   "name": "프레스티지바이오파마",
+   "symbol": "950210"
+  }
+ ],
+ "name": "제약업체"
+}

@@ -1,0 +1,52 @@
+{
+ "category": "theme",
+ "index": "theme-167",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국앤컴퍼니",
+   "symbol": "000240"
+  },
+  {
+   "isin": null,
+   "name": "넥센타이어",
+   "symbol": "002350"
+  },
+  {
+   "isin": null,
+   "name": "넥센",
+   "symbol": "005720"
+  },
+  {
+   "isin": null,
+   "name": "금호석유화학",
+   "symbol": "011780"
+  },
+  {
+   "isin": null,
+   "name": "금호타이어",
+   "symbol": "073240"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "한국타이어앤테크놀로지",
+   "symbol": "161390"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  },
+  {
+   "isin": null,
+   "name": "HS효성첨단소재",
+   "symbol": "298050"
+  }
+ ],
+ "name": "타이어"
+}

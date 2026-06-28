@@ -1,0 +1,62 @@
+{
+ "category": "group",
+ "index": "group-98",
+ "members": [
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "케이티알파",
+   "symbol": "036030"
+  },
+  {
+   "isin": null,
+   "name": "KT지니뮤직",
+   "symbol": "043610"
+  },
+  {
+   "isin": null,
+   "name": "스카이라이프",
+   "symbol": "053210"
+  },
+  {
+   "isin": null,
+   "name": "이니텍",
+   "symbol": "053350"
+  },
+  {
+   "isin": null,
+   "name": "KTcs",
+   "symbol": "058850"
+  },
+  {
+   "isin": null,
+   "name": "KTis",
+   "symbol": "058860"
+  },
+  {
+   "isin": null,
+   "name": "KT나스미디어",
+   "symbol": "089600"
+  },
+  {
+   "isin": null,
+   "name": "플레이디",
+   "symbol": "237820"
+  },
+  {
+   "isin": null,
+   "name": "케이뱅크",
+   "symbol": "279570"
+  },
+  {
+   "isin": null,
+   "name": "KT밀리의서재",
+   "symbol": "418470"
+  }
+ ],
+ "name": "케이티"
+}

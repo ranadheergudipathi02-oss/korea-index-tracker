@@ -1,0 +1,2 @@
+# Pinned per the master prompt — do not bump without re-running Phase 0 sanity checks.
+pykrx==1.2.8

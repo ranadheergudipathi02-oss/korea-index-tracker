@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-380",
+ "members": [
+  {
+   "isin": null,
+   "name": "신세계",
+   "symbol": "004170"
+  },
+  {
+   "isin": null,
+   "name": "호텔신라",
+   "symbol": "008770"
+  },
+  {
+   "isin": null,
+   "name": "HDC",
+   "symbol": "012630"
+  },
+  {
+   "isin": null,
+   "name": "한국정보통신",
+   "symbol": "025770"
+  },
+  {
+   "isin": null,
+   "name": "현대백화점",
+   "symbol": "069960"
+  },
+  {
+   "isin": null,
+   "name": "글로벌텍스프리",
+   "symbol": "204620"
+  },
+  {
+   "isin": null,
+   "name": "토니모리",
+   "symbol": "214420"
+  },
+  {
+   "isin": null,
+   "name": "JTC",
+   "symbol": "950170"
+  }
+ ],
+ "name": "면세점"
+}

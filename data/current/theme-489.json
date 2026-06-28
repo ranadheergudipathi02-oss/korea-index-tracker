@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-489",
+ "members": [
+  {
+   "isin": null,
+   "name": "한세예스24홀딩스",
+   "symbol": "016450"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "예스24",
+   "symbol": "053280"
+  },
+  {
+   "isin": null,
+   "name": "이니텍",
+   "symbol": "053350"
+  },
+  {
+   "isin": null,
+   "name": "한국금융지주",
+   "symbol": "071050"
+  },
+  {
+   "isin": null,
+   "name": "KB금융",
+   "symbol": "105560"
+  },
+  {
+   "isin": null,
+   "name": "알서포트",
+   "symbol": "131370"
+  },
+  {
+   "isin": null,
+   "name": "드림시큐리티",
+   "symbol": "203650"
+  },
+  {
+   "isin": null,
+   "name": "엑셈",
+   "symbol": "205100"
+  },
+  {
+   "isin": null,
+   "name": "카카오뱅크",
+   "symbol": "323410"
+  }
+ ],
+ "name": "카카오뱅크(kakao BANK)"
+}

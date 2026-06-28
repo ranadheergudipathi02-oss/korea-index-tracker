@@ -1,0 +1,102 @@
+{
+ "category": "theme",
+ "index": "theme-106",
+ "members": [
+  {
+   "isin": null,
+   "name": "에프에스티",
+   "symbol": "036810"
+  },
+  {
+   "isin": null,
+   "name": "라온시큐어",
+   "symbol": "042510"
+  },
+  {
+   "isin": null,
+   "name": "파워로직스",
+   "symbol": "047310"
+  },
+  {
+   "isin": null,
+   "name": "해성옵틱스",
+   "symbol": "076610"
+  },
+  {
+   "isin": null,
+   "name": "유니퀘스트",
+   "symbol": "077500"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "동운아나텍",
+   "symbol": "094170"
+  },
+  {
+   "isin": null,
+   "name": "슈프리마에이치큐",
+   "symbol": "094840"
+  },
+  {
+   "isin": null,
+   "name": "엠씨넥스",
+   "symbol": "097520"
+  },
+  {
+   "isin": null,
+   "name": "시큐브",
+   "symbol": "131090"
+  },
+  {
+   "isin": null,
+   "name": "드림텍",
+   "symbol": "192650"
+  },
+  {
+   "isin": null,
+   "name": "유니온바이오메트릭스",
+   "symbol": "203450"
+  },
+  {
+   "isin": null,
+   "name": "드림시큐리티",
+   "symbol": "203650"
+  },
+  {
+   "isin": null,
+   "name": "포톤",
+   "symbol": "208710"
+  },
+  {
+   "isin": null,
+   "name": "아이티센피엔에스",
+   "symbol": "232830"
+  },
+  {
+   "isin": null,
+   "name": "슈프리마",
+   "symbol": "236200"
+  },
+  {
+   "isin": null,
+   "name": "엑스페릭스",
+   "symbol": "317770"
+  },
+  {
+   "isin": null,
+   "name": "시선AI",
+   "symbol": "340810"
+  },
+  {
+   "isin": null,
+   "name": "알체라",
+   "symbol": "347860"
+  }
+ ],
+ "name": "바이오인식(생체인식)"
+}

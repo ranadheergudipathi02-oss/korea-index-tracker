@@ -1,0 +1,37 @@
+{
+ "category": "group",
+ "index": "group-110",
+ "members": [
+  {
+   "isin": null,
+   "name": "영풍",
+   "symbol": "000670"
+  },
+  {
+   "isin": null,
+   "name": "코리아써키트",
+   "symbol": "007810"
+  },
+  {
+   "isin": null,
+   "name": "고려아연",
+   "symbol": "010130"
+  },
+  {
+   "isin": null,
+   "name": "시그네틱스",
+   "symbol": "033170"
+  },
+  {
+   "isin": null,
+   "name": "KZ정밀",
+   "symbol": "036560"
+  },
+  {
+   "isin": null,
+   "name": "인터플렉스",
+   "symbol": "051370"
+  }
+ ],
+ "name": "영풍"
+}

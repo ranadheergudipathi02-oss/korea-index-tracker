@@ -1,0 +1,97 @@
+{
+ "category": "theme",
+ "index": "theme-180",
+ "members": [
+  {
+   "isin": null,
+   "name": "태광산업",
+   "symbol": "003240"
+  },
+  {
+   "isin": null,
+   "name": "이수화학",
+   "symbol": "005950"
+  },
+  {
+   "isin": null,
+   "name": "대한유화",
+   "symbol": "006650"
+  },
+  {
+   "isin": null,
+   "name": "한화솔루션",
+   "symbol": "009830"
+  },
+  {
+   "isin": null,
+   "name": "롯데케미칼",
+   "symbol": "011170"
+  },
+  {
+   "isin": null,
+   "name": "금호석유화학",
+   "symbol": "011780"
+  },
+  {
+   "isin": null,
+   "name": "SKC",
+   "symbol": "011790"
+  },
+  {
+   "isin": null,
+   "name": "KPX케미칼",
+   "symbol": "025000"
+  },
+  {
+   "isin": null,
+   "name": "LG화학",
+   "symbol": "051910"
+  },
+  {
+   "isin": null,
+   "name": "그린케미칼",
+   "symbol": "083420"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "동성케미컬",
+   "symbol": "102260"
+  },
+  {
+   "isin": null,
+   "name": "티케이케미칼",
+   "symbol": "104480"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "삼양사",
+   "symbol": "145990"
+  },
+  {
+   "isin": null,
+   "name": "애경케미칼",
+   "symbol": "161000"
+  },
+  {
+   "isin": null,
+   "name": "SK케미칼",
+   "symbol": "285130"
+  },
+  {
+   "isin": null,
+   "name": "효성화학",
+   "symbol": "298000"
+  }
+ ],
+ "name": "석유화학"
+}

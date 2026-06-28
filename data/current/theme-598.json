@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-598",
+ "members": [
+  {
+   "isin": null,
+   "name": "신송홀딩스",
+   "symbol": "006880"
+  },
+  {
+   "isin": null,
+   "name": "샘표",
+   "symbol": "007540"
+  },
+  {
+   "isin": null,
+   "name": "풀무원",
+   "symbol": "017810"
+  },
+  {
+   "isin": null,
+   "name": "미래생명자원",
+   "symbol": "218150"
+  },
+  {
+   "isin": null,
+   "name": "샘표식품",
+   "symbol": "248170"
+  }
+ ],
+ "name": "콩/대두"
+}

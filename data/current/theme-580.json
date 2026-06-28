@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-580",
+ "members": [
+  {
+   "isin": null,
+   "name": "옴니시스템",
+   "symbol": "057540"
+  },
+  {
+   "isin": null,
+   "name": "이루온",
+   "symbol": "065440"
+  },
+  {
+   "isin": null,
+   "name": "엑스큐어",
+   "symbol": "070300"
+  },
+  {
+   "isin": null,
+   "name": "성우전자",
+   "symbol": "081580"
+  },
+  {
+   "isin": null,
+   "name": "유비벨록스",
+   "symbol": "089850"
+  }
+ ],
+ "name": "유심(USIM)"
+}

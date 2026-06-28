@@ -1,0 +1,162 @@
+{
+ "category": "sector",
+ "index": "sector-291",
+ "members": [
+  {
+   "isin": null,
+   "name": "HD한국조선해양",
+   "symbol": "009540"
+  },
+  {
+   "isin": null,
+   "name": "삼성중공업",
+   "symbol": "010140"
+  },
+  {
+   "isin": null,
+   "name": "오리엔탈정공",
+   "symbol": "014940"
+  },
+  {
+   "isin": null,
+   "name": "한국카본",
+   "symbol": "017960"
+  },
+  {
+   "isin": null,
+   "name": "바이온",
+   "symbol": "032980"
+  },
+  {
+   "isin": null,
+   "name": "제일테크노스",
+   "symbol": "038010"
+  },
+  {
+   "isin": null,
+   "name": "한화오션",
+   "symbol": "042660"
+  },
+  {
+   "isin": null,
+   "name": "메디콕스",
+   "symbol": "054180"
+  },
+  {
+   "isin": null,
+   "name": "삼영엠텍",
+   "symbol": "054540"
+  },
+  {
+   "isin": null,
+   "name": "스타코링크",
+   "symbol": "060240"
+  },
+  {
+   "isin": null,
+   "name": "삼영이엔씨",
+   "symbol": "065570"
+  },
+  {
+   "isin": null,
+   "name": "HD현대마린엔진",
+   "symbol": "071970"
+  },
+  {
+   "isin": null,
+   "name": "케이에스피",
+   "symbol": "073010"
+  },
+  {
+   "isin": null,
+   "name": "세진중공업",
+   "symbol": "075580"
+  },
+  {
+   "isin": null,
+   "name": "STX엔진",
+   "symbol": "077970"
+  },
+  {
+   "isin": null,
+   "name": "한화엔진",
+   "symbol": "082740"
+  },
+  {
+   "isin": null,
+   "name": "엔케이",
+   "symbol": "085310"
+  },
+  {
+   "isin": null,
+   "name": "한라IMS",
+   "symbol": "092460"
+  },
+  {
+   "isin": null,
+   "name": "대창솔루션",
+   "symbol": "096350"
+  },
+  {
+   "isin": null,
+   "name": "동방선기",
+   "symbol": "099410"
+  },
+  {
+   "isin": null,
+   "name": "KS인더스트리",
+   "symbol": "101000"
+  },
+  {
+   "isin": null,
+   "name": "인화정공",
+   "symbol": "101930"
+  },
+  {
+   "isin": null,
+   "name": "에스앤더블류",
+   "symbol": "103230"
+  },
+  {
+   "isin": null,
+   "name": "대양전기공업",
+   "symbol": "108380"
+  },
+  {
+   "isin": null,
+   "name": "티엠씨",
+   "symbol": "217590"
+  },
+  {
+   "isin": null,
+   "name": "HD현대",
+   "symbol": "267250"
+  },
+  {
+   "isin": null,
+   "name": "HD현대중공업",
+   "symbol": "329180"
+  },
+  {
+   "isin": null,
+   "name": "일승",
+   "symbol": "333430"
+  },
+  {
+   "isin": null,
+   "name": "대한조선",
+   "symbol": "439260"
+  },
+  {
+   "isin": null,
+   "name": "HD현대마린솔루션",
+   "symbol": "443060"
+  },
+  {
+   "isin": null,
+   "name": "현대힘스",
+   "symbol": "460930"
+  }
+ ],
+ "name": "조선"
+}

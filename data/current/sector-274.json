@@ -1,0 +1,412 @@
+{
+ "category": "sector",
+ "index": "sector-274",
+ "members": [
+  {
+   "isin": null,
+   "name": "경방",
+   "symbol": "000050"
+  },
+  {
+   "isin": null,
+   "name": "전방",
+   "symbol": "000950"
+  },
+  {
+   "isin": null,
+   "name": "대한방직",
+   "symbol": "001070"
+  },
+  {
+   "isin": null,
+   "name": "BYC",
+   "symbol": "001460"
+  },
+  {
+   "isin": null,
+   "name": "BYC우",
+   "symbol": "001465"
+  },
+  {
+   "isin": null,
+   "name": "DI동일",
+   "symbol": "001530"
+  },
+  {
+   "isin": null,
+   "name": "비비안",
+   "symbol": "002070"
+  },
+  {
+   "isin": null,
+   "name": "SYTS",
+   "symbol": "002170"
+  },
+  {
+   "isin": null,
+   "name": "일신방직",
+   "symbol": "003200"
+  },
+  {
+   "isin": null,
+   "name": "방림",
+   "symbol": "003610"
+  },
+  {
+   "isin": null,
+   "name": "SG세계물산",
+   "symbol": "004060"
+  },
+  {
+   "isin": null,
+   "name": "조광피혁",
+   "symbol": "004700"
+  },
+  {
+   "isin": null,
+   "name": "덕성",
+   "symbol": "004830"
+  },
+  {
+   "isin": null,
+   "name": "덕성우",
+   "symbol": "004835"
+  },
+  {
+   "isin": null,
+   "name": "온타이드",
+   "symbol": "005320"
+  },
+  {
+   "isin": null,
+   "name": "신영와코루",
+   "symbol": "005800"
+  },
+  {
+   "isin": null,
+   "name": "화승인더",
+   "symbol": "006060"
+  },
+  {
+   "isin": null,
+   "name": "F&F홀딩스",
+   "symbol": "007700"
+  },
+  {
+   "isin": null,
+   "name": "TP",
+   "symbol": "007980"
+  },
+  {
+   "isin": null,
+   "name": "원풍물산",
+   "symbol": "008290"
+  },
+  {
+   "isin": null,
+   "name": "윌비스",
+   "symbol": "008600"
+  },
+  {
+   "isin": null,
+   "name": "신원",
+   "symbol": "009270"
+  },
+  {
+   "isin": null,
+   "name": "영원무역홀딩스",
+   "symbol": "009970"
+  },
+  {
+   "isin": null,
+   "name": "형지I&C",
+   "symbol": "011080"
+  },
+  {
+   "isin": null,
+   "name": "우성머티리얼스",
+   "symbol": "011300"
+  },
+  {
+   "isin": null,
+   "name": "아가방컴퍼니",
+   "symbol": "013990"
+  },
+  {
+   "isin": null,
+   "name": "인디에프",
+   "symbol": "014990"
+  },
+  {
+   "isin": null,
+   "name": "대현",
+   "symbol": "016090"
+  },
+  {
+   "isin": null,
+   "name": "한세예스24홀딩스",
+   "symbol": "016450"
+  },
+  {
+   "isin": null,
+   "name": "한섬",
+   "symbol": "020000"
+  },
+  {
+   "isin": null,
+   "name": "대원화성",
+   "symbol": "024890"
+  },
+  {
+   "isin": null,
+   "name": "제이에스티나",
+   "symbol": "026040"
+  },
+  {
+   "isin": null,
+   "name": "신세계인터내셔날",
+   "symbol": "031430"
+  },
+  {
+   "isin": null,
+   "name": "아즈텍WB",
+   "symbol": "032080"
+  },
+  {
+   "isin": null,
+   "name": "좋은사람들",
+   "symbol": "033340"
+  },
+  {
+   "isin": null,
+   "name": "백산",
+   "symbol": "035150"
+  },
+  {
+   "isin": null,
+   "name": "감성코퍼레이션",
+   "symbol": "036620"
+  },
+  {
+   "isin": null,
+   "name": "코데즈컴바인",
+   "symbol": "047770"
+  },
+  {
+   "isin": null,
+   "name": "지엔코",
+   "symbol": "065060"
+  },
+  {
+   "isin": null,
+   "name": "한세엠케이",
+   "symbol": "069640"
+  },
+  {
+   "isin": null,
+   "name": "휴비스",
+   "symbol": "079980"
+  },
+  {
+   "isin": null,
+   "name": "미스토홀딩스",
+   "symbol": "081660"
+  },
+  {
+   "isin": null,
+   "name": "케이엠",
+   "symbol": "083550"
+  },
+  {
+   "isin": null,
+   "name": "이월드",
+   "symbol": "084680"
+  },
+  {
+   "isin": null,
+   "name": "TBH글로벌",
+   "symbol": "084870"
+  },
+  {
+   "isin": null,
+   "name": "진도",
+   "symbol": "088790"
+  },
+  {
+   "isin": null,
+   "name": "LF",
+   "symbol": "093050"
+  },
+  {
+   "isin": null,
+   "name": "형지엘리트",
+   "symbol": "093240"
+  },
+  {
+   "isin": null,
+   "name": "에스티오",
+   "symbol": "098660"
+  },
+  {
+   "isin": null,
+   "name": "한세실업",
+   "symbol": "105630"
+  },
+  {
+   "isin": null,
+   "name": "씨싸이트",
+   "symbol": "109670"
+  },
+  {
+   "isin": null,
+   "name": "크리스에프앤씨",
+   "symbol": "110790"
+  },
+  {
+   "isin": null,
+   "name": "호전실업",
+   "symbol": "111110"
+  },
+  {
+   "isin": null,
+   "name": "동인기연",
+   "symbol": "111380"
+  },
+  {
+   "isin": null,
+   "name": "영원무역",
+   "symbol": "111770"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스우노",
+   "symbol": "114630"
+  },
+  {
+   "isin": null,
+   "name": "노브랜드",
+   "symbol": "145170"
+  },
+  {
+   "isin": null,
+   "name": "제이에스코퍼레이션",
+   "symbol": "194370"
+  },
+  {
+   "isin": null,
+   "name": "그리티",
+   "symbol": "204020"
+  },
+  {
+   "isin": null,
+   "name": "토박스코리아",
+   "symbol": "215480"
+  },
+  {
+   "isin": null,
+   "name": "패션플랫폼",
+   "symbol": "225590"
+  },
+  {
+   "isin": null,
+   "name": "도부",
+   "symbol": "227420"
+  },
+  {
+   "isin": null,
+   "name": "에코마케팅",
+   "symbol": "230360"
+  },
+  {
+   "isin": null,
+   "name": "화승엔터프라이즈",
+   "symbol": "241590"
+  },
+  {
+   "isin": null,
+   "name": "디케이앤디",
+   "symbol": "263020"
+  },
+  {
+   "isin": null,
+   "name": "배럴",
+   "symbol": "267790"
+  },
+  {
+   "isin": null,
+   "name": "더네이쳐홀딩스",
+   "symbol": "298540"
+  },
+  {
+   "isin": null,
+   "name": "에스제이그룹",
+   "symbol": "306040"
+  },
+  {
+   "isin": null,
+   "name": "형지글로벌",
+   "symbol": "308100"
+  },
+  {
+   "isin": null,
+   "name": "윙스풋",
+   "symbol": "335870"
+  },
+  {
+   "isin": null,
+   "name": "젝시믹스",
+   "symbol": "337930"
+  },
+  {
+   "isin": null,
+   "name": "미쥬",
+   "symbol": "351020"
+  },
+  {
+   "isin": null,
+   "name": "씨앤투스",
+   "symbol": "352700"
+  },
+  {
+   "isin": null,
+   "name": "공구우먼",
+   "symbol": "366030"
+  },
+  {
+   "isin": null,
+   "name": "F&F",
+   "symbol": "383220"
+  },
+  {
+   "isin": null,
+   "name": "뉴키즈온",
+   "symbol": "462310"
+  },
+  {
+   "isin": null,
+   "name": "폰드그룹",
+   "symbol": "472850"
+  },
+  {
+   "isin": null,
+   "name": "블랙야크아이앤씨",
+   "symbol": "478560"
+  },
+  {
+   "isin": null,
+   "name": "에이유브랜즈",
+   "symbol": "481070"
+  },
+  {
+   "isin": null,
+   "name": "파이온엑스",
+   "symbol": "900100"
+  },
+  {
+   "isin": null,
+   "name": "딥커머스",
+   "symbol": "900110"
+  }
+ ],
+ "name": "섬유,의류,신발,호화품"
+}

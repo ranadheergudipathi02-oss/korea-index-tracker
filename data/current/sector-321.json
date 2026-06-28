@@ -1,0 +1,197 @@
+{
+ "category": "sector",
+ "index": "sector-321",
+ "members": [
+  {
+   "isin": null,
+   "name": "LS네트웍스",
+   "symbol": "000680"
+  },
+  {
+   "isin": null,
+   "name": "유진투자증권",
+   "symbol": "001200"
+  },
+  {
+   "isin": null,
+   "name": "부국증권",
+   "symbol": "001270"
+  },
+  {
+   "isin": null,
+   "name": "부국증권우",
+   "symbol": "001275"
+  },
+  {
+   "isin": null,
+   "name": "상상인증권",
+   "symbol": "001290"
+  },
+  {
+   "isin": null,
+   "name": "현대차증권",
+   "symbol": "001500"
+  },
+  {
+   "isin": null,
+   "name": "SK증권",
+   "symbol": "001510"
+  },
+  {
+   "isin": null,
+   "name": "SK증권우",
+   "symbol": "001515"
+  },
+  {
+   "isin": null,
+   "name": "신영증권",
+   "symbol": "001720"
+  },
+  {
+   "isin": null,
+   "name": "한양증권",
+   "symbol": "001750"
+  },
+  {
+   "isin": null,
+   "name": "한양증권우",
+   "symbol": "001755"
+  },
+  {
+   "isin": null,
+   "name": "유화증권",
+   "symbol": "003460"
+  },
+  {
+   "isin": null,
+   "name": "유화증권우",
+   "symbol": "003465"
+  },
+  {
+   "isin": null,
+   "name": "유안타증권",
+   "symbol": "003470"
+  },
+  {
+   "isin": null,
+   "name": "유안타증권우",
+   "symbol": "003475"
+  },
+  {
+   "isin": null,
+   "name": "한화투자증권",
+   "symbol": "003530"
+  },
+  {
+   "isin": null,
+   "name": "한화투자증권우",
+   "symbol": "003535"
+  },
+  {
+   "isin": null,
+   "name": "대신증권",
+   "symbol": "003540"
+  },
+  {
+   "isin": null,
+   "name": "대신증권우",
+   "symbol": "003545"
+  },
+  {
+   "isin": null,
+   "name": "대신증권2우B",
+   "symbol": "003547"
+  },
+  {
+   "isin": null,
+   "name": "NH투자증권",
+   "symbol": "005940"
+  },
+  {
+   "isin": null,
+   "name": "NH투자증권우",
+   "symbol": "005945"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋증권",
+   "symbol": "006800"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋증권우",
+   "symbol": "006805"
+  },
+  {
+   "isin": null,
+   "name": "삼성증권",
+   "symbol": "016360"
+  },
+  {
+   "isin": null,
+   "name": "DB증권",
+   "symbol": "016610"
+  },
+  {
+   "isin": null,
+   "name": "다우기술",
+   "symbol": "023590"
+  },
+  {
+   "isin": null,
+   "name": "다올투자증권",
+   "symbol": "030210"
+  },
+  {
+   "isin": null,
+   "name": "교보증권",
+   "symbol": "030610"
+  },
+  {
+   "isin": null,
+   "name": "다우데이타",
+   "symbol": "032190"
+  },
+  {
+   "isin": null,
+   "name": "키움증권",
+   "symbol": "039490"
+  },
+  {
+   "isin": null,
+   "name": "케이프",
+   "symbol": "064820"
+  },
+  {
+   "isin": null,
+   "name": "한국금융지주",
+   "symbol": "071050"
+  },
+  {
+   "isin": null,
+   "name": "한국금융지주우",
+   "symbol": "071055"
+  },
+  {
+   "isin": null,
+   "name": "LS증권",
+   "symbol": "078020"
+  },
+  {
+   "isin": null,
+   "name": "메리츠금융지주",
+   "symbol": "138040"
+  },
+  {
+   "isin": null,
+   "name": "코리아에셋투자증권",
+   "symbol": "190650"
+  },
+  {
+   "isin": null,
+   "name": "이스트에이드",
+   "symbol": "239340"
+  }
+ ],
+ "name": "증권"
+}

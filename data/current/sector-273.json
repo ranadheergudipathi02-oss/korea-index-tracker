@@ -1,0 +1,67 @@
+{
+ "category": "sector",
+ "index": "sector-273",
+ "members": [
+  {
+   "isin": null,
+   "name": "KR모터스",
+   "symbol": "000040"
+  },
+  {
+   "isin": null,
+   "name": "기아",
+   "symbol": "000270"
+  },
+  {
+   "isin": null,
+   "name": "KG케미칼",
+   "symbol": "001390"
+  },
+  {
+   "isin": null,
+   "name": "KG모빌리티",
+   "symbol": "003620"
+  },
+  {
+   "isin": null,
+   "name": "현대차",
+   "symbol": "005380"
+  },
+  {
+   "isin": null,
+   "name": "현대차우",
+   "symbol": "005385"
+  },
+  {
+   "isin": null,
+   "name": "현대차2우B",
+   "symbol": "005387"
+  },
+  {
+   "isin": null,
+   "name": "현대차3우B",
+   "symbol": "005389"
+  },
+  {
+   "isin": null,
+   "name": "도이치모터스",
+   "symbol": "067990"
+  },
+  {
+   "isin": null,
+   "name": "KG에코솔루션",
+   "symbol": "151860"
+  },
+  {
+   "isin": null,
+   "name": "케이카",
+   "symbol": "381970"
+  },
+  {
+   "isin": null,
+   "name": "엘브이엠씨홀딩스",
+   "symbol": "900140"
+  }
+ ],
+ "name": "자동차"
+}

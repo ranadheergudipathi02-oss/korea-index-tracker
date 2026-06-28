@@ -1,0 +1,67 @@
+{
+ "category": "group",
+ "index": "group-8",
+ "members": [
+  {
+   "isin": null,
+   "name": "롯데손해보험",
+   "symbol": "000400"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "롯데지주",
+   "symbol": "004990"
+  },
+  {
+   "isin": null,
+   "name": "롯데칠성",
+   "symbol": "005300"
+  },
+  {
+   "isin": null,
+   "name": "롯데케미칼",
+   "symbol": "011170"
+  },
+  {
+   "isin": null,
+   "name": "롯데에너지머티리얼즈",
+   "symbol": "020150"
+  },
+  {
+   "isin": null,
+   "name": "롯데쇼핑",
+   "symbol": "023530"
+  },
+  {
+   "isin": null,
+   "name": "롯데하이마트",
+   "symbol": "071840"
+  },
+  {
+   "isin": null,
+   "name": "롯데렌탈",
+   "symbol": "089860"
+  },
+  {
+   "isin": null,
+   "name": "롯데웰푸드",
+   "symbol": "280360"
+  },
+  {
+   "isin": null,
+   "name": "롯데이노베이트",
+   "symbol": "286940"
+  },
+  {
+   "isin": null,
+   "name": "롯데리츠",
+   "symbol": "330590"
+  }
+ ],
+ "name": "롯데"
+}

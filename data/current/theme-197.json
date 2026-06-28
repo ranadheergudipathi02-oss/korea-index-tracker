@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-197",
+ "members": [
+  {
+   "isin": null,
+   "name": "한솔홀딩스",
+   "symbol": "004150"
+  },
+  {
+   "isin": null,
+   "name": "태영건설",
+   "symbol": "009410"
+  },
+  {
+   "isin": null,
+   "name": "서한",
+   "symbol": "011370"
+  },
+  {
+   "isin": null,
+   "name": "인선이엔티",
+   "symbol": "060150"
+  },
+  {
+   "isin": null,
+   "name": "와이엔텍",
+   "symbol": "067900"
+  }
+ ],
+ "name": "폐기물처리"
+}

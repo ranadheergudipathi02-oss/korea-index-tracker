@@ -1,0 +1,52 @@
+{
+ "category": "group",
+ "index": "group-124",
+ "members": [
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "에스엠",
+   "symbol": "041510"
+  },
+  {
+   "isin": null,
+   "name": "SM C&C",
+   "symbol": "048550"
+  },
+  {
+   "isin": null,
+   "name": "키이스트",
+   "symbol": "054780"
+  },
+  {
+   "isin": null,
+   "name": "SM Life Design",
+   "symbol": "063440"
+  },
+  {
+   "isin": null,
+   "name": "카카오게임즈",
+   "symbol": "293490"
+  },
+  {
+   "isin": null,
+   "name": "카카오뱅크",
+   "symbol": "323410"
+  },
+  {
+   "isin": null,
+   "name": "디어유",
+   "symbol": "376300"
+  },
+  {
+   "isin": null,
+   "name": "카카오페이",
+   "symbol": "377300"
+  }
+ ],
+ "name": "카카오"
+}

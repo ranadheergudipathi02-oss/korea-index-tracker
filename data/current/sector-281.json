@@ -1,0 +1,512 @@
+{
+ "category": "sector",
+ "index": "sector-281",
+ "members": [
+  {
+   "isin": null,
+   "name": "신흥",
+   "symbol": "004080"
+  },
+  {
+   "isin": null,
+   "name": "피제이전자",
+   "symbol": "006140"
+  },
+  {
+   "isin": null,
+   "name": "HLB",
+   "symbol": "028300"
+  },
+  {
+   "isin": null,
+   "name": "디오",
+   "symbol": "039840"
+  },
+  {
+   "isin": null,
+   "name": "인바디",
+   "symbol": "041830"
+  },
+  {
+   "isin": null,
+   "name": "메디아나",
+   "symbol": "041920"
+  },
+  {
+   "isin": null,
+   "name": "한스바이오메드",
+   "symbol": "042520"
+  },
+  {
+   "isin": null,
+   "name": "알파AI",
+   "symbol": "043100"
+  },
+  {
+   "isin": null,
+   "name": "바텍",
+   "symbol": "043150"
+  },
+  {
+   "isin": null,
+   "name": "시너지이노베이션",
+   "symbol": "048870"
+  },
+  {
+   "isin": null,
+   "name": "제이브이엠",
+   "symbol": "054950"
+  },
+  {
+   "isin": null,
+   "name": "시지메드텍",
+   "symbol": "056090"
+  },
+  {
+   "isin": null,
+   "name": "멕아이씨에스",
+   "symbol": "058110"
+  },
+  {
+   "isin": null,
+   "name": "메타바이오메드",
+   "symbol": "059210"
+  },
+  {
+   "isin": null,
+   "name": "큐렉소",
+   "symbol": "060280"
+  },
+  {
+   "isin": null,
+   "name": "휴비츠",
+   "symbol": "065510"
+  },
+  {
+   "isin": null,
+   "name": "HLB생명과학",
+   "symbol": "067630"
+  },
+  {
+   "isin": null,
+   "name": "아이센스",
+   "symbol": "099190"
+  },
+  {
+   "isin": null,
+   "name": "바이오플러스",
+   "symbol": "099430"
+  },
+  {
+   "isin": null,
+   "name": "뷰웍스",
+   "symbol": "100120"
+  },
+  {
+   "isin": null,
+   "name": "세운메디칼",
+   "symbol": "100700"
+  },
+  {
+   "isin": null,
+   "name": "코렌텍",
+   "symbol": "104540"
+  },
+  {
+   "isin": null,
+   "name": "셀바스AI",
+   "symbol": "108860"
+  },
+  {
+   "isin": null,
+   "name": "씨유메디칼",
+   "symbol": "115480"
+  },
+  {
+   "isin": null,
+   "name": "인터로조",
+   "symbol": "119610"
+  },
+  {
+   "isin": null,
+   "name": "제노레이",
+   "symbol": "122310"
+  },
+  {
+   "isin": null,
+   "name": "에스디바이오센서",
+   "symbol": "137310"
+  },
+  {
+   "isin": null,
+   "name": "나이벡",
+   "symbol": "138610"
+  },
+  {
+   "isin": null,
+   "name": "녹십자엠에스",
+   "symbol": "142280"
+  },
+  {
+   "isin": null,
+   "name": "덴티움",
+   "symbol": "145720"
+  },
+  {
+   "isin": null,
+   "name": "하이로닉",
+   "symbol": "149980"
+  },
+  {
+   "isin": null,
+   "name": "엘앤케이바이오",
+   "symbol": "156100"
+  },
+  {
+   "isin": null,
+   "name": "엠아이텍",
+   "symbol": "179290"
+  },
+  {
+   "isin": null,
+   "name": "세니젠",
+   "symbol": "188260"
+  },
+  {
+   "isin": null,
+   "name": "바이오프로테크",
+   "symbol": "199290"
+  },
+  {
+   "isin": null,
+   "name": "레이저옵텍",
+   "symbol": "199550"
+  },
+  {
+   "isin": null,
+   "name": "메디쎄이",
+   "symbol": "200580"
+  },
+  {
+   "isin": null,
+   "name": "셀바스헬스케어",
+   "symbol": "208370"
+  },
+  {
+   "isin": null,
+   "name": "오건에코텍",
+   "symbol": "212310"
+  },
+  {
+   "isin": null,
+   "name": "클래시스",
+   "symbol": "214150"
+  },
+  {
+   "isin": null,
+   "name": "파마리서치",
+   "symbol": "214450"
+  },
+  {
+   "isin": null,
+   "name": "롤링스톤",
+   "symbol": "214610"
+  },
+  {
+   "isin": null,
+   "name": "디알텍",
+   "symbol": "214680"
+  },
+  {
+   "isin": null,
+   "name": "제테마",
+   "symbol": "216080"
+  },
+  {
+   "isin": null,
+   "name": "한국비티비",
+   "symbol": "219750"
+  },
+  {
+   "isin": null,
+   "name": "제놀루션",
+   "symbol": "225220"
+  },
+  {
+   "isin": null,
+   "name": "오스테오닉",
+   "symbol": "226400"
+  },
+  {
+   "isin": null,
+   "name": "레이",
+   "symbol": "228670"
+  },
+  {
+   "isin": null,
+   "name": "지노믹트리",
+   "symbol": "228760"
+  },
+  {
+   "isin": null,
+   "name": "레이언스",
+   "symbol": "228850"
+  },
+  {
+   "isin": null,
+   "name": "젠큐릭스",
+   "symbol": "229000"
+  },
+  {
+   "isin": null,
+   "name": "메디안디노스틱",
+   "symbol": "233250"
+  },
+  {
+   "isin": null,
+   "name": "자이글",
+   "symbol": "234920"
+  },
+  {
+   "isin": null,
+   "name": "동방메디컬",
+   "symbol": "240550"
+  },
+  {
+   "isin": null,
+   "name": "나눔테크",
+   "symbol": "244880"
+  },
+  {
+   "isin": null,
+   "name": "아스타",
+   "symbol": "246720"
+  },
+  {
+   "isin": null,
+   "name": "루트락",
+   "symbol": "253610"
+  },
+  {
+   "isin": null,
+   "name": "수젠텍",
+   "symbol": "253840"
+  },
+  {
+   "isin": null,
+   "name": "한국비엔씨",
+   "symbol": "256840"
+  },
+  {
+   "isin": null,
+   "name": "세종메디칼",
+   "symbol": "258830"
+  },
+  {
+   "isin": null,
+   "name": "덴티스",
+   "symbol": "261200"
+  },
+  {
+   "isin": null,
+   "name": "디알젬",
+   "symbol": "263690"
+  },
+  {
+   "isin": null,
+   "name": "엘앤씨바이오",
+   "symbol": "290650"
+  },
+  {
+   "isin": null,
+   "name": "다이나믹솔루션",
+   "symbol": "290660"
+  },
+  {
+   "isin": null,
+   "name": "이오플로우",
+   "symbol": "294090"
+  },
+  {
+   "isin": null,
+   "name": "리메드",
+   "symbol": "302550"
+  },
+  {
+   "isin": null,
+   "name": "프로티아",
+   "symbol": "303360"
+  },
+  {
+   "isin": null,
+   "name": "동국생명과학",
+   "symbol": "303810"
+  },
+  {
+   "isin": null,
+   "name": "피플바이오",
+   "symbol": "304840"
+  },
+  {
+   "isin": null,
+   "name": "마이크로디지탈",
+   "symbol": "305090"
+  },
+  {
+   "isin": null,
+   "name": "원바이오젠",
+   "symbol": "307280"
+  },
+  {
+   "isin": null,
+   "name": "바이오다인",
+   "symbol": "314930"
+  },
+  {
+   "isin": null,
+   "name": "그래피",
+   "symbol": "318060"
+  },
+  {
+   "isin": null,
+   "name": "펨토바이오메드",
+   "symbol": "327610"
+  },
+  {
+   "isin": null,
+   "name": "오션스바이오",
+   "symbol": "332190"
+  },
+  {
+   "isin": null,
+   "name": "타스컴",
+   "symbol": "336040"
+  },
+  {
+   "isin": null,
+   "name": "원텍",
+   "symbol": "336570"
+  },
+  {
+   "isin": null,
+   "name": "유엑스엔",
+   "symbol": "337840"
+  },
+  {
+   "isin": null,
+   "name": "티앤엘",
+   "symbol": "340570"
+  },
+  {
+   "isin": null,
+   "name": "진시스템",
+   "symbol": "363250"
+  },
+  {
+   "isin": null,
+   "name": "한컴라이프케어",
+   "symbol": "372910"
+  },
+  {
+   "isin": null,
+   "name": "로킷헬스케어",
+   "symbol": "376900"
+  },
+  {
+   "isin": null,
+   "name": "노을",
+   "symbol": "376930"
+  },
+  {
+   "isin": null,
+   "name": "바이오노트",
+   "symbol": "377740"
+  },
+  {
+   "isin": null,
+   "name": "파인메딕스",
+   "symbol": "387570"
+  },
+  {
+   "isin": null,
+   "name": "넥스트바이오메디컬",
+   "symbol": "389650"
+  },
+  {
+   "isin": null,
+   "name": "애니메디솔루션",
+   "symbol": "390110"
+  },
+  {
+   "isin": null,
+   "name": "리센스메디컬",
+   "symbol": "394420"
+  },
+  {
+   "isin": null,
+   "name": "에스지헬스케어",
+   "symbol": "398120"
+  },
+  {
+   "isin": null,
+   "name": "켈스",
+   "symbol": "402420"
+  },
+  {
+   "isin": null,
+   "name": "플라즈맵",
+   "symbol": "405000"
+  },
+  {
+   "isin": null,
+   "name": "비스토스",
+   "symbol": "419540"
+  },
+  {
+   "isin": null,
+   "name": "아이오바이오",
+   "symbol": "447690"
+  },
+  {
+   "isin": null,
+   "name": "마이크로엔엑스",
+   "symbol": "448780"
+  },
+  {
+   "isin": null,
+   "name": "하스",
+   "symbol": "450330"
+  },
+  {
+   "isin": null,
+   "name": "아스테라시스",
+   "symbol": "450950"
+  },
+  {
+   "isin": null,
+   "name": "엔젤로보틱스",
+   "symbol": "455900"
+  },
+  {
+   "isin": null,
+   "name": "아이엠지티",
+   "symbol": "456570"
+  },
+  {
+   "isin": null,
+   "name": "피앤에스로보틱스",
+   "symbol": "460940"
+  },
+  {
+   "isin": null,
+   "name": "라메디텍",
+   "symbol": "462510"
+  },
+  {
+   "isin": null,
+   "name": "리브스메드",
+   "symbol": "491000"
+  }
+ ],
+ "name": "건강관리장비와용품"
+}

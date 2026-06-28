@@ -1,0 +1,97 @@
+{
+ "category": "theme",
+ "index": "theme-105",
+ "members": [
+  {
+   "isin": null,
+   "name": "대한제당",
+   "symbol": "001790"
+  },
+  {
+   "isin": null,
+   "name": "고려산업",
+   "symbol": "002140"
+  },
+  {
+   "isin": null,
+   "name": "한탑",
+   "symbol": "002680"
+  },
+  {
+   "isin": null,
+   "name": "대주산업",
+   "symbol": "003310"
+  },
+  {
+   "isin": null,
+   "name": "한일사료",
+   "symbol": "005860"
+  },
+  {
+   "isin": null,
+   "name": "우성",
+   "symbol": "006980"
+  },
+  {
+   "isin": null,
+   "name": "사조동아원",
+   "symbol": "008040"
+  },
+  {
+   "isin": null,
+   "name": "우진비앤지",
+   "symbol": "018620"
+  },
+  {
+   "isin": null,
+   "name": "케이씨피드",
+   "symbol": "025880"
+  },
+  {
+   "isin": null,
+   "name": "팜스토리",
+   "symbol": "027710"
+  },
+  {
+   "isin": null,
+   "name": "이지홀딩스",
+   "symbol": "035810"
+  },
+  {
+   "isin": null,
+   "name": "팜스코",
+   "symbol": "036580"
+  },
+  {
+   "isin": null,
+   "name": "씨티씨바이오",
+   "symbol": "060590"
+  },
+  {
+   "isin": null,
+   "name": "선진",
+   "symbol": "136490"
+  },
+  {
+   "isin": null,
+   "name": "애드바이오텍",
+   "symbol": "179530"
+  },
+  {
+   "isin": null,
+   "name": "미래생명자원",
+   "symbol": "218150"
+  },
+  {
+   "isin": null,
+   "name": "이지바이오",
+   "symbol": "353810"
+  },
+  {
+   "isin": null,
+   "name": "오에스피",
+   "symbol": "368970"
+  }
+ ],
+ "name": "사료"
+}

@@ -1,0 +1,22 @@
+{
+ "category": "theme",
+ "index": "theme-449",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성SDI",
+   "symbol": "006400"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "LG에너지솔루션",
+   "symbol": "373220"
+  }
+ ],
+ "name": "2차전지(생산)"
+}

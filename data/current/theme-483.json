@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-483",
+ "members": [
+  {
+   "isin": null,
+   "name": "한화투자증권",
+   "symbol": "003530"
+  },
+  {
+   "isin": null,
+   "name": "SBI인베스트먼트",
+   "symbol": "019550"
+  },
+  {
+   "isin": null,
+   "name": "아주IB투자",
+   "symbol": "027360"
+  },
+  {
+   "isin": null,
+   "name": "그래디언트",
+   "symbol": "035080"
+  },
+  {
+   "isin": null,
+   "name": "한화생명",
+   "symbol": "088350"
+  }
+ ],
+ "name": "야놀자(Yanolja)"
+}

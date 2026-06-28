@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-62",
+ "members": [
+  {
+   "isin": null,
+   "name": "세아베스틸지주",
+   "symbol": "001430"
+  },
+  {
+   "isin": null,
+   "name": "고려제강",
+   "symbol": "002240"
+  },
+  {
+   "isin": null,
+   "name": "현대제철",
+   "symbol": "004020"
+  },
+  {
+   "isin": null,
+   "name": "POSCO홀딩스",
+   "symbol": "005490"
+  },
+  {
+   "isin": null,
+   "name": "KG스틸",
+   "symbol": "016380"
+  },
+  {
+   "isin": null,
+   "name": "포스코스틸리온",
+   "symbol": "058430"
+  },
+  {
+   "isin": null,
+   "name": "대한제강",
+   "symbol": "084010"
+  },
+  {
+   "isin": null,
+   "name": "한국철강",
+   "symbol": "104700"
+  },
+  {
+   "isin": null,
+   "name": "세아제강",
+   "symbol": "306200"
+  },
+  {
+   "isin": null,
+   "name": "동국씨엠",
+   "symbol": "460850"
+  },
+  {
+   "isin": null,
+   "name": "동국제강",
+   "symbol": "460860"
+  }
+ ],
+ "name": "철강 주요종목"
+}

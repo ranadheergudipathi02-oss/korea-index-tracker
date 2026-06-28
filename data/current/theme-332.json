@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-332",
+ "members": [
+  {
+   "isin": null,
+   "name": "DB하이텍",
+   "symbol": "000990"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "현대모비스",
+   "symbol": "012330"
+  },
+  {
+   "isin": null,
+   "name": "아이에이",
+   "symbol": "038880"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "세코닉스",
+   "symbol": "053450"
+  },
+  {
+   "isin": null,
+   "name": "MDS테크",
+   "symbol": "086960"
+  },
+  {
+   "isin": null,
+   "name": "모바일어플라이언스",
+   "symbol": "087260"
+  },
+  {
+   "isin": null,
+   "name": "유비벨록스",
+   "symbol": "089850"
+  },
+  {
+   "isin": null,
+   "name": "엠씨넥스",
+   "symbol": "097520"
+  },
+  {
+   "isin": null,
+   "name": "모트렉스",
+   "symbol": "118990"
+  },
+  {
+   "isin": null,
+   "name": "HL만도",
+   "symbol": "204320"
+  },
+  {
+   "isin": null,
+   "name": "오비고",
+   "symbol": "352910"
+  }
+ ],
+ "name": "스마트카(SMART CAR)"
+}

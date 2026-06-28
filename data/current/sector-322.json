@@ -1,0 +1,207 @@
+{
+ "category": "sector",
+ "index": "sector-322",
+ "members": [
+  {
+   "isin": null,
+   "name": "CR홀딩스",
+   "symbol": "000480"
+  },
+  {
+   "isin": null,
+   "name": "제일연마",
+   "symbol": "001560"
+  },
+  {
+   "isin": null,
+   "name": "알루코",
+   "symbol": "001780"
+  },
+  {
+   "isin": null,
+   "name": "현대비앤지스틸",
+   "symbol": "004560"
+  },
+  {
+   "isin": null,
+   "name": "풍산홀딩스",
+   "symbol": "005810"
+  },
+  {
+   "isin": null,
+   "name": "삼아알미늄",
+   "symbol": "006110"
+  },
+  {
+   "isin": null,
+   "name": "남선알미늄",
+   "symbol": "008350"
+  },
+  {
+   "isin": null,
+   "name": "남선알미우",
+   "symbol": "008355"
+  },
+  {
+   "isin": null,
+   "name": "SIMPAC",
+   "symbol": "009160"
+  },
+  {
+   "isin": null,
+   "name": "삼보산업",
+   "symbol": "009620"
+  },
+  {
+   "isin": null,
+   "name": "이렘",
+   "symbol": "009730"
+  },
+  {
+   "isin": null,
+   "name": "한국내화",
+   "symbol": "010040"
+  },
+  {
+   "isin": null,
+   "name": "고려아연",
+   "symbol": "010130"
+  },
+  {
+   "isin": null,
+   "name": "경동인베스트",
+   "symbol": "012320"
+  },
+  {
+   "isin": null,
+   "name": "대창",
+   "symbol": "012800"
+  },
+  {
+   "isin": null,
+   "name": "태경비케이",
+   "symbol": "014580"
+  },
+  {
+   "isin": null,
+   "name": "태경산업",
+   "symbol": "015890"
+  },
+  {
+   "isin": null,
+   "name": "조일알미늄",
+   "symbol": "018470"
+  },
+  {
+   "isin": null,
+   "name": "서원",
+   "symbol": "021050"
+  },
+  {
+   "isin": null,
+   "name": "디씨엠",
+   "symbol": "024090"
+  },
+  {
+   "isin": null,
+   "name": "이구산업",
+   "symbol": "025820"
+  },
+  {
+   "isin": null,
+   "name": "황금에스티",
+   "symbol": "032560"
+  },
+  {
+   "isin": null,
+   "name": "EG",
+   "symbol": "037370"
+  },
+  {
+   "isin": null,
+   "name": "케이피티유",
+   "symbol": "054410"
+  },
+  {
+   "isin": null,
+   "name": "한컴위드",
+   "symbol": "054920"
+  },
+  {
+   "isin": null,
+   "name": "포스코스틸리온",
+   "symbol": "058430"
+  },
+  {
+   "isin": null,
+   "name": "국일신동",
+   "symbol": "060480"
+  },
+  {
+   "isin": null,
+   "name": "대호에이엘",
+   "symbol": "069460"
+  },
+  {
+   "isin": null,
+   "name": "동국알앤에스",
+   "symbol": "075970"
+  },
+  {
+   "isin": null,
+   "name": "한창산업",
+   "symbol": "079170"
+  },
+  {
+   "isin": null,
+   "name": "일진다이아",
+   "symbol": "081000"
+  },
+  {
+   "isin": null,
+   "name": "티플랙스",
+   "symbol": "081150"
+  },
+  {
+   "isin": null,
+   "name": "풍산",
+   "symbol": "103140"
+  },
+  {
+   "isin": null,
+   "name": "피제이메탈",
+   "symbol": "128660"
+  },
+  {
+   "isin": null,
+   "name": "DSR",
+   "symbol": "155660"
+  },
+  {
+   "isin": null,
+   "name": "킵스파마",
+   "symbol": "256940"
+  },
+  {
+   "isin": null,
+   "name": "테크트랜스",
+   "symbol": "258050"
+  },
+  {
+   "isin": null,
+   "name": "에이치브이엠",
+   "symbol": "295310"
+  },
+  {
+   "isin": null,
+   "name": "조선내화",
+   "symbol": "462520"
+  },
+  {
+   "isin": null,
+   "name": "크리스탈신소재",
+   "symbol": "900250"
+  }
+ ],
+ "name": "비철금속"
+}

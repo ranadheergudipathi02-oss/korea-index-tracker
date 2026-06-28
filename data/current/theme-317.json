@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-317",
+ "members": [
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "포니링크",
+   "symbol": "064800"
+  },
+  {
+   "isin": null,
+   "name": "이루온",
+   "symbol": "065440"
+  },
+  {
+   "isin": null,
+   "name": "SOOP",
+   "symbol": "067160"
+  },
+  {
+   "isin": null,
+   "name": "유엔젤",
+   "symbol": "072130"
+  },
+  {
+   "isin": null,
+   "name": "가비아",
+   "symbol": "079940"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "NHN벅스",
+   "symbol": "104200"
+  }
+ ],
+ "name": "SNS(소셜네트워크서비스)"
+}

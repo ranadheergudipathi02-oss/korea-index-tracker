@@ -1,0 +1,502 @@
+{
+ "category": "theme",
+ "index": "theme-568",
+ "members": [
+  {
+   "isin": null,
+   "name": "기아",
+   "symbol": "000270"
+  },
+  {
+   "isin": null,
+   "name": "SK하이닉스",
+   "symbol": "000660"
+  },
+  {
+   "isin": null,
+   "name": "삼성화재",
+   "symbol": "000810"
+  },
+  {
+   "isin": null,
+   "name": "DB하이텍",
+   "symbol": "000990"
+  },
+  {
+   "isin": null,
+   "name": "JW중외제약",
+   "symbol": "001060"
+  },
+  {
+   "isin": null,
+   "name": "미원상사",
+   "symbol": "002840"
+  },
+  {
+   "isin": null,
+   "name": "삼양식품",
+   "symbol": "003230"
+  },
+  {
+   "isin": null,
+   "name": "대한항공",
+   "symbol": "003490"
+  },
+  {
+   "isin": null,
+   "name": "빙그레",
+   "symbol": "005180"
+  },
+  {
+   "isin": null,
+   "name": "동진쎄미켐",
+   "symbol": "005290"
+  },
+  {
+   "isin": null,
+   "name": "롯데칠성",
+   "symbol": "005300"
+  },
+  {
+   "isin": null,
+   "name": "현대차",
+   "symbol": "005380"
+  },
+  {
+   "isin": null,
+   "name": "DB손해보험",
+   "symbol": "005830"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋증권",
+   "symbol": "006800"
+  },
+  {
+   "isin": null,
+   "name": "한미사이언스",
+   "symbol": "008930"
+  },
+  {
+   "isin": null,
+   "name": "한샘",
+   "symbol": "009240"
+  },
+  {
+   "isin": null,
+   "name": "경동나비엔",
+   "symbol": "009450"
+  },
+  {
+   "isin": null,
+   "name": "명신산업",
+   "symbol": "009900"
+  },
+  {
+   "isin": null,
+   "name": "LS ELECTRIC",
+   "symbol": "010120"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "HMM",
+   "symbol": "011200"
+  },
+  {
+   "isin": null,
+   "name": "금호석유화학",
+   "symbol": "011780"
+  },
+  {
+   "isin": null,
+   "name": "현대모비스",
+   "symbol": "012330"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "에스원",
+   "symbol": "012750"
+  },
+  {
+   "isin": null,
+   "name": "한솔케미칼",
+   "symbol": "014680"
+  },
+  {
+   "isin": null,
+   "name": "동원시스템즈",
+   "symbol": "014820"
+  },
+  {
+   "isin": null,
+   "name": "삼성증권",
+   "symbol": "016360"
+  },
+  {
+   "isin": null,
+   "name": "SK텔레콤",
+   "symbol": "017670"
+  },
+  {
+   "isin": null,
+   "name": "현대엘리베이터",
+   "symbol": "017800"
+  },
+  {
+   "isin": null,
+   "name": "SK가스",
+   "symbol": "018670"
+  },
+  {
+   "isin": null,
+   "name": "코웨이",
+   "symbol": "021240"
+  },
+  {
+   "isin": null,
+   "name": "포스코DX",
+   "symbol": "022100"
+  },
+  {
+   "isin": null,
+   "name": "동서",
+   "symbol": "026960"
+  },
+  {
+   "isin": null,
+   "name": "제일기획",
+   "symbol": "030000"
+  },
+  {
+   "isin": null,
+   "name": "NICE평가정보",
+   "symbol": "030190"
+  },
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "피에스케이홀딩스",
+   "symbol": "031980"
+  },
+  {
+   "isin": null,
+   "name": "제룡전기",
+   "symbol": "033100"
+  },
+  {
+   "isin": null,
+   "name": "KT&G",
+   "symbol": "033780"
+  },
+  {
+   "isin": null,
+   "name": "강원랜드",
+   "symbol": "035250"
+  },
+  {
+   "isin": null,
+   "name": "JYP Ent.",
+   "symbol": "035900"
+  },
+  {
+   "isin": null,
+   "name": "주성엔지니어링",
+   "symbol": "036930"
+  },
+  {
+   "isin": null,
+   "name": "하나투어",
+   "symbol": "039130"
+  },
+  {
+   "isin": null,
+   "name": "키움증권",
+   "symbol": "039490"
+  },
+  {
+   "isin": null,
+   "name": "한미반도체",
+   "symbol": "042700"
+  },
+  {
+   "isin": null,
+   "name": "포스코인터내셔널",
+   "symbol": "047050"
+  },
+  {
+   "isin": null,
+   "name": "한국항공우주",
+   "symbol": "047810"
+  },
+  {
+   "isin": null,
+   "name": "한전KPS",
+   "symbol": "051600"
+  },
+  {
+   "isin": null,
+   "name": "한전기술",
+   "symbol": "052690"
+  },
+  {
+   "isin": null,
+   "name": "신한지주",
+   "symbol": "055550"
+  },
+  {
+   "isin": null,
+   "name": "리노공업",
+   "symbol": "058470"
+  },
+  {
+   "isin": null,
+   "name": "현대로템",
+   "symbol": "064350"
+  },
+  {
+   "isin": null,
+   "name": "티씨케이",
+   "symbol": "064760"
+  },
+  {
+   "isin": null,
+   "name": "SOOP",
+   "symbol": "067160"
+  },
+  {
+   "isin": null,
+   "name": "한국금융지주",
+   "symbol": "071050"
+  },
+  {
+   "isin": null,
+   "name": "LIG디펜스앤에어로스페이스",
+   "symbol": "079550"
+  },
+  {
+   "isin": null,
+   "name": "현대글로비스",
+   "symbol": "086280"
+  },
+  {
+   "isin": null,
+   "name": "하나금융지주",
+   "symbol": "086790"
+  },
+  {
+   "isin": null,
+   "name": "롯데렌탈",
+   "symbol": "089860"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽",
+   "symbol": "090430"
+  },
+  {
+   "isin": null,
+   "name": "풍산",
+   "symbol": "103140"
+  },
+  {
+   "isin": null,
+   "name": "KB금융",
+   "symbol": "105560"
+  },
+  {
+   "isin": null,
+   "name": "한미약품",
+   "symbol": "128940"
+  },
+  {
+   "isin": null,
+   "name": "메리츠금융지주",
+   "symbol": "138040"
+  },
+  {
+   "isin": null,
+   "name": "파크시스템스",
+   "symbol": "140860"
+  },
+  {
+   "isin": null,
+   "name": "덴티움",
+   "symbol": "145720"
+  },
+  {
+   "isin": null,
+   "name": "JB금융지주",
+   "symbol": "175330"
+  },
+  {
+   "isin": null,
+   "name": "한진칼",
+   "symbol": "180640"
+  },
+  {
+   "isin": null,
+   "name": "코미코",
+   "symbol": "183300"
+  },
+  {
+   "isin": null,
+   "name": "종근당",
+   "symbol": "185750"
+  },
+  {
+   "isin": null,
+   "name": "더블유게임즈",
+   "symbol": "192080"
+  },
+  {
+   "isin": null,
+   "name": "드림텍",
+   "symbol": "192650"
+  },
+  {
+   "isin": null,
+   "name": "코스맥스",
+   "symbol": "192820"
+  },
+  {
+   "isin": null,
+   "name": "클래시스",
+   "symbol": "214150"
+  },
+  {
+   "isin": null,
+   "name": "파마리서치",
+   "symbol": "214450"
+  },
+  {
+   "isin": null,
+   "name": "메가스터디교육",
+   "symbol": "215200"
+  },
+  {
+   "isin": null,
+   "name": "두산밥캣",
+   "symbol": "241560"
+  },
+  {
+   "isin": null,
+   "name": "크래프톤",
+   "symbol": "259960"
+  },
+  {
+   "isin": null,
+   "name": "HD현대",
+   "symbol": "267250"
+  },
+  {
+   "isin": null,
+   "name": "HD현대일렉트릭",
+   "symbol": "267260"
+  },
+  {
+   "isin": null,
+   "name": "오리온",
+   "symbol": "271560"
+  },
+  {
+   "isin": null,
+   "name": "한화시스템",
+   "symbol": "272210"
+  },
+  {
+   "isin": null,
+   "name": "이녹스첨단소재",
+   "symbol": "272290"
+  },
+  {
+   "isin": null,
+   "name": "BGF리테일",
+   "symbol": "282330"
+  },
+  {
+   "isin": null,
+   "name": "엘앤씨바이오",
+   "symbol": "290650"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  },
+  {
+   "isin": null,
+   "name": "효성중공업",
+   "symbol": "298040"
+  },
+  {
+   "isin": null,
+   "name": "우리금융지주",
+   "symbol": "316140"
+  },
+  {
+   "isin": null,
+   "name": "피에스케이",
+   "symbol": "319660"
+  },
+  {
+   "isin": null,
+   "name": "솔루스첨단소재",
+   "symbol": "336370"
+  },
+  {
+   "isin": null,
+   "name": "원텍",
+   "symbol": "336570"
+  },
+  {
+   "isin": null,
+   "name": "넥스틴",
+   "symbol": "348210"
+  },
+  {
+   "isin": null,
+   "name": "솔브레인",
+   "symbol": "357780"
+  },
+  {
+   "isin": null,
+   "name": "케이카",
+   "symbol": "381970"
+  },
+  {
+   "isin": null,
+   "name": "F&F",
+   "symbol": "383220"
+  },
+  {
+   "isin": null,
+   "name": "에코프로에이치엔",
+   "symbol": "383310"
+  },
+  {
+   "isin": null,
+   "name": "HPSP",
+   "symbol": "403870"
+  }
+ ],
+ "name": "코리아 밸류업 지수(Korea Value-up Index)"
+}

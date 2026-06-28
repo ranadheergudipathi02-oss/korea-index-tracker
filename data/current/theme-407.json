@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-407",
+ "members": [
+  {
+   "isin": null,
+   "name": "한화",
+   "symbol": "000880"
+  },
+  {
+   "isin": null,
+   "name": "SK네트웍스",
+   "symbol": "001740"
+  },
+  {
+   "isin": null,
+   "name": "서부T&D",
+   "symbol": "006730"
+  },
+  {
+   "isin": null,
+   "name": "소노스퀘어",
+   "symbol": "007720"
+  },
+  {
+   "isin": null,
+   "name": "호텔신라",
+   "symbol": "008770"
+  },
+  {
+   "isin": null,
+   "name": "아난티",
+   "symbol": "025980"
+  },
+  {
+   "isin": null,
+   "name": "롯데관광개발",
+   "symbol": "032350"
+  },
+  {
+   "isin": null,
+   "name": "파라다이스",
+   "symbol": "034230"
+  },
+  {
+   "isin": null,
+   "name": "강원랜드",
+   "symbol": "035250"
+  },
+  {
+   "isin": null,
+   "name": "모나용평",
+   "symbol": "070960"
+  },
+  {
+   "isin": null,
+   "name": "이마트",
+   "symbol": "139480"
+  },
+  {
+   "isin": null,
+   "name": "제이에스코퍼레이션",
+   "symbol": "194370"
+  },
+  {
+   "isin": null,
+   "name": "IPARK현대산업개발",
+   "symbol": "294870"
+  },
+  {
+   "isin": null,
+   "name": "GS피앤엘",
+   "symbol": "499790"
+  }
+ ],
+ "name": "호텔/리조트"
+}

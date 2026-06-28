@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-187",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼화콘덴서",
+   "symbol": "001820"
+  },
+  {
+   "isin": null,
+   "name": "고려제강",
+   "symbol": "002240"
+  },
+  {
+   "isin": null,
+   "name": "두산에너빌리티",
+   "symbol": "034020"
+  },
+  {
+   "isin": null,
+   "name": "비츠로테크",
+   "symbol": "042370"
+  },
+  {
+   "isin": null,
+   "name": "SFA",
+   "symbol": "056190"
+  },
+  {
+   "isin": null,
+   "name": "일진파워",
+   "symbol": "094820"
+  },
+  {
+   "isin": null,
+   "name": "모비스",
+   "symbol": "250060"
+  },
+  {
+   "isin": null,
+   "name": "비츠로넥스텍",
+   "symbol": "488900"
+  }
+ ],
+ "name": "핵융합에너지"
+}

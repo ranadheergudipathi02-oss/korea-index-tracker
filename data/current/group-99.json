@@ -1,0 +1,37 @@
+{
+ "category": "group",
+ "index": "group-99",
+ "members": [
+  {
+   "isin": null,
+   "name": "포스코퓨처엠",
+   "symbol": "003670"
+  },
+  {
+   "isin": null,
+   "name": "POSCO홀딩스",
+   "symbol": "005490"
+  },
+  {
+   "isin": null,
+   "name": "포스코엠텍",
+   "symbol": "009520"
+  },
+  {
+   "isin": null,
+   "name": "포스코DX",
+   "symbol": "022100"
+  },
+  {
+   "isin": null,
+   "name": "포스코인터내셔널",
+   "symbol": "047050"
+  },
+  {
+   "isin": null,
+   "name": "포스코스틸리온",
+   "symbol": "058430"
+  }
+ ],
+ "name": "포스코"
+}

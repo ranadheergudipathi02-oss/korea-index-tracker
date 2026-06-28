@@ -1,0 +1,2063 @@
+{
+ "counts": {
+  "changed": 0,
+  "error": 0,
+  "guarded": 0,
+  "initial": 402,
+  "unchanged": 7
+ },
+ "detect_date": "2026-06-28",
+ "duration_sec": 453.5,
+ "finished_kst": "2026-06-28T14:08:32.257595+09:00",
+ "last_run_kst": "2026-06-28T14:00:58.790505+09:00",
+ "results": {
+  "group-100": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-103": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-104": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-105": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-106": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-107": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-108": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-109": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-110": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-111": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-112": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-114": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-115": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-116": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-117": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-118": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-120": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-122": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-123": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-124": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-125": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-126": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-127": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-128": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-129": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-130": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-131": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-132": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-133": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-134": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-135": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-136": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-137": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-138": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-139": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-14": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-142": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-143": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-145": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-146": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-148": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-19": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-20": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-22": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-24": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-3": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-37": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-39": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-45": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-46": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-49": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-5": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-67": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-69": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-7": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-76": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-8": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-96": {
+   "count": 17,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-97": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-98": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "group-99": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "kosdaq": {
+   "count": 1774,
+   "prev_count": 1774,
+   "status": "unchanged"
+  },
+  "kospi": {
+   "count": 2168,
+   "prev_count": 2168,
+   "status": "unchanged"
+  },
+  "kospi-100": {
+   "count": 99,
+   "prev_count": 99,
+   "status": "unchanged"
+  },
+  "kospi-200": {
+   "count": 199,
+   "prev_count": 199,
+   "status": "unchanged"
+  },
+  "sector-25": {
+   "count": 1247,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-261": {
+   "count": 171,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-262": {
+   "count": 41,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-263": {
+   "count": 34,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-264": {
+   "count": 13,
+   "prev_count": 13,
+   "status": "unchanged"
+  },
+  "sector-265": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-266": {
+   "count": 63,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-267": {
+   "count": 116,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-268": {
+   "count": 90,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-269": {
+   "count": 71,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-270": {
+   "count": 155,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-271": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-272": {
+   "count": 120,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-273": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-274": {
+   "count": 81,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-275": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-276": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-277": {
+   "count": 62,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-278": {
+   "count": 171,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-279": {
+   "count": 77,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-280": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-281": {
+   "count": 101,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-282": {
+   "count": 101,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-283": {
+   "count": 68,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-284": {
+   "count": 32,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-285": {
+   "count": 58,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-286": {
+   "count": 57,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-287": {
+   "count": 72,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-288": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-289": {
+   "count": 51,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-290": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-291": {
+   "count": 31,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-292": {
+   "count": 58,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-293": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-294": {
+   "count": 55,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-295": {
+   "count": 32,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-296": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-297": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-298": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-299": {
+   "count": 102,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-300": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-301": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-302": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-303": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-304": {
+   "count": 55,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-305": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-306": {
+   "count": 35,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-307": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-308": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-309": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-310": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-311": {
+   "count": 27,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-312": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-313": {
+   "count": 17,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-314": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-315": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-316": {
+   "count": 29,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-317": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-318": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-319": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-320": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-321": {
+   "count": 38,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-322": {
+   "count": 40,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-323": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-324": {
+   "count": 31,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-325": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-326": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-327": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-328": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-329": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-330": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-331": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-332": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-333": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-334": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-336": {
+   "count": 3,
+   "prev_count": 3,
+   "status": "unchanged"
+  },
+  "sector-337": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-338": {
+   "count": 1,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "sector-339": {
+   "count": 1,
+   "prev_count": 1,
+   "status": "unchanged"
+  },
+  "theme-104": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-105": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-106": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-108": {
+   "count": 43,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-110": {
+   "count": 91,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-111": {
+   "count": 125,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-112": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-113": {
+   "count": 65,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-119": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-12": {
+   "count": 93,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-121": {
+   "count": 29,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-123": {
+   "count": 34,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-124": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-126": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-127": {
+   "count": 34,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-128": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-13": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-136": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-139": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-14": {
+   "count": 69,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-141": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-144": {
+   "count": 66,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-147": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-149": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-151": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-152": {
+   "count": 17,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-154": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-155": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-159": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-16": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-164": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-165": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-166": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-167": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-17": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-170": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-171": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-172": {
+   "count": 86,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-173": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-174": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-175": {
+   "count": 88,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-176": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-177": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-178": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-18": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-180": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-181": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-184": {
+   "count": 27,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-185": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-187": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-188": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-19": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-191": {
+   "count": 44,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-197": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-200": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-204": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-205": {
+   "count": 50,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-206": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-210": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-213": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-223": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-227": {
+   "count": 97,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-228": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-229": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-232": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-234": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-237": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-241": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-242": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-250": {
+   "count": 40,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-265": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-266": {
+   "count": 22,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-269": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-27": {
+   "count": 145,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-270": {
+   "count": 32,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-272": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-276": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-279": {
+   "count": 62,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-28": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-283": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-284": {
+   "count": 43,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-285": {
+   "count": 22,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-287": {
+   "count": 31,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-288": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-289": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-290": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-297": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-298": {
+   "count": 17,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-30": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-302": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-307": {
+   "count": 57,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-31": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-310": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-311": {
+   "count": 35,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-313": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-316": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-317": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-318": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-319": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-32": {
+   "count": 58,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-321": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-322": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-323": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-324": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-325": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-326": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-328": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-329": {
+   "count": 41,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-33": {
+   "count": 38,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-330": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-331": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-332": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-335": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-342": {
+   "count": 33,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-343": {
+   "count": 31,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-348": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-349": {
+   "count": 29,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-352": {
+   "count": 27,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-36": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-362": {
+   "count": 59,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-373": {
+   "count": 54,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-376": {
+   "count": 41,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-377": {
+   "count": 50,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-378": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-379": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-38": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-380": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-381": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-382": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-384": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-385": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-386": {
+   "count": 71,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-387": {
+   "count": 23,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-388": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-389": {
+   "count": 34,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-390": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-392": {
+   "count": 39,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-393": {
+   "count": 39,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-397": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-398": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-400": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-401": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-402": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-404": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-405": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-407": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-408": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-41": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-415": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-417": {
+   "count": 31,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-42": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-421": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-422": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-426": {
+   "count": 26,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-435": {
+   "count": 16,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-436": {
+   "count": 73,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-44": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-445": {
+   "count": 47,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-446": {
+   "count": 75,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-447": {
+   "count": 40,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-448": {
+   "count": 29,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-449": {
+   "count": 3,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-45": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-452": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-462": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-464": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-467": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-468": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-47": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-470": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-472": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-474": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-48": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-480": {
+   "count": 48,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-481": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-482": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-483": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-487": {
+   "count": 44,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-488": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-489": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-49": {
+   "count": 2,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-492": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-493": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-496": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-497": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-500": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-501": {
+   "count": 21,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-503": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-504": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-505": {
+   "count": 70,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-506": {
+   "count": 27,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-507": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-511": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-513": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-514": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-517": {
+   "count": 40,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-52": {
+   "count": 27,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-520": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-521": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-523": {
+   "count": 22,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-524": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-525": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-527": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-529": {
+   "count": 30,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-531": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-533": {
+   "count": 19,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-534": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-536": {
+   "count": 33,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-537": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-540": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-543": {
+   "count": 29,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-545": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-546": {
+   "count": 12,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-547": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-55": {
+   "count": 50,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-556": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-557": {
+   "count": 20,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-559": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-56": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-560": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-563": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-564": {
+   "count": 28,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-566": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-567": {
+   "count": 91,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-568": {
+   "count": 99,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-571": {
+   "count": 85,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-575": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-576": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-579": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-580": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-581": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-582": {
+   "count": 25,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-583": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-584": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-585": {
+   "count": 6,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-586": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-587": {
+   "count": 41,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-59": {
+   "count": 24,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-590": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-591": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-592": {
+   "count": 22,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-593": {
+   "count": 4,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-595": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-597": {
+   "count": 8,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-598": {
+   "count": 5,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-599": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-60": {
+   "count": 9,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-600": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-608": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-62": {
+   "count": 11,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-63": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-64": {
+   "count": 143,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-66": {
+   "count": 18,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-72": {
+   "count": 36,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-76": {
+   "count": 28,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-79": {
+   "count": 14,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-8": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-82": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-86": {
+   "count": 13,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-9": {
+   "count": 78,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-90": {
+   "count": 10,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-92": {
+   "count": 46,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-94": {
+   "count": 35,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-98": {
+   "count": 15,
+   "prev_count": 0,
+   "status": "initial"
+  },
+  "theme-99": {
+   "count": 66,
+   "prev_count": 0,
+   "status": "initial"
+  }
+ },
+ "source": "naver_finance",
+ "total_indices": 409,
+ "unhealthy": false
+}

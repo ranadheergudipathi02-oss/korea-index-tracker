@@ -1,0 +1,127 @@
+{
+ "category": "theme",
+ "index": "theme-404",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "삼성전기",
+   "symbol": "009150"
+  },
+  {
+   "isin": null,
+   "name": "SKC",
+   "symbol": "011790"
+  },
+  {
+   "isin": null,
+   "name": "원익큐브",
+   "symbol": "014190"
+  },
+  {
+   "isin": null,
+   "name": "상보",
+   "symbol": "027580"
+  },
+  {
+   "isin": null,
+   "name": "LG디스플레이",
+   "symbol": "034220"
+  },
+  {
+   "isin": null,
+   "name": "인터플렉스",
+   "symbol": "051370"
+  },
+  {
+   "isin": null,
+   "name": "LG화학",
+   "symbol": "051910"
+  },
+  {
+   "isin": null,
+   "name": "테이팩스",
+   "symbol": "055490"
+  },
+  {
+   "isin": null,
+   "name": "KH바텍",
+   "symbol": "060720"
+  },
+  {
+   "isin": null,
+   "name": "켐트로닉스",
+   "symbol": "089010"
+  },
+  {
+   "isin": null,
+   "name": "비에이치",
+   "symbol": "090460"
+  },
+  {
+   "isin": null,
+   "name": "동운아나텍",
+   "symbol": "094170"
+  },
+  {
+   "isin": null,
+   "name": "에스코넥",
+   "symbol": "096630"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "파인텍",
+   "symbol": "131760"
+  },
+  {
+   "isin": null,
+   "name": "세경하이테크",
+   "symbol": "148150"
+  },
+  {
+   "isin": null,
+   "name": "PI첨단소재",
+   "symbol": "178920"
+  },
+  {
+   "isin": null,
+   "name": "유티아이",
+   "symbol": "179900"
+  },
+  {
+   "isin": null,
+   "name": "이녹스첨단소재",
+   "symbol": "272290"
+  },
+  {
+   "isin": null,
+   "name": "노바텍",
+   "symbol": "285490"
+  },
+  {
+   "isin": null,
+   "name": "디케이티",
+   "symbol": "290550"
+  },
+  {
+   "isin": null,
+   "name": "파인엠텍",
+   "symbol": "441270"
+  },
+  {
+   "isin": null,
+   "name": "도우인시스",
+   "symbol": "484120"
+  }
+ ],
+ "name": "폴더블폰"
+}

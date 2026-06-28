@@ -1,0 +1,172 @@
+{
+ "category": "theme",
+ "index": "theme-342",
+ "members": [
+  {
+   "isin": null,
+   "name": "한국정보통신",
+   "symbol": "025770"
+  },
+  {
+   "isin": null,
+   "name": "KT",
+   "symbol": "030200"
+  },
+  {
+   "isin": null,
+   "name": "SK",
+   "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "KG이니시스",
+   "symbol": "035600"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "한국전자인증",
+   "symbol": "041460"
+  },
+  {
+   "isin": null,
+   "name": "라온시큐어",
+   "symbol": "042510"
+  },
+  {
+   "isin": null,
+   "name": "KG파이낸셜",
+   "symbol": "046440"
+  },
+  {
+   "isin": null,
+   "name": "이스트소프트",
+   "symbol": "047560"
+  },
+  {
+   "isin": null,
+   "name": "코나아이",
+   "symbol": "052400"
+  },
+  {
+   "isin": null,
+   "name": "아모텍",
+   "symbol": "052710"
+  },
+  {
+   "isin": null,
+   "name": "한국정보인증",
+   "symbol": "053300"
+  },
+  {
+   "isin": null,
+   "name": "이니텍",
+   "symbol": "053350"
+  },
+  {
+   "isin": null,
+   "name": "웹케시",
+   "symbol": "053580"
+  },
+  {
+   "isin": null,
+   "name": "한컴위드",
+   "symbol": "054920"
+  },
+  {
+   "isin": null,
+   "name": "NHN KCP",
+   "symbol": "060250"
+  },
+  {
+   "isin": null,
+   "name": "다날",
+   "symbol": "064260"
+  },
+  {
+   "isin": null,
+   "name": "브리지텍",
+   "symbol": "064480"
+  },
+  {
+   "isin": null,
+   "name": "이글루",
+   "symbol": "067920"
+  },
+  {
+   "isin": null,
+   "name": "가비아",
+   "symbol": "079940"
+  },
+  {
+   "isin": null,
+   "name": "성우전자",
+   "symbol": "081580"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "시큐브",
+   "symbol": "131090"
+  },
+  {
+   "isin": null,
+   "name": "아톤",
+   "symbol": "158430"
+  },
+  {
+   "isin": null,
+   "name": "핑거",
+   "symbol": "163730"
+  },
+  {
+   "isin": null,
+   "name": "SGA솔루션즈",
+   "symbol": "184230"
+  },
+  {
+   "isin": null,
+   "name": "헥토이노베이션",
+   "symbol": "214180"
+  },
+  {
+   "isin": null,
+   "name": "아이티센피엔에스",
+   "symbol": "232830"
+  },
+  {
+   "isin": null,
+   "name": "헥토파이낸셜",
+   "symbol": "234340"
+  },
+  {
+   "isin": null,
+   "name": "카카오페이",
+   "symbol": "377300"
+  },
+  {
+   "isin": null,
+   "name": "한패스",
+   "symbol": "408470"
+  }
+ ],
+ "name": "핀테크(FinTech)"
+}

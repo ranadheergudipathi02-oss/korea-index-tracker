@@ -1,0 +1,132 @@
+{
+ "category": "theme",
+ "index": "theme-382",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "SKC",
+   "symbol": "011790"
+  },
+  {
+   "isin": null,
+   "name": "경인양행",
+   "symbol": "012610"
+  },
+  {
+   "isin": null,
+   "name": "LG디스플레이",
+   "symbol": "034220"
+  },
+  {
+   "isin": null,
+   "name": "주성엔지니어링",
+   "symbol": "036930"
+  },
+  {
+   "isin": null,
+   "name": "루멘스",
+   "symbol": "038060"
+  },
+  {
+   "isin": null,
+   "name": "인터플렉스",
+   "symbol": "051370"
+  },
+  {
+   "isin": null,
+   "name": "SFA",
+   "symbol": "056190"
+  },
+  {
+   "isin": null,
+   "name": "아이컴포넌트",
+   "symbol": "059100"
+  },
+  {
+   "isin": null,
+   "name": "DMS",
+   "symbol": "068790"
+  },
+  {
+   "isin": null,
+   "name": "APS이노베이션",
+   "symbol": "079810"
+  },
+  {
+   "isin": null,
+   "name": "코세스",
+   "symbol": "089890"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "파인텍",
+   "symbol": "131760"
+  },
+  {
+   "isin": null,
+   "name": "비아트론",
+   "symbol": "141000"
+  },
+  {
+   "isin": null,
+   "name": "필옵틱스",
+   "symbol": "161580"
+  },
+  {
+   "isin": null,
+   "name": "PI첨단소재",
+   "symbol": "178920"
+  },
+  {
+   "isin": null,
+   "name": "유티아이",
+   "symbol": "179900"
+  },
+  {
+   "isin": null,
+   "name": "덕산네오룩스",
+   "symbol": "213420"
+  },
+  {
+   "isin": null,
+   "name": "브이원텍",
+   "symbol": "251630"
+  },
+  {
+   "isin": null,
+   "name": "AP시스템",
+   "symbol": "265520"
+  },
+  {
+   "isin": null,
+   "name": "신도기연",
+   "symbol": "290520"
+  },
+  {
+   "isin": null,
+   "name": "HB솔루션",
+   "symbol": "297890"
+  },
+  {
+   "isin": null,
+   "name": "이노테크",
+   "symbol": "469610"
+  },
+  {
+   "isin": null,
+   "name": "도우인시스",
+   "symbol": "484120"
+  }
+ ],
+ "name": "플렉서블 디스플레이"
+}

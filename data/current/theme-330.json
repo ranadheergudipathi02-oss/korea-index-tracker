@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-330",
+ "members": [
+  {
+   "isin": null,
+   "name": "노루홀딩스",
+   "symbol": "000320"
+  },
+  {
+   "isin": null,
+   "name": "SP삼화",
+   "symbol": "000390"
+  },
+  {
+   "isin": null,
+   "name": "강남제비스코",
+   "symbol": "000860"
+  },
+  {
+   "isin": null,
+   "name": "KCC",
+   "symbol": "002380"
+  },
+  {
+   "isin": null,
+   "name": "조광페인트",
+   "symbol": "004910"
+  },
+  {
+   "isin": null,
+   "name": "AK홀딩스",
+   "symbol": "006840"
+  },
+  {
+   "isin": null,
+   "name": "벽산",
+   "symbol": "007210"
+  },
+  {
+   "isin": null,
+   "name": "노루페인트",
+   "symbol": "090350"
+  }
+ ],
+ "name": "페인트"
+}

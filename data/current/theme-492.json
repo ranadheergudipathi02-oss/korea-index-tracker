@@ -1,0 +1,107 @@
+{
+ "category": "theme",
+ "index": "theme-492",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아에스엠",
+   "symbol": "011420"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스오피스",
+   "symbol": "041020"
+  },
+  {
+   "isin": null,
+   "name": "빌리언스",
+   "symbol": "044480"
+  },
+  {
+   "isin": null,
+   "name": "초록뱀미디어",
+   "symbol": "047820"
+  },
+  {
+   "isin": null,
+   "name": "엠게임",
+   "symbol": "058630"
+  },
+  {
+   "isin": null,
+   "name": "컴투스홀딩스",
+   "symbol": "063080"
+  },
+  {
+   "isin": null,
+   "name": "서울옥션",
+   "symbol": "063170"
+  },
+  {
+   "isin": null,
+   "name": "다날",
+   "symbol": "064260"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아머니트리",
+   "symbol": "094480"
+  },
+  {
+   "isin": null,
+   "name": "위메이드",
+   "symbol": "112040"
+  },
+  {
+   "isin": null,
+   "name": "아톤",
+   "symbol": "158430"
+  },
+  {
+   "isin": null,
+   "name": "핑거",
+   "symbol": "163730"
+  },
+  {
+   "isin": null,
+   "name": "미투온",
+   "symbol": "201490"
+  },
+  {
+   "isin": null,
+   "name": "FSN",
+   "symbol": "214270"
+  },
+  {
+   "isin": null,
+   "name": "에이스토리",
+   "symbol": "241840"
+  },
+  {
+   "isin": null,
+   "name": "카카오게임즈",
+   "symbol": "293490"
+  },
+  {
+   "isin": null,
+   "name": "컴퍼니케이",
+   "symbol": "307930"
+  }
+ ],
+ "name": "NFT(대체불가토큰)"
+}

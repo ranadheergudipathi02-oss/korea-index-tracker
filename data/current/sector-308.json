@@ -1,0 +1,42 @@
+{
+ "category": "sector",
+ "index": "sector-308",
+ "members": [
+  {
+   "isin": null,
+   "name": "그래디언트",
+   "symbol": "035080"
+  },
+  {
+   "isin": null,
+   "name": "케이티알파",
+   "symbol": "036030"
+  },
+  {
+   "isin": null,
+   "name": "예스24",
+   "symbol": "053280"
+  },
+  {
+   "isin": null,
+   "name": "현대홈쇼핑",
+   "symbol": "057050"
+  },
+  {
+   "isin": null,
+   "name": "실리콘투",
+   "symbol": "257720"
+  },
+  {
+   "isin": null,
+   "name": "청담글로벌",
+   "symbol": "362320"
+  },
+  {
+   "isin": null,
+   "name": "미트박스",
+   "symbol": "475460"
+  }
+ ],
+ "name": "인터넷과카탈로그소매"
+}

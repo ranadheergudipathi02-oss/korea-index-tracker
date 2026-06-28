@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-111",
+ "members": [
+  {
+   "isin": null,
+   "name": "흥국화재",
+   "symbol": "000540"
+  },
+  {
+   "isin": null,
+   "name": "태광산업",
+   "symbol": "003240"
+  },
+  {
+   "isin": null,
+   "name": "대한화섬",
+   "symbol": "003830"
+  },
+  {
+   "isin": null,
+   "name": "에이치와이티씨",
+   "symbol": "148930"
+  }
+ ],
+ "name": "태광"
+}

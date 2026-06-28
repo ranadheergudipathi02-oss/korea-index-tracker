@@ -1,0 +1,67 @@
+{
+ "category": "theme",
+ "index": "theme-503",
+ "members": [
+  {
+   "isin": null,
+   "name": "브이티",
+   "symbol": "018290"
+  },
+  {
+   "isin": null,
+   "name": "소프트센",
+   "symbol": "032680"
+  },
+  {
+   "isin": null,
+   "name": "파워넷",
+   "symbol": "037030"
+  },
+  {
+   "isin": null,
+   "name": "EG",
+   "symbol": "037370"
+  },
+  {
+   "isin": null,
+   "name": "팬스타엔터프라이즈",
+   "symbol": "054300"
+  },
+  {
+   "isin": null,
+   "name": "엘앤에프",
+   "symbol": "066970"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "아모그린텍",
+   "symbol": "125210"
+  },
+  {
+   "isin": null,
+   "name": "SFA넥셀",
+   "symbol": "222080"
+  },
+  {
+   "isin": null,
+   "name": "코윈테크",
+   "symbol": "282880"
+  },
+  {
+   "isin": null,
+   "name": "탑머티리얼",
+   "symbol": "360070"
+  },
+  {
+   "isin": null,
+   "name": "LG에너지솔루션",
+   "symbol": "373220"
+  }
+ ],
+ "name": "2차전지(LFP/리튬인산철)"
+}

@@ -1,0 +1,62 @@
+{
+ "category": "sector",
+ "index": "sector-323",
+ "members": [
+  {
+   "isin": null,
+   "name": "흥아해운",
+   "symbol": "003280"
+  },
+  {
+   "isin": null,
+   "name": "대한해운",
+   "symbol": "005880"
+  },
+  {
+   "isin": null,
+   "name": "HMM",
+   "symbol": "011200"
+  },
+  {
+   "isin": null,
+   "name": "팬오션",
+   "symbol": "028670"
+  },
+  {
+   "isin": null,
+   "name": "KSS해운",
+   "symbol": "044450"
+  },
+  {
+   "isin": null,
+   "name": "팬스타엔터프라이즈",
+   "symbol": "054300"
+  },
+  {
+   "isin": null,
+   "name": "와이엔텍",
+   "symbol": "067900"
+  },
+  {
+   "isin": null,
+   "name": "주성코퍼레이션",
+   "symbol": "109070"
+  },
+  {
+   "isin": null,
+   "name": "태웅로직스",
+   "symbol": "124560"
+  },
+  {
+   "isin": null,
+   "name": "인터지스",
+   "symbol": "129260"
+  },
+  {
+   "isin": null,
+   "name": "STX그린로지스",
+   "symbol": "465770"
+  }
+ ],
+ "name": "해운사"
+}

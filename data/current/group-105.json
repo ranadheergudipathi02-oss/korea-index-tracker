@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-105",
+ "members": [
+  {
+   "isin": null,
+   "name": "코오롱",
+   "symbol": "002020"
+  },
+  {
+   "isin": null,
+   "name": "코오롱글로벌",
+   "symbol": "003070"
+  },
+  {
+   "isin": null,
+   "name": "코오롱생명과학",
+   "symbol": "102940"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  }
+ ],
+ "name": "코오롱"
+}

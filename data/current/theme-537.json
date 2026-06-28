@@ -1,0 +1,82 @@
+{
+ "category": "theme",
+ "index": "theme-537",
+ "members": [
+  {
+   "isin": null,
+   "name": "고려제강",
+   "symbol": "002240"
+  },
+  {
+   "isin": null,
+   "name": "덕성",
+   "symbol": "004830"
+  },
+  {
+   "isin": null,
+   "name": "LS ELECTRIC",
+   "symbol": "010120"
+  },
+  {
+   "isin": null,
+   "name": "아센디오",
+   "symbol": "012170"
+  },
+  {
+   "isin": null,
+   "name": "인지컨트롤스",
+   "symbol": "023800"
+  },
+  {
+   "isin": null,
+   "name": "인지디스플레",
+   "symbol": "037330"
+  },
+  {
+   "isin": null,
+   "name": "비츠로테크",
+   "symbol": "042370"
+  },
+  {
+   "isin": null,
+   "name": "한양이엔지",
+   "symbol": "045100"
+  },
+  {
+   "isin": null,
+   "name": "파워로직스",
+   "symbol": "047310"
+  },
+  {
+   "isin": null,
+   "name": "아모텍",
+   "symbol": "052710"
+  },
+  {
+   "isin": null,
+   "name": "탑엔지니어링",
+   "symbol": "065130"
+  },
+  {
+   "isin": null,
+   "name": "신성델타테크",
+   "symbol": "065350"
+  },
+  {
+   "isin": null,
+   "name": "원익피앤이",
+   "symbol": "217820"
+  },
+  {
+   "isin": null,
+   "name": "모비스",
+   "symbol": "250060"
+  },
+  {
+   "isin": null,
+   "name": "서남",
+   "symbol": "294630"
+  }
+ ],
+ "name": "초전도체"
+}

@@ -1,0 +1,47 @@
+{
+ "category": "sector",
+ "index": "sector-329",
+ "members": [
+  {
+   "isin": null,
+   "name": "천일고속",
+   "symbol": "000650"
+  },
+  {
+   "isin": null,
+   "name": "유성티엔에스",
+   "symbol": "024800"
+  },
+  {
+   "isin": null,
+   "name": "레드캡투어",
+   "symbol": "038390"
+  },
+  {
+   "isin": null,
+   "name": "대아티아이",
+   "symbol": "045390"
+  },
+  {
+   "isin": null,
+   "name": "동양고속",
+   "symbol": "084670"
+  },
+  {
+   "isin": null,
+   "name": "롯데렌탈",
+   "symbol": "089860"
+  },
+  {
+   "isin": null,
+   "name": "AJ네트웍스",
+   "symbol": "095570"
+  },
+  {
+   "isin": null,
+   "name": "쏘카",
+   "symbol": "403550"
+  }
+ ],
+ "name": "도로와철도운송"
+}

@@ -1,0 +1,87 @@
+{
+ "category": "theme",
+ "index": "theme-141",
+ "members": [
+  {
+   "isin": null,
+   "name": "CJ대한통운",
+   "symbol": "000120"
+  },
+  {
+   "isin": null,
+   "name": "한진",
+   "symbol": "002320"
+  },
+  {
+   "isin": null,
+   "name": "선광",
+   "symbol": "003100"
+  },
+  {
+   "isin": null,
+   "name": "동방",
+   "symbol": "004140"
+  },
+  {
+   "isin": null,
+   "name": "세방",
+   "symbol": "004360"
+  },
+  {
+   "isin": null,
+   "name": "KCTC",
+   "symbol": "009070"
+  },
+  {
+   "isin": null,
+   "name": "한솔로지스틱스",
+   "symbol": "009180"
+  },
+  {
+   "isin": null,
+   "name": "한익스프레스",
+   "symbol": "014130"
+  },
+  {
+   "isin": null,
+   "name": "유성티엔에스",
+   "symbol": "024800"
+  },
+  {
+   "isin": null,
+   "name": "삼일",
+   "symbol": "032280"
+  },
+  {
+   "isin": null,
+   "name": "로젠",
+   "symbol": "033290"
+  },
+  {
+   "isin": null,
+   "name": "SG&G",
+   "symbol": "040610"
+  },
+  {
+   "isin": null,
+   "name": "현대글로비스",
+   "symbol": "086280"
+  },
+  {
+   "isin": null,
+   "name": "태웅로직스",
+   "symbol": "124560"
+  },
+  {
+   "isin": null,
+   "name": "인터지스",
+   "symbol": "129260"
+  },
+  {
+   "isin": null,
+   "name": "STX그린로지스",
+   "symbol": "465770"
+  }
+ ],
+ "name": "종합 물류"
+}

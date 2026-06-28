@@ -1,0 +1,47 @@
+{
+ "category": "theme",
+ "index": "theme-325",
+ "members": [
+  {
+   "isin": null,
+   "name": "LX인터내셔널",
+   "symbol": "001120"
+  },
+  {
+   "isin": null,
+   "name": "GS글로벌",
+   "symbol": "001250"
+  },
+  {
+   "isin": null,
+   "name": "SK네트웍스",
+   "symbol": "001740"
+  },
+  {
+   "isin": null,
+   "name": "코오롱글로벌",
+   "symbol": "003070"
+  },
+  {
+   "isin": null,
+   "name": "현대코퍼레이션",
+   "symbol": "011760"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산",
+   "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "포스코인터내셔널",
+   "symbol": "047050"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  }
+ ],
+ "name": "종합상사"
+}

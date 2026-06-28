@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-139",
+ "members": [
+  {
+   "isin": null,
+   "name": "BGF",
+   "symbol": "027410"
+  },
+  {
+   "isin": null,
+   "name": "케이엔더블유",
+   "symbol": "105330"
+  },
+  {
+   "isin": null,
+   "name": "BGF에코머티리얼즈",
+   "symbol": "126600"
+  },
+  {
+   "isin": null,
+   "name": "BGF리테일",
+   "symbol": "282330"
+  }
+ ],
+ "name": "BGF"
+}

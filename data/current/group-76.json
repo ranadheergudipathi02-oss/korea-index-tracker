@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-76",
+ "members": [
+  {
+   "isin": null,
+   "name": "HDC",
+   "symbol": "012630"
+  },
+  {
+   "isin": null,
+   "name": "HDC랩스",
+   "symbol": "039570"
+  },
+  {
+   "isin": null,
+   "name": "HDC현대EP",
+   "symbol": "089470"
+  },
+  {
+   "isin": null,
+   "name": "IPARK현대산업개발",
+   "symbol": "294870"
+  }
+ ],
+ "name": "HDC"
+}

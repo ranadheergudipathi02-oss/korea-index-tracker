@@ -1,0 +1,67 @@
+{
+ "category": "sector",
+ "index": "sector-312",
+ "members": [
+  {
+   "isin": null,
+   "name": "한진중공업홀딩스",
+   "symbol": "003480"
+  },
+  {
+   "isin": null,
+   "name": "삼천리",
+   "symbol": "004690"
+  },
+  {
+   "isin": null,
+   "name": "INVENI",
+   "symbol": "015360"
+  },
+  {
+   "isin": null,
+   "name": "대성홀딩스",
+   "symbol": "016710"
+  },
+  {
+   "isin": null,
+   "name": "서울가스",
+   "symbol": "017390"
+  },
+  {
+   "isin": null,
+   "name": "E1",
+   "symbol": "017940"
+  },
+  {
+   "isin": null,
+   "name": "SK가스",
+   "symbol": "018670"
+  },
+  {
+   "isin": null,
+   "name": "인천도시가스",
+   "symbol": "034590"
+  },
+  {
+   "isin": null,
+   "name": "한국가스공사",
+   "symbol": "036460"
+  },
+  {
+   "isin": null,
+   "name": "지에스이",
+   "symbol": "053050"
+  },
+  {
+   "isin": null,
+   "name": "대성에너지",
+   "symbol": "117580"
+  },
+  {
+   "isin": null,
+   "name": "경동도시가스",
+   "symbol": "267290"
+  }
+ ],
+ "name": "가스유틸리티"
+}

@@ -1,0 +1,32 @@
+{
+ "category": "theme",
+ "index": "theme-38",
+ "members": [
+  {
+   "isin": null,
+   "name": "태광산업",
+   "symbol": "003240"
+  },
+  {
+   "isin": null,
+   "name": "GS리테일",
+   "symbol": "007070"
+  },
+  {
+   "isin": null,
+   "name": "롯데쇼핑",
+   "symbol": "023530"
+  },
+  {
+   "isin": null,
+   "name": "CJ ENM",
+   "symbol": "035760"
+  },
+  {
+   "isin": null,
+   "name": "현대홈쇼핑",
+   "symbol": "057050"
+  }
+ ],
+ "name": "홈쇼핑"
+}

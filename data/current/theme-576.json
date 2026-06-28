@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-576",
+ "members": [
+  {
+   "isin": null,
+   "name": "팬스타엔터프라이즈",
+   "symbol": "054300"
+  },
+  {
+   "isin": null,
+   "name": "유라클",
+   "symbol": "088340"
+  },
+  {
+   "isin": null,
+   "name": "와이즈넛",
+   "symbol": "096250"
+  },
+  {
+   "isin": null,
+   "name": "아이티센글로벌",
+   "symbol": "124500"
+  },
+  {
+   "isin": null,
+   "name": "DSC인베스트먼트",
+   "symbol": "241520"
+  },
+  {
+   "isin": null,
+   "name": "TS인베스트먼트",
+   "symbol": "246690"
+  },
+  {
+   "isin": null,
+   "name": "나우IB",
+   "symbol": "293580"
+  },
+  {
+   "isin": null,
+   "name": "LB인베스트먼트",
+   "symbol": "309960"
+  },
+  {
+   "isin": null,
+   "name": "엑스페릭스",
+   "symbol": "317770"
+  },
+  {
+   "isin": null,
+   "name": "포바이포",
+   "symbol": "389140"
+  },
+  {
+   "isin": null,
+   "name": "토마토시스템",
+   "symbol": "393210"
+  }
+ ],
+ "name": "퓨리오사AI"
+}

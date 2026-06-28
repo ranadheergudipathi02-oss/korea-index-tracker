@@ -1,0 +1,42 @@
+{
+ "category": "theme",
+ "index": "theme-452",
+ "members": [
+  {
+   "isin": null,
+   "name": "신성이엔지",
+   "symbol": "011930"
+  },
+  {
+   "isin": null,
+   "name": "케이엔솔",
+   "symbol": "053080"
+  },
+  {
+   "isin": null,
+   "name": "오텍",
+   "symbol": "067170"
+  },
+  {
+   "isin": null,
+   "name": "엔브이에이치코리아",
+   "symbol": "067570"
+  },
+  {
+   "isin": null,
+   "name": "에스와이",
+   "symbol": "109610"
+  },
+  {
+   "isin": null,
+   "name": "GH신소재",
+   "symbol": "130500"
+  },
+  {
+   "isin": null,
+   "name": "우정바이오",
+   "symbol": "215380"
+  }
+ ],
+ "name": "코로나19(음압병실/음압구급차)"
+}

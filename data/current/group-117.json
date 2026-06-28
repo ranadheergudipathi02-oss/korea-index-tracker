@@ -1,0 +1,27 @@
+{
+ "category": "group",
+ "index": "group-117",
+ "members": [
+  {
+   "isin": null,
+   "name": "유진투자증권",
+   "symbol": "001200"
+  },
+  {
+   "isin": null,
+   "name": "동양",
+   "symbol": "001520"
+  },
+  {
+   "isin": null,
+   "name": "유진기업",
+   "symbol": "023410"
+  },
+  {
+   "isin": null,
+   "name": "YTN",
+   "symbol": "040300"
+  }
+ ],
+ "name": "유진"
+}

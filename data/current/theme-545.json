@@ -1,0 +1,127 @@
+{
+ "category": "theme",
+ "index": "theme-545",
+ "members": [
+  {
+   "isin": null,
+   "name": "SK하이닉스",
+   "symbol": "000660"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "삼성전기",
+   "symbol": "009150"
+  },
+  {
+   "isin": null,
+   "name": "네패스",
+   "symbol": "033640"
+  },
+  {
+   "isin": null,
+   "name": "텔레칩스",
+   "symbol": "054450"
+  },
+  {
+   "isin": null,
+   "name": "리노공업",
+   "symbol": "058470"
+  },
+  {
+   "isin": null,
+   "name": "유니퀘스트",
+   "symbol": "077500"
+  },
+  {
+   "isin": null,
+   "name": "제주반도체",
+   "symbol": "080220"
+  },
+  {
+   "isin": null,
+   "name": "칩스앤미디어",
+   "symbol": "094360"
+  },
+  {
+   "isin": null,
+   "name": "어보브반도체",
+   "symbol": "102120"
+  },
+  {
+   "isin": null,
+   "name": "에이팩트",
+   "symbol": "200470"
+  },
+  {
+   "isin": null,
+   "name": "에이디테크놀로지",
+   "symbol": "200710"
+  },
+  {
+   "isin": null,
+   "name": "심텍",
+   "symbol": "222800"
+  },
+  {
+   "isin": null,
+   "name": "태성",
+   "symbol": "323280"
+  },
+  {
+   "isin": null,
+   "name": "네패스아크",
+   "symbol": "330860"
+  },
+  {
+   "isin": null,
+   "name": "대덕전자",
+   "symbol": "353200"
+  },
+  {
+   "isin": null,
+   "name": "마음AI",
+   "symbol": "377480"
+  },
+  {
+   "isin": null,
+   "name": "오픈엣지테크놀로지",
+   "symbol": "394280"
+  },
+  {
+   "isin": null,
+   "name": "가온칩스",
+   "symbol": "399720"
+  },
+  {
+   "isin": null,
+   "name": "HPSP",
+   "symbol": "403870"
+  },
+  {
+   "isin": null,
+   "name": "큐알티",
+   "symbol": "405100"
+  },
+  {
+   "isin": null,
+   "name": "퀄리타스반도체",
+   "symbol": "432720"
+  },
+  {
+   "isin": null,
+   "name": "아이언디바이스",
+   "symbol": "464500"
+  },
+  {
+   "isin": null,
+   "name": "노타",
+   "symbol": "486990"
+  }
+ ],
+ "name": "온디바이스 AI"
+}

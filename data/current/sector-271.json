@@ -1,0 +1,72 @@
+{
+ "category": "sector",
+ "index": "sector-271",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼익악기",
+   "symbol": "002450"
+  },
+  {
+   "isin": null,
+   "name": "갤럭시아에스엠",
+   "symbol": "011420"
+  },
+  {
+   "isin": null,
+   "name": "삼천리자전거",
+   "symbol": "024950"
+  },
+  {
+   "isin": null,
+   "name": "오로라",
+   "symbol": "039830"
+  },
+  {
+   "isin": null,
+   "name": "ES큐브",
+   "symbol": "050120"
+  },
+  {
+   "isin": null,
+   "name": "손오공",
+   "symbol": "066910"
+  },
+  {
+   "isin": null,
+   "name": "이녹스",
+   "symbol": "088390"
+  },
+  {
+   "isin": null,
+   "name": "골프존홀딩스",
+   "symbol": "121440"
+  },
+  {
+   "isin": null,
+   "name": "알톤",
+   "symbol": "123750"
+  },
+  {
+   "isin": null,
+   "name": "볼빅",
+   "symbol": "206950"
+  },
+  {
+   "isin": null,
+   "name": "가이아코퍼레이션",
+   "symbol": "296520"
+  },
+  {
+   "isin": null,
+   "name": "브이씨",
+   "symbol": "365900"
+  },
+  {
+   "isin": null,
+   "name": "헝셩그룹",
+   "symbol": "900270"
+  }
+ ],
+ "name": "레저용장비와제품"
+}

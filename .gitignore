@@ -1,0 +1,24 @@
+# Secrets — NEVER commit
+.env
+*.env
+!.env.example
+
+# Phase 0 scratch
+phase0_out/
+
+# Runtime logs (data/ itself IS committed — it's the storage)
+data/_*.log
+_selftest.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude session config (not for the public Pages repo)
+.claude/

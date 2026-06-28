@@ -1,0 +1,92 @@
+{
+ "category": "sector",
+ "index": "sector-313",
+ "members": [
+  {
+   "isin": null,
+   "name": "중앙에너비스",
+   "symbol": "000440"
+  },
+  {
+   "isin": null,
+   "name": "세기상사",
+   "symbol": "002420"
+  },
+  {
+   "isin": null,
+   "name": "SK디스커버리",
+   "symbol": "006120"
+  },
+  {
+   "isin": null,
+   "name": "SK디스커버리우",
+   "symbol": "006125"
+  },
+  {
+   "isin": null,
+   "name": "S-Oil",
+   "symbol": "010950"
+  },
+  {
+   "isin": null,
+   "name": "S-Oil우",
+   "symbol": "010955"
+  },
+  {
+   "isin": null,
+   "name": "리드코프",
+   "symbol": "012700"
+  },
+  {
+   "isin": null,
+   "name": "극동유화",
+   "symbol": "014530"
+  },
+  {
+   "isin": null,
+   "name": "흥구석유",
+   "symbol": "024060"
+  },
+  {
+   "isin": null,
+   "name": "SK",
+   "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "에스아이리소스",
+   "symbol": "065420"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "GS우",
+   "symbol": "078935"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션",
+   "symbol": "096770"
+  },
+  {
+   "isin": null,
+   "name": "SK이노베이션우",
+   "symbol": "096775"
+  },
+  {
+   "isin": null,
+   "name": "제이엔케이글로벌",
+   "symbol": "126880"
+  },
+  {
+   "isin": null,
+   "name": "대성산업",
+   "symbol": "128820"
+  }
+ ],
+ "name": "석유와가스"
+}

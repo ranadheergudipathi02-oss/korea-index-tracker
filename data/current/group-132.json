@@ -1,0 +1,47 @@
+{
+ "category": "group",
+ "index": "group-132",
+ "members": [
+  {
+   "isin": null,
+   "name": "HD한국조선해양",
+   "symbol": "009540"
+  },
+  {
+   "isin": null,
+   "name": "HD현대마린엔진",
+   "symbol": "071970"
+  },
+  {
+   "isin": null,
+   "name": "HD현대",
+   "symbol": "267250"
+  },
+  {
+   "isin": null,
+   "name": "HD현대일렉트릭",
+   "symbol": "267260"
+  },
+  {
+   "isin": null,
+   "name": "HD건설기계",
+   "symbol": "267270"
+  },
+  {
+   "isin": null,
+   "name": "HD현대에너지솔루션",
+   "symbol": "322000"
+  },
+  {
+   "isin": null,
+   "name": "HD현대중공업",
+   "symbol": "329180"
+  },
+  {
+   "isin": null,
+   "name": "HD현대마린솔루션",
+   "symbol": "443060"
+  }
+ ],
+ "name": "HD현대"
+}

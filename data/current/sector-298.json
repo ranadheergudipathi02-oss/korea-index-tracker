@@ -1,0 +1,107 @@
+{
+ "category": "sector",
+ "index": "sector-298",
+ "members": [
+  {
+   "isin": null,
+   "name": "신일전자",
+   "symbol": "002700"
+  },
+  {
+   "isin": null,
+   "name": "경동나비엔",
+   "symbol": "009450"
+  },
+  {
+   "isin": null,
+   "name": "부방",
+   "symbol": "014470"
+  },
+  {
+   "isin": null,
+   "name": "코웨이",
+   "symbol": "021240"
+  },
+  {
+   "isin": null,
+   "name": "PN풍년",
+   "symbol": "024940"
+  },
+  {
+   "isin": null,
+   "name": "파세코",
+   "symbol": "037070"
+  },
+  {
+   "isin": null,
+   "name": "새로닉스",
+   "symbol": "042600"
+  },
+  {
+   "isin": null,
+   "name": "위닉스",
+   "symbol": "044340"
+  },
+  {
+   "isin": null,
+   "name": "신성델타테크",
+   "symbol": "065350"
+  },
+  {
+   "isin": null,
+   "name": "하츠",
+   "symbol": "066130"
+  },
+  {
+   "isin": null,
+   "name": "쿠쿠홀딩스",
+   "symbol": "192400"
+  },
+  {
+   "isin": null,
+   "name": "한독크린텍",
+   "symbol": "256150"
+  },
+  {
+   "isin": null,
+   "name": "에브리봇",
+   "symbol": "270660"
+  },
+  {
+   "isin": null,
+   "name": "쿠쿠홈시스",
+   "symbol": "284740"
+  },
+  {
+   "isin": null,
+   "name": "엔바이오니아",
+   "symbol": "317870"
+  },
+  {
+   "isin": null,
+   "name": "오아",
+   "symbol": "342870"
+  },
+  {
+   "isin": null,
+   "name": "스톰테크",
+   "symbol": "352090"
+  },
+  {
+   "isin": null,
+   "name": "피코그램",
+   "symbol": "376180"
+  },
+  {
+   "isin": null,
+   "name": "꿈비",
+   "symbol": "407400"
+  },
+  {
+   "isin": null,
+   "name": "폴레드",
+   "symbol": "487580"
+  }
+ ],
+ "name": "가정용기기와용품"
+}

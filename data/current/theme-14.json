@@ -1,0 +1,352 @@
+{
+ "category": "theme",
+ "index": "theme-14",
+ "members": [
+  {
+   "isin": null,
+   "name": "두산",
+   "symbol": "000150"
+  },
+  {
+   "isin": null,
+   "name": "SP삼화",
+   "symbol": "000390"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "한솔테크닉스",
+   "symbol": "004710"
+  },
+  {
+   "isin": null,
+   "name": "동진쎄미켐",
+   "symbol": "005290"
+  },
+  {
+   "isin": null,
+   "name": "한솔케미칼",
+   "symbol": "014680"
+  },
+  {
+   "isin": null,
+   "name": "HLB이노베이션",
+   "symbol": "024850"
+  },
+  {
+   "isin": null,
+   "name": "KPX케미칼",
+   "symbol": "025000"
+  },
+  {
+   "isin": null,
+   "name": "시노펙스",
+   "symbol": "025320"
+  },
+  {
+   "isin": null,
+   "name": "에스에이엠티",
+   "symbol": "031330"
+  },
+  {
+   "isin": null,
+   "name": "엠케이전자",
+   "symbol": "033160"
+  },
+  {
+   "isin": null,
+   "name": "네패스",
+   "symbol": "033640"
+  },
+  {
+   "isin": null,
+   "name": "위지트",
+   "symbol": "036090"
+  },
+  {
+   "isin": null,
+   "name": "에프에스티",
+   "symbol": "036810"
+  },
+  {
+   "isin": null,
+   "name": "웰킵스하이텍",
+   "symbol": "043590"
+  },
+  {
+   "isin": null,
+   "name": "KX하이텍",
+   "symbol": "052900"
+  },
+  {
+   "isin": null,
+   "name": "미코",
+   "symbol": "059090"
+  },
+  {
+   "isin": null,
+   "name": "3S",
+   "symbol": "060310"
+  },
+  {
+   "isin": null,
+   "name": "티씨케이",
+   "symbol": "064760"
+  },
+  {
+   "isin": null,
+   "name": "하나마이크론",
+   "symbol": "067310"
+  },
+  {
+   "isin": null,
+   "name": "원익QnC",
+   "symbol": "074600"
+  },
+  {
+   "isin": null,
+   "name": "덕산하이메탈",
+   "symbol": "077360"
+  },
+  {
+   "isin": null,
+   "name": "한양디지텍",
+   "symbol": "078350"
+  },
+  {
+   "isin": null,
+   "name": "오킨스전자",
+   "symbol": "080580"
+  },
+  {
+   "isin": null,
+   "name": "에프엔에스테크",
+   "symbol": "083500"
+  },
+  {
+   "isin": null,
+   "name": "디엔에프",
+   "symbol": "092070"
+  },
+  {
+   "isin": null,
+   "name": "KEC",
+   "symbol": "092220"
+  },
+  {
+   "isin": null,
+   "name": "후성",
+   "symbol": "093370"
+  },
+  {
+   "isin": null,
+   "name": "ISC",
+   "symbol": "095340"
+  },
+  {
+   "isin": null,
+   "name": "마이크로컨텍솔",
+   "symbol": "098120"
+  },
+  {
+   "isin": null,
+   "name": "월덱스",
+   "symbol": "101160"
+  },
+  {
+   "isin": null,
+   "name": "에스앤에스텍",
+   "symbol": "101490"
+  },
+  {
+   "isin": null,
+   "name": "이엔에프테크놀로지",
+   "symbol": "102710"
+  },
+  {
+   "isin": null,
+   "name": "원익머트리얼즈",
+   "symbol": "104830"
+  },
+  {
+   "isin": null,
+   "name": "와이씨켐",
+   "symbol": "112290"
+  },
+  {
+   "isin": null,
+   "name": "한솔아이원스",
+   "symbol": "114810"
+  },
+  {
+   "isin": null,
+   "name": "유니트론텍",
+   "symbol": "142210"
+  },
+  {
+   "isin": null,
+   "name": "뉴파워프라즈마",
+   "symbol": "144960"
+  },
+  {
+   "isin": null,
+   "name": "비씨엔씨",
+   "symbol": "146320"
+  },
+  {
+   "isin": null,
+   "name": "피엠티",
+   "symbol": "147760"
+  },
+  {
+   "isin": null,
+   "name": "와이엠씨",
+   "symbol": "155650"
+  },
+  {
+   "isin": null,
+   "name": "하나머티리얼즈",
+   "symbol": "166090"
+  },
+  {
+   "isin": null,
+   "name": "엘티씨",
+   "symbol": "170920"
+  },
+  {
+   "isin": null,
+   "name": "램테크놀러지",
+   "symbol": "171010"
+  },
+  {
+   "isin": null,
+   "name": "해성디에스",
+   "symbol": "195870"
+  },
+  {
+   "isin": null,
+   "name": "타이거일렉",
+   "symbol": "219130"
+  },
+  {
+   "isin": null,
+   "name": "켐트로스",
+   "symbol": "220260"
+  },
+  {
+   "isin": null,
+   "name": "메카로",
+   "symbol": "241770"
+  },
+  {
+   "isin": null,
+   "name": "티이엠씨씨엔에스",
+   "symbol": "241790"
+  },
+  {
+   "isin": null,
+   "name": "샘씨엔에스",
+   "symbol": "252990"
+  },
+  {
+   "isin": null,
+   "name": "케이엔제이",
+   "symbol": "272110"
+  },
+  {
+   "isin": null,
+   "name": "이녹스첨단소재",
+   "symbol": "272290"
+  },
+  {
+   "isin": null,
+   "name": "천보",
+   "symbol": "278280"
+  },
+  {
+   "isin": null,
+   "name": "레이크머티리얼즈",
+   "symbol": "281740"
+  },
+  {
+   "isin": null,
+   "name": "케이씨텍",
+   "symbol": "281820"
+  },
+  {
+   "isin": null,
+   "name": "에이치브이엠",
+   "symbol": "295310"
+  },
+  {
+   "isin": null,
+   "name": "국전",
+   "symbol": "307750"
+  },
+  {
+   "isin": null,
+   "name": "지오엘리먼트",
+   "symbol": "311320"
+  },
+  {
+   "isin": null,
+   "name": "덕산테코피아",
+   "symbol": "317330"
+  },
+  {
+   "isin": null,
+   "name": "솔브레인",
+   "symbol": "357780"
+  },
+  {
+   "isin": null,
+   "name": "씨엠티엑스",
+   "symbol": "388210"
+  },
+  {
+   "isin": null,
+   "name": "제이아이테크",
+   "symbol": "417500"
+  },
+  {
+   "isin": null,
+   "name": "마이크로투나노",
+   "symbol": "424980"
+  },
+  {
+   "isin": null,
+   "name": "티이엠씨",
+   "symbol": "425040"
+  },
+  {
+   "isin": null,
+   "name": "퓨릿",
+   "symbol": "445180"
+  },
+  {
+   "isin": null,
+   "name": "메가터치",
+   "symbol": "446540"
+  },
+  {
+   "isin": null,
+   "name": "OCI",
+   "symbol": "456040"
+  },
+  {
+   "isin": null,
+   "name": "삼양엔씨켐",
+   "symbol": "482630"
+  },
+  {
+   "isin": null,
+   "name": "엘케이켐",
+   "symbol": "489500"
+  }
+ ],
+ "name": "반도체 재료/부품"
+}

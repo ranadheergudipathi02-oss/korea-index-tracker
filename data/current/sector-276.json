@@ -1,0 +1,97 @@
+{
+ "category": "sector",
+ "index": "sector-276",
+ "members": [
+  {
+   "isin": null,
+   "name": "두산",
+   "symbol": "000150"
+  },
+  {
+   "isin": null,
+   "name": "두산우",
+   "symbol": "000155"
+  },
+  {
+   "isin": null,
+   "name": "두산2우B",
+   "symbol": "000157"
+  },
+  {
+   "isin": null,
+   "name": "한화",
+   "symbol": "000880"
+  },
+  {
+   "isin": null,
+   "name": "CJ",
+   "symbol": "001040"
+  },
+  {
+   "isin": null,
+   "name": "CJ우",
+   "symbol": "001045"
+  },
+  {
+   "isin": null,
+   "name": "SK네트웍스",
+   "symbol": "001740"
+  },
+  {
+   "isin": null,
+   "name": "코오롱",
+   "symbol": "002020"
+  },
+  {
+   "isin": null,
+   "name": "코오롱우",
+   "symbol": "002025"
+  },
+  {
+   "isin": null,
+   "name": "LG",
+   "symbol": "003550"
+  },
+  {
+   "isin": null,
+   "name": "LG우",
+   "symbol": "003555"
+  },
+  {
+   "isin": null,
+   "name": "한솔홀딩스",
+   "symbol": "004150"
+  },
+  {
+   "isin": null,
+   "name": "효성",
+   "symbol": "004800"
+  },
+  {
+   "isin": null,
+   "name": "롯데지주",
+   "symbol": "004990"
+  },
+  {
+   "isin": null,
+   "name": "현대지에프홀딩스",
+   "symbol": "005440"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산",
+   "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "KX",
+   "symbol": "122450"
+  },
+  {
+   "isin": null,
+   "name": "HS효성",
+   "symbol": "487570"
+  }
+ ],
+ "name": "복합기업"
+}

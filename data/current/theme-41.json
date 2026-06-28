@@ -1,0 +1,137 @@
+{
+ "category": "theme",
+ "index": "theme-41",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼성전기",
+   "symbol": "009150"
+  },
+  {
+   "isin": null,
+   "name": "LG이노텍",
+   "symbol": "011070"
+  },
+  {
+   "isin": null,
+   "name": "자화전자",
+   "symbol": "033240"
+  },
+  {
+   "isin": null,
+   "name": "파워로직스",
+   "symbol": "047310"
+  },
+  {
+   "isin": null,
+   "name": "재영솔루텍",
+   "symbol": "049630"
+  },
+  {
+   "isin": null,
+   "name": "캠시스",
+   "symbol": "050110"
+  },
+  {
+   "isin": null,
+   "name": "세코닉스",
+   "symbol": "053450"
+  },
+  {
+   "isin": null,
+   "name": "탑엔지니어링",
+   "symbol": "065130"
+  },
+  {
+   "isin": null,
+   "name": "해성옵틱스",
+   "symbol": "076610"
+  },
+  {
+   "isin": null,
+   "name": "성우전자",
+   "symbol": "081580"
+  },
+  {
+   "isin": null,
+   "name": "옵트론텍",
+   "symbol": "082210"
+  },
+  {
+   "isin": null,
+   "name": "픽셀플러스",
+   "symbol": "087600"
+  },
+  {
+   "isin": null,
+   "name": "파트론",
+   "symbol": "091700"
+  },
+  {
+   "isin": null,
+   "name": "동운아나텍",
+   "symbol": "094170"
+  },
+  {
+   "isin": null,
+   "name": "엠씨넥스",
+   "symbol": "097520"
+  },
+  {
+   "isin": null,
+   "name": "알엔티엑스",
+   "symbol": "123010"
+  },
+  {
+   "isin": null,
+   "name": "하이비젼시스템",
+   "symbol": "126700"
+  },
+  {
+   "isin": null,
+   "name": "나무가",
+   "symbol": "190510"
+  },
+  {
+   "isin": null,
+   "name": "코아시아씨엠",
+   "symbol": "196450"
+  },
+  {
+   "isin": null,
+   "name": "포톤",
+   "symbol": "208710"
+  },
+  {
+   "isin": null,
+   "name": "LK삼양",
+   "symbol": "225190"
+  },
+  {
+   "isin": null,
+   "name": "덕우전자",
+   "symbol": "263600"
+  },
+  {
+   "isin": null,
+   "name": "팸텍",
+   "symbol": "271830"
+  },
+  {
+   "isin": null,
+   "name": "액트로",
+   "symbol": "290740"
+  },
+  {
+   "isin": null,
+   "name": "라온피플",
+   "symbol": "300120"
+  },
+  {
+   "isin": null,
+   "name": "퓨런티어",
+   "symbol": "370090"
+  }
+ ],
+ "name": "카메라모듈/부품"
+}

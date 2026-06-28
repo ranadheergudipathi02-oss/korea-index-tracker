@@ -1,0 +1,72 @@
+{
+ "category": "sector",
+ "index": "sector-318",
+ "members": [
+  {
+   "isin": null,
+   "name": "성창기업지주",
+   "symbol": "000180"
+  },
+  {
+   "isin": null,
+   "name": "페이퍼코리아",
+   "symbol": "001020"
+  },
+  {
+   "isin": null,
+   "name": "무림SP",
+   "symbol": "001810"
+  },
+  {
+   "isin": null,
+   "name": "SUN&L",
+   "symbol": "002820"
+  },
+  {
+   "isin": null,
+   "name": "깨끗한나라",
+   "symbol": "004540"
+  },
+  {
+   "isin": null,
+   "name": "깨끗한나라우",
+   "symbol": "004545"
+  },
+  {
+   "isin": null,
+   "name": "블루산업개발",
+   "symbol": "006740"
+  },
+  {
+   "isin": null,
+   "name": "무림페이퍼",
+   "symbol": "009200"
+  },
+  {
+   "isin": null,
+   "name": "무림P&P",
+   "symbol": "009580"
+  },
+  {
+   "isin": null,
+   "name": "한국제지",
+   "symbol": "027970"
+  },
+  {
+   "isin": null,
+   "name": "해성산업",
+   "symbol": "034810"
+  },
+  {
+   "isin": null,
+   "name": "국일제지",
+   "symbol": "078130"
+  },
+  {
+   "isin": null,
+   "name": "한솔제지",
+   "symbol": "213500"
+  }
+ ],
+ "name": "종이와목재"
+}

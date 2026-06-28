@@ -1,0 +1,292 @@
+{
+ "category": "sector",
+ "index": "sector-286",
+ "members": [
+  {
+   "isin": null,
+   "name": "오리엔트바이오",
+   "symbol": "002630"
+  },
+  {
+   "isin": null,
+   "name": "네이처셀",
+   "symbol": "007390"
+  },
+  {
+   "isin": null,
+   "name": "진원생명과학",
+   "symbol": "011000"
+  },
+  {
+   "isin": null,
+   "name": "서린바이오",
+   "symbol": "038070"
+  },
+  {
+   "isin": null,
+   "name": "쎌바이오텍",
+   "symbol": "049960"
+  },
+  {
+   "isin": null,
+   "name": "NH농우바이오",
+   "symbol": "054050"
+  },
+  {
+   "isin": null,
+   "name": "바이오니아",
+   "symbol": "064550"
+  },
+  {
+   "isin": null,
+   "name": "제노텍",
+   "symbol": "066830"
+  },
+  {
+   "isin": null,
+   "name": "선바이오",
+   "symbol": "067370"
+  },
+  {
+   "isin": null,
+   "name": "메디포스트",
+   "symbol": "078160"
+  },
+  {
+   "isin": null,
+   "name": "헬릭스미스",
+   "symbol": "084990"
+  },
+  {
+   "isin": null,
+   "name": "바이오솔루션",
+   "symbol": "086820"
+  },
+  {
+   "isin": null,
+   "name": "메디톡스",
+   "symbol": "086900"
+  },
+  {
+   "isin": null,
+   "name": "펩트론",
+   "symbol": "087010"
+  },
+  {
+   "isin": null,
+   "name": "아미코젠",
+   "symbol": "092040"
+  },
+  {
+   "isin": null,
+   "name": "제넥신",
+   "symbol": "095700"
+  },
+  {
+   "isin": null,
+   "name": "진매트릭스",
+   "symbol": "109820"
+  },
+  {
+   "isin": null,
+   "name": "휴젤",
+   "symbol": "145020"
+  },
+  {
+   "isin": null,
+   "name": "아시아종묘",
+   "symbol": "154030"
+  },
+  {
+   "isin": null,
+   "name": "코아스템켐온",
+   "symbol": "166480"
+  },
+  {
+   "isin": null,
+   "name": "앱클론",
+   "symbol": "174900"
+  },
+  {
+   "isin": null,
+   "name": "아이진",
+   "symbol": "185490"
+  },
+  {
+   "isin": null,
+   "name": "HLB제넥스",
+   "symbol": "187420"
+  },
+  {
+   "isin": null,
+   "name": "테고사이언스",
+   "symbol": "191420"
+  },
+  {
+   "isin": null,
+   "name": "알테오젠",
+   "symbol": "196170"
+  },
+  {
+   "isin": null,
+   "name": "HLB펩",
+   "symbol": "196300"
+  },
+  {
+   "isin": null,
+   "name": "툴젠",
+   "symbol": "199800"
+  },
+  {
+   "isin": null,
+   "name": "유바이오로직스",
+   "symbol": "206650"
+  },
+  {
+   "isin": null,
+   "name": "크로넥스",
+   "symbol": "215570"
+  },
+  {
+   "isin": null,
+   "name": "인바이츠바이오코아",
+   "symbol": "216400"
+  },
+  {
+   "isin": null,
+   "name": "강스템바이오텍",
+   "symbol": "217730"
+  },
+  {
+   "isin": null,
+   "name": "팬젠",
+   "symbol": "222110"
+  },
+  {
+   "isin": null,
+   "name": "티앤알바이오팹",
+   "symbol": "246710"
+  },
+  {
+   "isin": null,
+   "name": "바이오에프디엔씨",
+   "symbol": "251120"
+  },
+  {
+   "isin": null,
+   "name": "유틸렉스",
+   "symbol": "263050"
+  },
+  {
+   "isin": null,
+   "name": "풍전약품",
+   "symbol": "298060"
+  },
+  {
+   "isin": null,
+   "name": "에이비엘바이오",
+   "symbol": "298380"
+  },
+  {
+   "isin": null,
+   "name": "셀리드",
+   "symbol": "299660"
+  },
+  {
+   "isin": null,
+   "name": "에스바이오메딕스",
+   "symbol": "304360"
+  },
+  {
+   "isin": null,
+   "name": "무진메디",
+   "symbol": "322970"
+  },
+  {
+   "isin": null,
+   "name": "셀레믹스",
+   "symbol": "331920"
+  },
+  {
+   "isin": null,
+   "name": "와이바이오로직스",
+   "symbol": "338840"
+  },
+  {
+   "isin": null,
+   "name": "디앤디파마텍",
+   "symbol": "347850"
+  },
+  {
+   "isin": null,
+   "name": "큐라티스",
+   "symbol": "348080"
+  },
+  {
+   "isin": null,
+   "name": "셀레스트라",
+   "symbol": "352770"
+  },
+  {
+   "isin": null,
+   "name": "지아이이노베이션",
+   "symbol": "358570"
+  },
+  {
+   "isin": null,
+   "name": "큐로셀",
+   "symbol": "372320"
+  },
+  {
+   "isin": null,
+   "name": "엑셀세라퓨틱스",
+   "symbol": "373110"
+  },
+  {
+   "isin": null,
+   "name": "지에프씨생명과학",
+   "symbol": "388610"
+  },
+  {
+   "isin": null,
+   "name": "파로스아이바이오",
+   "symbol": "388870"
+  },
+  {
+   "isin": null,
+   "name": "지니너스",
+   "symbol": "389030"
+  },
+  {
+   "isin": null,
+   "name": "에피바이오텍",
+   "symbol": "446440"
+  },
+  {
+   "isin": null,
+   "name": "쿼드메디슨",
+   "symbol": "464490"
+  },
+  {
+   "isin": null,
+   "name": "프로티나",
+   "symbol": "468530"
+  },
+  {
+   "isin": null,
+   "name": "오가노이드사이언스",
+   "symbol": "476040"
+  },
+  {
+   "isin": null,
+   "name": "알지노믹스",
+   "symbol": "476830"
+  },
+  {
+   "isin": null,
+   "name": "코오롱티슈진",
+   "symbol": "950160"
+  }
+ ],
+ "name": "생물공학"
+}

@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-586",
+ "members": [
+  {
+   "isin": null,
+   "name": "LS",
+   "symbol": "006260"
+  },
+  {
+   "isin": null,
+   "name": "대한광통신",
+   "symbol": "010170"
+  },
+  {
+   "isin": null,
+   "name": "성호전자",
+   "symbol": "043260"
+  },
+  {
+   "isin": null,
+   "name": "한국첨단소재",
+   "symbol": "062970"
+  },
+  {
+   "isin": null,
+   "name": "빛과전자",
+   "symbol": "069540"
+  },
+  {
+   "isin": null,
+   "name": "서울바이오시스",
+   "symbol": "092190"
+  },
+  {
+   "isin": null,
+   "name": "머큐리",
+   "symbol": "100590"
+  },
+  {
+   "isin": null,
+   "name": "우리넷",
+   "symbol": "115440"
+  },
+  {
+   "isin": null,
+   "name": "티엠씨",
+   "symbol": "217590"
+  },
+  {
+   "isin": null,
+   "name": "RFHIC",
+   "symbol": "218410"
+  },
+  {
+   "isin": null,
+   "name": "RF머트리얼즈",
+   "symbol": "327260"
+  },
+  {
+   "isin": null,
+   "name": "파이버프로",
+   "symbol": "368770"
+  },
+  {
+   "isin": null,
+   "name": "라이콤",
+   "symbol": "388790"
+  },
+  {
+   "isin": null,
+   "name": "자람테크놀로지",
+   "symbol": "389020"
+  }
+ ],
+ "name": "광통신(광케이블/광섬유 등)"
+}

@@ -1,0 +1,632 @@
+{
+ "category": "theme",
+ "index": "theme-111",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼양홀딩스",
+   "symbol": "000070"
+  },
+  {
+   "isin": null,
+   "name": "하이트진로홀딩스",
+   "symbol": "000140"
+  },
+  {
+   "isin": null,
+   "name": "두산",
+   "symbol": "000150"
+  },
+  {
+   "isin": null,
+   "name": "성창기업지주",
+   "symbol": "000180"
+  },
+  {
+   "isin": null,
+   "name": "DL",
+   "symbol": "000210"
+  },
+  {
+   "isin": null,
+   "name": "한국앤컴퍼니",
+   "symbol": "000240"
+  },
+  {
+   "isin": null,
+   "name": "노루홀딩스",
+   "symbol": "000320"
+  },
+  {
+   "isin": null,
+   "name": "CR홀딩스",
+   "symbol": "000480"
+  },
+  {
+   "isin": null,
+   "name": "CS홀딩스",
+   "symbol": "000590"
+  },
+  {
+   "isin": null,
+   "name": "동아쏘시오홀딩스",
+   "symbol": "000640"
+  },
+  {
+   "isin": null,
+   "name": "유수홀딩스",
+   "symbol": "000700"
+  },
+  {
+   "isin": null,
+   "name": "한화",
+   "symbol": "000880"
+  },
+  {
+   "isin": null,
+   "name": "CJ",
+   "symbol": "001040"
+  },
+  {
+   "isin": null,
+   "name": "동국홀딩스",
+   "symbol": "001230"
+  },
+  {
+   "isin": null,
+   "name": "세아베스틸지주",
+   "symbol": "001430"
+  },
+  {
+   "isin": null,
+   "name": "종근당홀딩스",
+   "symbol": "001630"
+  },
+  {
+   "isin": null,
+   "name": "오리온홀딩스",
+   "symbol": "001800"
+  },
+  {
+   "isin": null,
+   "name": "KISCO홀딩스",
+   "symbol": "001940"
+  },
+  {
+   "isin": null,
+   "name": "코오롱",
+   "symbol": "002020"
+  },
+  {
+   "isin": null,
+   "name": "아세아",
+   "symbol": "002030"
+  },
+  {
+   "isin": null,
+   "name": "제일파마홀딩스",
+   "symbol": "002620"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽홀딩스",
+   "symbol": "002790"
+  },
+  {
+   "isin": null,
+   "name": "세아제강지주",
+   "symbol": "003030"
+  },
+  {
+   "isin": null,
+   "name": "대웅",
+   "symbol": "003090"
+  },
+  {
+   "isin": null,
+   "name": "한일홀딩스",
+   "symbol": "003300"
+  },
+  {
+   "isin": null,
+   "name": "하림지주",
+   "symbol": "003380"
+  },
+  {
+   "isin": null,
+   "name": "한진중공업홀딩스",
+   "symbol": "003480"
+  },
+  {
+   "isin": null,
+   "name": "LG",
+   "symbol": "003550"
+  },
+  {
+   "isin": null,
+   "name": "한솔홀딩스",
+   "symbol": "004150"
+  },
+  {
+   "isin": null,
+   "name": "효성",
+   "symbol": "004800"
+  },
+  {
+   "isin": null,
+   "name": "DRB동일",
+   "symbol": "004840"
+  },
+  {
+   "isin": null,
+   "name": "롯데지주",
+   "symbol": "004990"
+  },
+  {
+   "isin": null,
+   "name": "녹십자홀딩스",
+   "symbol": "005250"
+  },
+  {
+   "isin": null,
+   "name": "현대지에프홀딩스",
+   "symbol": "005440"
+  },
+  {
+   "isin": null,
+   "name": "넥센",
+   "symbol": "005720"
+  },
+  {
+   "isin": null,
+   "name": "크라운해태홀딩스",
+   "symbol": "005740"
+  },
+  {
+   "isin": null,
+   "name": "풍산홀딩스",
+   "symbol": "005810"
+  },
+  {
+   "isin": null,
+   "name": "매일홀딩스",
+   "symbol": "005990"
+  },
+  {
+   "isin": null,
+   "name": "동원산업",
+   "symbol": "006040"
+  },
+  {
+   "isin": null,
+   "name": "SK디스커버리",
+   "symbol": "006120"
+  },
+  {
+   "isin": null,
+   "name": "한국전자홀딩스",
+   "symbol": "006200"
+  },
+  {
+   "isin": null,
+   "name": "LS",
+   "symbol": "006260"
+  },
+  {
+   "isin": null,
+   "name": "AK홀딩스",
+   "symbol": "006840"
+  },
+  {
+   "isin": null,
+   "name": "신송홀딩스",
+   "symbol": "006880"
+  },
+  {
+   "isin": null,
+   "name": "DN오토모티브",
+   "symbol": "007340"
+  },
+  {
+   "isin": null,
+   "name": "샘표",
+   "symbol": "007540"
+  },
+  {
+   "isin": null,
+   "name": "F&F홀딩스",
+   "symbol": "007700"
+  },
+  {
+   "isin": null,
+   "name": "서연",
+   "symbol": "007860"
+  },
+  {
+   "isin": null,
+   "name": "대덕",
+   "symbol": "008060"
+  },
+  {
+   "isin": null,
+   "name": "한미사이언스",
+   "symbol": "008930"
+  },
+  {
+   "isin": null,
+   "name": "HD한국조선해양",
+   "symbol": "009540"
+  },
+  {
+   "isin": null,
+   "name": "영원무역홀딩스",
+   "symbol": "009970"
+  },
+  {
+   "isin": null,
+   "name": "OCI홀딩스",
+   "symbol": "010060"
+  },
+  {
+   "isin": null,
+   "name": "평화홀딩스",
+   "symbol": "010770"
+  },
+  {
+   "isin": null,
+   "name": "DB",
+   "symbol": "012030"
+  },
+  {
+   "isin": null,
+   "name": "경동인베스트",
+   "symbol": "012320"
+  },
+  {
+   "isin": null,
+   "name": "HDC",
+   "symbol": "012630"
+  },
+  {
+   "isin": null,
+   "name": "디와이",
+   "symbol": "013570"
+  },
+  {
+   "isin": null,
+   "name": "INVENI",
+   "symbol": "015360"
+  },
+  {
+   "isin": null,
+   "name": "일진홀딩스",
+   "symbol": "015860"
+  },
+  {
+   "isin": null,
+   "name": "한세예스24홀딩스",
+   "symbol": "016450"
+  },
+  {
+   "isin": null,
+   "name": "웅진",
+   "symbol": "016880"
+  },
+  {
+   "isin": null,
+   "name": "풀무원",
+   "symbol": "017810"
+  },
+  {
+   "isin": null,
+   "name": "콜마홀딩스",
+   "symbol": "024720"
+  },
+  {
+   "isin": null,
+   "name": "SJM홀딩스",
+   "symbol": "025530"
+  },
+  {
+   "isin": null,
+   "name": "BGF",
+   "symbol": "027410"
+  },
+  {
+   "isin": null,
+   "name": "휴맥스홀딩스",
+   "symbol": "028080"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산",
+   "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "원익홀딩스",
+   "symbol": "030530"
+  },
+  {
+   "isin": null,
+   "name": "NICE",
+   "symbol": "034310"
+  },
+  {
+   "isin": null,
+   "name": "SK",
+   "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "해성산업",
+   "symbol": "034810"
+  },
+  {
+   "isin": null,
+   "name": "솔본",
+   "symbol": "035610"
+  },
+  {
+   "isin": null,
+   "name": "이지홀딩스",
+   "symbol": "035810"
+  },
+  {
+   "isin": null,
+   "name": "SNT홀딩스",
+   "symbol": "036530"
+  },
+  {
+   "isin": null,
+   "name": "솔브레인홀딩스",
+   "symbol": "036830"
+  },
+  {
+   "isin": null,
+   "name": "이건홀딩스",
+   "symbol": "039020"
+  },
+  {
+   "isin": null,
+   "name": "비츠로테크",
+   "symbol": "042370"
+  },
+  {
+   "isin": null,
+   "name": "네오위즈홀딩스",
+   "symbol": "042420"
+  },
+  {
+   "isin": null,
+   "name": "코스맥스비티아이",
+   "symbol": "044820"
+  },
+  {
+   "isin": null,
+   "name": "코아시아",
+   "symbol": "045970"
+  },
+  {
+   "isin": null,
+   "name": "APS",
+   "symbol": "054620"
+  },
+  {
+   "isin": null,
+   "name": "아이디스홀딩스",
+   "symbol": "054800"
+  },
+  {
+   "isin": null,
+   "name": "신한지주",
+   "symbol": "055550"
+  },
+  {
+   "isin": null,
+   "name": "세아홀딩스",
+   "symbol": "058650"
+  },
+  {
+   "isin": null,
+   "name": "HL홀딩스",
+   "symbol": "060980"
+  },
+  {
+   "isin": null,
+   "name": "컴투스홀딩스",
+   "symbol": "063080"
+  },
+  {
+   "isin": null,
+   "name": "한국금융지주",
+   "symbol": "071050"
+  },
+  {
+   "isin": null,
+   "name": "우리산업홀딩스",
+   "symbol": "072470"
+  },
+  {
+   "isin": null,
+   "name": "농심홀딩스",
+   "symbol": "072710"
+  },
+  {
+   "isin": null,
+   "name": "유비쿼스홀딩스",
+   "symbol": "078070"
+  },
+  {
+   "isin": null,
+   "name": "GS",
+   "symbol": "078930"
+  },
+  {
+   "isin": null,
+   "name": "미스토홀딩스",
+   "symbol": "081660"
+  },
+  {
+   "isin": null,
+   "name": "휴온스글로벌",
+   "symbol": "084110"
+  },
+  {
+   "isin": null,
+   "name": "대상홀딩스",
+   "symbol": "084690"
+  },
+  {
+   "isin": null,
+   "name": "에코프로",
+   "symbol": "086520"
+  },
+  {
+   "isin": null,
+   "name": "하나금융지주",
+   "symbol": "086790"
+  },
+  {
+   "isin": null,
+   "name": "이녹스",
+   "symbol": "088390"
+  },
+  {
+   "isin": null,
+   "name": "KPX홀딩스",
+   "symbol": "092230"
+  },
+  {
+   "isin": null,
+   "name": "JW홀딩스",
+   "symbol": "096760"
+  },
+  {
+   "isin": null,
+   "name": "진양홀딩스",
+   "symbol": "100250"
+  },
+  {
+   "isin": null,
+   "name": "동성케미컬",
+   "symbol": "102260"
+  },
+  {
+   "isin": null,
+   "name": "KB금융",
+   "symbol": "105560"
+  },
+  {
+   "isin": null,
+   "name": "미원홀딩스",
+   "symbol": "107590"
+  },
+  {
+   "isin": null,
+   "name": "골프존홀딩스",
+   "symbol": "121440"
+  },
+  {
+   "isin": null,
+   "name": "엠에스오토텍",
+   "symbol": "123040"
+  },
+  {
+   "isin": null,
+   "name": "메리츠금융지주",
+   "symbol": "138040"
+  },
+  {
+   "isin": null,
+   "name": "BNK금융지주",
+   "symbol": "138930"
+  },
+  {
+   "isin": null,
+   "name": "iM금융지주",
+   "symbol": "139130"
+  },
+  {
+   "isin": null,
+   "name": "JB금융지주",
+   "symbol": "175330"
+  },
+  {
+   "isin": null,
+   "name": "한진칼",
+   "symbol": "180640"
+  },
+  {
+   "isin": null,
+   "name": "쿠쿠홀딩스",
+   "symbol": "192400"
+  },
+  {
+   "isin": null,
+   "name": "LS에코에너지",
+   "symbol": "229640"
+  },
+  {
+   "isin": null,
+   "name": "두산밥캣",
+   "symbol": "241560"
+  },
+  {
+   "isin": null,
+   "name": "화승엔터프라이즈",
+   "symbol": "241590"
+  },
+  {
+   "isin": null,
+   "name": "HD현대",
+   "symbol": "267250"
+  },
+  {
+   "isin": null,
+   "name": "우리금융지주",
+   "symbol": "316140"
+  },
+  {
+   "isin": null,
+   "name": "티와이홀딩스",
+   "symbol": "363280"
+  },
+  {
+   "isin": null,
+   "name": "LX홀딩스",
+   "symbol": "383800"
+  },
+  {
+   "isin": null,
+   "name": "SK스퀘어",
+   "symbol": "402340"
+  },
+  {
+   "isin": null,
+   "name": "HS효성",
+   "symbol": "487570"
+  },
+  {
+   "isin": null,
+   "name": "한화비전",
+   "symbol": "489790"
+  },
+  {
+   "isin": null,
+   "name": "GS피앤엘",
+   "symbol": "499790"
+  },
+  {
+   "isin": null,
+   "name": "엘브이엠씨홀딩스",
+   "symbol": "900140"
+  },
+  {
+   "isin": null,
+   "name": "테라뷰",
+   "symbol": "950250"
+  }
+ ],
+ "name": "지주사"
+}

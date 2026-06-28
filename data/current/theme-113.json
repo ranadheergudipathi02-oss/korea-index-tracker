@@ -1,0 +1,332 @@
+{
+ "category": "theme",
+ "index": "theme-113",
+ "members": [
+  {
+   "isin": null,
+   "name": "하이트진로",
+   "symbol": "000080"
+  },
+  {
+   "isin": null,
+   "name": "하이트진로홀딩스",
+   "symbol": "000140"
+  },
+  {
+   "isin": null,
+   "name": "대한제분",
+   "symbol": "001130"
+  },
+  {
+   "isin": null,
+   "name": "태원물산",
+   "symbol": "001420"
+  },
+  {
+   "isin": null,
+   "name": "대상",
+   "symbol": "001680"
+  },
+  {
+   "isin": null,
+   "name": "대한제당",
+   "symbol": "001790"
+  },
+  {
+   "isin": null,
+   "name": "조흥",
+   "symbol": "002600"
+  },
+  {
+   "isin": null,
+   "name": "한탑",
+   "symbol": "002680"
+  },
+  {
+   "isin": null,
+   "name": "삼양식품",
+   "symbol": "003230"
+  },
+  {
+   "isin": null,
+   "name": "남양유업",
+   "symbol": "003920"
+  },
+  {
+   "isin": null,
+   "name": "농심",
+   "symbol": "004370"
+  },
+  {
+   "isin": null,
+   "name": "서울식품",
+   "symbol": "004410"
+  },
+  {
+   "isin": null,
+   "name": "빙그레",
+   "symbol": "005180"
+  },
+  {
+   "isin": null,
+   "name": "롯데칠성",
+   "symbol": "005300"
+  },
+  {
+   "isin": null,
+   "name": "삼립",
+   "symbol": "005610"
+  },
+  {
+   "isin": null,
+   "name": "푸드웰",
+   "symbol": "005670"
+  },
+  {
+   "isin": null,
+   "name": "신송홀딩스",
+   "symbol": "006880"
+  },
+  {
+   "isin": null,
+   "name": "오뚜기",
+   "symbol": "007310"
+  },
+  {
+   "isin": null,
+   "name": "네이처셀",
+   "symbol": "007390"
+  },
+  {
+   "isin": null,
+   "name": "사조동아원",
+   "symbol": "008040"
+  },
+  {
+   "isin": null,
+   "name": "엠에스씨",
+   "symbol": "009780"
+  },
+  {
+   "isin": null,
+   "name": "풀무원",
+   "symbol": "017810"
+  },
+  {
+   "isin": null,
+   "name": "동서",
+   "symbol": "026960"
+  },
+  {
+   "isin": null,
+   "name": "신세계푸드",
+   "symbol": "031440"
+  },
+  {
+   "isin": null,
+   "name": "국순당",
+   "symbol": "043650"
+  },
+  {
+   "isin": null,
+   "name": "CJ프레시웨이",
+   "symbol": "051500"
+  },
+  {
+   "isin": null,
+   "name": "LG생활건강",
+   "symbol": "051900"
+  },
+  {
+   "isin": null,
+   "name": "CJ제일제당",
+   "symbol": "097950"
+  },
+  {
+   "isin": null,
+   "name": "해태제과식품",
+   "symbol": "101530"
+  },
+  {
+   "isin": null,
+   "name": "우양",
+   "symbol": "103840"
+  },
+  {
+   "isin": null,
+   "name": "티엔엔터테인먼트",
+   "symbol": "131100"
+  },
+  {
+   "isin": null,
+   "name": "삼양사",
+   "symbol": "145990"
+  },
+  {
+   "isin": null,
+   "name": "바이오포트",
+   "symbol": "188040"
+  },
+  {
+   "isin": null,
+   "name": "흥국에프엔비",
+   "symbol": "189980"
+  },
+  {
+   "isin": null,
+   "name": "노바렉스",
+   "symbol": "194700"
+  },
+  {
+   "isin": null,
+   "name": "마니커에프앤지",
+   "symbol": "195500"
+  },
+  {
+   "isin": null,
+   "name": "HK이노엔",
+   "symbol": "195940"
+  },
+  {
+   "isin": null,
+   "name": "정다운",
+   "symbol": "208140"
+  },
+  {
+   "isin": null,
+   "name": "미래생명자원",
+   "symbol": "218150"
+  },
+  {
+   "isin": null,
+   "name": "코스맥스엔비티",
+   "symbol": "222040"
+  },
+  {
+   "isin": null,
+   "name": "한국맥널티",
+   "symbol": "222980"
+  },
+  {
+   "isin": null,
+   "name": "비피도",
+   "symbol": "238200"
+  },
+  {
+   "isin": null,
+   "name": "에이치엘사이언스",
+   "symbol": "239610"
+  },
+  {
+   "isin": null,
+   "name": "샘표식품",
+   "symbol": "248170"
+  },
+  {
+   "isin": null,
+   "name": "보라티알",
+   "symbol": "250000"
+  },
+  {
+   "isin": null,
+   "name": "에스앤디",
+   "symbol": "260970"
+  },
+  {
+   "isin": null,
+   "name": "크라운제과",
+   "symbol": "264900"
+  },
+  {
+   "isin": null,
+   "name": "매일유업",
+   "symbol": "267980"
+  },
+  {
+   "isin": null,
+   "name": "뉴트리",
+   "symbol": "270870"
+  },
+  {
+   "isin": null,
+   "name": "오리온",
+   "symbol": "271560"
+  },
+  {
+   "isin": null,
+   "name": "한울앤제주",
+   "symbol": "276730"
+  },
+  {
+   "isin": null,
+   "name": "인산가",
+   "symbol": "277410"
+  },
+  {
+   "isin": null,
+   "name": "롯데웰푸드",
+   "symbol": "280360"
+  },
+  {
+   "isin": null,
+   "name": "푸드나무",
+   "symbol": "290720"
+  },
+  {
+   "isin": null,
+   "name": "네오크레마",
+   "symbol": "311390"
+  },
+  {
+   "isin": null,
+   "name": "팜스빌",
+   "symbol": "318010"
+  },
+  {
+   "isin": null,
+   "name": "교촌에프앤비",
+   "symbol": "339770"
+  },
+  {
+   "isin": null,
+   "name": "오아",
+   "symbol": "342870"
+  },
+  {
+   "isin": null,
+   "name": "휴럼",
+   "symbol": "353190"
+  },
+  {
+   "isin": null,
+   "name": "에이치피오",
+   "symbol": "357230"
+  },
+  {
+   "isin": null,
+   "name": "우듬지팜",
+   "symbol": "403490"
+  },
+  {
+   "isin": null,
+   "name": "에르코스",
+   "symbol": "435570"
+  },
+  {
+   "isin": null,
+   "name": "현대그린푸드",
+   "symbol": "453340"
+  },
+  {
+   "isin": null,
+   "name": "미트박스",
+   "symbol": "475460"
+  },
+  {
+   "isin": null,
+   "name": "더본코리아",
+   "symbol": "475560"
+  }
+ ],
+ "name": "음식료업종"
+}

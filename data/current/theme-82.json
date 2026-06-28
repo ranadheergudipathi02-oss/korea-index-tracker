@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-82",
+ "members": [
+  {
+   "isin": null,
+   "name": "대동",
+   "symbol": "000490"
+  },
+  {
+   "isin": null,
+   "name": "조비",
+   "symbol": "001550"
+  },
+  {
+   "isin": null,
+   "name": "경농",
+   "symbol": "002100"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "동방아그로",
+   "symbol": "007590"
+  },
+  {
+   "isin": null,
+   "name": "남해화학",
+   "symbol": "025860"
+  },
+  {
+   "isin": null,
+   "name": "파루",
+   "symbol": "043200"
+  },
+  {
+   "isin": null,
+   "name": "인선이엔티",
+   "symbol": "060150"
+  },
+  {
+   "isin": null,
+   "name": "뉴보텍",
+   "symbol": "060260"
+  },
+  {
+   "isin": null,
+   "name": "하이드로리튬",
+   "symbol": "101670"
+  }
+ ],
+ "name": "태풍 및 장마"
+}

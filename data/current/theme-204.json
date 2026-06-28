@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-204",
+ "members": [
+  {
+   "isin": null,
+   "name": "KG케미칼",
+   "symbol": "001390"
+  },
+  {
+   "isin": null,
+   "name": "조비",
+   "symbol": "001550"
+  },
+  {
+   "isin": null,
+   "name": "롯데정밀화학",
+   "symbol": "004000"
+  },
+  {
+   "isin": null,
+   "name": "태경비케이",
+   "symbol": "014580"
+  },
+  {
+   "isin": null,
+   "name": "유니드",
+   "symbol": "014830"
+  },
+  {
+   "isin": null,
+   "name": "남해화학",
+   "symbol": "025860"
+  },
+  {
+   "isin": null,
+   "name": "체시스",
+   "symbol": "033250"
+  },
+  {
+   "isin": null,
+   "name": "NH농우바이오",
+   "symbol": "054050"
+  },
+  {
+   "isin": null,
+   "name": "효성오앤비",
+   "symbol": "097870"
+  },
+  {
+   "isin": null,
+   "name": "누보",
+   "symbol": "332290"
+  }
+ ],
+ "name": "비료"
+}

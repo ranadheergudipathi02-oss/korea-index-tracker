@@ -1,0 +1,107 @@
+{
+ "category": "theme",
+ "index": "theme-241",
+ "members": [
+  {
+   "isin": null,
+   "name": "삼천당제약",
+   "symbol": "000250"
+  },
+  {
+   "isin": null,
+   "name": "에이프로젠바이오로직스",
+   "symbol": "003060"
+  },
+  {
+   "isin": null,
+   "name": "보령",
+   "symbol": "003850"
+  },
+  {
+   "isin": null,
+   "name": "녹십자",
+   "symbol": "006280"
+  },
+  {
+   "isin": null,
+   "name": "에이프로젠",
+   "symbol": "007460"
+  },
+  {
+   "isin": null,
+   "name": "한올바이오파마",
+   "symbol": "009420"
+  },
+  {
+   "isin": null,
+   "name": "LG화학",
+   "symbol": "051910"
+  },
+  {
+   "isin": null,
+   "name": "바이넥스",
+   "symbol": "053030"
+  },
+  {
+   "isin": null,
+   "name": "선바이오",
+   "symbol": "067370"
+  },
+  {
+   "isin": null,
+   "name": "셀트리온",
+   "symbol": "068270"
+  },
+  {
+   "isin": null,
+   "name": "셀트리온제약",
+   "symbol": "068760"
+  },
+  {
+   "isin": null,
+   "name": "대웅제약",
+   "symbol": "069620"
+  },
+  {
+   "isin": null,
+   "name": "이수앱지스",
+   "symbol": "086890"
+  },
+  {
+   "isin": null,
+   "name": "한미약품",
+   "symbol": "128940"
+  },
+  {
+   "isin": null,
+   "name": "동아에스티",
+   "symbol": "170900"
+  },
+  {
+   "isin": null,
+   "name": "종근당",
+   "symbol": "185750"
+  },
+  {
+   "isin": null,
+   "name": "알테오젠",
+   "symbol": "196170"
+  },
+  {
+   "isin": null,
+   "name": "팬젠",
+   "symbol": "222110"
+  },
+  {
+   "isin": null,
+   "name": "프레스티지바이오로직스",
+   "symbol": "334970"
+  },
+  {
+   "isin": null,
+   "name": "프레스티지바이오파마",
+   "symbol": "950210"
+  }
+ ],
+ "name": "바이오시밀러(복제 바이오의약품)"
+}

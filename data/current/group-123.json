@@ -1,0 +1,17 @@
+{
+ "category": "group",
+ "index": "group-123",
+ "members": [
+  {
+   "isin": null,
+   "name": "셀트리온",
+   "symbol": "068270"
+  },
+  {
+   "isin": null,
+   "name": "셀트리온제약",
+   "symbol": "068760"
+  }
+ ],
+ "name": "셀트리온"
+}

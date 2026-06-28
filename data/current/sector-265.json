@@ -1,0 +1,72 @@
+{
+ "category": "sector",
+ "index": "sector-265",
+ "members": [
+  {
+   "isin": null,
+   "name": "HLB글로벌",
+   "symbol": "003580"
+  },
+  {
+   "isin": null,
+   "name": "소노스퀘어",
+   "symbol": "007720"
+  },
+  {
+   "isin": null,
+   "name": "플레이그램",
+   "symbol": "009810"
+  },
+  {
+   "isin": null,
+   "name": "글로본",
+   "symbol": "019660"
+  },
+  {
+   "isin": null,
+   "name": "더라미",
+   "symbol": "032860"
+  },
+  {
+   "isin": null,
+   "name": "한국정보공학",
+   "symbol": "039740"
+  },
+  {
+   "isin": null,
+   "name": "지어소프트",
+   "symbol": "051160"
+  },
+  {
+   "isin": null,
+   "name": "YW",
+   "symbol": "051390"
+  },
+  {
+   "isin": null,
+   "name": "에스티큐브",
+   "symbol": "052020"
+  },
+  {
+   "isin": null,
+   "name": "서울옥션",
+   "symbol": "063170"
+  },
+  {
+   "isin": null,
+   "name": "인크레더블버즈",
+   "symbol": "064090"
+  },
+  {
+   "isin": null,
+   "name": "케이옥션",
+   "symbol": "102370"
+  },
+  {
+   "isin": null,
+   "name": "EMB",
+   "symbol": "278990"
+  }
+ ],
+ "name": "판매업체"
+}

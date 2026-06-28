@@ -1,0 +1,57 @@
+{
+ "category": "theme",
+ "index": "theme-385",
+ "members": [
+  {
+   "isin": null,
+   "name": "씨아이테크",
+   "symbol": "004920"
+  },
+  {
+   "isin": null,
+   "name": "한네트",
+   "symbol": "052600"
+  },
+  {
+   "isin": null,
+   "name": "NICE인프라",
+   "symbol": "063570"
+  },
+  {
+   "isin": null,
+   "name": "케이씨티",
+   "symbol": "089150"
+  },
+  {
+   "isin": null,
+   "name": "푸른로보틱스",
+   "symbol": "094940"
+  },
+  {
+   "isin": null,
+   "name": "인바이오젠",
+   "symbol": "101140"
+  },
+  {
+   "isin": null,
+   "name": "포스뱅크",
+   "symbol": "105760"
+  },
+  {
+   "isin": null,
+   "name": "케이씨에스",
+   "symbol": "115500"
+  },
+  {
+   "isin": null,
+   "name": "윈스테크넷",
+   "symbol": "136540"
+  },
+  {
+   "isin": null,
+   "name": "파버나인",
+   "symbol": "177830"
+  }
+ ],
+ "name": "키오스크(KIOSK)"
+}

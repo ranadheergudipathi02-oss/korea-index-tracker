@@ -1,0 +1,52 @@
+{
+ "category": "theme",
+ "index": "theme-213",
+ "members": [
+  {
+   "isin": null,
+   "name": "LS",
+   "symbol": "006260"
+  },
+  {
+   "isin": null,
+   "name": "부산산업",
+   "symbol": "011390"
+  },
+  {
+   "isin": null,
+   "name": "세명전기",
+   "symbol": "017510"
+  },
+  {
+   "isin": null,
+   "name": "한국선재",
+   "symbol": "025550"
+  },
+  {
+   "isin": null,
+   "name": "특수건설",
+   "symbol": "026150"
+  },
+  {
+   "isin": null,
+   "name": "동아지질",
+   "symbol": "028100"
+  },
+  {
+   "isin": null,
+   "name": "우원개발",
+   "symbol": "046940"
+  },
+  {
+   "isin": null,
+   "name": "LS마린솔루션",
+   "symbol": "060370"
+  },
+  {
+   "isin": null,
+   "name": "티씨머티리얼즈",
+   "symbol": "125020"
+  }
+ ],
+ "name": "해저터널(지하화/지하도로 등)"
+}

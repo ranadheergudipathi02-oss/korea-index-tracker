@@ -1,0 +1,157 @@
+{
+ "category": "theme",
+ "index": "theme-529",
+ "members": [
+  {
+   "isin": null,
+   "name": "이수페타시스",
+   "symbol": "007660"
+  },
+  {
+   "isin": null,
+   "name": "삼성에스디에스",
+   "symbol": "018260"
+  },
+  {
+   "isin": null,
+   "name": "한글과컴퓨터",
+   "symbol": "030520"
+  },
+  {
+   "isin": null,
+   "name": "NAVER",
+   "symbol": "035420"
+  },
+  {
+   "isin": null,
+   "name": "카카오",
+   "symbol": "035720"
+  },
+  {
+   "isin": null,
+   "name": "인포뱅크",
+   "symbol": "039290"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스AI",
+   "symbol": "039980"
+  },
+  {
+   "isin": null,
+   "name": "폴라리스오피스",
+   "symbol": "041020"
+  },
+  {
+   "isin": null,
+   "name": "이스트소프트",
+   "symbol": "047560"
+  },
+  {
+   "isin": null,
+   "name": "영림원소프트랩",
+   "symbol": "060850"
+  },
+  {
+   "isin": null,
+   "name": "브리지텍",
+   "symbol": "064480"
+  },
+  {
+   "isin": null,
+   "name": "유엔젤",
+   "symbol": "072130"
+  },
+  {
+   "isin": null,
+   "name": "와이즈넛",
+   "symbol": "096250"
+  },
+  {
+   "isin": null,
+   "name": "브레인즈컴퍼니",
+   "symbol": "099390"
+  },
+  {
+   "isin": null,
+   "name": "셀바스AI",
+   "symbol": "108860"
+  },
+  {
+   "isin": null,
+   "name": "글로벌텍스프리",
+   "symbol": "204620"
+  },
+  {
+   "isin": null,
+   "name": "엑셈",
+   "symbol": "205100"
+  },
+  {
+   "isin": null,
+   "name": "데이타솔루션",
+   "symbol": "263800"
+  },
+  {
+   "isin": null,
+   "name": "미디어젠",
+   "symbol": "279600"
+  },
+  {
+   "isin": null,
+   "name": "플리토",
+   "symbol": "300080"
+  },
+  {
+   "isin": null,
+   "name": "바이브컴퍼니",
+   "symbol": "301300"
+  },
+  {
+   "isin": null,
+   "name": "솔트룩스",
+   "symbol": "304100"
+  },
+  {
+   "isin": null,
+   "name": "이노테나",
+   "symbol": "333050"
+  },
+  {
+   "isin": null,
+   "name": "SKAI",
+   "symbol": "357880"
+  },
+  {
+   "isin": null,
+   "name": "마음AI",
+   "symbol": "377480"
+  },
+  {
+   "isin": null,
+   "name": "코난테크놀로지",
+   "symbol": "402030"
+  },
+  {
+   "isin": null,
+   "name": "모델솔루션",
+   "symbol": "417970"
+  },
+  {
+   "isin": null,
+   "name": "에스피소프트",
+   "symbol": "443670"
+  },
+  {
+   "isin": null,
+   "name": "인스웨이브",
+   "symbol": "450520"
+  },
+  {
+   "isin": null,
+   "name": "사이냅소프트",
+   "symbol": "466410"
+  }
+ ],
+ "name": "AI 챗봇(챗GPT 등)"
+}

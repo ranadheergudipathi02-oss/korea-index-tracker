@@ -1,0 +1,62 @@
+{
+ "category": "sector",
+ "index": "sector-301",
+ "members": [
+  {
+   "isin": null,
+   "name": "제주은행",
+   "symbol": "006220"
+  },
+  {
+   "isin": null,
+   "name": "기업은행",
+   "symbol": "024110"
+  },
+  {
+   "isin": null,
+   "name": "신한지주",
+   "symbol": "055550"
+  },
+  {
+   "isin": null,
+   "name": "하나금융지주",
+   "symbol": "086790"
+  },
+  {
+   "isin": null,
+   "name": "KB금융",
+   "symbol": "105560"
+  },
+  {
+   "isin": null,
+   "name": "BNK금융지주",
+   "symbol": "138930"
+  },
+  {
+   "isin": null,
+   "name": "iM금융지주",
+   "symbol": "139130"
+  },
+  {
+   "isin": null,
+   "name": "JB금융지주",
+   "symbol": "175330"
+  },
+  {
+   "isin": null,
+   "name": "케이뱅크",
+   "symbol": "279570"
+  },
+  {
+   "isin": null,
+   "name": "우리금융지주",
+   "symbol": "316140"
+  },
+  {
+   "isin": null,
+   "name": "카카오뱅크",
+   "symbol": "323410"
+  }
+ ],
+ "name": "은행"
+}

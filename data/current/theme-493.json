@@ -1,0 +1,77 @@
+{
+ "category": "theme",
+ "index": "theme-493",
+ "members": [
+  {
+   "isin": null,
+   "name": "파미셀",
+   "symbol": "005690"
+  },
+  {
+   "isin": null,
+   "name": "녹십자",
+   "symbol": "006280"
+  },
+  {
+   "isin": null,
+   "name": "한미사이언스",
+   "symbol": "008930"
+  },
+  {
+   "isin": null,
+   "name": "진원생명과학",
+   "symbol": "011000"
+  },
+  {
+   "isin": null,
+   "name": "서린바이오",
+   "symbol": "038070"
+  },
+  {
+   "isin": null,
+   "name": "아미노로직스",
+   "symbol": "074430"
+  },
+  {
+   "isin": null,
+   "name": "이연제약",
+   "symbol": "102460"
+  },
+  {
+   "isin": null,
+   "name": "한미약품",
+   "symbol": "128940"
+  },
+  {
+   "isin": null,
+   "name": "나이벡",
+   "symbol": "138610"
+  },
+  {
+   "isin": null,
+   "name": "아이진",
+   "symbol": "185490"
+  },
+  {
+   "isin": null,
+   "name": "올릭스",
+   "symbol": "226950"
+  },
+  {
+   "isin": null,
+   "name": "에스티팜",
+   "symbol": "237690"
+  },
+  {
+   "isin": null,
+   "name": "큐라티스",
+   "symbol": "348080"
+  },
+  {
+   "isin": null,
+   "name": "인벤티지랩",
+   "symbol": "389470"
+  }
+ ],
+ "name": "mRNA(메신저 리보핵산)"
+}

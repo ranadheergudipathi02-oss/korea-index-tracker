@@ -1,0 +1,72 @@
+{
+ "category": "theme",
+ "index": "theme-547",
+ "members": [
+  {
+   "isin": null,
+   "name": "SK하이닉스",
+   "symbol": "000660"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "코리아써키트",
+   "symbol": "007810"
+  },
+  {
+   "isin": null,
+   "name": "대교",
+   "symbol": "019680"
+  },
+  {
+   "isin": null,
+   "name": "국순당",
+   "symbol": "043650"
+  },
+  {
+   "isin": null,
+   "name": "오킨스전자",
+   "symbol": "080580"
+  },
+  {
+   "isin": null,
+   "name": "엑시콘",
+   "symbol": "092870"
+  },
+  {
+   "isin": null,
+   "name": "네오셈",
+   "symbol": "253590"
+  },
+  {
+   "isin": null,
+   "name": "티엘비",
+   "symbol": "356860"
+  },
+  {
+   "isin": null,
+   "name": "오픈엣지테크놀로지",
+   "symbol": "394280"
+  },
+  {
+   "isin": null,
+   "name": "큐알티",
+   "symbol": "405100"
+  },
+  {
+   "isin": null,
+   "name": "퀄리타스반도체",
+   "symbol": "432720"
+  },
+  {
+   "isin": null,
+   "name": "파두",
+   "symbol": "440110"
+  }
+ ],
+ "name": "CXL(컴퓨트익스프레스링크)"
+}

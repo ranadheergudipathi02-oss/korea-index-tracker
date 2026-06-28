@@ -1,0 +1,67 @@
+{
+ "category": "theme",
+ "index": "theme-112",
+ "members": [
+  {
+   "isin": null,
+   "name": "신일전자",
+   "symbol": "002700"
+  },
+  {
+   "isin": null,
+   "name": "삼성전자",
+   "symbol": "005930"
+  },
+  {
+   "isin": null,
+   "name": "코웨이",
+   "symbol": "021240"
+  },
+  {
+   "isin": null,
+   "name": "성호전자",
+   "symbol": "043260"
+  },
+  {
+   "isin": null,
+   "name": "위닉스",
+   "symbol": "044340"
+  },
+  {
+   "isin": null,
+   "name": "크린앤사이언스",
+   "symbol": "045520"
+  },
+  {
+   "isin": null,
+   "name": "에스피지",
+   "symbol": "058610"
+  },
+  {
+   "isin": null,
+   "name": "LG전자",
+   "symbol": "066570"
+  },
+  {
+   "isin": null,
+   "name": "오텍",
+   "symbol": "067170"
+  },
+  {
+   "isin": null,
+   "name": "케이웨더",
+   "symbol": "068100"
+  },
+  {
+   "isin": null,
+   "name": "쿠쿠홈시스",
+   "symbol": "284740"
+  },
+  {
+   "isin": null,
+   "name": "씨앤투스",
+   "symbol": "352700"
+  }
+ ],
+ "name": "공기청정기"
+}

@@ -1,0 +1,62 @@
+{
+ "category": "theme",
+ "index": "theme-269",
+ "members": [
+  {
+   "isin": null,
+   "name": "주성엔지니어링",
+   "symbol": "036930"
+  },
+  {
+   "isin": null,
+   "name": "이오테크닉스",
+   "symbol": "039030"
+  },
+  {
+   "isin": null,
+   "name": "기가레인",
+   "symbol": "049080"
+  },
+  {
+   "isin": null,
+   "name": "미래컴퍼니",
+   "symbol": "049950"
+  },
+  {
+   "isin": null,
+   "name": "프로텍",
+   "symbol": "053610"
+  },
+  {
+   "isin": null,
+   "name": "티씨케이",
+   "symbol": "064760"
+  },
+  {
+   "isin": null,
+   "name": "탑엔지니어링",
+   "symbol": "065130"
+  },
+  {
+   "isin": null,
+   "name": "예스티",
+   "symbol": "122640"
+  },
+  {
+   "isin": null,
+   "name": "티에스이",
+   "symbol": "131290"
+  },
+  {
+   "isin": null,
+   "name": "지아이에스",
+   "symbol": "306620"
+  },
+  {
+   "isin": null,
+   "name": "레이저쎌",
+   "symbol": "412350"
+  }
+ ],
+ "name": "LED장비"
+}

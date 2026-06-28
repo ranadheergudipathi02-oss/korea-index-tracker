@@ -1,0 +1,37 @@
+{
+ "category": "theme",
+ "index": "theme-319",
+ "members": [
+  {
+   "isin": null,
+   "name": "태광산업",
+   "symbol": "003240"
+  },
+  {
+   "isin": null,
+   "name": "대한화섬",
+   "symbol": "003830"
+  },
+  {
+   "isin": null,
+   "name": "우성머티리얼스",
+   "symbol": "011300"
+  },
+  {
+   "isin": null,
+   "name": "휴비스",
+   "symbol": "079980"
+  },
+  {
+   "isin": null,
+   "name": "코오롱인더",
+   "symbol": "120110"
+  },
+  {
+   "isin": null,
+   "name": "효성티앤씨",
+   "symbol": "298020"
+  }
+ ],
+ "name": "화학섬유"
+}

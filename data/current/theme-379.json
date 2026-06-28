@@ -1,0 +1,82 @@
+{
+ "category": "theme",
+ "index": "theme-379",
+ "members": [
+  {
+   "isin": null,
+   "name": "대한항공",
+   "symbol": "003490"
+  },
+  {
+   "isin": null,
+   "name": "휴니드",
+   "symbol": "005870"
+  },
+  {
+   "isin": null,
+   "name": "현대위아",
+   "symbol": "011210"
+  },
+  {
+   "isin": null,
+   "name": "한화에어로스페이스",
+   "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "한국카본",
+   "symbol": "017960"
+  },
+  {
+   "isin": null,
+   "name": "두산에너빌리티",
+   "symbol": "034020"
+  },
+  {
+   "isin": null,
+   "name": "오르비텍",
+   "symbol": "046120"
+  },
+  {
+   "isin": null,
+   "name": "한국항공우주",
+   "symbol": "047810"
+  },
+  {
+   "isin": null,
+   "name": "아스트",
+   "symbol": "067390"
+  },
+  {
+   "isin": null,
+   "name": "LIG디펜스앤에어로스페이스",
+   "symbol": "079550"
+  },
+  {
+   "isin": null,
+   "name": "신화프리텍",
+   "symbol": "095190"
+  },
+  {
+   "isin": null,
+   "name": "솔디펜스",
+   "symbol": "215090"
+  },
+  {
+   "isin": null,
+   "name": "하이즈항공",
+   "symbol": "221840"
+  },
+  {
+   "isin": null,
+   "name": "켄코아에어로스페이스",
+   "symbol": "274090"
+  },
+  {
+   "isin": null,
+   "name": "케이피항공산업",
+   "symbol": "288180"
+  }
+ ],
+ "name": "항공기부품"
+}

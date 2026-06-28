@@ -1,0 +1,72 @@
+{
+ "category": "sector",
+ "index": "sector-326",
+ "members": [
+  {
+   "isin": null,
+   "name": "CJ대한통운",
+   "symbol": "000120"
+  },
+  {
+   "isin": null,
+   "name": "유수홀딩스",
+   "symbol": "000700"
+  },
+  {
+   "isin": null,
+   "name": "한진",
+   "symbol": "002320"
+  },
+  {
+   "isin": null,
+   "name": "동방",
+   "symbol": "004140"
+  },
+  {
+   "isin": null,
+   "name": "세방",
+   "symbol": "004360"
+  },
+  {
+   "isin": null,
+   "name": "세방우",
+   "symbol": "004365"
+  },
+  {
+   "isin": null,
+   "name": "KCTC",
+   "symbol": "009070"
+  },
+  {
+   "isin": null,
+   "name": "한솔로지스틱스",
+   "symbol": "009180"
+  },
+  {
+   "isin": null,
+   "name": "한익스프레스",
+   "symbol": "014130"
+  },
+  {
+   "isin": null,
+   "name": "삼일",
+   "symbol": "032280"
+  },
+  {
+   "isin": null,
+   "name": "로젠",
+   "symbol": "033290"
+  },
+  {
+   "isin": null,
+   "name": "현대글로비스",
+   "symbol": "086280"
+  },
+  {
+   "isin": null,
+   "name": "로지스몬",
+   "symbol": "223220"
+  }
+ ],
+ "name": "항공화물운송과물류"
+}

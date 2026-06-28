@@ -1,0 +1,37 @@
+{
+ "category": "theme",
+ "index": "theme-585",
+ "members": [
+  {
+   "isin": null,
+   "name": "한성기업",
+   "symbol": "003680"
+  },
+  {
+   "isin": null,
+   "name": "사조대림",
+   "symbol": "003960"
+  },
+  {
+   "isin": null,
+   "name": "CJ씨푸드",
+   "symbol": "011150"
+  },
+  {
+   "isin": null,
+   "name": "풀무원",
+   "symbol": "017810"
+  },
+  {
+   "isin": null,
+   "name": "우양",
+   "symbol": "103840"
+  },
+  {
+   "isin": null,
+   "name": "한울앤제주",
+   "symbol": "276730"
+  }
+ ],
+ "name": "김밥(냉동김밥 등)"
+}

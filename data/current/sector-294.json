@@ -1,0 +1,282 @@
+{
+ "category": "sector",
+ "index": "sector-294",
+ "members": [
+  {
+   "isin": null,
+   "name": "대한광통신",
+   "symbol": "010170"
+  },
+  {
+   "isin": null,
+   "name": "코콤",
+   "symbol": "015710"
+  },
+  {
+   "isin": null,
+   "name": "엑시큐어하이트론",
+   "symbol": "019490"
+  },
+  {
+   "isin": null,
+   "name": "아이즈비전",
+   "symbol": "031310"
+  },
+  {
+   "isin": null,
+   "name": "케이엠더블유",
+   "symbol": "032500"
+  },
+  {
+   "isin": null,
+   "name": "자화전자",
+   "symbol": "033240"
+  },
+  {
+   "isin": null,
+   "name": "기산텔레콤",
+   "symbol": "035460"
+  },
+  {
+   "isin": null,
+   "name": "코맥스",
+   "symbol": "036690"
+  },
+  {
+   "isin": null,
+   "name": "삼지전자",
+   "symbol": "037460"
+  },
+  {
+   "isin": null,
+   "name": "현대에이치티",
+   "symbol": "039010"
+  },
+  {
+   "isin": null,
+   "name": "다산네트웍스",
+   "symbol": "039560"
+  },
+  {
+   "isin": null,
+   "name": "더테크놀로지",
+   "symbol": "043090"
+  },
+  {
+   "isin": null,
+   "name": "백금T&A",
+   "symbol": "046310"
+  },
+  {
+   "isin": null,
+   "name": "기가레인",
+   "symbol": "049080"
+  },
+  {
+   "isin": null,
+   "name": "쏠리드",
+   "symbol": "050890"
+  },
+  {
+   "isin": null,
+   "name": "중앙첨단소재",
+   "symbol": "051980"
+  },
+  {
+   "isin": null,
+   "name": "코위버",
+   "symbol": "056360"
+  },
+  {
+   "isin": null,
+   "name": "엔더블유시",
+   "symbol": "059180"
+  },
+  {
+   "isin": null,
+   "name": "세나테크놀로지",
+   "symbol": "061090"
+  },
+  {
+   "isin": null,
+   "name": "한국첨단소재",
+   "symbol": "062970"
+  },
+  {
+   "isin": null,
+   "name": "CS",
+   "symbol": "065770"
+  },
+  {
+   "isin": null,
+   "name": "빛과전자",
+   "symbol": "069540"
+  },
+  {
+   "isin": null,
+   "name": "LIG아큐버",
+   "symbol": "073490"
+  },
+  {
+   "isin": null,
+   "name": "에프알텍",
+   "symbol": "073540"
+  },
+  {
+   "isin": null,
+   "name": "유비쿼스홀딩스",
+   "symbol": "078070"
+  },
+  {
+   "isin": null,
+   "name": "에이스테크",
+   "symbol": "088800"
+  },
+  {
+   "isin": null,
+   "name": "한울소재과학",
+   "symbol": "091440"
+  },
+  {
+   "isin": null,
+   "name": "DGI",
+   "symbol": "099520"
+  },
+  {
+   "isin": null,
+   "name": "머큐리",
+   "symbol": "100590"
+  },
+  {
+   "isin": null,
+   "name": "옵티시스",
+   "symbol": "109080"
+  },
+  {
+   "isin": null,
+   "name": "우리넷",
+   "symbol": "115440"
+  },
+  {
+   "isin": null,
+   "name": "오이솔루션",
+   "symbol": "138080"
+  },
+  {
+   "isin": null,
+   "name": "카티스",
+   "symbol": "140430"
+  },
+  {
+   "isin": null,
+   "name": "알엔투테크놀로지",
+   "symbol": "148250"
+  },
+  {
+   "isin": null,
+   "name": "파이오링크",
+   "symbol": "170790"
+  },
+  {
+   "isin": null,
+   "name": "쓰리에이로직스",
+   "symbol": "177900"
+  },
+  {
+   "isin": null,
+   "name": "인텔리안테크",
+   "symbol": "189300"
+  },
+  {
+   "isin": null,
+   "name": "코셋",
+   "symbol": "189350"
+  },
+  {
+   "isin": null,
+   "name": "오늘이엔엠",
+   "symbol": "192410"
+  },
+  {
+   "isin": null,
+   "name": "AP위성",
+   "symbol": "211270"
+  },
+  {
+   "isin": null,
+   "name": "이노인스트루먼트",
+   "symbol": "215790"
+  },
+  {
+   "isin": null,
+   "name": "RFHIC",
+   "symbol": "218410"
+  },
+  {
+   "isin": null,
+   "name": "에치에프알",
+   "symbol": "230240"
+  },
+  {
+   "isin": null,
+   "name": "씨앤에스링크",
+   "symbol": "245450"
+  },
+  {
+   "isin": null,
+   "name": "유비쿼스",
+   "symbol": "264450"
+  },
+  {
+   "isin": null,
+   "name": "라닉스",
+   "symbol": "317120"
+  },
+  {
+   "isin": null,
+   "name": "센서뷰",
+   "symbol": "321370"
+  },
+  {
+   "isin": null,
+   "name": "다보링크",
+   "symbol": "340360"
+  },
+  {
+   "isin": null,
+   "name": "타이드",
+   "symbol": "346010"
+  },
+  {
+   "isin": null,
+   "name": "옵티코어",
+   "symbol": "380540"
+  },
+  {
+   "isin": null,
+   "name": "라이콤",
+   "symbol": "388790"
+  },
+  {
+   "isin": null,
+   "name": "자람테크놀로지",
+   "symbol": "389020"
+  },
+  {
+   "isin": null,
+   "name": "아이씨티케이",
+   "symbol": "456010"
+  },
+  {
+   "isin": null,
+   "name": "한화비전",
+   "symbol": "489790"
+  },
+  {
+   "isin": null,
+   "name": "로스웰",
+   "symbol": "900260"
+  }
+ ],
+ "name": "통신장비"
+}
