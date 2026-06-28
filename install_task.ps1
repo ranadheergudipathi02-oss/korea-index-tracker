@@ -32,6 +32,6 @@ $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable `
 Register-ScheduledTask -TaskName $TaskName -Action $action -Trigger $trigger `
   -Settings $settings -Description "Daily KOSPI/KOSDAQ index constituent fetch (Naver)" -Force | Out-Null
 
-Write-Host "Installed scheduled task '$TaskName' — daily at $Time (IST)."
+Write-Host "Installed scheduled task '$TaskName' - daily at $Time (IST)."
 Write-Host "Verify:  Get-ScheduledTask -TaskName $TaskName"
 Write-Host "Run now: Start-ScheduledTask -TaskName $TaskName"
