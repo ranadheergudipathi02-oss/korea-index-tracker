@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 0,
+  "changed": 12,
   "error": 0,
   "guarded": 0,
-  "initial": 0,
-  "unchanged": 409
+  "initial": 1,
+  "unchanged": 397
  },
- "detect_date": "2026-06-28",
- "duration_sec": 470.0,
- "finished_kst": "2026-06-28T16:37:50.606664+09:00",
- "last_run_kst": "2026-06-28T16:30:00.616614+09:00",
+ "detect_date": "2026-06-29",
+ "duration_sec": 469.8,
+ "finished_kst": "2026-06-29T16:37:51.357562+09:00",
+ "last_run_kst": "2026-06-29T16:30:01.559971+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,14 +317,18 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "count": 1774,
+   "added": 1,
+   "count": 1775,
    "prev_count": 1774,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "kospi": {
-   "count": 2168,
+   "added": 0,
+   "count": 2166,
    "prev_count": 2168,
-   "status": "unchanged"
+   "removed": 2,
+   "status": "changed"
   },
   "kospi-100": {
    "count": 99,
@@ -337,9 +341,11 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "count": 1247,
+   "added": 0,
+   "count": 1245,
    "prev_count": 1247,
-   "status": "unchanged"
+   "removed": 2,
+   "status": "changed"
   },
   "sector-261": {
    "count": 171,
@@ -532,9 +538,11 @@
    "status": "unchanged"
   },
   "sector-299": {
-   "count": 102,
+   "added": 1,
+   "count": 103,
    "prev_count": 102,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-300": {
    "count": 16,
@@ -817,9 +825,11 @@
    "status": "unchanged"
   },
   "theme-136": {
-   "count": 20,
+   "added": 0,
+   "count": 19,
    "prev_count": 20,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-139": {
    "count": 23,
@@ -1112,9 +1122,11 @@
    "status": "unchanged"
   },
   "theme-276": {
-   "count": 36,
+   "added": 0,
+   "count": 35,
    "prev_count": 36,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-279": {
    "count": 62,
@@ -1272,9 +1284,11 @@
    "status": "unchanged"
   },
   "theme-33": {
-   "count": 38,
+   "added": 0,
+   "count": 37,
    "prev_count": 38,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-330": {
    "count": 8,
@@ -1357,9 +1371,11 @@
    "status": "unchanged"
   },
   "theme-38": {
-   "count": 5,
+   "added": 0,
+   "count": 4,
    "prev_count": 5,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-380": {
    "count": 8,
@@ -1412,9 +1428,11 @@
    "status": "unchanged"
   },
   "theme-392": {
-   "count": 39,
+   "added": 0,
+   "count": 38,
    "prev_count": 39,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-393": {
    "count": 39,
@@ -1502,9 +1520,11 @@
    "status": "unchanged"
   },
   "theme-435": {
-   "count": 16,
+   "added": 0,
+   "count": 15,
    "prev_count": 16,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-436": {
    "count": 73,
@@ -1677,9 +1697,11 @@
    "status": "unchanged"
   },
   "theme-505": {
-   "count": 70,
+   "added": 1,
+   "count": 71,
    "prev_count": 70,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-506": {
    "count": 27,
@@ -1922,9 +1944,11 @@
    "status": "unchanged"
   },
   "theme-590": {
-   "count": 10,
+   "added": 1,
+   "count": 11,
    "prev_count": 10,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-591": {
    "count": 5,
@@ -1975,6 +1999,11 @@
    "count": 14,
    "prev_count": 14,
    "status": "unchanged"
+  },
+  "theme-614": {
+   "count": 7,
+   "prev_count": 0,
+   "status": "initial"
   },
   "theme-62": {
    "count": 11,
@@ -2058,6 +2087,6 @@
   }
  },
  "source": "naver_finance",
- "total_indices": 409,
+ "total_indices": 410,
  "unhealthy": false
 }

@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "져스텍",
+   "symbol": "153890"
+  },
+  {
+   "isin": null,
    "name": "케이뱅크",
    "symbol": "279570"
   },
