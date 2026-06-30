@@ -420,3 +420,12 @@
 {"date": "2026-06-29", "index": "theme-276", "name": "클라우드 컴퓨팅", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "012510", "name": "더존비즈온"}], "count": 35}
 {"date": "2026-06-29", "index": "theme-136", "name": "소매유통", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "057050", "name": "현대홈쇼핑"}], "count": 19}
 {"date": "2026-06-29", "index": "theme-614", "name": "S7(삼성전자/SK하이닉스 등)", "category": "theme", "type": "initial", "added": ["000660", "005930", "005935", "009150", "028260", "032830", "402340"], "removed": [], "count": 7}
+{"date": "2026-06-30", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 2165}
+{"date": "2026-06-30", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "475040", "name": "스트라드비젼"}], "removed": [{"symbol": "230360", "name": "에코마케팅"}], "count": 1775}
+{"date": "2026-06-30", "index": "sector-270", "name": "자동차부품", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 154}
+{"date": "2026-06-30", "index": "sector-287", "name": "소프트웨어", "category": "sector", "type": "change", "added": [{"symbol": "475040", "name": "스트라드비젼"}], "removed": [], "count": 73}
+{"date": "2026-06-30", "index": "sector-274", "name": "섬유,의류,신발,호화품", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "230360", "name": "에코마케팅"}], "count": 80}
+{"date": "2026-06-30", "index": "theme-362", "name": "자율주행차", "category": "theme", "type": "change", "added": [{"symbol": "475040", "name": "스트라드비젼"}], "removed": [], "count": 60}
+{"date": "2026-06-30", "index": "theme-571", "name": "밸류업(25년 기업가치 제고계획 발표)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 84}
+{"date": "2026-06-30", "index": "theme-27", "name": "자동차부품", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 144}
+{"date": "2026-06-30", "index": "theme-590", "name": "2026 상반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "475040", "name": "스트라드비젼"}], "removed": [], "count": 12}

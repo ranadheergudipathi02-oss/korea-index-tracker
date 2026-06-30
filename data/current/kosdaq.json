@@ -5729,11 +5729,6 @@
   },
   {
    "isin": null,
-   "name": "에코마케팅",
-   "symbol": "230360"
-  },
-  {
-   "isin": null,
    "name": "와이씨",
    "symbol": "232140"
   },
@@ -7379,7 +7374,7 @@
   },
   {
    "isin": null,
-   "name": "공구우먼",
+   "name": "나인앤컴퍼니",
    "symbol": "366030"
   },
   {
@@ -8486,6 +8481,11 @@
    "isin": null,
    "name": "신한제13호스팩",
    "symbol": "474930"
+  },
+  {
+   "isin": null,
+   "name": "스트라드비젼",
+   "symbol": "475040"
   },
   {
    "isin": null,

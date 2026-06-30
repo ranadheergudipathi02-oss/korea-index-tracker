@@ -1744,11 +1744,6 @@
   },
   {
    "isin": null,
-   "name": "일정실업",
-   "symbol": "008500"
-  },
-  {
-   "isin": null,
    "name": "윌비스",
    "symbol": "008600"
   },
@@ -5484,7 +5479,7 @@
   },
   {
    "isin": null,
-   "name": "KODEX 200미국채혼합",
+   "name": "KODEX 200미국채혼합50",
    "symbol": "284430"
   },
   {

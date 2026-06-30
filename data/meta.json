@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 12,
+  "changed": 9,
   "error": 0,
   "guarded": 0,
-  "initial": 1,
-  "unchanged": 397
+  "initial": 0,
+  "unchanged": 401
  },
- "detect_date": "2026-06-29",
- "duration_sec": 469.8,
- "finished_kst": "2026-06-29T16:37:51.357562+09:00",
- "last_run_kst": "2026-06-29T16:30:01.559971+09:00",
+ "detect_date": "2026-06-30",
+ "duration_sec": 446.1,
+ "finished_kst": "2026-06-30T16:37:27.493047+09:00",
+ "last_run_kst": "2026-06-30T16:30:01.378847+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -319,15 +319,15 @@
   "kosdaq": {
    "added": 1,
    "count": 1775,
-   "prev_count": 1774,
-   "removed": 0,
+   "prev_count": 1775,
+   "removed": 1,
    "status": "changed"
   },
   "kospi": {
    "added": 0,
-   "count": 2166,
-   "prev_count": 2168,
-   "removed": 2,
+   "count": 2165,
+   "prev_count": 2166,
+   "removed": 1,
    "status": "changed"
   },
   "kospi-100": {
@@ -341,11 +341,9 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "added": 0,
    "count": 1245,
-   "prev_count": 1247,
-   "removed": 2,
-   "status": "changed"
+   "prev_count": 1245,
+   "status": "unchanged"
   },
   "sector-261": {
    "count": 171,
@@ -393,9 +391,11 @@
    "status": "unchanged"
   },
   "sector-270": {
-   "count": 155,
+   "added": 0,
+   "count": 154,
    "prev_count": 155,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-271": {
    "count": 13,
@@ -413,9 +413,11 @@
    "status": "unchanged"
   },
   "sector-274": {
-   "count": 81,
+   "added": 0,
+   "count": 80,
    "prev_count": 81,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-275": {
    "count": 1,
@@ -478,9 +480,11 @@
    "status": "unchanged"
   },
   "sector-287": {
-   "count": 72,
+   "added": 1,
+   "count": 73,
    "prev_count": 72,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-288": {
    "count": 12,
@@ -538,11 +542,9 @@
    "status": "unchanged"
   },
   "sector-299": {
-   "added": 1,
    "count": 103,
-   "prev_count": 102,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 103,
+   "status": "unchanged"
   },
   "sector-300": {
    "count": 16,
@@ -825,11 +827,9 @@
    "status": "unchanged"
   },
   "theme-136": {
-   "added": 0,
    "count": 19,
-   "prev_count": 20,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 19,
+   "status": "unchanged"
   },
   "theme-139": {
    "count": 23,
@@ -1107,9 +1107,11 @@
    "status": "unchanged"
   },
   "theme-27": {
-   "count": 145,
+   "added": 0,
+   "count": 144,
    "prev_count": 145,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-270": {
    "count": 32,
@@ -1122,11 +1124,9 @@
    "status": "unchanged"
   },
   "theme-276": {
-   "added": 0,
    "count": 35,
-   "prev_count": 36,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 35,
+   "status": "unchanged"
   },
   "theme-279": {
    "count": 62,
@@ -1284,11 +1284,9 @@
    "status": "unchanged"
   },
   "theme-33": {
-   "added": 0,
    "count": 37,
-   "prev_count": 38,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 37,
+   "status": "unchanged"
   },
   "theme-330": {
    "count": 8,
@@ -1341,9 +1339,11 @@
    "status": "unchanged"
   },
   "theme-362": {
-   "count": 59,
+   "added": 1,
+   "count": 60,
    "prev_count": 59,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-373": {
    "count": 54,
@@ -1371,11 +1371,9 @@
    "status": "unchanged"
   },
   "theme-38": {
-   "added": 0,
    "count": 4,
-   "prev_count": 5,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 4,
+   "status": "unchanged"
   },
   "theme-380": {
    "count": 8,
@@ -1428,11 +1426,9 @@
    "status": "unchanged"
   },
   "theme-392": {
-   "added": 0,
    "count": 38,
-   "prev_count": 39,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 38,
+   "status": "unchanged"
   },
   "theme-393": {
    "count": 39,
@@ -1520,11 +1516,9 @@
    "status": "unchanged"
   },
   "theme-435": {
-   "added": 0,
    "count": 15,
-   "prev_count": 16,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 15,
+   "status": "unchanged"
   },
   "theme-436": {
    "count": 73,
@@ -1697,11 +1691,9 @@
    "status": "unchanged"
   },
   "theme-505": {
-   "added": 1,
    "count": 71,
-   "prev_count": 70,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 71,
+   "status": "unchanged"
   },
   "theme-506": {
    "count": 27,
@@ -1879,9 +1871,11 @@
    "status": "unchanged"
   },
   "theme-571": {
-   "count": 85,
+   "added": 0,
+   "count": 84,
    "prev_count": 85,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-575": {
    "count": 5,
@@ -1945,8 +1939,8 @@
   },
   "theme-590": {
    "added": 1,
-   "count": 11,
-   "prev_count": 10,
+   "count": 12,
+   "prev_count": 11,
    "removed": 0,
    "status": "changed"
   },
@@ -2002,8 +1996,8 @@
   },
   "theme-614": {
    "count": 7,
-   "prev_count": 0,
-   "status": "initial"
+   "prev_count": 7,
+   "status": "unchanged"
   },
   "theme-62": {
    "count": 11,
