@@ -429,3 +429,13 @@
 {"date": "2026-06-30", "index": "theme-571", "name": "밸류업(25년 기업가치 제고계획 발표)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 84}
 {"date": "2026-06-30", "index": "theme-27", "name": "자동차부품", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "008500", "name": "일정실업"}], "count": 144}
 {"date": "2026-06-30", "index": "theme-590", "name": "2026 상반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "475040", "name": "스트라드비젼"}], "removed": [], "count": 12}
+{"date": "2026-07-03", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "032980", "name": "바이온"}, {"symbol": "101390", "name": "아이엠"}, {"symbol": "106520", "name": "노블엠앤비"}, {"symbol": "209640", "name": "와이제이링크"}, {"symbol": "227100", "name": "프로브잇"}], "count": 1770}
+{"date": "2026-07-03", "index": "sector-292", "name": "핸드셋", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "101390", "name": "아이엠"}], "count": 57}
+{"date": "2026-07-03", "index": "sector-282", "name": "전자장비와기기", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "106520", "name": "노블엠앤비"}], "count": 100}
+{"date": "2026-07-03", "index": "sector-291", "name": "조선", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "032980", "name": "바이온"}], "count": 30}
+{"date": "2026-07-03", "index": "sector-279", "name": "건설", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "227100", "name": "프로브잇"}], "count": 76}
+{"date": "2026-07-03", "index": "theme-111", "name": "지주사", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 126}
+{"date": "2026-07-03", "index": "theme-127", "name": "영상콘텐츠", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 35}
+{"date": "2026-07-03", "index": "theme-128", "name": "엔터테인먼트", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 31}
+{"date": "2026-07-03", "index": "theme-48", "name": "영화", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 12}
+{"date": "2026-07-03", "index": "theme-232", "name": "미디어(방송/신문)", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 12}

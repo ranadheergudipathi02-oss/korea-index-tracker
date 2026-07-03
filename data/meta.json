@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 9,
-  "error": 0,
-  "guarded": 0,
+  "changed": 10,
+  "error": 1,
+  "guarded": 1,
   "initial": 0,
-  "unchanged": 401
+  "unchanged": 398
  },
- "detect_date": "2026-06-30",
- "duration_sec": 446.1,
- "finished_kst": "2026-06-30T16:37:27.493047+09:00",
- "last_run_kst": "2026-06-30T16:30:01.378847+09:00",
+ "detect_date": "2026-07-03",
+ "duration_sec": 531.9,
+ "finished_kst": "2026-07-03T13:46:07.719618+09:00",
+ "last_run_kst": "2026-07-03T13:37:15.809187+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,18 +317,16 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "added": 1,
-   "count": 1775,
+   "added": 0,
+   "count": 1770,
    "prev_count": 1775,
-   "removed": 1,
+   "removed": 5,
    "status": "changed"
   },
   "kospi": {
-   "added": 0,
    "count": 2165,
-   "prev_count": 2166,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 2165,
+   "status": "unchanged"
   },
   "kospi-100": {
    "count": 99,
@@ -391,11 +389,9 @@
    "status": "unchanged"
   },
   "sector-270": {
-   "added": 0,
    "count": 154,
-   "prev_count": 155,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 154,
+   "status": "unchanged"
   },
   "sector-271": {
    "count": 13,
@@ -413,11 +409,9 @@
    "status": "unchanged"
   },
   "sector-274": {
-   "added": 0,
    "count": 80,
-   "prev_count": 81,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 80,
+   "status": "unchanged"
   },
   "sector-275": {
    "count": 1,
@@ -440,9 +434,11 @@
    "status": "unchanged"
   },
   "sector-279": {
-   "count": 77,
+   "added": 0,
+   "count": 76,
    "prev_count": 77,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-280": {
    "count": 30,
@@ -455,9 +451,11 @@
    "status": "unchanged"
   },
   "sector-282": {
-   "count": 101,
+   "added": 0,
+   "count": 100,
    "prev_count": 101,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-283": {
    "count": 68,
@@ -480,11 +478,9 @@
    "status": "unchanged"
   },
   "sector-287": {
-   "added": 1,
    "count": 73,
-   "prev_count": 72,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 73,
+   "status": "unchanged"
   },
   "sector-288": {
    "count": 12,
@@ -502,14 +498,18 @@
    "status": "unchanged"
   },
   "sector-291": {
-   "count": 31,
+   "added": 0,
+   "count": 30,
    "prev_count": 31,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-292": {
-   "count": 58,
+   "added": 0,
+   "count": 57,
    "prev_count": 58,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-293": {
    "count": 21,
@@ -767,9 +767,11 @@
    "status": "unchanged"
   },
   "theme-111": {
-   "count": 125,
+   "added": 1,
+   "count": 126,
    "prev_count": 125,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-112": {
    "count": 12,
@@ -812,14 +814,18 @@
    "status": "unchanged"
   },
   "theme-127": {
-   "count": 34,
+   "added": 1,
+   "count": 35,
    "prev_count": 34,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-128": {
-   "count": 30,
+   "added": 1,
+   "count": 31,
    "prev_count": 30,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-13": {
    "count": 24,
@@ -1062,9 +1068,11 @@
    "status": "unchanged"
   },
   "theme-232": {
-   "count": 11,
+   "added": 1,
+   "count": 12,
    "prev_count": 11,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-234": {
    "count": 19,
@@ -1107,11 +1115,9 @@
    "status": "unchanged"
   },
   "theme-27": {
-   "added": 0,
    "count": 144,
-   "prev_count": 145,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 144,
+   "status": "unchanged"
   },
   "theme-270": {
    "count": 32,
@@ -1339,11 +1345,9 @@
    "status": "unchanged"
   },
   "theme-362": {
-   "added": 1,
    "count": 60,
-   "prev_count": 59,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 60,
+   "status": "unchanged"
   },
   "theme-373": {
    "count": 54,
@@ -1606,9 +1610,11 @@
    "status": "unchanged"
   },
   "theme-48": {
-   "count": 11,
+   "added": 1,
+   "count": 12,
    "prev_count": 11,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-480": {
    "count": 48,
@@ -1841,9 +1847,8 @@
    "status": "unchanged"
   },
   "theme-560": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (ConnectionError(MaxRetryError(\\'HTTPSConnectionPool(host=\\\\\\'finance.naver.com\\\\\\', port=443): Max retries exceeded with url: /sise/sise_group_detail.naver?type=theme&no=560&page=1 (Caused by NameResolutionError(\"HTTPSConnection(host=\\\\\\'finance.naver.com\\\\\\', port=443): Failed to resolve \\\\\\'finance.naver.com\\\\\\' ([Errno 11001] getaddrinfo failed)\"))\\'))): https://finance.naver.com/sise/sise_group_detail.naver?type=theme&no=560&page=1')",
+   "status": "error"
   },
   "theme-563": {
    "count": 4,
@@ -1871,11 +1876,9 @@
    "status": "unchanged"
   },
   "theme-571": {
-   "added": 0,
    "count": 84,
-   "prev_count": 85,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 84,
+   "status": "unchanged"
   },
   "theme-575": {
    "count": 5,
@@ -1907,11 +1910,6 @@
    "prev_count": 25,
    "status": "unchanged"
   },
-  "theme-583": {
-   "count": 36,
-   "prev_count": 36,
-   "status": "unchanged"
-  },
   "theme-584": {
    "count": 14,
    "prev_count": 14,
@@ -1938,11 +1936,9 @@
    "status": "unchanged"
   },
   "theme-590": {
-   "added": 1,
    "count": 12,
-   "prev_count": 11,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 12,
+   "status": "unchanged"
   },
   "theme-591": {
    "count": 5,
@@ -1998,6 +1994,12 @@
    "count": 7,
    "prev_count": 7,
    "status": "unchanged"
+  },
+  "theme-615": {
+   "count": 0,
+   "prev_count": 0,
+   "reason": "empty fetch",
+   "status": "guarded"
   },
   "theme-62": {
    "count": 11,
