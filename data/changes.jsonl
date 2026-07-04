@@ -439,3 +439,4 @@
 {"date": "2026-07-03", "index": "theme-128", "name": "엔터테인먼트", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 31}
 {"date": "2026-07-03", "index": "theme-48", "name": "영화", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 12}
 {"date": "2026-07-03", "index": "theme-232", "name": "미디어(방송/신문)", "category": "theme", "type": "change", "added": [{"symbol": "036420", "name": "콘텐트리중앙"}], "removed": [], "count": 12}
+{"date": "2026-07-04", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "209640", "name": "와이제이링크"}], "removed": [], "count": 1771}
