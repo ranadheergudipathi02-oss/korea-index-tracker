@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 1,
+  "changed": 0,
   "error": 0,
   "guarded": 1,
   "initial": 0,
-  "unchanged": 408
+  "unchanged": 409
  },
- "detect_date": "2026-07-04",
- "duration_sec": 451.0,
- "finished_kst": "2026-07-04T16:37:33.335217+09:00",
- "last_run_kst": "2026-07-04T16:30:02.292777+09:00",
+ "detect_date": "2026-07-05",
+ "duration_sec": 453.9,
+ "finished_kst": "2026-07-05T16:37:35.995507+09:00",
+ "last_run_kst": "2026-07-05T16:30:02.136228+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,11 +317,9 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "added": 1,
    "count": 1771,
-   "prev_count": 1770,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 1771,
+   "status": "unchanged"
   },
   "kospi": {
    "count": 2165,
