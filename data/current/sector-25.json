@@ -1309,7 +1309,7 @@
   },
   {
    "isin": null,
-   "name": "KODEX 200미국채혼합",
+   "name": "KODEX 200미국채혼합50",
    "symbol": "284430"
   },
   {
@@ -4744,11 +4744,6 @@
   },
   {
    "isin": null,
-   "name": "삼성 인버스 2X WTI원유 선물 ETN",
-   "symbol": "530036"
-  },
-  {
-   "isin": null,
    "name": "삼성 레버리지 금 선물 ETN(H)",
    "symbol": "530055"
   },
@@ -5389,6 +5384,21 @@
   },
   {
    "isin": null,
+   "name": "한투 솔랙티브레버리지금선물 ETN",
+   "symbol": "570125"
+  },
+  {
+   "isin": null,
+   "name": "한투 솔랙티브인버스2X금선물 ETN",
+   "symbol": "570126"
+  },
+  {
+   "isin": null,
+   "name": "한투 인버스2X코스피200선물 ETN",
+   "symbol": "570127"
+  },
+  {
+   "isin": null,
    "name": "KB Wise 분할매매 ETN",
    "symbol": "580010"
   },
@@ -5646,6 +5656,16 @@
    "isin": null,
    "name": "KB 인버스 2X KOSPI 200 선물 ETN B",
    "symbol": "580088"
+  },
+  {
+   "isin": null,
+   "name": "KB 솔랙티브 레버리지 금 선물 ETN",
+   "symbol": "580089"
+  },
+  {
+   "isin": null,
+   "name": "KB 솔랙티브 인버스 2X 금 선물 ETN",
+   "symbol": "580090"
   },
   {
    "isin": null,
@@ -6006,6 +6026,21 @@
    "isin": null,
    "name": "메리츠 인버스 2X 은 선물 ETN(H)",
    "symbol": "610101"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 솔랙티브 금 선물 ETN(H)",
+   "symbol": "610102"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 솔랙티브 레버리지 금 선물 ETN(H)",
+   "symbol": "610103"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
+   "symbol": "610104"
   },
   {
    "isin": null,

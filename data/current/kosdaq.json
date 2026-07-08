@@ -5229,11 +5229,6 @@
   },
   {
    "isin": null,
-   "name": "아크솔루션스",
-   "symbol": "203690"
-  },
-  {
-   "isin": null,
    "name": "그리티",
    "symbol": "204020"
   },
@@ -5571,11 +5566,6 @@
    "isin": null,
    "name": "팬젠",
    "symbol": "222110"
-  },
-  {
-   "isin": null,
-   "name": "NPX",
-   "symbol": "222160"
   },
   {
    "isin": null,
@@ -7346,6 +7336,11 @@
    "isin": null,
    "name": "하이딥",
    "symbol": "365590"
+  },
+  {
+   "isin": null,
+   "name": "레몬헬스케어",
+   "symbol": "365660"
   },
   {
    "isin": null,
