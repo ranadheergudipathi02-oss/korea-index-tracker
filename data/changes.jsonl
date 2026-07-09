@@ -449,3 +449,6 @@
 {"date": "2026-07-08", "index": "sector-278", "name": "반도체와반도체장비", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "222160", "name": "NPX"}], "count": 170}
 {"date": "2026-07-08", "index": "theme-149", "name": "원격진료/비대면진료(U-Healthcare)", "category": "theme", "type": "change", "added": [{"symbol": "365660", "name": "레몬헬스케어"}], "removed": [], "count": 22}
 {"date": "2026-07-08", "index": "theme-615", "name": "2026 하반기 신규상장", "category": "theme", "type": "initial", "added": ["365660"], "removed": [], "count": 1}
+{"date": "2026-07-09", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "483420", "name": "ACE 애플밸류체인액티브"}], "count": 2171}
+{"date": "2026-07-09", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "483420", "name": "ACE 애플밸류체인액티브"}], "count": 1251}
+{"date": "2026-07-09", "index": "theme-27", "name": "자동차부품", "category": "theme", "type": "change", "added": [{"symbol": "193250", "name": "링크드"}, {"symbol": "198080", "name": "캐프"}], "removed": [], "count": 146}

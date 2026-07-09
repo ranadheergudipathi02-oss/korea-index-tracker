@@ -599,8 +599,18 @@
   },
   {
    "isin": null,
+   "name": "링크드",
+   "symbol": "193250"
+  },
+  {
+   "isin": null,
    "name": "웹스",
    "symbol": "196700"
+  },
+  {
+   "isin": null,
+   "name": "캐프",
+   "symbol": "198080"
   },
   {
    "isin": null,

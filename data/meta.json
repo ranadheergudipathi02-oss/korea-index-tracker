@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 5,
+  "changed": 3,
   "error": 0,
   "guarded": 0,
-  "initial": 1,
-  "unchanged": 404
+  "initial": 0,
+  "unchanged": 407
  },
- "detect_date": "2026-07-08",
- "duration_sec": 461.5,
- "finished_kst": "2026-07-08T16:37:43.195608+09:00",
- "last_run_kst": "2026-07-08T16:30:01.689150+09:00",
+ "detect_date": "2026-07-09",
+ "duration_sec": 497.6,
+ "finished_kst": "2026-07-09T16:38:19.075292+09:00",
+ "last_run_kst": "2026-07-09T16:30:01.463409+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,16 +317,16 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "added": 0,
    "count": 1770,
-   "prev_count": 1771,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 1770,
+   "status": "unchanged"
   },
   "kospi": {
-   "count": 2172,
+   "added": 0,
+   "count": 2171,
    "prev_count": 2172,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "kospi-100": {
    "count": 99,
@@ -339,9 +339,9 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "added": 8,
-   "count": 1252,
-   "prev_count": 1245,
+   "added": 0,
+   "count": 1251,
+   "prev_count": 1252,
    "removed": 1,
    "status": "changed"
   },
@@ -431,11 +431,9 @@
    "status": "unchanged"
   },
   "sector-278": {
-   "added": 0,
    "count": 170,
-   "prev_count": 171,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 170,
+   "status": "unchanged"
   },
   "sector-279": {
    "count": 76,
@@ -528,11 +526,9 @@
    "status": "unchanged"
   },
   "sector-297": {
-   "added": 0,
    "count": 11,
-   "prev_count": 12,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 11,
+   "status": "unchanged"
   },
   "sector-298": {
    "count": 20,
@@ -855,11 +851,9 @@
    "status": "unchanged"
   },
   "theme-149": {
-   "added": 1,
    "count": 22,
-   "prev_count": 21,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 22,
+   "status": "unchanged"
   },
   "theme-151": {
    "count": 21,
@@ -1107,9 +1101,11 @@
    "status": "unchanged"
   },
   "theme-27": {
-   "count": 144,
+   "added": 2,
+   "count": 146,
    "prev_count": 144,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-270": {
    "count": 32,
@@ -1988,8 +1984,8 @@
   },
   "theme-615": {
    "count": 1,
-   "prev_count": 0,
-   "status": "initial"
+   "prev_count": 1,
+   "status": "unchanged"
   },
   "theme-62": {
    "count": 11,
