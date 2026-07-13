@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 0,
+  "changed": 5,
   "error": 0,
   "guarded": 0,
   "initial": 0,
-  "unchanged": 410
+  "unchanged": 405
  },
- "detect_date": "2026-07-12",
- "duration_sec": 484.4,
- "finished_kst": "2026-07-12T16:38:06.154625+09:00",
- "last_run_kst": "2026-07-12T16:30:01.788153+09:00",
+ "detect_date": "2026-07-13",
+ "duration_sec": 459.2,
+ "finished_kst": "2026-07-13T16:37:41.218870+09:00",
+ "last_run_kst": "2026-07-13T16:30:02.005513+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,9 +317,11 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "count": 1770,
+   "added": 1,
+   "count": 1771,
    "prev_count": 1770,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "kospi": {
    "count": 2171,
@@ -442,9 +444,11 @@
    "status": "unchanged"
   },
   "sector-281": {
-   "count": 101,
+   "added": 1,
+   "count": 102,
    "prev_count": 101,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-282": {
    "count": 100,
@@ -927,14 +931,18 @@
    "status": "unchanged"
   },
   "theme-174": {
-   "count": 14,
+   "added": 1,
+   "count": 15,
    "prev_count": 14,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-175": {
-   "count": 88,
+   "added": 1,
+   "count": 89,
    "prev_count": 88,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-176": {
    "count": 9,
@@ -1977,9 +1985,11 @@
    "status": "unchanged"
   },
   "theme-615": {
-   "count": 1,
+   "added": 1,
+   "count": 2,
    "prev_count": 1,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-62": {
    "count": 11,

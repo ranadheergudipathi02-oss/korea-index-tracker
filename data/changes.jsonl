@@ -452,3 +452,8 @@
 {"date": "2026-07-09", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "483420", "name": "ACE 애플밸류체인액티브"}], "count": 2171}
 {"date": "2026-07-09", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "483420", "name": "ACE 애플밸류체인액티브"}], "count": 1251}
 {"date": "2026-07-09", "index": "theme-27", "name": "자동차부품", "category": "theme", "type": "change", "added": [{"symbol": "193250", "name": "링크드"}, {"symbol": "198080", "name": "캐프"}], "removed": [], "count": 146}
+{"date": "2026-07-13", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 1771}
+{"date": "2026-07-13", "index": "sector-281", "name": "건강관리장비와용품", "category": "sector", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 102}
+{"date": "2026-07-13", "index": "theme-174", "name": "치아 치료(임플란트 등)", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 15}
+{"date": "2026-07-13", "index": "theme-175", "name": "의료기기", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 89}
+{"date": "2026-07-13", "index": "theme-615", "name": "2026 하반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 2}
