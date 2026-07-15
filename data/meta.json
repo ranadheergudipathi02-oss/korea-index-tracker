@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 0,
+  "changed": 3,
   "error": 0,
   "guarded": 0,
   "initial": 0,
-  "unchanged": 410
+  "unchanged": 407
  },
- "detect_date": "2026-07-14",
- "duration_sec": 475.3,
- "finished_kst": "2026-07-14T16:37:57.597019+09:00",
- "last_run_kst": "2026-07-14T16:30:02.328118+09:00",
+ "detect_date": "2026-07-15",
+ "duration_sec": 460.6,
+ "finished_kst": "2026-07-15T16:37:44.889373+09:00",
+ "last_run_kst": "2026-07-15T16:30:04.285954+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -322,9 +322,11 @@
    "status": "unchanged"
   },
   "kospi": {
-   "count": 2171,
+   "added": 2,
+   "count": 2172,
    "prev_count": 2171,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "kospi-100": {
    "count": 99,
@@ -337,9 +339,11 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "count": 1251,
+   "added": 2,
+   "count": 1253,
    "prev_count": 1251,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-261": {
    "count": 171,
@@ -472,9 +476,11 @@
    "status": "unchanged"
   },
   "sector-287": {
-   "count": 73,
+   "added": 0,
+   "count": 72,
    "prev_count": 73,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "sector-288": {
    "count": 12,

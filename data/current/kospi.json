@@ -2174,11 +2174,6 @@
   },
   {
    "isin": null,
-   "name": "더존비즈온",
-   "symbol": "012510"
-  },
-  {
-   "isin": null,
    "name": "경인양행",
    "symbol": "012610"
   },
@@ -10626,6 +10621,16 @@
    "isin": null,
    "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
    "symbol": "610104"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 레버리지 국채30년 ETN B",
+   "symbol": "610105"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 인버스 국채30년 ETN B",
+   "symbol": "610106"
   },
   {
    "isin": null,

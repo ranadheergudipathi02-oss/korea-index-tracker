@@ -457,3 +457,6 @@
 {"date": "2026-07-13", "index": "theme-174", "name": "치아 치료(임플란트 등)", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 15}
 {"date": "2026-07-13", "index": "theme-175", "name": "의료기기", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 89}
 {"date": "2026-07-13", "index": "theme-615", "name": "2026 하반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "387690", "name": "레메디"}], "removed": [], "count": 2}
+{"date": "2026-07-15", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "610105", "name": "메리츠 레버리지 국채30년 ETN B"}, {"symbol": "610106", "name": "메리츠 인버스 국채30년 ETN B"}], "removed": [{"symbol": "012510", "name": "더존비즈온"}], "count": 2172}
+{"date": "2026-07-15", "index": "sector-287", "name": "소프트웨어", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "012510", "name": "더존비즈온"}], "count": 72}
+{"date": "2026-07-15", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [{"symbol": "610105", "name": "메리츠 레버리지 국채30년 ETN B"}, {"symbol": "610106", "name": "메리츠 인버스 국채30년 ETN B"}], "removed": [], "count": 1253}
