@@ -6,10 +6,10 @@
   "initial": 0,
   "unchanged": 407
  },
- "detect_date": "2026-07-15",
- "duration_sec": 460.6,
- "finished_kst": "2026-07-15T16:37:44.889373+09:00",
- "last_run_kst": "2026-07-15T16:30:04.285954+09:00",
+ "detect_date": "2026-07-16",
+ "duration_sec": 451.7,
+ "finished_kst": "2026-07-16T16:37:33.667075+09:00",
+ "last_run_kst": "2026-07-16T16:30:01.969824+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -322,9 +322,9 @@
    "status": "unchanged"
   },
   "kospi": {
-   "added": 2,
-   "count": 2172,
-   "prev_count": 2171,
+   "added": 0,
+   "count": 2171,
+   "prev_count": 2172,
    "removed": 1,
    "status": "changed"
   },
@@ -339,10 +339,10 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "added": 2,
-   "count": 1253,
-   "prev_count": 1251,
-   "removed": 0,
+   "added": 0,
+   "count": 1252,
+   "prev_count": 1253,
+   "removed": 1,
    "status": "changed"
   },
   "sector-261": {
@@ -476,11 +476,9 @@
    "status": "unchanged"
   },
   "sector-287": {
-   "added": 0,
    "count": 72,
-   "prev_count": 73,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 72,
+   "status": "unchanged"
   },
   "sector-288": {
    "count": 12,
@@ -1823,9 +1821,11 @@
    "status": "unchanged"
   },
   "theme-559": {
-   "count": 13,
+   "added": 1,
+   "count": 14,
    "prev_count": 13,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-56": {
    "count": 7,

@@ -460,3 +460,6 @@
 {"date": "2026-07-15", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "610105", "name": "메리츠 레버리지 국채30년 ETN B"}, {"symbol": "610106", "name": "메리츠 인버스 국채30년 ETN B"}], "removed": [{"symbol": "012510", "name": "더존비즈온"}], "count": 2172}
 {"date": "2026-07-15", "index": "sector-287", "name": "소프트웨어", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "012510", "name": "더존비즈온"}], "count": 72}
 {"date": "2026-07-15", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [{"symbol": "610105", "name": "메리츠 레버리지 국채30년 ETN B"}, {"symbol": "610106", "name": "메리츠 인버스 국채30년 ETN B"}], "removed": [], "count": 1253}
+{"date": "2026-07-16", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "424460", "name": "HANARO 글로벌워터MSCI(합성)"}], "count": 2171}
+{"date": "2026-07-16", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "424460", "name": "HANARO 글로벌워터MSCI(합성)"}], "count": 1252}
+{"date": "2026-07-16", "index": "theme-559", "name": "고체산화물 연료전지(SOFC)", "category": "theme", "type": "change", "added": [{"symbol": "178320", "name": "서진시스템"}], "removed": [], "count": 14}
