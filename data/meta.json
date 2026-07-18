@@ -6,10 +6,10 @@
   "initial": 0,
   "unchanged": 410
  },
- "detect_date": "2026-07-17",
- "duration_sec": 441.2,
- "finished_kst": "2026-07-17T16:37:22.806462+09:00",
- "last_run_kst": "2026-07-17T16:30:01.611261+09:00",
+ "detect_date": "2026-07-18",
+ "duration_sec": 479.9,
+ "finished_kst": "2026-07-18T16:38:01.983054+09:00",
+ "last_run_kst": "2026-07-18T16:30:02.110106+09:00",
  "results": {
   "group-100": {
    "count": 12,
