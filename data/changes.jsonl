@@ -463,3 +463,12 @@
 {"date": "2026-07-16", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "424460", "name": "HANARO 글로벌워터MSCI(합성)"}], "count": 2171}
 {"date": "2026-07-16", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "424460", "name": "HANARO 글로벌워터MSCI(합성)"}], "count": 1252}
 {"date": "2026-07-16", "index": "theme-559", "name": "고체산화물 연료전지(SOFC)", "category": "theme", "type": "change", "added": [{"symbol": "178320", "name": "서진시스템"}], "removed": [], "count": 14}
+{"date": "2026-07-20", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "057050", "name": "현대홈쇼핑"}], "count": 2170}
+{"date": "2026-07-20", "index": "sector-308", "name": "인터넷과카탈로그소매", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "057050", "name": "현대홈쇼핑"}], "count": 6}
+{"date": "2026-07-20", "index": "group-107", "name": "현대백화점", "category": "group", "type": "change", "added": [], "removed": [{"symbol": "057050", "name": "현대홈쇼핑"}], "count": 12}
+{"date": "2026-07-20", "index": "theme-108", "name": "백신/진단시약/방역(신종플루, AI 등)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 42}
+{"date": "2026-07-20", "index": "theme-436", "name": "코로나19(진단/치료제/백신 개발 등)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 72}
+{"date": "2026-07-20", "index": "theme-376", "name": "유전자 치료제/분석", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 40}
+{"date": "2026-07-20", "index": "theme-448", "name": "코로나19(치료제/백신 개발 등)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 28}
+{"date": "2026-07-20", "index": "theme-493", "name": "mRNA(메신저 리보핵산)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 13}
+{"date": "2026-07-20", "index": "theme-421", "name": "日제품 불매운동(수혜)", "category": "theme", "type": "change", "added": [{"symbol": "024940", "name": "PN풍년"}], "removed": [], "count": 21}
