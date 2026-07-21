@@ -1,15 +1,15 @@
 {
  "counts": {
-  "changed": 9,
+  "changed": 2,
   "error": 0,
   "guarded": 0,
   "initial": 0,
-  "unchanged": 401
+  "unchanged": 408
  },
- "detect_date": "2026-07-20",
- "duration_sec": 458.1,
- "finished_kst": "2026-07-20T16:37:40.283359+09:00",
- "last_run_kst": "2026-07-20T16:30:02.200560+09:00",
+ "detect_date": "2026-07-21",
+ "duration_sec": 458.9,
+ "finished_kst": "2026-07-21T16:37:41.137672+09:00",
+ "last_run_kst": "2026-07-21T16:30:02.225706+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -37,11 +37,9 @@
    "status": "unchanged"
   },
   "group-107": {
-   "added": 0,
    "count": 12,
-   "prev_count": 13,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 12,
+   "status": "unchanged"
   },
   "group-108": {
    "count": 3,
@@ -324,11 +322,9 @@
    "status": "unchanged"
   },
   "kospi": {
-   "added": 0,
    "count": 2170,
-   "prev_count": 2171,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 2170,
+   "status": "unchanged"
   },
   "kospi-100": {
    "count": 99,
@@ -581,11 +577,9 @@
    "status": "unchanged"
   },
   "sector-308": {
-   "added": 0,
    "count": 6,
-   "prev_count": 7,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 6,
+   "status": "unchanged"
   },
   "sector-309": {
    "count": 16,
@@ -753,11 +747,9 @@
    "status": "unchanged"
   },
   "theme-108": {
-   "added": 0,
    "count": 42,
-   "prev_count": 43,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 42,
+   "status": "unchanged"
   },
   "theme-110": {
    "count": 91,
@@ -1295,9 +1287,11 @@
    "status": "unchanged"
   },
   "theme-332": {
-   "count": 13,
+   "added": 0,
+   "count": 12,
    "prev_count": 13,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-335": {
    "count": 21,
@@ -1335,9 +1329,11 @@
    "status": "unchanged"
   },
   "theme-362": {
-   "count": 60,
+   "added": 0,
+   "count": 59,
    "prev_count": 60,
-   "status": "unchanged"
+   "removed": 1,
+   "status": "changed"
   },
   "theme-373": {
    "count": 54,
@@ -1345,11 +1341,9 @@
    "status": "unchanged"
   },
   "theme-376": {
-   "added": 0,
    "count": 40,
-   "prev_count": 41,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 40,
+   "status": "unchanged"
   },
   "theme-377": {
    "count": 50,
@@ -1497,11 +1491,9 @@
    "status": "unchanged"
   },
   "theme-421": {
-   "added": 1,
    "count": 21,
-   "prev_count": 20,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 21,
+   "status": "unchanged"
   },
   "theme-422": {
    "count": 19,
@@ -1519,11 +1511,9 @@
    "status": "unchanged"
   },
   "theme-436": {
-   "added": 0,
    "count": 72,
-   "prev_count": 73,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 72,
+   "status": "unchanged"
   },
   "theme-44": {
    "count": 15,
@@ -1546,11 +1536,9 @@
    "status": "unchanged"
   },
   "theme-448": {
-   "added": 0,
    "count": 28,
-   "prev_count": 29,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 28,
+   "status": "unchanged"
   },
   "theme-449": {
    "count": 3,
@@ -1658,11 +1646,9 @@
    "status": "unchanged"
   },
   "theme-493": {
-   "added": 0,
    "count": 13,
-   "prev_count": 14,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 13,
+   "status": "unchanged"
   },
   "theme-496": {
    "count": 15,

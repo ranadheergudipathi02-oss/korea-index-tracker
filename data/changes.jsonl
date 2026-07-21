@@ -472,3 +472,5 @@
 {"date": "2026-07-20", "index": "theme-448", "name": "코로나19(치료제/백신 개발 등)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 28}
 {"date": "2026-07-20", "index": "theme-493", "name": "mRNA(메신저 리보핵산)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "011000", "name": "진원생명과학"}], "count": 13}
 {"date": "2026-07-20", "index": "theme-421", "name": "日제품 불매운동(수혜)", "category": "theme", "type": "change", "added": [{"symbol": "024940", "name": "PN풍년"}], "removed": [], "count": 21}
+{"date": "2026-07-21", "index": "theme-332", "name": "스마트카(SMART CAR)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "087260", "name": "모바일어플라이언스"}], "count": 12}
+{"date": "2026-07-21", "index": "theme-362", "name": "자율주행차", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "087260", "name": "모바일어플라이언스"}], "count": 59}
