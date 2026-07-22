@@ -474,3 +474,5 @@
 {"date": "2026-07-20", "index": "theme-421", "name": "日제품 불매운동(수혜)", "category": "theme", "type": "change", "added": [{"symbol": "024940", "name": "PN풍년"}], "removed": [], "count": 21}
 {"date": "2026-07-21", "index": "theme-332", "name": "스마트카(SMART CAR)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "087260", "name": "모바일어플라이언스"}], "count": 12}
 {"date": "2026-07-21", "index": "theme-362", "name": "자율주행차", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "087260", "name": "모바일어플라이언스"}], "count": 59}
+{"date": "2026-07-22", "index": "theme-113", "name": "음식료업종", "category": "theme", "type": "change", "added": [{"symbol": "065150", "name": "대산F&B"}], "removed": [], "count": 66}
+{"date": "2026-07-22", "index": "theme-290", "name": "스포츠행사 수혜(올림픽, 월드컵 등)", "category": "theme", "type": "change", "added": [{"symbol": "065150", "name": "대산F&B"}], "removed": [], "count": 10}

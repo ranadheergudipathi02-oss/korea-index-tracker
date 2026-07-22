@@ -6,10 +6,10 @@
   "initial": 0,
   "unchanged": 408
  },
- "detect_date": "2026-07-21",
- "duration_sec": 458.9,
- "finished_kst": "2026-07-21T16:37:41.137672+09:00",
- "last_run_kst": "2026-07-21T16:30:02.225706+09:00",
+ "detect_date": "2026-07-22",
+ "duration_sec": 451.5,
+ "finished_kst": "2026-07-22T16:37:33.269032+09:00",
+ "last_run_kst": "2026-07-22T16:30:01.817544+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -767,9 +767,11 @@
    "status": "unchanged"
   },
   "theme-113": {
-   "count": 65,
+   "added": 1,
+   "count": 66,
    "prev_count": 65,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-119": {
    "count": 20,
@@ -1157,9 +1159,11 @@
    "status": "unchanged"
   },
   "theme-290": {
-   "count": 9,
+   "added": 1,
+   "count": 10,
    "prev_count": 9,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-297": {
    "count": 14,
@@ -1287,11 +1291,9 @@
    "status": "unchanged"
   },
   "theme-332": {
-   "added": 0,
    "count": 12,
-   "prev_count": 13,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 12,
+   "status": "unchanged"
   },
   "theme-335": {
    "count": 21,
@@ -1329,11 +1331,9 @@
    "status": "unchanged"
   },
   "theme-362": {
-   "added": 0,
    "count": 59,
-   "prev_count": 60,
-   "removed": 1,
-   "status": "changed"
+   "prev_count": 59,
+   "status": "unchanged"
   },
   "theme-373": {
    "count": 54,
