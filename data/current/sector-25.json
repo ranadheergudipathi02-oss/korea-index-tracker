@@ -4774,16 +4774,6 @@
   },
   {
    "isin": null,
-   "name": "삼성 금 선물 ETN(H)",
-   "symbol": "530083"
-  },
-  {
-   "isin": null,
-   "name": "삼성 인버스 금 선물 ETN(H)",
-   "symbol": "530084"
-  },
-  {
-   "isin": null,
    "name": "삼성 은 선물 ETN(H)",
    "symbol": "530089"
   },
@@ -4999,16 +4989,6 @@
   },
   {
    "isin": null,
-   "name": "N2 레버리지 금 선물 ETN(H)",
-   "symbol": "550062"
-  },
-  {
-   "isin": null,
-   "name": "N2 인버스 레버리지 금 선물 ETN(H)",
-   "symbol": "550063"
-  },
-  {
-   "isin": null,
    "name": "N2 레버리지 은 선물 ETN(H)",
    "symbol": "550064"
   },
@@ -5131,16 +5111,6 @@
    "isin": null,
    "name": "한투 나스닥100 ETN",
    "symbol": "570051"
-  },
-  {
-   "isin": null,
-   "name": "한투 레버리지금선물 ETN",
-   "symbol": "570059"
-  },
-  {
-   "isin": null,
-   "name": "한투 인버스2X금선물 ETN",
-   "symbol": "570060"
   },
   {
    "isin": null,
@@ -5391,16 +5361,6 @@
    "isin": null,
    "name": "KB Wise 분할매매 ETN",
    "symbol": "580010"
-  },
-  {
-   "isin": null,
-   "name": "KB 레버리지 금 선물 ETN(H)",
-   "symbol": "580022"
-  },
-  {
-   "isin": null,
-   "name": "KB 인버스 2X 금 선물 ETN(H)",
-   "symbol": "580023"
   },
   {
    "isin": null,
@@ -5681,16 +5641,6 @@
    "isin": null,
    "name": "메리츠 인버스 국채30년 ETN",
    "symbol": "610009"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 레버리지 금 선물 ETN(H)",
-   "symbol": "610012"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 인버스 2X 금 선물 ETN(H)",
-   "symbol": "610013"
   },
   {
    "isin": null,
