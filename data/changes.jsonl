@@ -484,3 +484,7 @@
 {"date": "2026-07-23", "index": "theme-127", "name": "영상콘텐츠", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "206560", "name": "덱스터"}], "count": 34}
 {"date": "2026-07-23", "index": "theme-352", "name": "가상현실(VR)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "206560", "name": "덱스터"}], "count": 26}
 {"date": "2026-07-23", "index": "theme-289", "name": "증강현실(AR)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "206560", "name": "덱스터"}], "count": 20}
+{"date": "2026-07-24", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "060240", "name": "스타코링크"}], "count": 1770}
+{"date": "2026-07-24", "index": "sector-291", "name": "조선", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "060240", "name": "스타코링크"}], "count": 29}
+{"date": "2026-07-24", "index": "theme-480", "name": "메타버스(Metaverse)", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "044380", "name": "주연테크"}], "count": 46}
+{"date": "2026-07-24", "index": "theme-9", "name": "OLED(유기 발광 다이오드)", "category": "theme", "type": "change", "added": [{"symbol": "049120", "name": "파인디앤씨"}], "removed": [], "count": 79}
