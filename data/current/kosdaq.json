@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "덕양에너젠",
+   "symbol": "0001A0"
+  },
+  {
+   "isin": null,
    "name": "삼천당제약",
    "symbol": "000250"
   },
@@ -14,13 +19,93 @@
   },
   {
    "isin": null,
+   "name": "엔비알모션",
+   "symbol": "0004V0"
+  },
+  {
+   "isin": null,
+   "name": "디비금융제14호스팩",
+   "symbol": "0004Y0"
+  },
+  {
+   "isin": null,
+   "name": "아크릴",
+   "symbol": "0007C0"
+  },
+  {
+   "isin": null,
+   "name": "인벤테라",
+   "symbol": "0007J0"
+  },
+  {
+   "isin": null,
+   "name": "에스엔시스",
+   "symbol": "0008Z0"
+  },
+  {
+   "isin": null,
+   "name": "에임드바이오",
+   "symbol": "0009K0"
+  },
+  {
+   "isin": null,
    "name": "신라섬유",
    "symbol": "001000"
   },
   {
    "isin": null,
+   "name": "보원케미칼",
+   "symbol": "0010F0"
+  },
+  {
+   "isin": null,
+   "name": "와이즈플래닛컴퍼니",
+   "symbol": "0010S0"
+  },
+  {
+   "isin": null,
+   "name": "제이피아이헬스케어",
+   "symbol": "0010V0"
+  },
+  {
+   "isin": null,
+   "name": "액스비스",
+   "symbol": "0011A0"
+  },
+  {
+   "isin": null,
+   "name": "채비",
+   "symbol": "0011T0"
+  },
+  {
+   "isin": null,
+   "name": "삼진식품",
+   "symbol": "0013V0"
+  },
+  {
+   "isin": null,
    "name": "안국약품",
    "symbol": "001540"
+  },
+  {
+   "isin": null,
+   "name": "그린광학",
+   "symbol": "0015G0"
+  },
+  {
+   "isin": null,
+   "name": "아로마티카",
+   "symbol": "0015N0"
+  },
+  {
+   "isin": null,
+   "name": "페스카로",
+   "symbol": "0015S0"
+  },
+  {
+   "isin": null,
+   "name": "세미티에스",
+   "symbol": "0017J0"
   },
   {
    "isin": null,
@@ -69,8 +154,38 @@
   },
   {
    "isin": null,
+   "name": "KB제32호스팩",
+   "symbol": "0037T0"
+  },
+  {
+   "isin": null,
    "name": "에이스침대",
    "symbol": "003800"
+  },
+  {
+   "isin": null,
+   "name": "매드업",
+   "symbol": "0039P0"
+  },
+  {
+   "isin": null,
+   "name": "교보18호스팩",
+   "symbol": "0041B0"
+  },
+  {
+   "isin": null,
+   "name": "엘에스스팩1호",
+   "symbol": "0041J0"
+  },
+  {
+   "isin": null,
+   "name": "하나35호스팩",
+   "symbol": "0041L0"
+  },
+  {
+   "isin": null,
+   "name": "삼성스팩10호",
+   "symbol": "0044K0"
   },
   {
    "isin": null,
@@ -96,6 +211,11 @@
    "isin": null,
    "name": "동진쎄미켐",
    "symbol": "005290"
+  },
+  {
+   "isin": null,
+   "name": "엔에이치스팩32호",
+   "symbol": "0054V0"
   },
   {
    "isin": null,
@@ -139,6 +259,11 @@
   },
   {
    "isin": null,
+   "name": "비엔케이제3호스팩",
+   "symbol": "0068Y0"
+  },
+  {
+   "isin": null,
    "name": "보성파워텍",
    "symbol": "006910"
   },
@@ -146,6 +271,16 @@
    "isin": null,
    "name": "모헨즈",
    "symbol": "006920"
+  },
+  {
+   "isin": null,
+   "name": "삼성스팩11호",
+   "symbol": "0071M0"
+  },
+  {
+   "isin": null,
+   "name": "KB제33호스팩",
+   "symbol": "0072Z0"
   },
   {
    "isin": null,
@@ -189,8 +324,8 @@
   },
   {
    "isin": null,
-   "name": "원풍물산",
-   "symbol": "008290"
+   "name": "카나프테라퓨틱스",
+   "symbol": "0082N0"
   },
   {
    "isin": null,
@@ -209,8 +344,28 @@
   },
   {
    "isin": null,
+   "name": "메리츠제1호스팩",
+   "symbol": "0088D0"
+  },
+  {
+   "isin": null,
+   "name": "메쥬",
+   "symbol": "0088M0"
+  },
+  {
+   "isin": null,
+   "name": "신영스팩11호",
+   "symbol": "0091W0"
+  },
+  {
+   "isin": null,
    "name": "삼아제약",
    "symbol": "009300"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋비전스팩8호",
+   "symbol": "0093G0"
   },
   {
    "isin": null,
@@ -224,6 +379,16 @@
   },
   {
    "isin": null,
+   "name": "삼성스팩12호",
+   "symbol": "0096B0"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋비전스팩9호",
+   "symbol": "0096D0"
+  },
+  {
+   "isin": null,
    "name": "이렘",
    "symbol": "009730"
   },
@@ -234,8 +399,33 @@
   },
   {
    "isin": null,
+   "name": "미래에셋비전스팩10호",
+   "symbol": "0097F0"
+  },
+  {
+   "isin": null,
+   "name": "교보19호스팩",
+   "symbol": "0098T0"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋비전스팩11호",
+   "symbol": "0099W0"
+  },
+  {
+   "isin": null,
+   "name": "IBKS제25호스팩",
+   "symbol": "0099X0"
+  },
+  {
+   "isin": null,
    "name": "대한광통신",
    "symbol": "010170"
+  },
+  {
+   "isin": null,
+   "name": "하나36호스팩",
+   "symbol": "0101C0"
   },
   {
    "isin": null,
@@ -251,6 +441,11 @@
    "isin": null,
    "name": "오리콤",
    "symbol": "010470"
+  },
+  {
+   "isin": null,
+   "name": "유진스팩12호",
+   "symbol": "0105P0"
   },
   {
    "isin": null,
@@ -276,6 +471,16 @@
    "isin": null,
    "name": "세보엠이씨",
    "symbol": "011560"
+  },
+  {
+   "isin": null,
+   "name": "삼성스팩13호",
+   "symbol": "0115H0"
+  },
+  {
+   "isin": null,
+   "name": "피스피스스튜디오",
+   "symbol": "0117P0"
   },
   {
    "isin": null,
@@ -309,8 +514,23 @@
   },
   {
    "isin": null,
+   "name": "신한제18호스팩",
+   "symbol": "0129K0"
+  },
+  {
+   "isin": null,
    "name": "하이록코리아",
    "symbol": "013030"
+  },
+  {
+   "isin": null,
+   "name": "신한제17호스팩",
+   "symbol": "0130D0"
+  },
+  {
+   "isin": null,
+   "name": "엔에이치스팩33호",
+   "symbol": "0130H0"
   },
   {
    "isin": null,
@@ -319,8 +539,23 @@
   },
   {
    "isin": null,
+   "name": "키움히어로제2호스팩",
+   "symbol": "0131D0"
+  },
+  {
+   "isin": null,
+   "name": "교보20호스팩",
+   "symbol": "0132G0"
+  },
+  {
+   "isin": null,
    "name": "아진산업",
    "symbol": "013310"
+  },
+  {
+   "isin": null,
+   "name": "대신밸런스제20호스팩",
+   "symbol": "0134X0"
   },
   {
    "isin": null,
@@ -379,6 +614,16 @@
   },
   {
    "isin": null,
+   "name": "해치텍",
+   "symbol": "0155E0"
+  },
+  {
+   "isin": null,
+   "name": "에이치엘지노믹스",
+   "symbol": "0156T0"
+  },
+  {
+   "isin": null,
    "name": "코콤",
    "symbol": "015710"
   },
@@ -394,8 +639,23 @@
   },
   {
    "isin": null,
+   "name": "네오사피엔스",
+   "symbol": "0161M0"
+  },
+  {
+   "isin": null,
    "name": "SGC E&C",
    "symbol": "016250"
+  },
+  {
+   "isin": null,
+   "name": "한국제16호스팩",
+   "symbol": "0164H0"
+  },
+  {
+   "isin": null,
+   "name": "메리츠제2호스팩",
+   "symbol": "0165X0"
   },
   {
    "isin": null,
@@ -504,7 +764,7 @@
   },
   {
    "isin": null,
-   "name": "플루토스",
+   "name": "GMI벤처",
    "symbol": "019570"
   },
   {
@@ -519,8 +779,18 @@
   },
   {
    "isin": null,
+   "name": "엔에이치스팩34호",
+   "symbol": "0197V0"
+  },
+  {
+   "isin": null,
    "name": "에너토크",
    "symbol": "019990"
+  },
+  {
+   "isin": null,
+   "name": "한국제17호스팩",
+   "symbol": "0200G0"
   },
   {
    "isin": null,
@@ -536,6 +806,11 @@
    "isin": null,
    "name": "시공테크",
    "symbol": "020710"
+  },
+  {
+   "isin": null,
+   "name": "KB제34호스팩",
+   "symbol": "0209J0"
   },
   {
    "isin": null,
@@ -566,6 +841,11 @@
    "isin": null,
    "name": "메이슨캐피탈",
    "symbol": "021880"
+  },
+  {
+   "isin": null,
+   "name": "네오뷰",
+   "symbol": "0218L0"
   },
   {
    "isin": null,
@@ -1004,6 +1284,11 @@
   },
   {
    "isin": null,
+   "name": "해성산업1우",
+   "symbol": "03481K"
+  },
+  {
+   "isin": null,
    "name": "조아제약",
    "symbol": "034940"
   },
@@ -1244,7 +1529,7 @@
   },
   {
    "isin": null,
-   "name": "루멘스",
+   "name": "루멘스바이오스",
    "symbol": "038060"
   },
   {
@@ -1539,11 +1824,6 @@
   },
   {
    "isin": null,
-   "name": "더테크놀로지",
-   "symbol": "043090"
-  },
-  {
-   "isin": null,
    "name": "알파AI",
    "symbol": "043100"
   },
@@ -1686,11 +1966,6 @@
    "isin": null,
    "name": "코아시아",
    "symbol": "045970"
-  },
-  {
-   "isin": null,
-   "name": "코다코",
-   "symbol": "046070"
   },
   {
    "isin": null,
@@ -2834,7 +3109,7 @@
   },
   {
    "isin": null,
-   "name": "엑스큐어",
+   "name": "퀀텀레일",
    "symbol": "070300"
   },
   {
@@ -3146,11 +3421,6 @@
    "isin": null,
    "name": "젬백스",
    "symbol": "082270"
-  },
-  {
-   "isin": null,
-   "name": "코스나인",
-   "symbol": "082660"
   },
   {
    "isin": null,
@@ -3689,11 +3959,6 @@
   },
   {
    "isin": null,
-   "name": "알에프세미",
-   "symbol": "096610"
-  },
-  {
-   "isin": null,
    "name": "에스코넥",
    "symbol": "096630"
   },
@@ -4219,11 +4484,6 @@
   },
   {
    "isin": null,
-   "name": "코이즈",
-   "symbol": "121850"
-  },
-  {
-   "isin": null,
    "name": "에스디시스템",
    "symbol": "121890"
   },
@@ -4264,7 +4524,7 @@
   },
   {
    "isin": null,
-   "name": "알엔티엑스",
+   "name": "MSDI",
    "symbol": "123010"
   },
   {
@@ -5524,7 +5784,7 @@
   },
   {
    "isin": null,
-   "name": "핸디소프트",
+   "name": "폴라리스AI핸디",
    "symbol": "220180"
   },
   {
@@ -5859,7 +6119,7 @@
   },
   {
    "isin": null,
-   "name": "나무기술",
+   "name": "나무AX",
    "symbol": "242040"
   },
   {
@@ -6194,11 +6454,6 @@
   },
   {
    "isin": null,
-   "name": "시스웍",
-   "symbol": "269620"
-  },
-  {
-   "isin": null,
    "name": "앱튼",
    "symbol": "270520"
   },
@@ -6304,12 +6559,17 @@
   },
   {
    "isin": null,
+   "name": "기도산업",
+   "symbol": "282620"
+  },
+  {
+   "isin": null,
    "name": "금양그린파워",
    "symbol": "282720"
   },
   {
    "isin": null,
-   "name": "코윈테크",
+   "name": "코윈로보틱스",
    "symbol": "282880"
   },
   {
@@ -6424,7 +6684,7 @@
   },
   {
    "isin": null,
-   "name": "소룩스",
+   "name": "아리바이오홀딩스",
    "symbol": "290690"
   },
   {
@@ -6439,12 +6699,12 @@
   },
   {
    "isin": null,
-   "name": "엔피",
+   "name": "컴투스엔",
    "symbol": "291230"
   },
   {
    "isin": null,
-   "name": "압타머사이언스",
+   "name": "츌립앤사이언스",
    "symbol": "291650"
   },
   {
@@ -6546,11 +6806,6 @@
    "isin": null,
    "name": "셀리드",
    "symbol": "299660"
-  },
-  {
-   "isin": null,
-   "name": "위지윅스튜디오",
-   "symbol": "299900"
   },
   {
    "isin": null,
@@ -7549,6 +7804,11 @@
   },
   {
    "isin": null,
+   "name": "스카이랩스",
+   "symbol": "386380"
+  },
+  {
+   "isin": null,
    "name": "파인메딕스",
    "symbol": "387570"
   },
@@ -7669,7 +7929,7 @@
   },
   {
    "isin": null,
-   "name": "세아메카닉스",
+   "name": "HT로보틱스",
    "symbol": "396300"
   },
   {
@@ -7806,6 +8066,11 @@
    "isin": null,
    "name": "나노팀",
    "symbol": "417010"
+  },
+  {
+   "isin": null,
+   "name": "니어스랩",
+   "symbol": "417030"
   },
   {
    "isin": null,
@@ -8319,11 +8584,6 @@
   },
   {
    "isin": null,
-   "name": "교보15호스팩",
-   "symbol": "465320"
-  },
-  {
-   "isin": null,
    "name": "인스피언",
    "symbol": "465480"
   },
@@ -8341,11 +8601,6 @@
    "isin": null,
    "name": "키움히어로제1호스팩",
    "symbol": "466690"
-  },
-  {
-   "isin": null,
-   "name": "IBKS제23호스팩",
-   "symbol": "467930"
   },
   {
    "isin": null,
@@ -8374,28 +8629,13 @@
   },
   {
    "isin": null,
-   "name": "하나30호스팩",
-   "symbol": "469880"
-  },
-  {
-   "isin": null,
    "name": "하나31호스팩",
    "symbol": "469900"
   },
   {
    "isin": null,
-   "name": "대신밸런스제17호스팩",
-   "symbol": "471050"
-  },
-  {
-   "isin": null,
    "name": "셀로맥스사이언스",
    "symbol": "471820"
-  },
-  {
-   "isin": null,
-   "name": "신영스팩10호",
-   "symbol": "472220"
   },
   {
    "isin": null,
@@ -8624,6 +8864,11 @@
   },
   {
    "isin": null,
+   "name": "딜리셔스",
+   "symbol": "483350"
+  },
+  {
+   "isin": null,
    "name": "도우인시스",
    "symbol": "484120"
   },
@@ -8656,6 +8901,11 @@
    "isin": null,
    "name": "신한제14호스팩",
    "symbol": "487360"
+  },
+  {
+   "isin": null,
+   "name": "케이앤에스아이앤씨",
+   "symbol": "487400"
   },
   {
    "isin": null,
@@ -8851,6 +9101,11 @@
    "isin": null,
    "name": "테라뷰",
    "symbol": "950250"
+  },
+  {
+   "isin": null,
+   "name": "인제니아테라퓨틱스(Reg.S)",
+   "symbol": "950260"
   }
  ],
  "name": "KOSDAQ (Composite, all listed)"

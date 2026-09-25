@@ -14,6 +14,11 @@
   },
   {
    "isin": null,
+   "name": "그린광학",
+   "symbol": "0015G0"
+  },
+  {
+   "isin": null,
    "name": "혜인",
    "symbol": "003010"
   },
@@ -309,6 +314,11 @@
   },
   {
    "isin": null,
+   "name": "니어스랩",
+   "symbol": "417030"
+  },
+  {
+   "isin": null,
    "name": "삼현",
    "symbol": "437730"
   },
@@ -331,6 +341,11 @@
    "isin": null,
    "name": "엠앤씨솔루션",
    "symbol": "484870"
+  },
+  {
+   "isin": null,
+   "name": "케이앤에스아이앤씨",
+   "symbol": "487400"
   }
  ],
  "name": "방위산업/전쟁 및 테러"

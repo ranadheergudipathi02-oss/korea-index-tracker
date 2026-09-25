@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "채비",
+   "symbol": "0011T0"
+  },
+  {
+   "isin": null,
    "name": "삼화콘덴서",
    "symbol": "001820"
   },
@@ -26,6 +31,11 @@
    "isin": null,
    "name": "삼성SDI우",
    "symbol": "006405"
+  },
+  {
+   "isin": null,
+   "name": "에스테크엠",
+   "symbol": "0070X0"
   },
   {
    "isin": null,
@@ -211,11 +221,6 @@
    "isin": null,
    "name": "천보",
    "symbol": "278280"
-  },
-  {
-   "isin": null,
-   "name": "이노벡스",
-   "symbol": "279060"
   },
   {
    "isin": null,

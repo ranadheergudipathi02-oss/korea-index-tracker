@@ -4,13 +4,83 @@
  "members": [
   {
    "isin": null,
+   "name": "와이즈플래닛컴퍼니",
+   "symbol": "0010S0"
+  },
+  {
+   "isin": null,
+   "name": "매드업",
+   "symbol": "0039P0"
+  },
+  {
+   "isin": null,
+   "name": "해치텍",
+   "symbol": "0155E0"
+  },
+  {
+   "isin": null,
+   "name": "에이치엘지노믹스",
+   "symbol": "0156T0"
+  },
+  {
+   "isin": null,
+   "name": "네오사피엔스",
+   "symbol": "0161M0"
+  },
+  {
+   "isin": null,
+   "name": "엔에이치스팩34호",
+   "symbol": "0197V0"
+  },
+  {
+   "isin": null,
+   "name": "한국제17호스팩",
+   "symbol": "0200G0"
+  },
+  {
+   "isin": null,
+   "name": "KB제34호스팩",
+   "symbol": "0209J0"
+  },
+  {
+   "isin": null,
+   "name": "기도산업",
+   "symbol": "282620"
+  },
+  {
+   "isin": null,
    "name": "레몬헬스케어",
    "symbol": "365660"
   },
   {
    "isin": null,
+   "name": "스카이랩스",
+   "symbol": "386380"
+  },
+  {
+   "isin": null,
    "name": "레메디",
    "symbol": "387690"
+  },
+  {
+   "isin": null,
+   "name": "니어스랩",
+   "symbol": "417030"
+  },
+  {
+   "isin": null,
+   "name": "딜리셔스",
+   "symbol": "483350"
+  },
+  {
+   "isin": null,
+   "name": "케이앤에스아이앤씨",
+   "symbol": "487400"
+  },
+  {
+   "isin": null,
+   "name": "인제니아테라퓨틱스(Reg.S)",
+   "symbol": "950260"
   }
  ],
  "name": "2026 하반기 신규상장"

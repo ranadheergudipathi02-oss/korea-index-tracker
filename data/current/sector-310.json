@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "매드업",
+   "symbol": "0039P0"
+  },
+  {
+   "isin": null,
    "name": "오리콤",
    "symbol": "010470"
   },
@@ -64,7 +69,7 @@
   },
   {
    "isin": null,
-   "name": "엔피",
+   "name": "컴투스엔",
    "symbol": "291230"
   },
   {

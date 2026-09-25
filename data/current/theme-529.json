@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "아크릴",
+   "symbol": "0007C0"
+  },
+  {
+   "isin": null,
    "name": "이수페타시스",
    "symbol": "007660"
   },
@@ -14,7 +19,7 @@
   },
   {
    "isin": null,
-   "name": "한글과컴퓨터",
+   "name": "한컴",
    "symbol": "030520"
   },
   {

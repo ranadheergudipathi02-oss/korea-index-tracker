@@ -9,6 +9,16 @@
   },
   {
    "isin": null,
+   "name": "엔비알모션",
+   "symbol": "0004V0"
+  },
+  {
+   "isin": null,
+   "name": "보원케미칼",
+   "symbol": "0010F0"
+  },
+  {
+   "isin": null,
    "name": "SG글로벌",
    "symbol": "001380"
   },
@@ -204,7 +214,7 @@
   },
   {
    "isin": null,
-   "name": "동원금속",
+   "name": "동원모빌리티",
    "symbol": "018500"
   },
   {
@@ -709,7 +719,7 @@
   },
   {
    "isin": null,
-   "name": "세아메카닉스",
+   "name": "HT로보틱스",
    "symbol": "396300"
   },
   {

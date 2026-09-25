@@ -9,6 +9,16 @@
   },
   {
    "isin": null,
+   "name": "카나프테라퓨틱스",
+   "symbol": "0082N0"
+  },
+  {
+   "isin": null,
+   "name": "삼양바이오팜",
+   "symbol": "0120G0"
+  },
+  {
+   "isin": null,
    "name": "마크로젠",
    "symbol": "038290"
   },
@@ -106,11 +116,6 @@
    "isin": null,
    "name": "지노믹트리",
    "symbol": "228760"
-  },
-  {
-   "isin": null,
-   "name": "젠큐릭스",
-   "symbol": "229000"
   },
   {
    "isin": null,

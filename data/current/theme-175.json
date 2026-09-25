@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "제이피아이헬스케어",
+   "symbol": "0010V0"
+  },
+  {
+   "isin": null,
    "name": "한독",
    "symbol": "002390"
   },
@@ -26,6 +31,16 @@
    "isin": null,
    "name": "피제이전자",
    "symbol": "006140"
+  },
+  {
+   "isin": null,
+   "name": "메쥬",
+   "symbol": "0088M0"
+  },
+  {
+   "isin": null,
+   "name": "삼양바이오팜",
+   "symbol": "0120G0"
   },
   {
    "isin": null,
@@ -314,6 +329,11 @@
   },
   {
    "isin": null,
+   "name": "동국생명과학",
+   "symbol": "303810"
+  },
+  {
+   "isin": null,
    "name": "바이오다인",
    "symbol": "314930"
   },
@@ -371,6 +391,11 @@
    "isin": null,
    "name": "코어라인소프트",
    "symbol": "384470"
+  },
+  {
+   "isin": null,
+   "name": "스카이랩스",
+   "symbol": "386380"
   },
   {
    "isin": null,

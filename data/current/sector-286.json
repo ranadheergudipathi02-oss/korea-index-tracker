@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "에임드바이오",
+   "symbol": "0009K0"
+  },
+  {
+   "isin": null,
    "name": "오리엔트바이오",
    "symbol": "002630"
   },
@@ -286,6 +291,11 @@
    "isin": null,
    "name": "코오롱티슈진",
    "symbol": "950160"
+  },
+  {
+   "isin": null,
+   "name": "인제니아테라퓨틱스(Reg.S)",
+   "symbol": "950260"
   }
  ],
  "name": "생물공학"

@@ -14,6 +14,11 @@
   },
   {
    "isin": null,
+   "name": "세미티에스",
+   "symbol": "0017J0"
+  },
+  {
+   "isin": null,
    "name": "디아이",
    "symbol": "003160"
   },
@@ -46,6 +51,11 @@
    "isin": null,
    "name": "신성이엔지",
    "symbol": "011930"
+  },
+  {
+   "isin": null,
+   "name": "해치텍",
+   "symbol": "0155E0"
   },
   {
    "isin": null,
@@ -361,11 +371,6 @@
    "isin": null,
    "name": "테스",
    "symbol": "095610"
-  },
-  {
-   "isin": null,
-   "name": "알에프세미",
-   "symbol": "096610"
   },
   {
    "isin": null,

@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "아크릴",
+   "symbol": "0007C0"
+  },
+  {
+   "isin": null,
    "name": "미래아이앤지",
    "symbol": "007120"
   },
@@ -349,7 +354,7 @@
   },
   {
    "isin": null,
-   "name": "나무기술",
+   "name": "나무AX",
    "symbol": "242040"
   },
   {
@@ -571,6 +576,11 @@
    "isin": null,
    "name": "인스피언",
    "symbol": "465480"
+  },
+  {
+   "isin": null,
+   "name": "딜리셔스",
+   "symbol": "483350"
   },
   {
    "isin": null,

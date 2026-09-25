@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "에스엔시스",
+   "symbol": "0008Z0"
+  },
+  {
+   "isin": null,
    "name": "삼미금속",
    "symbol": "012210"
   },
@@ -36,6 +41,11 @@
    "isin": null,
    "name": "동성화인텍",
    "symbol": "033500"
+  },
+  {
+   "isin": null,
+   "name": "제일테크노스",
+   "symbol": "038010"
   },
   {
    "isin": null,

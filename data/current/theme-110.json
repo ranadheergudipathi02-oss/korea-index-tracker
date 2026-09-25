@@ -4,6 +4,21 @@
  "members": [
   {
    "isin": null,
+   "name": "와이즈플래닛컴퍼니",
+   "symbol": "0010S0"
+  },
+  {
+   "isin": null,
+   "name": "아로마티카",
+   "symbol": "0015N0"
+  },
+  {
+   "isin": null,
+   "name": "동성제약",
+   "symbol": "002210"
+  },
+  {
+   "isin": null,
    "name": "국제약품",
    "symbol": "002720"
   },
@@ -219,6 +234,11 @@
   },
   {
    "isin": null,
+   "name": "아이큐어",
+   "symbol": "175250"
+  },
+  {
+   "isin": null,
    "name": "슈피겐코리아",
    "symbol": "192440"
   },
@@ -271,11 +291,6 @@
    "isin": null,
    "name": "디와이디",
    "symbol": "219550"
-  },
-  {
-   "isin": null,
-   "name": "케이엠제약",
-   "symbol": "225430"
   },
   {
    "isin": null,

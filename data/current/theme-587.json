@@ -9,6 +9,11 @@
   },
   {
    "isin": null,
+   "name": "아크릴",
+   "symbol": "0007C0"
+  },
+  {
+   "isin": null,
    "name": "화천기공",
    "symbol": "000850"
   },
@@ -134,6 +139,11 @@
   },
   {
    "isin": null,
+   "name": "코윈로보틱스",
+   "symbol": "282880"
+  },
+  {
+   "isin": null,
    "name": "롯데이노베이트",
    "symbol": "286940"
   },
@@ -189,6 +199,11 @@
   },
   {
    "isin": null,
+   "name": "엔젤로보틱스",
+   "symbol": "455900"
+  },
+  {
+   "isin": null,
    "name": "나우로보틱스",
    "symbol": "459510"
   },
@@ -206,6 +221,11 @@
    "isin": null,
    "name": "씨메스로보틱스",
    "symbol": "475400"
+  },
+  {
+   "isin": null,
+   "name": "마키나락스",
+   "symbol": "477850"
   }
  ],
  "name": "피지컬 AI/휴머노이드 로봇"

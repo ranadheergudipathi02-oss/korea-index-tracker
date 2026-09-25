@@ -49,6 +49,11 @@
   },
   {
    "isin": null,
+   "name": "동성제약",
+   "symbol": "002210"
+  },
+  {
+   "isin": null,
    "name": "한독",
    "symbol": "002390"
   },
@@ -161,6 +166,11 @@
    "isin": null,
    "name": "삼익제약",
    "symbol": "014950"
+  },
+  {
+   "isin": null,
+   "name": "에이치엘지노믹스",
+   "symbol": "0156T0"
   },
   {
    "isin": null,
@@ -299,6 +309,11 @@
   },
   {
    "isin": null,
+   "name": "아이큐어",
+   "symbol": "175250"
+  },
+  {
+   "isin": null,
    "name": "종근당",
    "symbol": "185750"
   },
@@ -374,7 +389,7 @@
   },
   {
    "isin": null,
-   "name": "압타머사이언스",
+   "name": "츌립앤사이언스",
    "symbol": "291650"
   },
   {

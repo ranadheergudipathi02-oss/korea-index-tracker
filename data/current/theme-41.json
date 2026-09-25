@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "액스비스",
+   "symbol": "0011A0"
+  },
+  {
+   "isin": null,
    "name": "삼성전기",
    "symbol": "009150"
   },
@@ -79,7 +84,7 @@
   },
   {
    "isin": null,
-   "name": "알엔티엑스",
+   "name": "MSDI",
    "symbol": "123010"
   },
   {

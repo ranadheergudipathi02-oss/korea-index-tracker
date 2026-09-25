@@ -19,6 +19,11 @@
   },
   {
    "isin": null,
+   "name": "삼진식품",
+   "symbol": "0013V0"
+  },
+  {
+   "isin": null,
    "name": "태원물산",
    "symbol": "001420"
   },
@@ -119,11 +124,6 @@
   },
   {
    "isin": null,
-   "name": "신세계푸드",
-   "symbol": "031440"
-  },
-  {
-   "isin": null,
    "name": "국순당",
    "symbol": "043650"
   },
@@ -146,11 +146,6 @@
    "isin": null,
    "name": "CJ제일제당",
    "symbol": "097950"
-  },
-  {
-   "isin": null,
-   "name": "해태제과식품",
-   "symbol": "101530"
   },
   {
    "isin": null,

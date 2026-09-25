@@ -59,11 +59,6 @@
   },
   {
    "isin": null,
-   "name": "더테크놀로지",
-   "symbol": "043090"
-  },
-  {
-   "isin": null,
    "name": "백금T&A",
    "symbol": "046310"
   },
@@ -266,6 +261,11 @@
    "isin": null,
    "name": "아이씨티케이",
    "symbol": "456010"
+  },
+  {
+   "isin": null,
+   "name": "케이앤에스아이앤씨",
+   "symbol": "487400"
   },
   {
    "isin": null,

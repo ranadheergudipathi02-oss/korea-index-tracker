@@ -54,6 +54,11 @@
   },
   {
    "isin": null,
+   "name": "인벤테라",
+   "symbol": "0007J0"
+  },
+  {
+   "isin": null,
    "name": "JW중외제약",
    "symbol": "001060"
   },
@@ -199,6 +204,11 @@
   },
   {
    "isin": null,
+   "name": "카나프테라퓨틱스",
+   "symbol": "0082N0"
+  },
+  {
+   "isin": null,
    "name": "서흥",
    "symbol": "008490"
   },
@@ -229,6 +239,11 @@
   },
   {
    "isin": null,
+   "name": "삼성에피스홀딩스",
+   "symbol": "0126Z0"
+  },
+  {
+   "isin": null,
    "name": "신일제약",
    "symbol": "012790"
   },
@@ -241,6 +256,11 @@
    "isin": null,
    "name": "삼익제약",
    "symbol": "014950"
+  },
+  {
+   "isin": null,
+   "name": "에이치엘지노믹스",
+   "symbol": "0156T0"
   },
   {
    "isin": null,

@@ -24,11 +24,6 @@
   },
   {
    "isin": null,
-   "name": "신세계푸드",
-   "symbol": "031440"
-  },
-  {
-   "isin": null,
    "name": "롯데관광개발",
    "symbol": "032350"
   },
@@ -86,6 +81,11 @@
    "isin": null,
    "name": "티와이홀딩스",
    "symbol": "363280"
+  },
+  {
+   "isin": null,
+   "name": "티와이홀딩스우",
+   "symbol": "36328K"
   },
   {
    "isin": null,

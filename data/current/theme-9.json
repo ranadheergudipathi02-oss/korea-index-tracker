@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "그린광학",
+   "symbol": "0015G0"
+  },
+  {
+   "isin": null,
    "name": "삼성전자",
    "symbol": "005930"
   },

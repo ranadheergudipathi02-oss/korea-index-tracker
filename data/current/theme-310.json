@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "대신밸류리츠",
+   "symbol": "0030R0"
+  },
+  {
+   "isin": null,
    "name": "이리츠코크렙",
    "symbol": "088260"
   },

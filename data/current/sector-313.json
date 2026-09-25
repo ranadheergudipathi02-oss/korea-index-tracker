@@ -4,12 +4,17 @@
  "members": [
   {
    "isin": null,
+   "name": "덕양에너젠",
+   "symbol": "0001A0"
+  },
+  {
+   "isin": null,
    "name": "중앙에너비스",
    "symbol": "000440"
   },
   {
    "isin": null,
-   "name": "세기상사",
+   "name": "우양피앤엘",
    "symbol": "002420"
   },
   {
@@ -51,6 +56,11 @@
    "isin": null,
    "name": "SK",
    "symbol": "034730"
+  },
+  {
+   "isin": null,
+   "name": "SK우",
+   "symbol": "03473K"
   },
   {
    "isin": null,

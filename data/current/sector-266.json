@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "아로마티카",
+   "symbol": "0015N0"
+  },
+  {
+   "isin": null,
    "name": "아모레퍼시픽홀딩스",
    "symbol": "002790"
   },
@@ -11,6 +16,11 @@
    "isin": null,
    "name": "아모레퍼시픽홀딩스우",
    "symbol": "002795"
+  },
+  {
+   "isin": null,
+   "name": "아모레퍼시픽홀딩스3우C",
+   "symbol": "00279K"
   },
   {
    "isin": null,
@@ -86,11 +96,6 @@
    "isin": null,
    "name": "코디",
    "symbol": "080530"
-  },
-  {
-   "isin": null,
-   "name": "코스나인",
-   "symbol": "082660"
   },
   {
    "isin": null,

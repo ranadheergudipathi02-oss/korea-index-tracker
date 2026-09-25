@@ -24,6 +24,11 @@
   },
   {
    "isin": null,
+   "name": "한화3우B",
+   "symbol": "00088K"
+  },
+  {
+   "isin": null,
    "name": "CJ",
    "symbol": "001040"
   },
@@ -31,6 +36,11 @@
    "isin": null,
    "name": "CJ우",
    "symbol": "001045"
+  },
+  {
+   "isin": null,
+   "name": "CJ4우(전환)",
+   "symbol": "00104K"
   },
   {
    "isin": null,
@@ -74,13 +84,33 @@
   },
   {
    "isin": null,
+   "name": "롯데지주우",
+   "symbol": "00499K"
+  },
+  {
+   "isin": null,
    "name": "현대지에프홀딩스",
    "symbol": "005440"
   },
   {
    "isin": null,
+   "name": "한화머시너리앤서비스홀딩스",
+   "symbol": "0220W0"
+  },
+  {
+   "isin": null,
+   "name": "한화머시너리앤서비스홀딩스3우B",
+   "symbol": "0220WL"
+  },
+  {
+   "isin": null,
    "name": "삼성물산",
    "symbol": "028260"
+  },
+  {
+   "isin": null,
+   "name": "삼성물산우B",
+   "symbol": "02826K"
   },
   {
    "isin": null,

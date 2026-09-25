@@ -9,8 +9,18 @@
   },
   {
    "isin": null,
+   "name": "에임드바이오",
+   "symbol": "0009K0"
+  },
+  {
+   "isin": null,
    "name": "안국약품",
    "symbol": "001540"
+  },
+  {
+   "isin": null,
+   "name": "카나프테라퓨틱스",
+   "symbol": "0082N0"
   },
   {
    "isin": null,
@@ -79,7 +89,7 @@
   },
   {
    "isin": null,
-   "name": "에이비프로바이오",
+   "name": "루트K",
    "symbol": "195990"
   },
   {
@@ -99,7 +109,7 @@
   },
   {
    "isin": null,
-   "name": "압타머사이언스",
+   "name": "츌립앤사이언스",
    "symbol": "291650"
   },
   {

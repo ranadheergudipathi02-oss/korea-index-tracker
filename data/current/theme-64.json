@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "액스비스",
+   "symbol": "0011A0"
+  },
+  {
+   "isin": null,
    "name": "KG케미칼",
    "symbol": "001390"
   },
@@ -76,6 +81,11 @@
    "isin": null,
    "name": "고려아연",
    "symbol": "010130"
+  },
+  {
+   "isin": null,
+   "name": "에스엠벡셀",
+   "symbol": "010580"
   },
   {
    "isin": null,
@@ -359,11 +369,6 @@
   },
   {
    "isin": null,
-   "name": "코이즈",
-   "symbol": "121850"
-  },
-  {
-   "isin": null,
    "name": "코칩",
    "symbol": "126730"
   },
@@ -499,7 +504,7 @@
   },
   {
    "isin": null,
-   "name": "코윈테크",
+   "name": "코윈로보틱스",
    "symbol": "282880"
   },
   {
@@ -521,11 +526,6 @@
    "isin": null,
    "name": "이노메트리",
    "symbol": "302430"
-  },
-  {
-   "isin": null,
-   "name": "에이에프더블류",
-   "symbol": "312610"
   },
   {
    "isin": null,
@@ -614,7 +614,7 @@
   },
   {
    "isin": null,
-   "name": "세아메카닉스",
+   "name": "HT로보틱스",
    "symbol": "396300"
   },
   {

@@ -9,6 +9,11 @@
   },
   {
    "isin": null,
+   "name": "삼진식품",
+   "symbol": "0013V0"
+  },
+  {
+   "isin": null,
    "name": "대상",
    "symbol": "001680"
   },
@@ -386,6 +391,11 @@
    "isin": null,
    "name": "크라운제과",
    "symbol": "264900"
+  },
+  {
+   "isin": null,
+   "name": "크라운제과우",
+   "symbol": "26490K"
   },
   {
    "isin": null,

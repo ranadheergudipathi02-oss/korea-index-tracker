@@ -14,6 +14,11 @@
   },
   {
    "isin": null,
+   "name": "그린광학",
+   "symbol": "0015G0"
+  },
+  {
+   "isin": null,
    "name": "대한항공",
    "symbol": "003490"
   },
@@ -34,7 +39,7 @@
   },
   {
    "isin": null,
-   "name": "한글과컴퓨터",
+   "name": "한컴",
    "symbol": "030520"
   },
   {
@@ -176,6 +181,11 @@
    "isin": null,
    "name": "나라스페이스테크놀로지",
    "symbol": "478340"
+  },
+  {
+   "isin": null,
+   "name": "케이앤에스아이앤씨",
+   "symbol": "487400"
   },
   {
    "isin": null,

@@ -24,6 +24,11 @@
   },
   {
    "isin": null,
+   "name": "보원케미칼",
+   "symbol": "0010F0"
+  },
+  {
+   "isin": null,
    "name": "PKC",
    "symbol": "001340"
   },
@@ -136,11 +141,6 @@
    "isin": null,
    "name": "이수화학",
    "symbol": "005950"
-  },
-  {
-   "isin": null,
-   "name": "카프로",
-   "symbol": "006380"
   },
   {
    "isin": null,
@@ -519,6 +519,11 @@
   },
   {
    "isin": null,
+   "name": "나노솔루션",
+   "symbol": "238540"
+  },
+  {
+   "isin": null,
    "name": "나노씨엠에스",
    "symbol": "247660"
   },
@@ -541,6 +546,11 @@
    "isin": null,
    "name": "SK케미칼",
    "symbol": "285130"
+  },
+  {
+   "isin": null,
+   "name": "SK케미칼우",
+   "symbol": "28513K"
   },
   {
    "isin": null,

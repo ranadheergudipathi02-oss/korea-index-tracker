@@ -4,6 +4,101 @@
  "members": [
   {
    "isin": null,
+   "name": "덕양에너젠",
+   "symbol": "0001A0"
+  },
+  {
+   "isin": null,
+   "name": "엔비알모션",
+   "symbol": "0004V0"
+  },
+  {
+   "isin": null,
+   "name": "인벤테라",
+   "symbol": "0007J0"
+  },
+  {
+   "isin": null,
+   "name": "보원케미칼",
+   "symbol": "0010F0"
+  },
+  {
+   "isin": null,
+   "name": "액스비스",
+   "symbol": "0011A0"
+  },
+  {
+   "isin": null,
+   "name": "채비",
+   "symbol": "0011T0"
+  },
+  {
+   "isin": null,
+   "name": "세미티에스",
+   "symbol": "0017J0"
+  },
+  {
+   "isin": null,
+   "name": "카나프테라퓨틱스",
+   "symbol": "0082N0"
+  },
+  {
+   "isin": null,
+   "name": "메쥬",
+   "symbol": "0088M0"
+  },
+  {
+   "isin": null,
+   "name": "삼성스팩13호",
+   "symbol": "0115H0"
+  },
+  {
+   "isin": null,
+   "name": "피스피스스튜디오",
+   "symbol": "0117P0"
+  },
+  {
+   "isin": null,
+   "name": "신한제18호스팩",
+   "symbol": "0129K0"
+  },
+  {
+   "isin": null,
+   "name": "신한제17호스팩",
+   "symbol": "0130D0"
+  },
+  {
+   "isin": null,
+   "name": "엔에이치스팩33호",
+   "symbol": "0130H0"
+  },
+  {
+   "isin": null,
+   "name": "키움히어로제2호스팩",
+   "symbol": "0131D0"
+  },
+  {
+   "isin": null,
+   "name": "교보20호스팩",
+   "symbol": "0132G0"
+  },
+  {
+   "isin": null,
+   "name": "대신밸런스제20호스팩",
+   "symbol": "0134X0"
+  },
+  {
+   "isin": null,
+   "name": "한국제16호스팩",
+   "symbol": "0164H0"
+  },
+  {
+   "isin": null,
+   "name": "메리츠제2호스팩",
+   "symbol": "0165X0"
+  },
+  {
+   "isin": null,
    "name": "져스텍",
    "symbol": "153890"
   },

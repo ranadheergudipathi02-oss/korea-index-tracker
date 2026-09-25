@@ -379,6 +379,11 @@
   },
   {
    "isin": null,
+   "name": "삼성에피스홀딩스",
+   "symbol": "0126Z0"
+  },
+  {
+   "isin": null,
    "name": "에스원",
    "symbol": "012750"
   },
@@ -431,6 +436,11 @@
    "isin": null,
    "name": "코웨이",
    "symbol": "021240"
+  },
+  {
+   "isin": null,
+   "name": "한화머시너리앤서비스홀딩스",
+   "symbol": "0220W0"
   },
   {
    "isin": null,

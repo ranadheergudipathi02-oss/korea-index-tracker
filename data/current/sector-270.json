@@ -29,6 +29,11 @@
   },
   {
    "isin": null,
+   "name": "페스카로",
+   "symbol": "0015S0"
+  },
+  {
+   "isin": null,
    "name": "케이비아이동국실업",
    "symbol": "001620"
   },
@@ -234,7 +239,7 @@
   },
   {
    "isin": null,
-   "name": "동원금속",
+   "name": "동원모빌리티",
    "symbol": "018500"
   },
   {
@@ -386,11 +391,6 @@
    "isin": null,
    "name": "피에이치에이",
    "symbol": "043370"
-  },
-  {
-   "isin": null,
-   "name": "코다코",
-   "symbol": "046070"
   },
   {
    "isin": null,

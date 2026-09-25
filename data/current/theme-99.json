@@ -4,6 +4,11 @@
  "members": [
   {
    "isin": null,
+   "name": "매드업",
+   "symbol": "0039P0"
+  },
+  {
+   "isin": null,
    "name": "퍼스텍",
    "symbol": "010820"
   },
@@ -11,6 +16,11 @@
    "isin": null,
    "name": "한화에어로스페이스",
    "symbol": "012450"
+  },
+  {
+   "isin": null,
+   "name": "네오사피엔스",
+   "symbol": "0161M0"
   },
   {
    "isin": null,
@@ -129,7 +139,7 @@
   },
   {
    "isin": null,
-   "name": "휴먼테크놀로지",
+   "name": "아고스",
    "symbol": "175140"
   },
   {
@@ -176,6 +186,11 @@
    "isin": null,
    "name": "에브리봇",
    "symbol": "270660"
+  },
+  {
+   "isin": null,
+   "name": "코윈로보틱스",
+   "symbol": "282880"
   },
   {
    "isin": null,
