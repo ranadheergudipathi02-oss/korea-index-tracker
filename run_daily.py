@@ -10,6 +10,7 @@ Design rules honored:
   - Exit non-zero only on a hard fetch failure (so Task Scheduler shows the error).
 """
 import krx_env  # utf-8 console + .env
+import os
 import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
@@ -27,7 +28,11 @@ def git(*args, check=False):
     # The scheduled task runs as user Boss, but the repo is owned by "Saila's PC";
     # without this, git refuses with "dubious ownership".
     safe = ["-c", "safe.directory=" + ROOT.replace("\\", "/")]
-    r = subprocess.run(["git", *safe, *args], cwd=ROOT, capture_output=True, text=True)
+    # Never wait on a credential prompt: the task has no desktop to show one on,
+    # so a missing login used to hang push until the task's time limit.
+    env = dict(os.environ, GIT_TERMINAL_PROMPT="0", GCM_INTERACTIVE="never")
+    r = subprocess.run(["git", *safe, *args], cwd=ROOT, capture_output=True, text=True,
+                       env=env, timeout=120)
     out = (r.stdout + r.stderr).strip()
     if out:
         print(f"[git {' '.join(args)}] {out}")
