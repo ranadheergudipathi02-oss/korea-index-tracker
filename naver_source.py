@@ -1,16 +1,19 @@
 """
-Naver Finance data layer for the Korea Index Tracker.
+Naver data layer for the Korea Index Tracker.
 
-All access is anonymous HTTP against finance.naver.com. Pages are EUC-KR(cp949);
-lists are paginated. Every fetch goes through `_get` (throttle + retry + backoff).
+Naver retired the old finance.naver.com/sise HTML pages in Sep 2026 (entryJongmok
+returns 410 Gone; market/group pages 302 to the stock.naver.com JS app). This module
+now reads the JSON APIs behind the new site. Group numbers (upjong/theme/group `no`)
+are unchanged, so existing index ids stay valid.
 
-Public API:
-  list_groups(gtype)            -> [{"no","name"}]            (sectors/themes/groups)
+All access is anonymous HTTP. Every fetch goes through `_get` (throttle + retry + backoff).
+
+Public API (unchanged):
+  list_groups(gtype)            -> [{"no","name"}]            (upjong/theme/group)
   fetch_entry_index(type_code)  -> [{"symbol","name"}]        (KOSPI 200 / 100)
   fetch_market(sosok)           -> [{"symbol","name"}]        (full KOSPI / KOSDAQ)
   fetch_group(gtype, no)        -> [{"symbol","name"}]        (one sector/theme/group)
 """
-import re
 import time
 import requests
 
@@ -18,85 +21,92 @@ import config
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
-BASE = "https://finance.naver.com/sise"
+M_API = "https://m.stock.naver.com/api"                  # index members, full markets
+MKT_API = "https://stock.naver.com/api/domestic/market"  # upjong / theme / group
+# NB: on MKT_API, `startIdx` is a 0-based PAGE number, not a row offset.
 
 _session = requests.Session()
-_session.headers.update({"User-Agent": UA, "Referer": "https://finance.naver.com/sise/"})
+_session.headers.update({"User-Agent": UA, "Referer": "https://stock.naver.com/"})
 
-# /item/main.naver?code=005930">삼성전자</a>
-_ROW = re.compile(r'/item/main\.naver\?code=(\d{6})"[^>]*>\s*([^<]+?)\s*</a>')
+MARKETS = {0: "KOSPI", 1: "KOSDAQ"}
+ENTRY_PAGE = 50     # enrollStocks rejects large page sizes (100 -> HTTP 400)
+MARKET_PAGE = 100
+GROUP_PAGE = 100
+LIST_PAGE = 200     # server max for /list
 
 
 def _get(url):
-    """GET with throttle + retry + exponential backoff. Returns EUC-KR-decoded text."""
+    """GET with throttle + retry + exponential backoff. Returns parsed JSON."""
     last = None
     for attempt in range(config.RETRY_MAX):
         try:
             time.sleep(config.THROTTLE_SEC)
             r = _session.get(url, timeout=config.REQUEST_TIMEOUT)
-            r.encoding = "euc-kr"
-            if r.status_code == 200 and r.text:
-                return r.text
+            if r.status_code == 200:
+                return r.json()
             last = f"HTTP {r.status_code}"
-        except requests.RequestException as e:
+        except (requests.RequestException, ValueError) as e:
             last = repr(e)
-        # backoff before next attempt
         time.sleep(config.THROTTLE_SEC * (config.RETRY_BACKOFF ** (attempt + 1)))
     raise RuntimeError(f"GET failed after {config.RETRY_MAX} attempts ({last}): {url}")
 
 
-def _members_from(html):
-    """Parse (code,name) rows from a Naver list page, de-duped, order-preserving."""
+def _collect(fetch_page, code_key, name_key, max_pages=80):
+    """Page through a list until a page is empty or yields no NEW codes."""
     out, seen = [], set()
-    for code, name in _ROW.findall(html):
-        if code not in seen:
-            seen.add(code)
-            out.append({"symbol": code, "name": name.strip()})
-    return out
-
-
-def _walk(url_for_page, max_pages=80):
-    """Walk paginated list pages until a page yields no NEW codes. Robust whether or
-    not the endpoint honors the page param (if ignored, page 1 already has all)."""
-    all_m, seen = [], set()
-    for page in range(1, max_pages + 1):
-        html = _get(url_for_page(page))
-        page_m = _members_from(html)
-        new = [m for m in page_m if m["symbol"] not in seen]
+    for page in range(max_pages):
+        rows = fetch_page(page)
+        new = 0
+        for row in rows or []:
+            code = str(row.get(code_key) or "").strip()
+            if code and code not in seen:
+                seen.add(code)
+                out.append({"symbol": code, "name": str(row.get(name_key) or "").strip()})
+                new += 1
         if not new:
             break
-        for m in new:
-            seen.add(m["symbol"])
-        all_m.extend(new)
-    return all_m
+    return out
 
 
 # ---------------------------------------------------------------------------
 # Public fetchers
 # ---------------------------------------------------------------------------
 def fetch_entry_index(type_code):
-    """KOSPI 200 / KOSPI 100 style indices (entryJongmok, 10/page)."""
-    return _walk(lambda p: f"{BASE}/entryJongmok.naver?type={type_code}&page={p}")
+    """KOSPI 200 / KOSPI 100 constituents (enrollStocks, 1-based pages)."""
+    return _collect(
+        lambda p: _get(f"{M_API}/index/{type_code}/enrollStocks?page={p + 1}&pageSize={ENTRY_PAGE}"),
+        "itemCode", "stockName")
 
 
 def fetch_market(sosok):
-    """Full market membership. sosok=0 KOSPI, sosok=1 KOSDAQ (market_sum, 50/page)."""
-    return _walk(lambda p: f"{BASE}/sise_market_sum.naver?sosok={sosok}&page={p}")
+    """Full market listing. sosok=0 KOSPI, sosok=1 KOSDAQ (by market value)."""
+    market = MARKETS[int(sosok)]
+    return _collect(
+        lambda p: _get(f"{M_API}/stocks/marketValue/{market}?page={p + 1}&pageSize={MARKET_PAGE}")
+        .get("stocks", []),
+        "itemCode", "stockName")
 
 
 def fetch_group(gtype, no):
-    """One sector/theme/business-group's members (sise_group_detail)."""
-    return _walk(lambda p: f"{BASE}/sise_group_detail.naver?type={gtype}&no={no}&page={p}")
+    """One sector/theme/business-group's members."""
+    return _collect(
+        lambda p: _get(f"{MKT_API}/{gtype}/{no}/stocklist?startIdx={p}"
+                       f"&pageSize={GROUP_PAGE}&sortType=quantTop"),
+        "itemcode", "itemname")
 
 
 def list_groups(gtype):
     """All groups of a given type: [{"no","name"}]. gtype in upjong|theme|group."""
-    html = _get(f"{BASE}/sise_group.naver?type={gtype}")
-    pat = re.compile(
-        rf'sise_group_detail\.naver\?type={gtype}&no=(\d+)"[^>]*>\s*([^<]+?)\s*</a>')
     out, seen = [], set()
-    for no, name in pat.findall(html):
-        if no not in seen:
-            seen.add(no)
-            out.append({"no": no, "name": name.strip()})
+    for page in range(20):
+        rows = _get(f"{MKT_API}/{gtype}/list?startIdx={page}"
+                    f"&pageSize={LIST_PAGE}&sortType=changeRate")
+        new = [g for g in rows or [] if str(g.get("no")) not in seen]
+        if not new:
+            break
+        for g in new:
+            seen.add(str(g["no"]))
+            out.append({"no": str(g["no"]), "name": str(g.get("name") or "").strip()})
+        if len(rows) < LIST_PAGE:
+            break
     return out

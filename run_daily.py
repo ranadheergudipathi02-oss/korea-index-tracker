@@ -24,7 +24,10 @@ ROOT = config.ROOT
 
 
 def git(*args, check=False):
-    r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+    # The scheduled task runs as user Boss, but the repo is owned by "Saila's PC";
+    # without this, git refuses with "dubious ownership".
+    safe = ["-c", "safe.directory=" + ROOT.replace("\\", "/")]
+    r = subprocess.run(["git", *safe, *args], cwd=ROOT, capture_output=True, text=True)
     out = (r.stdout + r.stderr).strip()
     if out:
         print(f"[git {' '.join(args)}] {out}")
