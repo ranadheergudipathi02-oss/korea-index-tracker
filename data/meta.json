@@ -6,10 +6,10 @@
   "initial": 0,
   "unchanged": 399
  },
- "detect_date": "2026-09-29",
- "duration_sec": 419.3,
- "finished_kst": "2026-09-29T16:47:00.554473+09:00",
- "last_run_kst": "2026-09-29T16:40:01.237511+09:00",
+ "detect_date": "2026-09-30",
+ "duration_sec": 417.9,
+ "finished_kst": "2026-09-30T16:46:59.155797+09:00",
+ "last_run_kst": "2026-09-30T16:40:01.260636+09:00",
  "results": {
   "group-100": {
    "count": 12,
@@ -317,17 +317,17 @@
    "status": "unchanged"
   },
   "kosdaq": {
-   "added": 4,
-   "count": 1821,
-   "prev_count": 1819,
-   "removed": 2,
+   "added": 3,
+   "count": 1824,
+   "prev_count": 1821,
+   "removed": 0,
    "status": "changed"
   },
   "kospi": {
-   "added": 0,
-   "count": 2478,
-   "prev_count": 2480,
-   "removed": 2,
+   "added": 4,
+   "count": 2482,
+   "prev_count": 2478,
+   "removed": 0,
    "status": "changed"
   },
   "kospi-100": {
@@ -341,10 +341,10 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "added": 0,
-   "count": 1537,
-   "prev_count": 1538,
-   "removed": 1,
+   "added": 3,
+   "count": 1540,
+   "prev_count": 1537,
+   "removed": 0,
    "status": "changed"
   },
   "sector-261": {
@@ -378,11 +378,9 @@
    "status": "unchanged"
   },
   "sector-267": {
-   "added": 1,
    "count": 119,
-   "prev_count": 118,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 119,
+   "status": "unchanged"
   },
   "sector-268": {
    "count": 92,
@@ -435,9 +433,11 @@
    "status": "unchanged"
   },
   "sector-278": {
-   "count": 171,
+   "added": 1,
+   "count": 172,
    "prev_count": 171,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-279": {
    "count": 78,
@@ -465,9 +465,11 @@
    "status": "unchanged"
   },
   "sector-284": {
-   "count": 34,
+   "added": 1,
+   "count": 35,
    "prev_count": 34,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "sector-285": {
    "count": 57,
@@ -845,9 +847,11 @@
    "status": "unchanged"
   },
   "theme-144": {
-   "count": 69,
+   "added": 1,
+   "count": 70,
    "prev_count": 69,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-147": {
    "count": 9,
@@ -1010,9 +1014,11 @@
    "status": "unchanged"
   },
   "theme-200": {
-   "count": 38,
+   "added": 1,
+   "count": 39,
    "prev_count": 38,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-204": {
    "count": 10,
@@ -1190,11 +1196,9 @@
    "status": "unchanged"
   },
   "theme-307": {
-   "added": 1,
    "count": 59,
-   "prev_count": 58,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 59,
+   "status": "unchanged"
   },
   "theme-31": {
    "count": 23,
@@ -1322,9 +1326,11 @@
    "status": "unchanged"
   },
   "theme-349": {
-   "count": 29,
+   "added": 1,
+   "count": 30,
    "prev_count": 29,
-   "status": "unchanged"
+   "removed": 0,
+   "status": "changed"
   },
   "theme-352": {
    "count": 26,
@@ -1682,11 +1688,9 @@
    "status": "unchanged"
   },
   "theme-505": {
-   "added": 1,
    "count": 74,
-   "prev_count": 73,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 74,
+   "status": "unchanged"
   },
   "theme-506": {
    "count": 28,
@@ -1774,11 +1778,9 @@
    "status": "unchanged"
   },
   "theme-536": {
-   "added": 1,
    "count": 35,
-   "prev_count": 34,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 35,
+   "status": "unchanged"
   },
   "theme-537": {
    "count": 15,
@@ -1911,11 +1913,9 @@
    "status": "unchanged"
   },
   "theme-587": {
-   "added": 1,
    "count": 46,
-   "prev_count": 45,
-   "removed": 0,
-   "status": "changed"
+   "prev_count": 46,
+   "status": "unchanged"
   },
   "theme-59": {
    "count": 26,
@@ -1983,9 +1983,9 @@
    "status": "unchanged"
   },
   "theme-615": {
-   "added": 2,
-   "count": 18,
-   "prev_count": 16,
+   "added": 1,
+   "count": 19,
+   "prev_count": 18,
    "removed": 0,
    "status": "changed"
   },

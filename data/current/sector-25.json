@@ -6844,6 +6844,21 @@
   },
   {
    "isin": null,
+   "name": "한투 베트남VN30선물 ETN(H) B",
+   "symbol": "570128"
+  },
+  {
+   "isin": null,
+   "name": "한투 레버리지베트남VN30선물 ETN(H) B",
+   "symbol": "570129"
+  },
+  {
+   "isin": null,
+   "name": "한투 인버스2X베트남VN30선물 ETN(H) B",
+   "symbol": "570130"
+  },
+  {
+   "isin": null,
    "name": "KB Wise 분할매매 ETN",
    "symbol": "580010"
   },
