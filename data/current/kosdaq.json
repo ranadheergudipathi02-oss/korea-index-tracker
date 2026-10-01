@@ -3499,11 +3499,6 @@
   },
   {
    "isin": null,
-   "name": "수성웹툰",
-   "symbol": "084180"
-  },
-  {
-   "isin": null,
    "name": "유진테크",
    "symbol": "084370"
   },
@@ -4846,11 +4841,6 @@
    "isin": null,
    "name": "리가켐바이오",
    "symbol": "141080"
-  },
-  {
-   "isin": null,
-   "name": "유니트론텍",
-   "symbol": "142210"
   },
   {
    "isin": null,
@@ -8234,11 +8224,6 @@
   },
   {
    "isin": null,
-   "name": "퀄리타스반도체",
-   "symbol": "432720"
-  },
-  {
-   "isin": null,
    "name": "엠에프씨",
    "symbol": "432980"
   },
@@ -8616,6 +8601,11 @@
    "isin": null,
    "name": "프로티나",
    "symbol": "468530"
+  },
+  {
+   "isin": null,
+   "name": "브릴스",
+   "symbol": "468670"
   },
   {
    "isin": null,

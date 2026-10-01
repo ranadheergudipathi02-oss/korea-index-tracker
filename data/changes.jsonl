@@ -621,3 +621,10 @@
 {"date": "2026-09-30", "index": "theme-144", "name": "방위산업/전쟁 및 테러", "category": "theme", "type": "change", "added": [{"symbol": "266690", "name": "덕산넵코어스"}], "removed": [], "count": 70}
 {"date": "2026-09-30", "index": "theme-349", "name": "드론(Drone)", "category": "theme", "type": "change", "added": [{"symbol": "266690", "name": "덕산넵코어스"}], "removed": [], "count": 30}
 {"date": "2026-09-30", "index": "theme-200", "name": "우주항공산업(누리호/인공위성 등)", "category": "theme", "type": "change", "added": [{"symbol": "266690", "name": "덕산넵코어스"}], "removed": [], "count": 39}
+{"date": "2026-10-01", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "0166S0", "name": "PLUS K제조업핵심기업액티브"}], "count": 2481}
+{"date": "2026-10-01", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [{"symbol": "084180", "name": "수성웹툰"}, {"symbol": "142210", "name": "유니트론텍"}, {"symbol": "432720", "name": "퀄리타스반도체"}], "count": 1822}
+{"date": "2026-10-01", "index": "sector-314", "name": "출판", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "084180", "name": "수성웹툰"}], "count": 7}
+{"date": "2026-10-01", "index": "sector-299", "name": "기계", "category": "sector", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [], "count": 105}
+{"date": "2026-10-01", "index": "theme-505", "name": "로봇(산업용/협동로봇 등)", "category": "theme", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [], "count": 75}
+{"date": "2026-10-01", "index": "theme-615", "name": "2026 하반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [], "count": 20}
+{"date": "2026-10-01", "index": "theme-488", "name": "웹툰", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "084180", "name": "수성웹툰"}], "count": 14}
