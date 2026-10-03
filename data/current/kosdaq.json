@@ -4844,6 +4844,11 @@
   },
   {
    "isin": null,
+   "name": "유니트론텍",
+   "symbol": "142210"
+  },
+  {
+   "isin": null,
    "name": "녹십자엠에스",
    "symbol": "142280"
   },
@@ -8221,6 +8226,11 @@
    "isin": null,
    "name": "케이엔에스",
    "symbol": "432470"
+  },
+  {
+   "isin": null,
+   "name": "퀄리타스반도체",
+   "symbol": "432720"
   },
   {
    "isin": null,

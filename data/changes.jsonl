@@ -628,3 +628,6 @@
 {"date": "2026-10-01", "index": "theme-505", "name": "로봇(산업용/협동로봇 등)", "category": "theme", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [], "count": 75}
 {"date": "2026-10-01", "index": "theme-615", "name": "2026 하반기 신규상장", "category": "theme", "type": "change", "added": [{"symbol": "468670", "name": "브릴스"}], "removed": [], "count": 20}
 {"date": "2026-10-01", "index": "theme-488", "name": "웹툰", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "084180", "name": "수성웹툰"}], "count": 14}
+{"date": "2026-10-03", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "0166S0", "name": "PLUS K제조업핵심기업액티브"}], "removed": [], "count": 2482}
+{"date": "2026-10-03", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "142210", "name": "유니트론텍"}, {"symbol": "432720", "name": "퀄리타스반도체"}], "removed": [], "count": 1824}
+{"date": "2026-10-03", "index": "theme-205", "name": "원자력발전", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "457550", "name": "우진엔텍"}], "count": 49}
