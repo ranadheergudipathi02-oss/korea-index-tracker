@@ -631,3 +631,5 @@
 {"date": "2026-10-03", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "0166S0", "name": "PLUS K제조업핵심기업액티브"}], "removed": [], "count": 2482}
 {"date": "2026-10-03", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "142210", "name": "유니트론텍"}, {"symbol": "432720", "name": "퀄리타스반도체"}], "removed": [], "count": 1824}
 {"date": "2026-10-03", "index": "theme-205", "name": "원자력발전", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "457550", "name": "우진엔텍"}], "count": 49}
+{"date": "2026-10-06", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "263860", "name": "지니언스"}], "count": 1823}
+{"date": "2026-10-06", "index": "theme-373", "name": "5G(5세대 이동통신)", "category": "theme", "type": "change", "added": [{"symbol": "072130", "name": "유엔젤"}], "removed": [], "count": 55}
