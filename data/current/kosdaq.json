@@ -5369,11 +5369,6 @@
   },
   {
    "isin": null,
-   "name": "디에이테크놀로지",
-   "symbol": "196490"
-  },
-  {
-   "isin": null,
    "name": "웹스",
    "symbol": "196700"
   },
@@ -6396,6 +6391,11 @@
    "isin": null,
    "name": "상신전자",
    "symbol": "263810"
+  },
+  {
+   "isin": null,
+   "name": "지니언스",
+   "symbol": "263860"
   },
   {
    "isin": null,

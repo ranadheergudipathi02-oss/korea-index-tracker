@@ -4264,6 +4264,11 @@
   },
   {
    "isin": null,
+   "name": "SOL 글로벌DRAM반도체플러스",
+   "symbol": "0246X0"
+  },
+  {
+   "isin": null,
    "name": "콜마홀딩스",
    "symbol": "024720"
   },
@@ -4719,11 +4724,6 @@
   },
   {
    "isin": null,
-   "name": "테이팩스",
-   "symbol": "055490"
-  },
-  {
-   "isin": null,
    "name": "신한지주",
    "symbol": "055550"
   },
@@ -4971,11 +4971,6 @@
    "isin": null,
    "name": "전진건설로봇",
    "symbol": "079900"
-  },
-  {
-   "isin": null,
-   "name": "휴비스",
-   "symbol": "079980"
   },
   {
    "isin": null,
