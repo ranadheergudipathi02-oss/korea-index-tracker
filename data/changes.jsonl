@@ -639,3 +639,4 @@
 {"date": "2026-10-07", "index": "sector-25", "name": "기타", "category": "sector", "type": "change", "added": [{"symbol": "0246X0", "name": "SOL 글로벌DRAM반도체플러스"}], "removed": [], "count": 1541}
 {"date": "2026-10-08", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "055490", "name": "테이팩스"}, {"symbol": "079980", "name": "휴비스"}], "removed": [], "count": 2483}
 {"date": "2026-10-08", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "291230", "name": "컴투스엔"}], "count": 1822}
+{"date": "2026-10-09", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "291230", "name": "컴투스엔"}], "removed": [], "count": 1823}
