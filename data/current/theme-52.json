@@ -4,11 +4,6 @@
  "members": [
   {
    "isin": null,
-   "name": "DB",
-   "symbol": "012030"
-  },
-  {
-   "isin": null,
    "name": "대교",
    "symbol": "019680"
   },

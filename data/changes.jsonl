@@ -640,3 +640,9 @@
 {"date": "2026-10-08", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "055490", "name": "테이팩스"}, {"symbol": "079980", "name": "휴비스"}], "removed": [], "count": 2483}
 {"date": "2026-10-08", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "291230", "name": "컴투스엔"}], "count": 1822}
 {"date": "2026-10-09", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [{"symbol": "291230", "name": "컴투스엔"}], "removed": [], "count": 1823}
+{"date": "2026-10-12", "index": "kospi", "name": "KOSPI (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "005030", "name": "부산주공"}], "count": 2482}
+{"date": "2026-10-12", "index": "kosdaq", "name": "KOSDAQ (Composite, all listed)", "category": "broad", "type": "change", "added": [], "removed": [{"symbol": "105550", "name": "엣지파운드리"}, {"symbol": "472230", "name": "에스케이증권제11호스팩"}, {"symbol": "473050", "name": "유안타제15호스팩"}], "count": 1820}
+{"date": "2026-10-12", "index": "sector-270", "name": "자동차부품", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "005030", "name": "부산주공"}], "count": 153}
+{"date": "2026-10-12", "index": "sector-277", "name": "창업투자", "category": "sector", "type": "change", "added": [], "removed": [{"symbol": "472230", "name": "에스케이증권제11호스팩"}, {"symbol": "473050", "name": "유안타제15호스팩"}], "count": 88}
+{"date": "2026-10-12", "index": "theme-52", "name": "교육/온라인 교육", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "012030", "name": "DB"}], "count": 26}
+{"date": "2026-10-12", "index": "theme-127", "name": "영상콘텐츠", "category": "theme", "type": "change", "added": [], "removed": [{"symbol": "210120", "name": "캔버스엔"}], "count": 33}
