@@ -1564,6 +1564,11 @@
   },
   {
    "isin": null,
+   "name": "KODEX 미국AI에이전트액티브",
+   "symbol": "0241D0"
+  },
+  {
+   "isin": null,
    "name": "TIGER 현대차LG전자고정피지컬AI밸류체인",
    "symbol": "0241R0"
   },
@@ -1574,8 +1579,23 @@
   },
   {
    "isin": null,
+   "name": "DS AI반도체액티브",
+   "symbol": "0243M0"
+  },
+  {
+   "isin": null,
    "name": "SOL 글로벌DRAM반도체플러스",
    "symbol": "0246X0"
+  },
+  {
+   "isin": null,
+   "name": "KIWOOM 글로벌MLCC&AI기판TOP4+",
+   "symbol": "0247S0"
+  },
+  {
+   "isin": null,
+   "name": "ACE 29-11 회사채(AA-이상)액티브",
+   "symbol": "0254W0"
   },
   {
    "isin": null,
@@ -7586,6 +7606,11 @@
    "isin": null,
    "name": "하나 인버스 2X 반도체 ETN",
    "symbol": "700036"
+  },
+  {
+   "isin": null,
+   "name": "하나 미국S&P500 TR ETN",
+   "symbol": "700037"
   },
   {
    "isin": null,

@@ -504,11 +504,6 @@
   },
   {
    "isin": null,
-   "name": "리드코프",
-   "symbol": "012700"
-  },
-  {
-   "isin": null,
    "name": "신일제약",
    "symbol": "012790"
   },
@@ -1646,11 +1641,6 @@
    "isin": null,
    "name": "케이엘넷",
    "symbol": "039420"
-  },
-  {
-   "isin": null,
-   "name": "에스티아이",
-   "symbol": "039440"
   },
   {
    "isin": null,
@@ -4224,6 +4214,11 @@
   },
   {
    "isin": null,
+   "name": "엣지파운드리",
+   "symbol": "105550"
+  },
+  {
+   "isin": null,
    "name": "디케이락",
    "symbol": "105740"
   },
@@ -6186,11 +6181,6 @@
    "isin": null,
    "name": "바이오에프디엔씨",
    "symbol": "251120"
-  },
-  {
-   "isin": null,
-   "name": "와이엠티",
-   "symbol": "251370"
   },
   {
    "isin": null,
@@ -8626,11 +8616,6 @@
    "isin": null,
    "name": "아이비젼웍스",
    "symbol": "469750"
-  },
-  {
-   "isin": null,
-   "name": "하나31호스팩",
-   "symbol": "469900"
   },
   {
    "isin": null,
