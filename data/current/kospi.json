@@ -7714,6 +7714,11 @@
   },
   {
    "isin": null,
+   "name": "KODEX 코스피대형주",
+   "symbol": "337140"
+  },
+  {
+   "isin": null,
    "name": "KODEX 200exTOP",
    "symbol": "337150"
   },
@@ -8551,11 +8556,6 @@
    "isin": null,
    "name": "PLUS 글로벌수소&차세대연료전지",
    "symbol": "419650"
-  },
-  {
-   "isin": null,
-   "name": "KIWOOM 단기채권ESG액티브",
-   "symbol": "419890"
   },
   {
    "isin": null,

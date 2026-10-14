@@ -504,6 +504,11 @@
   },
   {
    "isin": null,
+   "name": "리드코프",
+   "symbol": "012700"
+  },
+  {
+   "isin": null,
    "name": "신일제약",
    "symbol": "012790"
   },
@@ -1641,6 +1646,11 @@
    "isin": null,
    "name": "케이엘넷",
    "symbol": "039420"
+  },
+  {
+   "isin": null,
+   "name": "에스티아이",
+   "symbol": "039440"
   },
   {
    "isin": null,
@@ -5759,11 +5769,6 @@
   },
   {
    "isin": null,
-   "name": "한국비티비",
-   "symbol": "219750"
-  },
-  {
-   "isin": null,
    "name": "퓨쳐켐",
    "symbol": "220100"
   },
@@ -6181,6 +6186,11 @@
    "isin": null,
    "name": "바이오에프디엔씨",
    "symbol": "251120"
+  },
+  {
+   "isin": null,
+   "name": "와이엠티",
+   "symbol": "251370"
   },
   {
    "isin": null,
