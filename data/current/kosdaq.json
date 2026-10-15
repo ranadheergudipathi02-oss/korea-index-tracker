@@ -2339,11 +2339,6 @@
   },
   {
    "isin": null,
-   "name": "구영테크",
-   "symbol": "053270"
-  },
-  {
-   "isin": null,
    "name": "예스24",
    "symbol": "053280"
   },
@@ -3161,11 +3156,6 @@
    "isin": null,
    "name": "메가스터디",
    "symbol": "072870"
-  },
-  {
-   "isin": null,
-   "name": "빛샘전자",
-   "symbol": "072950"
   },
   {
    "isin": null,
@@ -4249,11 +4239,6 @@
   },
   {
    "isin": null,
-   "name": "파인테크닉스",
-   "symbol": "106240"
-  },
-  {
-   "isin": null,
    "name": "새빗켐",
    "symbol": "107600"
   },
@@ -4441,11 +4426,6 @@
    "isin": null,
    "name": "모트렉스",
    "symbol": "118990"
-  },
-  {
-   "isin": null,
-   "name": "포메탈",
-   "symbol": "119500"
   },
   {
    "isin": null,
@@ -5174,6 +5154,11 @@
   },
   {
    "isin": null,
+   "name": "멜콘",
+   "symbol": "179880"
+  },
+  {
+   "isin": null,
    "name": "유티아이",
    "symbol": "179900"
   },
@@ -5549,11 +5534,6 @@
   },
   {
    "isin": null,
-   "name": "지란지교시큐리티",
-   "symbol": "208350"
-  },
-  {
-   "isin": null,
    "name": "셀바스헬스케어",
    "symbol": "208370"
   },
@@ -5739,11 +5719,6 @@
   },
   {
    "isin": null,
-   "name": "원익피앤이",
-   "symbol": "217820"
-  },
-  {
-   "isin": null,
    "name": "미래생명자원",
    "symbol": "218150"
   },
@@ -5766,6 +5741,11 @@
    "isin": null,
    "name": "디와이디",
    "symbol": "219550"
+  },
+  {
+   "isin": null,
+   "name": "한국비티비",
+   "symbol": "219750"
   },
   {
    "isin": null,
@@ -6174,6 +6154,11 @@
   },
   {
    "isin": null,
+   "name": "진코스텍",
+   "symbol": "250030"
+  },
+  {
+   "isin": null,
    "name": "모비스",
    "symbol": "250060"
   },
@@ -6526,11 +6511,6 @@
    "isin": null,
    "name": "레인보우로보틱스",
    "symbol": "277810"
-  },
-  {
-   "isin": null,
-   "name": "티에스아이",
-   "symbol": "277880"
   },
   {
    "isin": null,
@@ -7881,11 +7861,6 @@
    "isin": null,
    "name": "유디엠텍",
    "symbol": "389680"
-  },
-  {
-   "isin": null,
-   "name": "코닉오토메이션",
-   "symbol": "391710"
   },
   {
    "isin": null,

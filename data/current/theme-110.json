@@ -164,6 +164,11 @@
   },
   {
    "isin": null,
+   "name": "동국제약",
+   "symbol": "086450"
+  },
+  {
+   "isin": null,
    "name": "선진뷰티사이언스",
    "symbol": "086710"
   },
@@ -316,6 +321,11 @@
    "isin": null,
    "name": "코스메카코리아",
    "symbol": "241710"
+  },
+  {
+   "isin": null,
+   "name": "진코스텍",
+   "symbol": "250030"
   },
   {
    "isin": null,

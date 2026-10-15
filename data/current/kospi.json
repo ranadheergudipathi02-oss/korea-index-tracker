@@ -1579,11 +1579,6 @@
   },
   {
    "isin": null,
-   "name": "한창",
-   "symbol": "005110"
-  },
-  {
-   "isin": null,
    "name": "빙그레",
    "symbol": "005180"
   },
@@ -3331,11 +3326,6 @@
    "isin": null,
    "name": "태경산업",
    "symbol": "015890"
-  },
-  {
-   "isin": null,
-   "name": "대현",
-   "symbol": "016090"
   },
   {
    "isin": null,
@@ -8556,6 +8546,11 @@
    "isin": null,
    "name": "PLUS 글로벌수소&차세대연료전지",
    "symbol": "419650"
+  },
+  {
+   "isin": null,
+   "name": "KIWOOM 단기채권ESG액티브",
+   "symbol": "419890"
   },
   {
    "isin": null,
