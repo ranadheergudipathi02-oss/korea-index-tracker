@@ -249,7 +249,7 @@
   },
   {
    "isin": null,
-   "name": "동아쏘시오홀딩스",
+   "name": "동아제약",
    "symbol": "000640"
   },
   {
@@ -419,7 +419,7 @@
   },
   {
    "isin": null,
-   "name": "만호제강",
+   "name": "MH머트리얼즈",
    "symbol": "001080"
   },
   {
@@ -2369,11 +2369,6 @@
   },
   {
    "isin": null,
-   "name": "광동제약",
-   "symbol": "009290"
-  },
-  {
-   "isin": null,
    "name": "SOL 한국원자력SMR",
    "symbol": "0092B0"
   },
@@ -2979,11 +2974,6 @@
   },
   {
    "isin": null,
-   "name": "ACE 미국대형성장주액티브",
-   "symbol": "0127P0"
-  },
-  {
-   "isin": null,
    "name": "RISE 미국AI클라우드인프라",
    "symbol": "0127R0"
   },
@@ -3326,6 +3316,11 @@
    "isin": null,
    "name": "태경산업",
    "symbol": "015890"
+  },
+  {
+   "isin": null,
+   "name": "대현",
+   "symbol": "016090"
   },
   {
    "isin": null,

@@ -1,332 +1,271 @@
 {
  "counts": {
-  "changed": 7,
-  "error": 0,
+  "changed": 2,
+  "error": 404,
   "guarded": 0,
   "initial": 0,
-  "unchanged": 401
+  "unchanged": 2
  },
- "detect_date": "2026-10-15",
- "duration_sec": 422.8,
- "finished_kst": "2026-10-15T16:47:03.492129+09:00",
- "last_run_kst": "2026-10-15T16:40:00.659162+09:00",
+ "detect_date": "2026-10-16",
+ "duration_sec": 3335.8,
+ "finished_kst": "2026-10-16T17:35:36.204833+09:00",
+ "last_run_kst": "2026-10-16T16:40:00.443188+09:00",
  "results": {
   "group-100": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/100/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-103": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/103/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-104": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/104/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-105": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/105/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-106": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/106/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-107": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/107/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-108": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/108/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-109": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/109/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-110": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/110/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-111": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/111/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-112": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/112/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-114": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/114/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-115": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/115/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-116": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/116/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-117": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/117/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-118": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/118/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-120": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/120/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-122": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/122/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-123": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/123/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-124": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/124/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-125": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/125/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-126": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/126/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-127": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/127/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-128": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/128/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-129": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/129/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-130": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/130/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-131": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/131/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-132": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/132/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-133": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/133/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-134": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/134/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-135": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/135/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-136": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/136/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-137": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/137/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-138": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/138/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-139": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/139/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-14": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/14/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-142": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/142/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-143": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/143/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-145": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/145/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-146": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/146/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-148": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/148/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-19": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/19/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-20": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/20/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-22": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/22/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-24": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/24/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-3": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/3/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-37": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/37/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-39": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/39/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-45": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/45/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-46": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/46/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-49": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/49/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-5": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/5/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-67": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/67/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-69": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/69/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-7": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/7/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-76": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/76/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-8": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/8/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-96": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/96/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-97": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/97/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-98": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/98/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "group-99": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/99/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "kosdaq": {
-   "added": 3,
-   "count": 1814,
-   "prev_count": 1819,
-   "removed": 8,
+   "added": 8,
+   "count": 1822,
+   "prev_count": 1814,
+   "removed": 0,
    "status": "changed"
   },
   "kospi": {
    "added": 1,
-   "count": 2485,
-   "prev_count": 2486,
+   "count": 2484,
+   "prev_count": 2485,
    "removed": 2,
    "status": "changed"
   },
@@ -341,1732 +280,1379 @@
    "status": "unchanged"
   },
   "sector-25": {
-   "count": 1546,
-   "prev_count": 1546,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/25/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-261": {
-   "count": 174,
-   "prev_count": 174,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/261/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-262": {
-   "count": 41,
-   "prev_count": 41,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/262/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-263": {
-   "count": 34,
-   "prev_count": 34,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/263/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-264": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/264/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-265": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/265/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-266": {
-   "count": 64,
-   "prev_count": 64,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/266/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-267": {
-   "count": 119,
-   "prev_count": 119,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/267/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-268": {
-   "count": 92,
-   "prev_count": 92,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/268/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-269": {
-   "count": 71,
-   "prev_count": 71,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/269/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-270": {
-   "count": 153,
-   "prev_count": 153,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/270/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-271": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/271/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-272": {
-   "count": 122,
-   "prev_count": 122,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/272/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-273": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/273/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-274": {
-   "count": 81,
-   "prev_count": 81,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/274/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-275": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/275/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-276": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/276/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-277": {
-   "count": 87,
-   "prev_count": 87,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/277/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-278": {
-   "added": 1,
-   "count": 173,
-   "prev_count": 172,
-   "removed": 0,
-   "status": "changed"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/278/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-279": {
-   "count": 78,
-   "prev_count": 78,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/279/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-280": {
-   "added": 0,
-   "count": 30,
-   "prev_count": 31,
-   "removed": 1,
-   "status": "changed"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/280/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-281": {
-   "count": 104,
-   "prev_count": 104,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/281/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-282": {
-   "count": 105,
-   "prev_count": 105,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/282/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-283": {
-   "count": 68,
-   "prev_count": 68,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/283/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-284": {
-   "count": 35,
-   "prev_count": 35,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/284/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-285": {
-   "count": 57,
-   "prev_count": 57,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/285/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-286": {
-   "count": 59,
-   "prev_count": 59,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/286/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-287": {
-   "count": 74,
-   "prev_count": 74,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/287/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-288": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/288/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-289": {
-   "count": 51,
-   "prev_count": 51,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/289/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-290": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/290/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-291": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/291/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-292": {
-   "count": 57,
-   "prev_count": 57,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/292/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-293": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/293/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-294": {
-   "count": 55,
-   "prev_count": 55,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/294/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-295": {
-   "count": 34,
-   "prev_count": 34,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/295/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-296": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/296/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-297": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/297/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-298": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/298/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-299": {
-   "count": 105,
-   "prev_count": 105,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/299/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-300": {
-   "count": 16,
-   "prev_count": 16,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/300/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-301": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/301/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-302": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/302/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-303": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/303/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-304": {
-   "count": 55,
-   "prev_count": 55,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/304/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-305": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/305/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-306": {
-   "count": 35,
-   "prev_count": 35,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/306/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-307": {
-   "count": 16,
-   "prev_count": 16,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/307/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-308": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/308/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-309": {
-   "count": 16,
-   "prev_count": 16,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/309/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-310": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/310/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-311": {
-   "count": 27,
-   "prev_count": 27,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/311/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-312": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/312/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-313": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/313/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-314": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/314/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-315": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/315/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-316": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/316/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-317": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/317/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-318": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/318/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-319": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/319/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-320": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/320/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-321": {
-   "count": 39,
-   "prev_count": 39,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/321/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-322": {
-   "count": 40,
-   "prev_count": 40,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/322/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-323": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/323/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-324": {
-   "count": 31,
-   "prev_count": 31,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/324/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-325": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/325/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-326": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/326/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-327": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/327/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-328": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/328/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-329": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/329/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-330": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/330/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-331": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/331/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-332": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/332/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-333": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/333/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-334": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/334/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-336": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/336/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-337": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/337/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-338": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/338/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "sector-339": {
-   "count": 1,
-   "prev_count": 1,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/upjong/339/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-104": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/104/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-105": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/105/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-106": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/106/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-108": {
-   "count": 42,
-   "prev_count": 42,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/108/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-110": {
-   "added": 2,
-   "count": 96,
-   "prev_count": 94,
-   "removed": 0,
-   "status": "changed"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/110/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-111": {
-   "count": 128,
-   "prev_count": 128,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/111/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-112": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/112/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-113": {
-   "count": 65,
-   "prev_count": 65,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/113/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-119": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/119/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-12": {
-   "added": 1,
-   "count": 97,
-   "prev_count": 96,
-   "removed": 0,
-   "status": "changed"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/12/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-121": {
-   "count": 29,
-   "prev_count": 29,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/121/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-123": {
-   "count": 34,
-   "prev_count": 34,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/123/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-124": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/124/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-126": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/126/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-127": {
-   "count": 33,
-   "prev_count": 33,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/127/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-128": {
-   "count": 31,
-   "prev_count": 31,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/128/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-13": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/13/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-136": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/136/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-139": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/139/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-14": {
-   "count": 71,
-   "prev_count": 71,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/14/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-141": {
-   "count": 16,
-   "prev_count": 16,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/141/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-144": {
-   "count": 70,
-   "prev_count": 70,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/144/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-147": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/147/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-149": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/149/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-151": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/151/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-152": {
-   "count": 17,
-   "prev_count": 17,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/152/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-154": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/154/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-155": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/155/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-159": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/159/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-16": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/16/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-164": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/164/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-165": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/165/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-166": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/166/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-167": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/167/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-17": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/17/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-170": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/170/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-171": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/171/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-172": {
-   "count": 89,
-   "prev_count": 89,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/172/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-173": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/173/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-174": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/174/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-175": {
-   "count": 94,
-   "prev_count": 94,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/175/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-176": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/176/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-177": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/177/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-178": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/178/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-18": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/18/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-180": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/180/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-181": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/181/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-184": {
-   "count": 27,
-   "prev_count": 27,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/184/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-185": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/185/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-187": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/187/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-188": {
-   "count": 37,
-   "prev_count": 37,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/188/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-19": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/19/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-191": {
-   "count": 44,
-   "prev_count": 44,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/191/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-197": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/197/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-200": {
-   "count": 39,
-   "prev_count": 39,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/200/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-204": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/204/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-205": {
-   "count": 49,
-   "prev_count": 49,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/205/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-206": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/206/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-210": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/210/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-213": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/213/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-223": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/223/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-227": {
-   "count": 98,
-   "prev_count": 98,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/227/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-228": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/228/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-229": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/229/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-232": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/232/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-234": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/234/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-237": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/237/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-241": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/241/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-242": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/242/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-250": {
-   "count": 40,
-   "prev_count": 40,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/250/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-265": {
-   "count": 36,
-   "prev_count": 36,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/265/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-266": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/266/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-269": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/269/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-27": {
-   "count": 148,
-   "prev_count": 148,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/27/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-270": {
-   "count": 32,
-   "prev_count": 32,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/270/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-272": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/272/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-276": {
-   "count": 35,
-   "prev_count": 35,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/276/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-279": {
-   "count": 62,
-   "prev_count": 62,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/279/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-28": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/28/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-283": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/283/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-284": {
-   "count": 68,
-   "prev_count": 68,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/284/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-285": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/285/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-287": {
-   "count": 31,
-   "prev_count": 31,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/287/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-288": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/288/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-289": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/289/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-290": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/290/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-297": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/297/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-298": {
-   "count": 17,
-   "prev_count": 17,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/298/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-30": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/30/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-302": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/302/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-307": {
-   "count": 59,
-   "prev_count": 59,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/307/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-31": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/31/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-310": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/310/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-311": {
-   "count": 35,
-   "prev_count": 35,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/311/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-313": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/313/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-316": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/316/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-317": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/317/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-318": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/318/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-319": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/319/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-32": {
-   "count": 61,
-   "prev_count": 61,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/32/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-321": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/321/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-322": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/322/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-323": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/323/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-324": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/324/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-325": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/325/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-326": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/326/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-328": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/328/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-329": {
-   "count": 42,
-   "prev_count": 42,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/329/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-33": {
-   "count": 37,
-   "prev_count": 37,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/33/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-330": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/330/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-331": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/331/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-332": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/332/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-335": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/335/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-342": {
-   "count": 33,
-   "prev_count": 33,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/342/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-343": {
-   "count": 29,
-   "prev_count": 29,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/343/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-348": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/348/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-349": {
-   "count": 29,
-   "prev_count": 29,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/349/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-352": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/352/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-36": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/36/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-362": {
-   "count": 59,
-   "prev_count": 59,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/362/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-373": {
-   "count": 55,
-   "prev_count": 55,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/373/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-376": {
-   "count": 41,
-   "prev_count": 41,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/376/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-377": {
-   "count": 51,
-   "prev_count": 51,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/377/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-378": {
-   "count": 16,
-   "prev_count": 16,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/378/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-379": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/379/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-38": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/38/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-380": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/380/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-381": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/381/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-382": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/382/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-384": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/384/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-385": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/385/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-386": {
-   "count": 72,
-   "prev_count": 72,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/386/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-387": {
-   "count": 23,
-   "prev_count": 23,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/387/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-388": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/388/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-389": {
-   "count": 36,
-   "prev_count": 36,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/389/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-390": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/390/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-392": {
-   "count": 38,
-   "prev_count": 38,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/392/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-393": {
-   "count": 39,
-   "prev_count": 39,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/393/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-397": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/397/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-398": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/398/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-400": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/400/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-401": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/401/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-402": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/402/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-404": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/404/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-405": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/405/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-407": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/407/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-41": {
-   "count": 27,
-   "prev_count": 27,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/41/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-415": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/415/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-417": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/417/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-42": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/42/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-421": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/421/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-422": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/422/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-426": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/426/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-435": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/435/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-436": {
-   "count": 70,
-   "prev_count": 70,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/436/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-44": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/44/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-445": {
-   "count": 47,
-   "prev_count": 47,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/445/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-446": {
-   "count": 73,
-   "prev_count": 73,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/446/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-447": {
-   "count": 39,
-   "prev_count": 39,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/447/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-448": {
-   "count": 27,
-   "prev_count": 27,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/448/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-449": {
-   "count": 3,
-   "prev_count": 3,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/449/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-45": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/45/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-452": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/452/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-462": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/462/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-464": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/464/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-467": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/467/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-468": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/468/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-47": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/47/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-470": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/470/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-472": {
-   "count": 30,
-   "prev_count": 30,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/472/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-474": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/474/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-48": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/48/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-480": {
-   "count": 46,
-   "prev_count": 46,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/480/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-481": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/481/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-482": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/482/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-483": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/483/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-487": {
-   "count": 43,
-   "prev_count": 43,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/487/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-488": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/488/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-489": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/489/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-49": {
-   "count": 2,
-   "prev_count": 2,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/49/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-492": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/492/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-493": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/493/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-496": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/496/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-497": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/497/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-500": {
-   "count": 20,
-   "prev_count": 20,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/500/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-501": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/501/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-503": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/503/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-504": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/504/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-505": {
-   "count": 75,
-   "prev_count": 75,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/505/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-506": {
-   "count": 28,
-   "prev_count": 28,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/506/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-507": {
-   "count": 12,
-   "prev_count": 12,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/507/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-511": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/511/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-513": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/513/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-514": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/514/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-517": {
-   "count": 40,
-   "prev_count": 40,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/517/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-52": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/52/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-520": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/520/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-521": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/521/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-523": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/523/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-524": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/524/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-525": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/525/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-527": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/527/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-529": {
-   "count": 31,
-   "prev_count": 31,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/529/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-531": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/531/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-533": {
-   "count": 19,
-   "prev_count": 19,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/533/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-534": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/534/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-536": {
-   "count": 35,
-   "prev_count": 35,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/536/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-537": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/537/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-540": {
-   "count": 37,
-   "prev_count": 37,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/540/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-543": {
-   "count": 29,
-   "prev_count": 29,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/543/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-545": {
-   "count": 24,
-   "prev_count": 24,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/545/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-546": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/546/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-547": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/547/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-55": {
-   "count": 52,
-   "prev_count": 52,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/55/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-556": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/556/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-557": {
-   "count": 21,
-   "prev_count": 21,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/557/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-559": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/559/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-56": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/56/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-560": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/560/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-564": {
-   "count": 28,
-   "prev_count": 28,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/564/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-566": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/566/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-567": {
-   "count": 91,
-   "prev_count": 91,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/567/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-568": {
-   "count": 99,
-   "prev_count": 99,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/568/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-571": {
-   "count": 84,
-   "prev_count": 84,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/571/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-575": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/575/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-576": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/576/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-579": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/579/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-580": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/580/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-581": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/581/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-582": {
-   "count": 25,
-   "prev_count": 25,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/582/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-584": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/584/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-585": {
-   "count": 6,
-   "prev_count": 6,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/585/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-586": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/586/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-587": {
-   "count": 46,
-   "prev_count": 46,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/587/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-59": {
-   "count": 26,
-   "prev_count": 26,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/59/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-590": {
-   "count": 31,
-   "prev_count": 31,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/590/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-591": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/591/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-592": {
-   "count": 22,
-   "prev_count": 22,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/592/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-593": {
-   "count": 4,
-   "prev_count": 4,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/593/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-595": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/595/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-597": {
-   "count": 8,
-   "prev_count": 8,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/597/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-598": {
-   "count": 5,
-   "prev_count": 5,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/598/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-599": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/599/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-60": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/60/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-600": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/600/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-608": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/608/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-614": {
-   "count": 7,
-   "prev_count": 7,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/614/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-615": {
-   "added": 2,
-   "count": 22,
-   "prev_count": 20,
-   "removed": 0,
-   "status": "changed"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/615/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-62": {
-   "count": 11,
-   "prev_count": 11,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/62/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-63": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/63/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-64": {
-   "count": 143,
-   "prev_count": 143,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/64/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-66": {
-   "count": 18,
-   "prev_count": 18,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/66/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-72": {
-   "count": 36,
-   "prev_count": 36,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/72/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-76": {
-   "count": 28,
-   "prev_count": 28,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/76/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-79": {
-   "count": 14,
-   "prev_count": 14,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/79/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-8": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/8/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-82": {
-   "count": 10,
-   "prev_count": 10,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/82/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-86": {
-   "count": 13,
-   "prev_count": 13,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/86/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-9": {
-   "count": 80,
-   "prev_count": 80,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/9/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-90": {
-   "count": 9,
-   "prev_count": 9,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/90/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-92": {
-   "count": 47,
-   "prev_count": 47,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/92/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-94": {
-   "count": 37,
-   "prev_count": 37,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/94/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-98": {
-   "count": 15,
-   "prev_count": 15,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/98/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   },
   "theme-99": {
-   "count": 69,
-   "prev_count": 69,
-   "status": "unchanged"
+   "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/theme/99/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
+   "status": "error"
   }
  },
  "source": "naver_finance",
  "total_indices": 408,
- "unhealthy": false
+ "unhealthy": true
 }
