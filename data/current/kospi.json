@@ -2369,6 +2369,11 @@
   },
   {
    "isin": null,
+   "name": "광동제약",
+   "symbol": "009290"
+  },
+  {
+   "isin": null,
    "name": "SOL 한국원자력SMR",
    "symbol": "0092B0"
   },
@@ -2971,6 +2976,11 @@
    "isin": null,
    "name": "ACE 미국대형가치주액티브",
    "symbol": "0127M0"
+  },
+  {
+   "isin": null,
+   "name": "ACE 미국대형성장주액티브",
+   "symbol": "0127P0"
   },
   {
    "isin": null,
