@@ -4184,6 +4184,11 @@
   },
   {
    "isin": null,
+   "name": "마이티 미국피지컬AI액티브",
+   "symbol": "0236J0"
+  },
+  {
+   "isin": null,
    "name": "인지컨트롤스",
    "symbol": "023800"
   },
@@ -4294,6 +4299,26 @@
   },
   {
    "isin": null,
+   "name": "ACE 미국CPU반도체TOP3+",
+   "symbol": "0252V0"
+  },
+  {
+   "isin": null,
+   "name": "KODEX 27-12 금융채(AA-이상)액티브",
+   "symbol": "0254C0"
+  },
+  {
+   "isin": null,
+   "name": "RISE 반도체소부장액티브",
+   "symbol": "0254H0"
+  },
+  {
+   "isin": null,
+   "name": "KODEX 미국배당다우존스액티브",
+   "symbol": "0254S0"
+  },
+  {
+   "isin": null,
    "name": "ACE 29-11 회사채(AA-이상)액티브",
    "symbol": "0254W0"
   },
@@ -4314,8 +4339,18 @@
   },
   {
    "isin": null,
+   "name": "TIGER 글로벌MLCC&기판",
+   "symbol": "0255E0"
+  },
+  {
+   "isin": null,
    "name": "차AI헬스케어",
    "symbol": "025620"
+  },
+  {
+   "isin": null,
+   "name": "1Q 엔비디아고정미국AI반도체",
+   "symbol": "0256C0"
   },
   {
    "isin": null,
