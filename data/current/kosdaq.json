@@ -84,6 +84,11 @@
   },
   {
    "isin": null,
+   "name": "엠에스바이오",
+   "symbol": "0013Y0"
+  },
+  {
+   "isin": null,
    "name": "안국약품",
    "symbol": "001540"
   },
@@ -466,11 +471,6 @@
    "isin": null,
    "name": "유니크",
    "symbol": "011320"
-  },
-  {
-   "isin": null,
-   "name": "서한",
-   "symbol": "011370"
   },
   {
    "isin": null,
@@ -3396,11 +3396,6 @@
    "isin": null,
    "name": "오킨스전자",
    "symbol": "080580"
-  },
-  {
-   "isin": null,
-   "name": "한국유니온제약",
-   "symbol": "080720"
   },
   {
    "isin": null,
@@ -6579,11 +6574,6 @@
   },
   {
    "isin": null,
-   "name": "코윈로보틱스",
-   "symbol": "282880"
-  },
-  {
-   "isin": null,
    "name": "카이노스메드",
    "symbol": "284620"
   },
@@ -7311,11 +7301,6 @@
    "isin": null,
    "name": "성원에너텍",
    "symbol": "340930"
-  },
-  {
-   "isin": null,
-   "name": "오아",
-   "symbol": "342870"
   },
   {
    "isin": null,

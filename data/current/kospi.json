@@ -11094,16 +11094,6 @@
   },
   {
    "isin": null,
-   "name": "삼성 레버리지 나스닥 100 TR ETN",
-   "symbol": "530115"
-  },
-  {
-   "isin": null,
-   "name": "삼성 인버스 2X 나스닥 100 TR ETN",
-   "symbol": "530116"
-  },
-  {
-   "isin": null,
    "name": "삼성 코스피 200 TR ETN",
    "symbol": "530117"
   },
@@ -11246,6 +11236,16 @@
    "isin": null,
    "name": "삼성 인버스 2X 코스피200 선물 ETN B",
    "symbol": "530148"
+  },
+  {
+   "isin": null,
+   "name": "삼성 레버리지 나스닥 100 TR ETN B",
+   "symbol": "530149"
+  },
+  {
+   "isin": null,
+   "name": "삼성 인버스 2X 나스닥 100 TR ETN B",
+   "symbol": "530150"
   },
   {
    "isin": null,
@@ -12456,6 +12456,11 @@
    "isin": null,
    "name": "키움 모험자본창업투자 ETN",
    "symbol": "760032"
+  },
+  {
+   "isin": null,
+   "name": "키움 통안채 6개월 ETN",
+   "symbol": "760033"
   },
   {
    "isin": null,
