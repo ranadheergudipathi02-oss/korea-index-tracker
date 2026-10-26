@@ -99,6 +99,11 @@
   },
   {
    "isin": null,
+   "name": "디티에스",
+   "symbol": "0015M0"
+  },
+  {
+   "isin": null,
    "name": "아로마티카",
    "symbol": "0015N0"
   },
@@ -471,6 +476,11 @@
    "isin": null,
    "name": "유니크",
    "symbol": "011320"
+  },
+  {
+   "isin": null,
+   "name": "서한",
+   "symbol": "011370"
   },
   {
    "isin": null,
@@ -2189,11 +2199,6 @@
   },
   {
    "isin": null,
-   "name": "수산아이앤티",
-   "symbol": "050960"
-  },
-  {
-   "isin": null,
    "name": "지어소프트",
    "symbol": "051160"
   },
@@ -3396,6 +3401,11 @@
    "isin": null,
    "name": "오킨스전자",
    "symbol": "080580"
+  },
+  {
+   "isin": null,
+   "name": "한국유니온제약",
+   "symbol": "080720"
   },
   {
    "isin": null,
@@ -6574,6 +6584,11 @@
   },
   {
    "isin": null,
+   "name": "코윈로보틱스",
+   "symbol": "282880"
+  },
+  {
+   "isin": null,
    "name": "카이노스메드",
    "symbol": "284620"
   },
@@ -7301,6 +7316,11 @@
    "isin": null,
    "name": "성원에너텍",
    "symbol": "340930"
+  },
+  {
+   "isin": null,
+   "name": "오아",
+   "symbol": "342870"
   },
   {
    "isin": null,
@@ -8454,7 +8474,7 @@
   },
   {
    "isin": null,
-   "name": "벡트",
+   "name": "벡트로보틱스",
    "symbol": "457600"
   },
   {
