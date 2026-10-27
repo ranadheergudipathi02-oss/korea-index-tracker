@@ -824,6 +824,11 @@
   },
   {
    "isin": null,
+   "name": "에스케이증권제14호기업인수목적",
+   "symbol": "0205H0"
+  },
+  {
+   "isin": null,
    "name": "시공테크",
    "symbol": "020710"
   },
@@ -2196,6 +2201,11 @@
    "isin": null,
    "name": "쏠리드",
    "symbol": "050890"
+  },
+  {
+   "isin": null,
+   "name": "수산아이앤티",
+   "symbol": "050960"
   },
   {
    "isin": null,
@@ -6051,11 +6061,6 @@
    "isin": null,
    "name": "비피도",
    "symbol": "238200"
-  },
-  {
-   "isin": null,
-   "name": "힘스",
-   "symbol": "238490"
   },
   {
    "isin": null,

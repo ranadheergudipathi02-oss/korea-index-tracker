@@ -4299,6 +4299,11 @@
   },
   {
    "isin": null,
+   "name": "KoAct 코리아TOP5플러스채권혼합50액티브",
+   "symbol": "0252P0"
+  },
+  {
+   "isin": null,
    "name": "ACE 미국CPU반도체TOP3+",
    "symbol": "0252V0"
   },
@@ -4339,6 +4344,11 @@
   },
   {
    "isin": null,
+   "name": "FOCUS 스페이스X밸류체인",
+   "symbol": "0255D0"
+  },
+  {
+   "isin": null,
    "name": "TIGER 글로벌MLCC&기판",
    "symbol": "0255E0"
   },
@@ -4371,6 +4381,11 @@
    "isin": null,
    "name": "한국주강",
    "symbol": "025890"
+  },
+  {
+   "isin": null,
+   "name": "1Q 미국AI테크플랫폼TOP10",
+   "symbol": "0258B0"
   },
   {
    "isin": null,
@@ -11069,16 +11084,6 @@
   },
   {
    "isin": null,
-   "name": "삼성 구리 선물 ETN(H)",
-   "symbol": "530095"
-  },
-  {
-   "isin": null,
-   "name": "삼성 인버스 구리 선물 ETN(H)",
-   "symbol": "530096"
-  },
-  {
-   "isin": null,
    "name": "삼성 레버리지 코스피200 선물 ETN",
    "symbol": "530104"
   },
@@ -11269,16 +11274,6 @@
   },
   {
    "isin": null,
-   "name": "N2 레버리지 구리 선물 ETN(H)",
-   "symbol": "550069"
-  },
-  {
-   "isin": null,
-   "name": "N2 인버스 레버리지 구리 선물 ETN(H)",
-   "symbol": "550070"
-  },
-  {
-   "isin": null,
    "name": "N2 KIS CD금리투자 ETN",
    "symbol": "550082"
   },
@@ -11371,21 +11366,6 @@
    "isin": null,
    "name": "한투 인버스2X플래티넘선물 ETN",
    "symbol": "570070"
-  },
-  {
-   "isin": null,
-   "name": "한투 구리선물 ETN",
-   "symbol": "570071"
-  },
-  {
-   "isin": null,
-   "name": "한투 레버리지구리선물 ETN",
-   "symbol": "570072"
-  },
-  {
-   "isin": null,
-   "name": "한투 인버스2X구리선물 ETN",
-   "symbol": "570073"
   },
   {
    "isin": null,
@@ -11601,16 +11581,6 @@
    "isin": null,
    "name": "KB Wise 분할매매 ETN",
    "symbol": "580010"
-  },
-  {
-   "isin": null,
-   "name": "KB 레버리지 구리 선물 ETN(H)",
-   "symbol": "580032"
-  },
-  {
-   "isin": null,
-   "name": "KB 인버스 2X 구리 선물 ETN(H)",
-   "symbol": "580033"
   },
   {
    "isin": null,
@@ -11896,16 +11866,6 @@
    "isin": null,
    "name": "메리츠 인버스 2X 미국채10년 ETN(H)",
    "symbol": "610025"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 레버리지 구리 선물 ETN(H)",
-   "symbol": "610028"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 인버스 2X 구리 선물 ETN(H)",
-   "symbol": "610029"
   },
   {
    "isin": null,
