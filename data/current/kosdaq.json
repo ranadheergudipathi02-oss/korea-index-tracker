@@ -1169,11 +1169,6 @@
   },
   {
    "isin": null,
-   "name": "소프트센우",
-   "symbol": "032685"
-  },
-  {
-   "isin": null,
    "name": "삼진",
    "symbol": "032750"
   },
@@ -3979,11 +3974,6 @@
   },
   {
    "isin": null,
-   "name": "에이루트",
-   "symbol": "096690"
-  },
-  {
-   "isin": null,
    "name": "엘디티",
    "symbol": "096870"
   },
@@ -6061,6 +6051,11 @@
    "isin": null,
    "name": "비피도",
    "symbol": "238200"
+  },
+  {
+   "isin": null,
+   "name": "힘스",
+   "symbol": "238490"
   },
   {
    "isin": null,
