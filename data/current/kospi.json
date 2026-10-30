@@ -1374,11 +1374,6 @@
   },
   {
    "isin": null,
-   "name": "서울식품우",
-   "symbol": "004415"
-  },
-  {
-   "isin": null,
    "name": "송원산업",
    "symbol": "004430"
   },
@@ -6809,11 +6804,6 @@
   },
   {
    "isin": null,
-   "name": "ACE MSCI필리핀(합성)",
-   "symbol": "261920"
-  },
-  {
-   "isin": null,
    "name": "크라운제과",
    "symbol": "264900"
   },
@@ -7116,11 +7106,6 @@
    "isin": null,
    "name": "케이뱅크",
    "symbol": "279570"
-  },
-  {
-   "isin": null,
-   "name": "ACE 미국IT인터넷(합성 H)",
-   "symbol": "280320"
   },
   {
    "isin": null,
@@ -9614,11 +9599,6 @@
   },
   {
    "isin": null,
-   "name": "ACE 미국빅테크TOP7 Plus인버스(합성)",
-   "symbol": "465620"
-  },
-  {
-   "isin": null,
    "name": "TIGER 일본반도체FACTSET",
    "symbol": "465660"
   },
@@ -10631,16 +10611,6 @@
    "isin": null,
    "name": "GS피앤엘",
    "symbol": "499790"
-  },
-  {
-   "isin": null,
-   "name": "신한 콩 선물 ETN(H)",
-   "symbol": "500023"
-  },
-  {
-   "isin": null,
-   "name": "신한 인버스 콩 선물 ETN(H)",
-   "symbol": "500024"
   },
   {
    "isin": null,

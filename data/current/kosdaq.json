@@ -229,13 +229,13 @@
   },
   {
    "isin": null,
-   "name": "엔에이치스팩32호",
-   "symbol": "0054V0"
+   "name": "티앤이코리아",
+   "symbol": "0053F0"
   },
   {
    "isin": null,
-   "name": "푸드웰",
-   "symbol": "005670"
+   "name": "엔에이치스팩32호",
+   "symbol": "0054V0"
   },
   {
    "isin": null,
@@ -256,11 +256,6 @@
    "isin": null,
    "name": "국영지앤엠",
    "symbol": "006050"
-  },
-  {
-   "isin": null,
-   "name": "피제이전자",
-   "symbol": "006140"
   },
   {
    "isin": null,
@@ -521,6 +516,11 @@
    "isin": null,
    "name": "신일제약",
    "symbol": "012790"
+  },
+  {
+   "isin": null,
+   "name": "한화플러스제6호스팩",
+   "symbol": "0127E0"
   },
   {
    "isin": null,
@@ -1541,11 +1541,6 @@
    "isin": null,
    "name": "제일테크노스",
    "symbol": "038010"
-  },
-  {
-   "isin": null,
-   "name": "루멘스바이오스",
-   "symbol": "038060"
   },
   {
    "isin": null,
@@ -2864,11 +2859,6 @@
   },
   {
    "isin": null,
-   "name": "하이퍼코퍼레이션",
-   "symbol": "065650"
-  },
-  {
-   "isin": null,
    "name": "안트로젠",
    "symbol": "065660"
   },
@@ -3971,6 +3961,11 @@
    "isin": null,
    "name": "에스코넥",
    "symbol": "096630"
+  },
+  {
+   "isin": null,
+   "name": "에이루트",
+   "symbol": "096690"
   },
   {
    "isin": null,
@@ -6829,11 +6824,6 @@
   },
   {
    "isin": null,
-   "name": "라온피플",
-   "symbol": "300120"
-  },
-  {
-   "isin": null,
    "name": "바이브컴퍼니",
    "symbol": "301300"
   },
@@ -8179,6 +8169,11 @@
   },
   {
    "isin": null,
+   "name": "인텔리빅스",
+   "symbol": "420610"
+  },
+  {
+   "isin": null,
    "name": "기가비스",
    "symbol": "420770"
   },
@@ -8271,6 +8266,11 @@
    "isin": null,
    "name": "마녀공장",
    "symbol": "439090"
+  },
+  {
+   "isin": null,
+   "name": "크리에이츠",
+   "symbol": "439270"
   },
   {
    "isin": null,
@@ -8796,11 +8796,6 @@
    "isin": null,
    "name": "DB금융스팩12호",
    "symbol": "477760"
-  },
-  {
-   "isin": null,
-   "name": "마키나락스",
-   "symbol": "477850"
   },
   {
    "isin": null,
