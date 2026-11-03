@@ -624,6 +624,11 @@
   },
   {
    "isin": null,
+   "name": "래블업",
+   "symbol": "0147B0"
+  },
+  {
+   "isin": null,
    "name": "오리엔탈정공",
    "symbol": "014940"
   },
@@ -1111,6 +1116,11 @@
    "isin": null,
    "name": "아이즈비전",
    "symbol": "031310"
+  },
+  {
+   "isin": null,
+   "name": "에스에이엠티",
+   "symbol": "031330"
   },
   {
    "isin": null,
@@ -2356,6 +2366,11 @@
    "isin": null,
    "name": "구영테크",
    "symbol": "053270"
+  },
+  {
+   "isin": null,
+   "name": "예스24",
+   "symbol": "053280"
   },
   {
    "isin": null,
@@ -5054,11 +5069,6 @@
   },
   {
    "isin": null,
-   "name": "핑거",
-   "symbol": "163730"
-  },
-  {
-   "isin": null,
    "name": "하나머티리얼즈",
    "symbol": "166090"
   },
@@ -6884,7 +6894,7 @@
   },
   {
    "isin": null,
-   "name": "피플바이오",
+   "name": "타임X AI",
    "symbol": "304840"
   },
   {
@@ -7419,6 +7429,11 @@
   },
   {
    "isin": null,
+   "name": "스톰테크",
+   "symbol": "352090"
+  },
+  {
+   "isin": null,
    "name": "씨앤씨인터내셔널",
    "symbol": "352480"
   },
@@ -7541,6 +7556,11 @@
    "isin": null,
    "name": "탑머티리얼",
    "symbol": "360070"
+  },
+  {
+   "isin": null,
+   "name": "코셈",
+   "symbol": "360350"
   },
   {
    "isin": null,
@@ -8316,6 +8336,11 @@
    "isin": null,
    "name": "레뷰코퍼레이션",
    "symbol": "443250"
+  },
+  {
+   "isin": null,
+   "name": "에스피소프트",
+   "symbol": "443670"
   },
   {
    "isin": null,
