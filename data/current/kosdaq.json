@@ -894,6 +894,11 @@
   },
   {
    "isin": null,
+   "name": "아이엠스팩1호",
+   "symbol": "0222E0"
+  },
+  {
+   "isin": null,
    "name": "태광",
    "symbol": "023160"
   },
@@ -5069,6 +5074,11 @@
   },
   {
    "isin": null,
+   "name": "핑거",
+   "symbol": "163730"
+  },
+  {
+   "isin": null,
    "name": "하나머티리얼즈",
    "symbol": "166090"
   },
@@ -9031,6 +9041,11 @@
    "isin": null,
    "name": "큐리오시스",
    "symbol": "494120"
+  },
+  {
+   "isin": null,
+   "name": "이에스티",
+   "symbol": "495910"
   },
   {
    "isin": null,
