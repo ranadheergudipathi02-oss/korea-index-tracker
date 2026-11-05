@@ -6,10 +6,10 @@
   "initial": 0,
   "unchanged": 2
  },
- "detect_date": "2026-11-04",
- "duration_sec": 3338.5,
- "finished_kst": "2026-11-04T17:35:39.223614+09:00",
- "last_run_kst": "2026-11-04T16:40:00.764979+09:00",
+ "detect_date": "2026-11-05",
+ "duration_sec": 3316.9,
+ "finished_kst": "2026-11-05T17:35:18.268480+09:00",
+ "last_run_kst": "2026-11-05T16:40:01.331398+09:00",
  "results": {
   "group-100": {
    "reason": "RuntimeError('GET failed after 4 attempts (HTTP 400): https://stock.naver.com/api/domestic/market/group/100/stocklist?startIdx=0&pageSize=100&sortType=quantTop')",
@@ -256,17 +256,17 @@
    "status": "error"
   },
   "kosdaq": {
-   "added": 3,
-   "count": 1831,
-   "prev_count": 1828,
-   "removed": 0,
+   "added": 0,
+   "count": 1826,
+   "prev_count": 1831,
+   "removed": 5,
    "status": "changed"
   },
   "kospi": {
-   "added": 0,
-   "count": 2478,
-   "prev_count": 2483,
-   "removed": 5,
+   "added": 3,
+   "count": 2481,
+   "prev_count": 2478,
+   "removed": 0,
    "status": "changed"
   },
   "kospi-100": {

@@ -4,11 +4,6 @@
  "members": [
   {
    "isin": null,
-   "name": "덕양에너젠",
-   "symbol": "0001A0"
-  },
-  {
-   "isin": null,
    "name": "삼천당제약",
    "symbol": "000250"
   },
@@ -4284,11 +4279,6 @@
   },
   {
    "isin": null,
-   "name": "새빗켐",
-   "symbol": "107600"
-  },
-  {
-   "isin": null,
    "name": "한중엔시에스",
    "symbol": "107640"
   },
@@ -5931,11 +5921,6 @@
    "isin": null,
    "name": "오스테오닉",
    "symbol": "226400"
-  },
-  {
-   "isin": null,
-   "name": "엠디바이스",
-   "symbol": "226590"
   },
   {
    "isin": null,
@@ -7654,11 +7639,6 @@
   },
   {
    "isin": null,
-   "name": "아이씨에이치",
-   "symbol": "368600"
-  },
-  {
-   "isin": null,
    "name": "파이버프로",
    "symbol": "368770"
   },
@@ -7796,11 +7776,6 @@
    "isin": null,
    "name": "옵티코어",
    "symbol": "380540"
-  },
-  {
-   "isin": null,
-   "name": "뉴로핏",
-   "symbol": "380550"
   },
   {
    "isin": null,
