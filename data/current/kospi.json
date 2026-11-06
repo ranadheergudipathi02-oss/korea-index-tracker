@@ -6299,11 +6299,6 @@
   },
   {
    "isin": null,
-   "name": "KODEX 단기채권PLUS",
-   "symbol": "214980"
-  },
-  {
-   "isin": null,
    "name": "HK S&P코리아로우볼",
    "symbol": "215620"
   },
@@ -11239,6 +11234,36 @@
   },
   {
    "isin": null,
+   "name": "삼성 금 선물 ETN",
+   "symbol": "530151"
+  },
+  {
+   "isin": null,
+   "name": "삼성 인버스 금 선물 ETN",
+   "symbol": "530152"
+  },
+  {
+   "isin": null,
+   "name": "삼성 은 선물 ETN",
+   "symbol": "530153"
+  },
+  {
+   "isin": null,
+   "name": "삼성 인버스 은 선물 ETN",
+   "symbol": "530154"
+  },
+  {
+   "isin": null,
+   "name": "삼성 구리 선물 ETN",
+   "symbol": "530155"
+  },
+  {
+   "isin": null,
+   "name": "삼성 인버스 구리 선물 ETN",
+   "symbol": "530156"
+  },
+  {
+   "isin": null,
    "name": "N2 미국 IT TOP5 ETN(H)",
    "symbol": "550041"
   },
@@ -12124,17 +12149,17 @@
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 금 선물 ETN(H)",
+   "name": "메리츠 금 선물 ETN(H)",
    "symbol": "610102"
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 레버리지 금 선물 ETN(H)",
+   "name": "메리츠 레버리지 금 선물 ETN(H)",
    "symbol": "610103"
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 인버스 2X 금 선물 ETN(H)",
+   "name": "메리츠 인버스 2X 금 선물 ETN(H)",
    "symbol": "610104"
   },
   {
@@ -12159,17 +12184,17 @@
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 구리 선물 ETN(H)",
+   "name": "메리츠 구리 선물 ETN(H)",
    "symbol": "610113"
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 2X 구리 선물 ETN(H)",
+   "name": "메리츠 레버리지 구리 선물 ETN(H)",
    "symbol": "610114"
   },
   {
    "isin": null,
-   "name": "메리츠 솔랙티브 -2X 구리 선물 ETN(H)",
+   "name": "메리츠 인버스 2X 구리 선물 ETN(H)",
    "symbol": "610115"
   },
   {
