@@ -4209,6 +4209,11 @@
   },
   {
    "isin": null,
+   "name": "우양",
+   "symbol": "103840"
+  },
+  {
+   "isin": null,
    "name": "디에스엠",
    "symbol": "104040"
   },
@@ -4944,7 +4949,7 @@
   },
   {
    "isin": null,
-   "name": "알엔투테크놀로지",
+   "name": "스퀘어텍",
    "symbol": "148250"
   },
   {
@@ -8826,11 +8831,6 @@
    "isin": null,
    "name": "DB금융스팩12호",
    "symbol": "477760"
-  },
-  {
-   "isin": null,
-   "name": "마키나락스",
-   "symbol": "477850"
   },
   {
    "isin": null,
