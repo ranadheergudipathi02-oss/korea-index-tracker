@@ -2109,11 +2109,6 @@
   },
   {
    "isin": null,
-   "name": "사조동아원",
-   "symbol": "008040"
-  },
-  {
-   "isin": null,
    "name": "대덕",
    "symbol": "008060"
   },
@@ -5086,11 +5081,6 @@
    "isin": null,
    "name": "동양고속",
    "symbol": "084670"
-  },
-  {
-   "isin": null,
-   "name": "이월드",
-   "symbol": "084680"
   },
   {
    "isin": null,
@@ -11019,6 +11009,21 @@
   },
   {
    "isin": null,
+   "name": "미래에셋 옥수수 선물 ETN",
+   "symbol": "520110"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋 레버리지 옥수수 선물 ETN B",
+   "symbol": "520111"
+  },
+  {
+   "isin": null,
+   "name": "미래에셋 인버스 2X 옥수수 선물 ETN B",
+   "symbol": "520112"
+  },
+  {
+   "isin": null,
    "name": "삼성 레버리지 WTI원유 선물 ETN",
    "symbol": "530031"
   },
@@ -11241,6 +11246,16 @@
    "isin": null,
    "name": "삼성 레버리지 천연가스 선물 ETN D",
    "symbol": "530145"
+  },
+  {
+   "isin": null,
+   "name": "삼성 중국 희토류 기업 TOP5 TR ETN(H)",
+   "symbol": "530146"
+  },
+  {
+   "isin": null,
+   "name": "삼성 중국 게임 TOP3 TR ETN(H)",
+   "symbol": "530147"
   },
   {
    "isin": null,

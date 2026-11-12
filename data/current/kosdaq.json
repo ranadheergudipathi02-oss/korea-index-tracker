@@ -8574,6 +8574,11 @@
   },
   {
    "isin": null,
+   "name": "피앤에스로보틱스",
+   "symbol": "460940"
+  },
+  {
+   "isin": null,
    "name": "아이엠비디엑스",
    "symbol": "461030"
   },
@@ -8909,11 +8914,6 @@
   },
   {
    "isin": null,
-   "name": "딜리셔스",
-   "symbol": "483350"
-  },
-  {
-   "isin": null,
    "name": "도우인시스",
    "symbol": "484120"
   },
@@ -9036,6 +9036,11 @@
    "isin": null,
    "name": "지에프아이",
    "symbol": "493330"
+  },
+  {
+   "isin": null,
+   "name": "넥스아이",
+   "symbol": "493410"
   },
   {
    "isin": null,
