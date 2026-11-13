@@ -2109,6 +2109,11 @@
   },
   {
    "isin": null,
+   "name": "사조동아원",
+   "symbol": "008040"
+  },
+  {
+   "isin": null,
    "name": "대덕",
    "symbol": "008060"
   },
@@ -5084,6 +5089,11 @@
   },
   {
    "isin": null,
+   "name": "이월드",
+   "symbol": "084680"
+  },
+  {
+   "isin": null,
    "name": "대상홀딩스",
    "symbol": "084690"
   },
@@ -6584,11 +6594,6 @@
   },
   {
    "isin": null,
-   "name": "KODEX 퀄리티Plus",
-   "symbol": "244660"
-  },
-  {
-   "isin": null,
    "name": "KODEX 밸류Plus",
    "symbol": "244670"
   },
@@ -7581,11 +7586,6 @@
    "isin": null,
    "name": "TIGER 골드선물(H)",
    "symbol": "319640"
-  },
-  {
-   "isin": null,
-   "name": "KODEX 멀티에셋하이인컴(H)",
-   "symbol": "321410"
   },
   {
    "isin": null,
