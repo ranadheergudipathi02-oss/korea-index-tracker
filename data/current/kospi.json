@@ -4419,6 +4419,16 @@
   },
   {
    "isin": null,
+   "name": "RISE 27-11 회사채(AA-이상)액티브",
+   "symbol": "0269M0"
+  },
+  {
+   "isin": null,
+   "name": "RISE 미국초대형주TOP10",
+   "symbol": "0269N0"
+  },
+  {
+   "isin": null,
    "name": "BGF",
    "symbol": "027410"
   },
@@ -12226,6 +12236,21 @@
    "isin": null,
    "name": "메리츠 인버스 2X 구리 선물 ETN(H)",
    "symbol": "610115"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 대표농산물 선물 ETN(H) B",
+   "symbol": "610116"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 레버리지 대표농산물 선물 ETN(H) B",
+   "symbol": "610117"
+  },
+  {
+   "isin": null,
+   "name": "메리츠 인버스2X 대표농산물 선물 ETN(H) B",
+   "symbol": "610118"
   },
   {
    "isin": null,

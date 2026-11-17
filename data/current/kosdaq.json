@@ -3944,11 +3944,6 @@
   },
   {
    "isin": null,
-   "name": "웨이브일렉트로",
-   "symbol": "095270"
-  },
-  {
-   "isin": null,
    "name": "ISC",
    "symbol": "095340"
   },
@@ -4011,11 +4006,6 @@
    "isin": null,
    "name": "엘디티",
    "symbol": "096870"
-  },
-  {
-   "isin": null,
-   "name": "에코볼트",
-   "symbol": "097780"
   },
   {
    "isin": null,
@@ -4636,6 +4626,11 @@
    "isin": null,
    "name": "비나텍",
    "symbol": "126340"
+  },
+  {
+   "isin": null,
+   "name": "BGF에코머티리얼즈",
+   "symbol": "126600"
   },
   {
    "isin": null,
@@ -5559,7 +5554,7 @@
   },
   {
    "isin": null,
-   "name": "베노티앤알",
+   "name": "아인스팩씨엔에스",
    "symbol": "206400"
   },
   {
@@ -7254,6 +7249,11 @@
   },
   {
    "isin": null,
+   "name": "이노테나",
+   "symbol": "333050"
+  },
+  {
+   "isin": null,
    "name": "일승",
    "symbol": "333430"
   },
@@ -7686,6 +7686,11 @@
    "isin": null,
    "name": "풍원정밀",
    "symbol": "371950"
+  },
+  {
+   "isin": null,
+   "name": "윤성에프앤씨",
+   "symbol": "372170"
   },
   {
    "isin": null,
@@ -9021,6 +9026,11 @@
    "isin": null,
    "name": "KB제31호스팩",
    "symbol": "492220"
+  },
+  {
+   "isin": null,
+   "name": "옵토닉스",
+   "symbol": "493260"
   },
   {
    "isin": null,
