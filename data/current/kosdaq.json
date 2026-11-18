@@ -1499,11 +1499,6 @@
   },
   {
    "isin": null,
-   "name": "솔브레인홀딩스",
-   "symbol": "036830"
-  },
-  {
-   "isin": null,
    "name": "진성티이씨",
    "symbol": "036890"
   },
@@ -3944,6 +3939,11 @@
   },
   {
    "isin": null,
+   "name": "웨이브일렉트로",
+   "symbol": "095270"
+  },
+  {
+   "isin": null,
    "name": "ISC",
    "symbol": "095340"
   },
@@ -4001,11 +4001,6 @@
    "isin": null,
    "name": "에이루트",
    "symbol": "096690"
-  },
-  {
-   "isin": null,
-   "name": "엘디티",
-   "symbol": "096870"
   },
   {
    "isin": null,
@@ -5469,7 +5464,7 @@
   },
   {
    "isin": null,
-   "name": "아티스트스튜디오",
+   "name": "스튜디오쏠쏠",
    "symbol": "200350"
   },
   {
@@ -8694,6 +8689,11 @@
   },
   {
    "isin": null,
+   "name": "에이엘로봇",
+   "symbol": "471800"
+  },
+  {
+   "isin": null,
    "name": "셀로맥스사이언스",
    "symbol": "471820"
   },
@@ -8736,11 +8736,6 @@
    "isin": null,
    "name": "링크솔루션",
    "symbol": "474650"
-  },
-  {
-   "isin": null,
-   "name": "신한제12호스팩",
-   "symbol": "474660"
   },
   {
    "isin": null,
