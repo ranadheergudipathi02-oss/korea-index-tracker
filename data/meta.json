@@ -6,16 +6,16 @@
   "initial": 0,
   "unchanged": 3
  },
- "detect_date": "2026-11-18",
- "duration_sec": 54.1,
- "finished_kst": "2026-11-18T16:40:54.646870+09:00",
- "last_run_kst": "2026-11-18T16:40:00.540421+09:00",
+ "detect_date": "2026-11-19",
+ "duration_sec": 53.4,
+ "finished_kst": "2026-11-19T16:40:54.084519+09:00",
+ "last_run_kst": "2026-11-19T16:40:00.669590+09:00",
  "results": {
   "kosdaq": {
    "added": 2,
-   "count": 1833,
-   "prev_count": 1834,
-   "removed": 3,
+   "count": 1835,
+   "prev_count": 1833,
+   "removed": 0,
    "status": "changed"
   },
   "kospi": {
