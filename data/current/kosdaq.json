@@ -3124,6 +3124,11 @@
   },
   {
    "isin": null,
+   "name": "누리플랜",
+   "symbol": "069140"
+  },
+  {
+   "isin": null,
    "name": "유아이디",
    "symbol": "069330"
   },
@@ -3686,6 +3691,11 @@
    "isin": null,
    "name": "에이스테크",
    "symbol": "088800"
+  },
+  {
+   "isin": null,
+   "name": "동우팜투테이블",
+   "symbol": "088910"
   },
   {
    "isin": null,
