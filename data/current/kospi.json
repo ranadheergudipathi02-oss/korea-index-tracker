@@ -10789,16 +10789,6 @@
   },
   {
    "isin": null,
-   "name": "미래에셋 레버리지 옥수수 선물 ETN",
-   "symbol": "520046"
-  },
-  {
-   "isin": null,
-   "name": "미래에셋 인버스 2X 옥수수 선물 ETN",
-   "symbol": "520047"
-  },
-  {
-   "isin": null,
    "name": "미래에셋 레버리지 코스피200 선물 ETN",
    "symbol": "520054"
   },
@@ -11909,21 +11899,6 @@
   },
   {
    "isin": null,
-   "name": "메리츠 대표 농산물 선물 ETN(H)",
-   "symbol": "610034"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 레버리지 대표 농산물 선물 ETN(H)",
-   "symbol": "610035"
-  },
-  {
-   "isin": null,
-   "name": "메리츠 인버스 2X 대표 농산물 선물 ETN(H)",
-   "symbol": "610036"
-  },
-  {
-   "isin": null,
    "name": "메리츠 미국채30년 ETN(H)",
    "symbol": "610037"
   },
@@ -12251,26 +12226,6 @@
    "isin": null,
    "name": "메리츠 인버스2X 대표농산물 선물 ETN(H) B",
    "symbol": "610118"
-  },
-  {
-   "isin": null,
-   "name": "하나 레버리지 옥수수 선물 ETN(H)",
-   "symbol": "700011"
-  },
-  {
-   "isin": null,
-   "name": "하나 인버스 2X 옥수수 선물 ETN(H)",
-   "symbol": "700012"
-  },
-  {
-   "isin": null,
-   "name": "하나 레버리지 콩 선물 ETN(H)",
-   "symbol": "700013"
-  },
-  {
-   "isin": null,
-   "name": "하나 인버스 2X 콩 선물 ETN(H)",
-   "symbol": "700014"
   },
   {
    "isin": null,
