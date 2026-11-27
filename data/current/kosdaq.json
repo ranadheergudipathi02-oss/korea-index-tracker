@@ -6979,7 +6979,7 @@
   },
   {
    "isin": null,
-   "name": "조이웍스앤코",
+   "name": "온길 넥스트",
    "symbol": "309930"
   },
   {
@@ -7919,6 +7919,11 @@
   },
   {
    "isin": null,
+   "name": "포바이포",
+   "symbol": "389140"
+  },
+  {
+   "isin": null,
    "name": "대명에너지",
    "symbol": "389260"
   },
@@ -8746,11 +8751,6 @@
    "isin": null,
    "name": "링크솔루션",
    "symbol": "474650"
-  },
-  {
-   "isin": null,
-   "name": "신한제13호스팩",
-   "symbol": "474930"
   },
   {
    "isin": null,
